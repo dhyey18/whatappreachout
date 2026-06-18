@@ -4,14 +4,13 @@ import { useQuery, useQueryClient } from '@tanstack/react-query'
 import toast from 'react-hot-toast'
 import {
   Smartphone, WifiOff, MessageCircle, Send, RefreshCw,
-  CheckCircle2, LogOut, Phone, Wifi,
+  CheckCircle2, LogOut, Phone, Wifi, AlertTriangle,
 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Textarea } from '@/components/ui/textarea'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
 import { api } from '@/lib/api'
 
@@ -22,6 +21,13 @@ interface Contact {
 }
 
 type WAStatus = 'disconnected' | 'connecting' | 'connected'
+
+interface StatusPayload {
+  status: WAStatus
+  phone: string | null
+  hasQR: boolean
+  isAutoReconnecting: boolean
+}
 
 function getToken(): string | null {
   if (typeof window === 'undefined') return null
@@ -43,7 +49,9 @@ export default function WhatsAppPage() {
   const [sending, setSending] = useState(false)
   const [connectedPhone, setConnectedPhone] = useState<string | null>(null)
   const [disconnecting, setDisconnecting] = useState(false)
+  const [isAutoReconnecting, setIsAutoReconnecting] = useState(false)
   const esRef = useRef<EventSource | null>(null)
+  const prevStatusRef = useRef<WAStatus>('disconnected')
 
   const { data: contactsData } = useQuery<{ contacts: Contact[] }>({
     queryKey: ['contacts-wa'],
@@ -57,13 +65,25 @@ export default function WhatsAppPage() {
     }
   }, [])
 
+  const applyStatus = useCallback((payload: StatusPayload) => {
+    const prev = prevStatusRef.current
+    setStatus(payload.status)
+    setConnectedPhone(payload.phone)
+    setIsAutoReconnecting(payload.isAutoReconnecting)
+    prevStatusRef.current = payload.status
+
+    if (prev !== 'connected' && payload.status === 'connected') {
+      toast.success('WhatsApp connected!')
+    }
+    if (prev === 'connected' && payload.status !== 'connected') {
+      toast('WhatsApp disconnected — reconnecting…', { icon: '⚠️' })
+    }
+  }, [])
+
   const startSSE = useCallback(() => {
     stopSSE()
     const token = getToken()
     if (!token) return
-
-    setStatus('connecting')
-    setQRDataURL(null)
 
     const es = new EventSource(`/api/whatsapp/qr?t=${Date.now()}&token=${encodeURIComponent(token)}`)
     esRef.current = es
@@ -75,21 +95,20 @@ export default function WhatsAppPage() {
         if (data.type === 'qr') {
           setQRDataURL(data.qrDataURL)
           setStatus('connecting')
+          setIsAutoReconnecting(false)
+          prevStatusRef.current = 'connecting'
         }
 
         if (data.type === 'connected') {
           setQRDataURL(null)
-          setStatus('connected')
-          setConnectedPhone(data.phone)
-          toast.success('WhatsApp connected!')
+          applyStatus({ status: 'connected', phone: data.phone, hasQR: false, isAutoReconnecting: false })
           stopSSE()
         }
 
         if (data.type === 'status') {
           if (data.status === 'connected') {
-            setStatus('connected')
-          } else if (data.status === 'disconnected') {
-            setStatus('disconnected')
+            applyStatus({ status: 'connected', phone: data.phone || connectedPhone, hasQR: false, isAutoReconnecting: false })
+            stopSSE()
           }
         }
 
@@ -97,35 +116,55 @@ export default function WhatsAppPage() {
           setStatus('disconnected')
           setQRDataURL(null)
           setConnectedPhone(null)
+          setIsAutoReconnecting(false)
+          prevStatusRef.current = 'disconnected'
           stopSSE()
         }
       } catch {}
     }
 
     es.onerror = () => {
+      // EventSource auto-retries — only clear our ref if it fully closed
       if (es.readyState === EventSource.CLOSED) {
         esRef.current = null
       }
     }
-  }, [stopSSE])
+  }, [stopSSE, applyStatus, connectedPhone])
 
-  // Check initial status on mount; resume SSE if the backend is still connecting
+  // Periodic status poll — keeps UI in sync even without SSE
   useEffect(() => {
-    api.get<{ status: WAStatus; phone: string | null }>('/whatsapp/status')
-      .then((res) => {
-        setStatus(res.status)
-        setConnectedPhone(res.phone)
-        if (res.status === 'connecting') {
+    const poll = async () => {
+      try {
+        const res = await api.get<StatusPayload>('/whatsapp/status')
+        applyStatus(res)
+
+        // If backend is connecting and we're not watching via SSE, open it
+        if (res.status === 'connecting' && !esRef.current) {
           startSSE()
         }
-      })
-      .catch(() => {})
-  }, [startSSE])
+        // If backend became connected and SSE is still open, close it
+        if (res.status === 'connected' && esRef.current) {
+          stopSSE()
+        }
+      } catch {}
+    }
 
-  // Cleanup on unmount
+    poll() // immediate check on mount
+    const id = setInterval(poll, 4_000)
+    return () => clearInterval(id)
+  }, [applyStatus, startSSE, stopSSE])
+
+  // Cleanup SSE on unmount
   useEffect(() => () => stopSSE(), [stopSSE])
 
-  const handleConnect = () => startSSE()
+  const handleConnect = async () => {
+    // Tell backend to start connecting
+    try { await api.post('/whatsapp/reconnect', {}) } catch {}
+    setStatus('connecting')
+    setQRDataURL(null)
+    prevStatusRef.current = 'connecting'
+    startSSE()
+  }
 
   const handleDisconnect = async () => {
     setDisconnecting(true)
@@ -134,6 +173,8 @@ export default function WhatsAppPage() {
       setStatus('disconnected')
       setConnectedPhone(null)
       setQRDataURL(null)
+      setIsAutoReconnecting(false)
+      prevStatusRef.current = 'disconnected'
       stopSSE()
       toast.success('Disconnected from WhatsApp')
     } catch (e: unknown) {
@@ -158,7 +199,7 @@ export default function WhatsAppPage() {
     }
   }
 
-  const StatusIndicator = () => {
+  const StatusDot = () => {
     if (status === 'connected') return (
       <div className="flex items-center gap-2">
         <div className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse" />
@@ -167,8 +208,10 @@ export default function WhatsAppPage() {
     )
     if (status === 'connecting') return (
       <div className="flex items-center gap-2">
-        <div className="w-2.5 h-2.5 rounded-full bg-yellow-400 animate-pulse" />
-        <span className="text-sm font-medium text-yellow-600 dark:text-yellow-400">Connecting...</span>
+        <RefreshCw className="w-3.5 h-3.5 text-yellow-500 animate-spin" />
+        <span className="text-sm font-medium text-yellow-600 dark:text-yellow-400">
+          {isAutoReconnecting ? 'Auto-reconnecting…' : 'Connecting…'}
+        </span>
       </div>
     )
     return (
@@ -193,17 +236,18 @@ export default function WhatsAppPage() {
               <CardTitle className="flex items-center gap-2">
                 <Smartphone className="w-5 h-5" /> WhatsApp
               </CardTitle>
-              <StatusIndicator />
+              <StatusDot />
             </div>
             <CardDescription>
               {status === 'connected'
                 ? 'Your WhatsApp account is linked and ready'
+                : isAutoReconnecting
+                ? 'Restoring previous session — no scan needed'
                 : 'Scan the QR code with your phone to connect'}
             </CardDescription>
           </CardHeader>
 
-          <CardContent className="flex flex-col items-center">
-            {/* QR Code area */}
+          <CardContent className="flex flex-col items-center gap-4">
             {status === 'connected' ? (
               <div className="w-full space-y-4">
                 <div className="flex items-center gap-3 p-4 bg-emerald-50 dark:bg-emerald-900/20 rounded-xl border border-emerald-200 dark:border-emerald-800">
@@ -228,17 +272,12 @@ export default function WhatsAppPage() {
                     : <><LogOut className="w-4 h-4" /> Disconnect WhatsApp</>}
                 </Button>
               </div>
+
             ) : status === 'connecting' && qrDataURL ? (
-              <div className="flex flex-col items-center gap-4 w-full">
+              <>
                 <div className="p-3 bg-white rounded-2xl shadow-md border border-gray-100">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={qrDataURL}
-                    alt="WhatsApp QR Code"
-                    width={240}
-                    height={240}
-                    className="rounded-lg"
-                  />
+                  <img src={qrDataURL} alt="WhatsApp QR Code" width={240} height={240} className="rounded-lg" />
                 </div>
                 <div className="text-center space-y-1">
                   <p className="text-sm font-medium text-gray-700 dark:text-gray-300">Scan with WhatsApp</p>
@@ -248,17 +287,36 @@ export default function WhatsAppPage() {
                 </div>
                 <div className="flex items-center gap-2 text-xs text-yellow-600 dark:text-yellow-400">
                   <RefreshCw className="w-3 h-3 animate-spin" />
-                  <span>Waiting for scan... QR expires in 60s</span>
+                  <span>Waiting for scan… QR refreshes every 60s</span>
                 </div>
-                <Button variant="outline" size="sm" onClick={startSSE}>
+                <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
                   <RefreshCw className="w-3.5 h-3.5" /> Refresh QR
                 </Button>
-              </div>
+              </>
+
             ) : status === 'connecting' && !qrDataURL ? (
-              <div className="flex flex-col items-center gap-4 py-6">
-                <Skeleton className="w-[240px] h-[240px] rounded-2xl" />
-                <p className="text-sm text-gray-500 animate-pulse">Generating QR code...</p>
+              <div className="flex flex-col items-center gap-4 py-6 w-full">
+                {isAutoReconnecting ? (
+                  <>
+                    <div className="w-16 h-16 rounded-full bg-yellow-50 dark:bg-yellow-900/20 flex items-center justify-center">
+                      <RefreshCw className="w-8 h-8 text-yellow-500 animate-spin" />
+                    </div>
+                    <div className="text-center">
+                      <p className="text-sm font-medium text-gray-700 dark:text-gray-300">Restoring session…</p>
+                      <p className="text-xs text-gray-500 mt-1">Found saved credentials — reconnecting without QR</p>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    <Skeleton className="w-[240px] h-[240px] rounded-2xl" />
+                    <p className="text-sm text-gray-500 animate-pulse">Generating QR code…</p>
+                  </>
+                )}
+                <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
+                  <RefreshCw className="w-3.5 h-3.5" /> Force New QR
+                </Button>
               </div>
+
             ) : (
               <div className="flex flex-col items-center gap-5 py-4 w-full">
                 <div className="w-24 h-24 rounded-full bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
@@ -282,19 +340,16 @@ export default function WhatsAppPage() {
             <CardTitle className="flex items-center gap-2">
               <MessageCircle className="w-5 h-5" /> Send Message
             </CardTitle>
-            <CardDescription>Send a direct WhatsApp message to any contact</CardDescription>
+            <CardDescription>Send a direct WhatsApp message to any number</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="space-y-1.5">
               <Label>Recipient</Label>
-              <div className="flex gap-2">
-                <Input
-                  placeholder="+91 9876543210"
-                  value={phone}
-                  onChange={(e) => setPhone(e.target.value)}
-                  className="flex-1"
-                />
-              </div>
+              <Input
+                placeholder="+91 9876543210"
+                value={phone}
+                onChange={(e) => setPhone(e.target.value)}
+              />
               {contactsData?.contacts?.length ? (
                 <div>
                   <Label className="text-xs text-gray-400">Or pick a contact</Label>
@@ -303,7 +358,7 @@ export default function WhatsAppPage() {
                     onChange={(e) => { if (e.target.value) setPhone(e.target.value) }}
                     defaultValue=""
                   >
-                    <option value="" disabled>Select a contact...</option>
+                    <option value="" disabled>Select a contact…</option>
                     {contactsData.contacts.map((c) => (
                       <option key={c._id} value={c.phone}>{c.name} — {c.phone}</option>
                     ))}
@@ -315,7 +370,7 @@ export default function WhatsAppPage() {
             <div className="space-y-1.5">
               <Label>Message</Label>
               <Textarea
-                placeholder="Type your WhatsApp message..."
+                placeholder="Type your WhatsApp message…"
                 className="min-h-[120px] resize-none"
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
@@ -329,16 +384,22 @@ export default function WhatsAppPage() {
               disabled={status !== 'connected' || sending || !phone || !message}
             >
               {sending
-                ? <><RefreshCw className="w-4 h-4 animate-spin" /> Sending...</>
+                ? <><RefreshCw className="w-4 h-4 animate-spin" /> Sending…</>
                 : <><Send className="w-4 h-4" /> Send WhatsApp Message</>}
             </Button>
 
             {status !== 'connected' && (
-              <div className="flex items-center gap-2 p-3 bg-yellow-50 dark:bg-yellow-900/20 rounded-lg border border-yellow-200 dark:border-yellow-800">
-                <WifiOff className="w-4 h-4 text-yellow-600 flex-shrink-0" />
-                <p className="text-xs text-yellow-700 dark:text-yellow-400">
-                  Connect WhatsApp on the left to enable sending
-                </p>
+              <div className={`flex items-center gap-2 p-3 rounded-lg border text-xs ${
+                status === 'connecting'
+                  ? 'bg-yellow-50 dark:bg-yellow-900/20 border-yellow-200 dark:border-yellow-800 text-yellow-700 dark:text-yellow-400'
+                  : 'bg-gray-50 dark:bg-gray-800 border-gray-200 dark:border-gray-700 text-gray-500'
+              }`}>
+                <AlertTriangle className="w-4 h-4 flex-shrink-0" />
+                {status === 'connecting'
+                  ? isAutoReconnecting
+                    ? 'Restoring session — sending will work once reconnected'
+                    : 'Waiting for QR scan…'
+                  : 'Connect WhatsApp on the left to enable sending'}
               </div>
             )}
           </CardContent>
@@ -354,10 +415,10 @@ export default function WhatsAppPage() {
           <CardContent>
             <div className="grid grid-cols-1 sm:grid-cols-4 gap-4">
               {[
-                { step: '1', title: 'Click Connect', desc: 'Press the Connect WhatsApp button to generate your QR code' },
+                { step: '1', title: 'Click Connect', desc: 'Press "Connect WhatsApp" to generate your QR code' },
                 { step: '2', title: 'Open WhatsApp', desc: 'On your phone, tap ⋮ (menu) → Linked Devices' },
-                { step: '3', title: 'Link Device', desc: 'Tap "Link a Device" and point camera at the QR code' },
-                { step: '4', title: 'Ready!', desc: 'Your account links and you can start sending messages' },
+                { step: '3', title: 'Link Device', desc: 'Tap "Link a Device" and point your camera at the QR' },
+                { step: '4', title: 'Ready!', desc: 'Once linked, the session is saved — auto-reconnects on restart' },
               ].map((s) => (
                 <div key={s.step} className="flex items-start gap-3">
                   <div className="w-8 h-8 rounded-full bg-emerald-600 text-white text-sm font-bold flex items-center justify-center flex-shrink-0">
@@ -374,7 +435,7 @@ export default function WhatsAppPage() {
         </Card>
       )}
 
-      {/* Stats when connected */}
+      {/* Session info when connected */}
       {status === 'connected' && (
         <Card>
           <CardHeader>
@@ -383,7 +444,7 @@ export default function WhatsAppPage() {
           <CardContent>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               {[
-                { label: 'Status', value: <Badge variant="default">Live</Badge> },
+                { label: 'Status', value: <span className="inline-flex items-center gap-1 text-emerald-600 font-medium text-sm"><span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse inline-block" /> Live</span> },
                 { label: 'Phone', value: connectedPhone ? `+${connectedPhone}` : '—' },
                 { label: 'Protocol', value: 'Baileys WS' },
                 { label: 'Encryption', value: 'End-to-End' },

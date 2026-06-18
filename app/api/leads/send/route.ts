@@ -14,8 +14,14 @@ export async function POST(req: NextRequest) {
     if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
     const manager = getWAManager()
-    if (manager.status !== 'connected') {
+    if (manager.status === 'disconnected') {
       return Response.json({ error: 'WhatsApp not connected. Please scan the QR code first.' }, { status: 400 })
+    }
+    // If reconnecting after restartRequired, wait up to 30s before failing
+    if (manager.status === 'connecting') {
+      await manager.waitForConnected(30_000).catch((e: Error) => {
+        throw new Error(e.message)
+      })
     }
 
     const body = await req.json()

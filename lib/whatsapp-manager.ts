@@ -9,14 +9,17 @@ interface WAManager {
   phoneNumber: string | null
   emitter: EventEmitter
   sock: unknown
+  /** true when reconnecting with saved creds (no QR needed) */
+  isAutoReconnecting: boolean
   connect: () => Promise<void>
   disconnect: () => Promise<void>
   sendMessage: (phone: string, message: string) => Promise<void>
+  waitForConnected: (timeoutMs?: number) => Promise<void>
+  hasSavedCreds: () => boolean
 }
 
 // Bump this whenever the manager's internal structure changes.
-// Causes the cached global to be discarded on next hot-reload.
-const MANAGER_VERSION = 3
+const MANAGER_VERSION = 6
 
 declare global {
   // eslint-disable-next-line no-var
@@ -47,7 +50,10 @@ const noopLogger: NoopLogger = {
 
 function createManager(): WAManager {
   const emitter = new EventEmitter()
-  emitter.setMaxListeners(50)
+  emitter.setMaxListeners(100)
+
+  let retryCount = 0
+  let lastOpenedAt = 0
 
   const manager: WAManager = {
     status: 'disconnected',
@@ -55,10 +61,45 @@ function createManager(): WAManager {
     phoneNumber: null,
     emitter,
     sock: null,
+    isAutoReconnecting: false,
+
+    hasSavedCreds() {
+      return fs.existsSync(process.cwd() + '/whatsapp-auth/creds.json')
+    },
+
+    async waitForConnected(timeoutMs = 30_000) {
+      if (manager.status === 'connected') return
+      return new Promise<void>((resolve, reject) => {
+        const timer = setTimeout(() => {
+          emitter.off('connected', onConnected)
+          emitter.off('logged-out', onLoggedOut)
+          reject(new Error('WhatsApp connection timed out. Please reconnect.'))
+        }, timeoutMs)
+
+        const onConnected = () => {
+          clearTimeout(timer)
+          emitter.off('logged-out', onLoggedOut)
+          resolve()
+        }
+        const onLoggedOut = () => {
+          clearTimeout(timer)
+          emitter.off('connected', onConnected)
+          reject(new Error('WhatsApp was logged out'))
+        }
+
+        emitter.once('connected', onConnected)
+        emitter.once('logged-out', onLoggedOut)
+
+        if (manager.status === 'disconnected') {
+          manager.connect().catch(() => {})
+        }
+      })
+    },
 
     async connect() {
       if (manager.status === 'connecting' || manager.status === 'connected') return
       manager.status = 'connecting'
+      manager.isAutoReconnecting = manager.hasSavedCreds()
       emitter.emit('status', 'connecting')
 
       try {
@@ -66,8 +107,8 @@ function createManager(): WAManager {
           default: makeWASocket,
           DisconnectReason,
           useMultiFileAuthState,
-          fetchLatestBaileysVersion,
           makeCacheableSignalKeyStore,
+          fetchLatestBaileysVersion,
         } = await import('@whiskeysockets/baileys')
         const { Boom } = await import('@hapi/boom')
         const QRCode = await import('qrcode')
@@ -84,112 +125,155 @@ function createManager(): WAManager {
           },
           printQRInTerminal: false,
           logger: noopLogger as Parameters<typeof makeWASocket>[0]['logger'],
-          browser: ['WA Reach', 'Chrome', '120.0'],
+          browser: ['WA Reach', 'Chrome', '124.0'],
           connectTimeoutMs: 60_000,
           defaultQueryTimeoutMs: 30_000,
-          keepAliveIntervalMs: 25_000,
+          keepAliveIntervalMs: 15_000,
+          retryRequestDelayMs: 2_000,
           markOnlineOnConnect: false,
           syncFullHistory: false,
+          generateHighQualityLinkPreview: false,
         })
 
         manager.sock = sock
-
         sock.ev.on('creds.update', saveCreds)
 
         sock.ev.on('connection.update', async (update) => {
           const { connection, lastDisconnect, qr } = update
 
           if (qr) {
+            manager.isAutoReconnecting = false
             try {
-              const dataURL = await QRCode.default.toDataURL(qr, {
-                width: 280,
-                margin: 2,
-                color: { dark: '#000000', light: '#ffffff' },
-              })
+              const dataURL = await QRCode.default.toDataURL(qr, { width: 300, margin: 2 })
               manager.qrDataURL = dataURL
               emitter.emit('qr', dataURL)
             } catch {}
           }
 
-          if (connection === 'close') {
-            manager.status = 'disconnected'
-            manager.qrDataURL = null
-            emitter.emit('status', 'disconnected')
-
-            const statusCode = (lastDisconnect?.error as InstanceType<typeof Boom>)?.output?.statusCode
-            const shouldReconnect = statusCode !== DisconnectReason.loggedOut
-
-            if (shouldReconnect) {
-              setTimeout(() => manager.connect(), 3000)
-            } else {
-              manager.phoneNumber = null
-              emitter.emit('logged-out')
-            }
-          }
-
           if (connection === 'open') {
+            retryCount = 0
+            lastOpenedAt = Date.now()
             manager.status = 'connected'
             manager.qrDataURL = null
-            manager.phoneNumber = sock.user?.id?.split(':')[0] || null
+            manager.isAutoReconnecting = false
+            manager.phoneNumber = sock.user?.id?.split(':')[0] ?? null
             emitter.emit('status', 'connected')
             emitter.emit('connected', manager.phoneNumber)
+            console.log('[WhatsApp] Connected as', manager.phoneNumber)
+          }
+
+          if (connection === 'close') {
+            manager.sock = null
+            manager.qrDataURL = null
+
+            const statusCode = (lastDisconnect?.error as InstanceType<typeof Boom>)?.output?.statusCode
+            const isLoggedOut = statusCode === DisconnectReason.loggedOut
+
+            console.log(`[WhatsApp] Closed — code=${statusCode} loggedOut=${isLoggedOut}`)
+
+            if (isLoggedOut) {
+              retryCount = 0
+              manager.status = 'disconnected'
+              manager.phoneNumber = null
+              manager.isAutoReconnecting = false
+              emitter.emit('status', 'disconnected')
+              emitter.emit('logged-out')
+              return
+            }
+
+            // restartRequired (408) fires right after QR scan — stay in 'connecting'
+            // so the UI doesn't flash "disconnected" and sends don't fail
+            const isSoftRestart =
+              statusCode === DisconnectReason.restartRequired ||
+              statusCode === 408 ||
+              (Date.now() - lastOpenedAt < 12_000)
+
+            if (isSoftRestart) {
+              manager.status = 'connecting'
+              manager.isAutoReconnecting = true
+              emitter.emit('status', 'connecting')
+              setTimeout(() => manager.connect(), 1_500)
+            } else {
+              manager.status = 'disconnected'
+              manager.isAutoReconnecting = false
+              emitter.emit('status', 'disconnected')
+              const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
+              retryCount++
+              setTimeout(() => manager.connect(), delay)
+            }
           }
         })
       } catch (err) {
-        console.error('[WhatsApp] Connection error:', err)
+        console.error('[WhatsApp] connect() error:', err)
         manager.status = 'disconnected'
+        manager.isAutoReconnecting = false
         emitter.emit('status', 'disconnected')
+        const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
+        retryCount++
+        setTimeout(() => manager.connect(), delay)
       }
     },
 
     async disconnect() {
+      retryCount = 0
+      manager.isAutoReconnecting = false
+
       if (manager.sock) {
         try {
           const { default: makeWASocket } = await import('@whiskeysockets/baileys')
-          await (manager.sock as Awaited<ReturnType<typeof makeWASocket>>).logout()
+          const sock = manager.sock as Awaited<ReturnType<typeof makeWASocket>>
+          await sock.logout()
         } catch {}
         manager.sock = null
       }
+
       manager.status = 'disconnected'
       manager.qrDataURL = null
       manager.phoneNumber = null
       emitter.emit('status', 'disconnected')
 
-      const fs = await import('fs')
       const authDir = process.cwd() + '/whatsapp-auth'
       if (fs.existsSync(authDir)) {
         fs.rmSync(authDir, { recursive: true, force: true })
       }
+
+      emitter.emit('logged-out')
     },
 
     async sendMessage(phone: string, message: string) {
+      // If reconnecting after restartRequired, wait instead of failing immediately
+      if (manager.status === 'connecting') {
+        await manager.waitForConnected(30_000)
+      }
+
       if (!manager.sock || manager.status !== 'connected') {
         throw new Error('WhatsApp is not connected. Please scan the QR code.')
       }
+
       const { default: makeWASocket } = await import('@whiskeysockets/baileys')
       const sock = manager.sock as Awaited<ReturnType<typeof makeWASocket>>
 
-      // Check live WS readyState — avoids "Connection Closed" from stale sockets
+      // Check the live WebSocket readyState
       const ws = (sock as unknown as { ws?: { readyState?: number } }).ws
-      if (ws && ws.readyState !== 1) {
+      if (ws && typeof ws.readyState === 'number' && ws.readyState !== 1) {
         manager.status = 'disconnected'
+        manager.sock = null
         emitter.emit('status', 'disconnected')
-        throw new Error('WhatsApp connection lost. Please reconnect and try again.')
+        setTimeout(() => manager.connect(), 1_500)
+        throw new Error('WhatsApp socket closed. Reconnecting — please retry in a moment.')
       }
 
       const jid = phone.replace(/\D/g, '') + '@s.whatsapp.net'
       try {
         await sock.sendMessage(jid, { text: message })
       } catch (err: unknown) {
-        const msg = (err as Error).message || ''
-        // Baileys throws "Connection Closed" when WS drops mid-send
-        if (msg.includes('Connection Closed') || msg.includes('connection')) {
+        const msg = (err as Error).message ?? ''
+        if (/connection closed|connection lost|boom/i.test(msg)) {
           manager.status = 'disconnected'
-          manager.qrDataURL = null
+          manager.sock = null
           emitter.emit('status', 'disconnected')
-          // Auto-reconnect after brief delay
-          setTimeout(() => manager.connect(), 2000)
-          throw new Error('WhatsApp connection dropped. Reconnecting… please retry in a moment.')
+          setTimeout(() => manager.connect(), 1_500)
+          throw new Error('WhatsApp connection dropped. Reconnecting — please retry in a moment.')
         }
         throw err
       }
@@ -205,9 +289,8 @@ export function getWAManager(): WAManager {
     m.__v = MANAGER_VERSION
     global.__waManager = m
 
-    // Auto-reconnect using saved credentials without requiring a QR scan
-    const credsPath = `${process.cwd()}/whatsapp-auth/creds.json`
-    if (fs.existsSync(credsPath)) {
+    if (m.hasSavedCreds()) {
+      console.log('[WhatsApp] Saved creds found — auto-reconnecting…')
       m.connect().catch(() => {})
     }
   }

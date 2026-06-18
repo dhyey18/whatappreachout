@@ -13,5 +13,6 @@ export async function GET(req: NextRequest) {
     status: manager.status,
     phone: manager.phoneNumber,
     hasQR: !!manager.qrDataURL,
+    isAutoReconnecting: manager.isAutoReconnecting,
   })
 }
