@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { useForm } from 'react-hook-form'
@@ -10,7 +10,7 @@ import { MessageCircle, Eye, EyeOff, Loader2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
-import { useAuthStore } from '@/store/auth'
+import { useAuthStore, isTokenExpired } from '@/store/auth'
 import { api } from '@/lib/api'
 
 const schema = z.object({
@@ -23,7 +23,16 @@ type FormData = z.infer<typeof schema>
 export default function LoginPage() {
   const router = useRouter()
   const login = useAuthStore((s) => s.login)
+  const token = useAuthStore((s) => s.token)
+  const _hasHydrated = useAuthStore((s) => s._hasHydrated)
   const [showPassword, setShowPassword] = useState(false)
+
+  // Redirect already-authenticated users away from login
+  useEffect(() => {
+    if (_hasHydrated && token && !isTokenExpired(token)) {
+      router.replace('/dashboard')
+    }
+  }, [_hasHydrated, token, router])
 
   const {
     register,
@@ -84,7 +93,7 @@ export default function LoginPage() {
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Welcome back</h1>
           <p className="text-gray-500 dark:text-gray-400 mb-8">Sign in to your account to continue</p>
 
-          <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
+          <form onSubmit={handleSubmit(onSubmit)} className="space-y-5" suppressHydrationWarning>
             <div className="space-y-2">
               <Label htmlFor="email">Email address</Label>
               <Input id="email" type="email" placeholder="you@example.com" {...register('email')} />

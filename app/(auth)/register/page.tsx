@@ -93,7 +93,7 @@ export default function RegisterPage() {
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Create your account</h1>
           <p className="text-gray-500 dark:text-gray-400 mb-8">Start your free trial today</p>
 
-          <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
+          <form onSubmit={handleSubmit(onSubmit)} className="space-y-5" suppressHydrationWarning>
             <div className="space-y-2">
               <Label htmlFor="name">Full name</Label>
               <Input id="name" placeholder="John Doe" {...register('name')} />
