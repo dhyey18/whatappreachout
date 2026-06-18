@@ -289,9 +289,22 @@ export default function WhatsAppPage() {
                   <RefreshCw className="w-3 h-3 animate-spin" />
                   <span>Waiting for scan… QR refreshes every 60s</span>
                 </div>
-                <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
-                  <RefreshCw className="w-3.5 h-3.5" /> Refresh QR
-                </Button>
+                <div className="flex flex-col gap-2 w-full">
+                  <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
+                    <RefreshCw className="w-3.5 h-3.5" /> Refresh QR
+                  </Button>
+                  <Button
+                    variant="destructive"
+                    size="sm"
+                    className="w-full"
+                    onClick={handleDisconnect}
+                    disabled={disconnecting}
+                  >
+                    {disconnecting
+                      ? <RefreshCw className="w-3.5 h-3.5 animate-spin" />
+                      : <><LogOut className="w-3.5 h-3.5" /> Force Quit Session</>}
+                  </Button>
+                </div>
               </>
 
             ) : status === 'connecting' && !qrDataURL ? (
@@ -312,9 +325,22 @@ export default function WhatsAppPage() {
                     <p className="text-sm text-gray-500 animate-pulse">Generating QR code…</p>
                   </>
                 )}
-                <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
-                  <RefreshCw className="w-3.5 h-3.5" /> Force New QR
-                </Button>
+                <div className="flex flex-col gap-2 w-full">
+                  <Button variant="outline" size="sm" className="w-full" onClick={handleConnect}>
+                    <RefreshCw className="w-3.5 h-3.5" /> Force New QR
+                  </Button>
+                  <Button
+                    variant="destructive"
+                    size="sm"
+                    className="w-full"
+                    onClick={handleDisconnect}
+                    disabled={disconnecting}
+                  >
+                    {disconnecting
+                      ? <RefreshCw className="w-3.5 h-3.5 animate-spin" />
+                      : <><LogOut className="w-3.5 h-3.5" /> Force Quit Session</>}
+                  </Button>
+                </div>
               </div>
 
             ) : (

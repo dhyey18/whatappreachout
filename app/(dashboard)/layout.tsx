@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import { useRouter, usePathname } from 'next/navigation'
 import { Sidebar } from '@/components/layout/sidebar'
 import { Header } from '@/components/layout/header'
-import { useAuthStore } from '@/store/auth'
+import { useAuthStore, isTokenExpired } from '@/store/auth'
 
 const pageTitles: Record<string, string> = {
   '/dashboard': 'Dashboard',
@@ -13,6 +13,7 @@ const pageTitles: Record<string, string> = {
   '/analytics': 'Analytics',
   '/whatsapp': 'WhatsApp',
   '/settings': 'Settings',
+  '/leads': 'Leads',
 }
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
@@ -20,14 +21,21 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   const pathname = usePathname()
   const router = useRouter()
   const token = useAuthStore((s) => s.token)
+  const _hasHydrated = useAuthStore((s) => s._hasHydrated)
+  const logout = useAuthStore((s) => s.logout)
 
   useEffect(() => {
-    if (!token) {
+    if (!_hasHydrated) return
+    if (!token || isTokenExpired(token)) {
+      logout()
       router.push('/login')
     }
-  }, [token, router])
+  }, [_hasHydrated, token, logout, router])
 
-  if (!token) return null
+  // Still rehydrating from localStorage — don't flash a redirect
+  if (!_hasHydrated) return null
+
+  if (!token || isTokenExpired(token)) return null
 
   const title = pageTitles[pathname] || 'WA Reach'
 
