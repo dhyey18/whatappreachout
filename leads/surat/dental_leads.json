@@ -1,0 +1,5332 @@
+[
+  {
+    "position": 1,
+    "title": "Summirow Dental",
+    "place_id": "ChIJKeMJXPNN4DsRr-Zj4nTe8O0",
+    "data_id": "0x3be04df35c09e329:0xedf0de74e263e6af",
+    "data_cid": "17145448374995248815",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04df35c09e329%3A0xedf0de74e263e6af&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04df35c09e329%3A0xedf0de74e263e6af&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1493727,
+      "longitude": 72.7728001
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKeMJXPNN4DsRr-Zj4nTe8O0",
+    "provider_id": "/g/11b72hsjkr",
+    "rating": 4.9,
+    "reviews": 1997,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "604- 6th floor Western Vesu Point opp S.B.I Bank, Vesu char rasta, Vesu, next to Reliance Market, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–3 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 93777 77303",
+    "website": "https://www.summirow.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.practo.com/surat/clinic/sumirow-multispeciality-dental-clinic-vesu/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnEpQ_CGN-Tp3Oa61AHUhw4U1_3u50OD6SFRDZ7g_Dch-LFZFNoRb4Hpz-cp0ub5R8A4IIL_MH_9ujqHAE6eJxxiVfczOA%3D%3D",
+    "user_review": "\"Super clean clinic 🧼, friendly staff 😊, and painless treatment 🦷✨.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYXaoN-RZViDBoWs0PB0W_S4thppWpV8orj4UYY-VaU2SURdyH4MyFzNAROlLkufPWpc_IZDlmY1i_QU9tv1ZVmj0vL_qkTmdbhkTNGBYKm8lTz4hLyuRhYcffCDgfKNmQpZPg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sQDsI3icHcRdDoIgAADgE5FYPlRbD5qzWkZq_oQvrkihBKHAml2wM3Sbtr6H7_thxig9tyzOJiMqJeV1r-sHkZ2pOzMiUlhUaUA00JYbobh1A3w8SQSSMr_6niw0jDxYVAfHMKUKlU_l4-ZkGIP8lI0PWXIZ1s5uCN7ITfY8bPsmKhSpNqXPBbavVZzNzNMuc3GDz7C6t6m4nFmbopWHt2LK07fDwqFPGCZNs_Rps0UiVmVEFy8bQgjYfwK6H5X4Res"
+  },
+  {
+    "position": 2,
+    "title": "My Dental Clinic",
+    "place_id": "ChIJ0_B7-rBP4DsRIecpdIqTSKk",
+    "data_id": "0x3be04fb0fa7bf0d3:0xa948938a7429e721",
+    "data_cid": "12198161813596661537",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fb0fa7bf0d3%3A0xa948938a7429e721&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fb0fa7bf0d3%3A0xa948938a7429e721&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1697302,
+      "longitude": 72.8156463
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0_B7-rBP4DsRIecpdIqTSKk",
+    "provider_id": "/g/12jbt0f6l",
+    "rating": 4.8,
+    "reviews": 146,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "oral_surgeon",
+      "orthodontist"
+    ],
+    "address": "Shop No:110, Glamor Complex, Bhatar Rd, near Vaibhav Apartment, Bhatar, Athwa, Surat, Gujarat 395006, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "10 AM–8:30 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 96626 70001",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "user_review": "\"Young dentist couple very efficient, knowlegeable expert in their work!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXYwwSJHhe-hI7dllspqCFXAkGjCGska3lbhjX57reJb5D74QksNvpfRhc0MPv0_XYY4ChLGwoWNLTXHdXZqGZh8uktaQ8kaGlwL5ViCX9HGmXpR1V8t80o7M-WimfVE3hIa1HQQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tHZxPHicHcRBjoIwFADQE1VKkICTzILg2GqQWJ1gcTPBWvnaQqut9oweYW5j4lu8_xd4b91XFGlIJr0xvZYPJ-_CjF6OfiLMEPXWIeGQi4pNzVRBeRvCbkVBIlhmJ62dvZULXihyLYlTXaKPcOVpdperYzrPpky5-mnPWxB4vXniP9620xIqEsy-rn45PfHDjRwgfyjfsVx1RIcqbS4ln1EycLuNm9zn2GRrtL8M5-YngWUXU8a-Q4wxRvBZoPENF5BFFQ"
+  },
+  {
+    "position": 3,
+    "title": "Dr Asmita's Dental Clinic",
+    "place_id": "ChIJzQoua_NN4DsRqgj4QPZBObw",
+    "data_id": "0x3be04df36b2e0acd:0xbc3941f640f808aa",
+    "data_cid": "13562944278710716586",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04df36b2e0acd%3A0xbc3941f640f808aa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04df36b2e0acd%3A0xbc3941f640f808aa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1873187,
+      "longitude": 72.7831008
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzQoua_NN4DsRqgj4QPZBObw",
+    "provider_id": "/g/11tn5bysvg",
+    "rating": 4.9,
+    "reviews": 844,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric surgeon",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_surgeon",
+      "periodontist"
+    ],
+    "address": "B/H, Shiven Square, 224, Sanjeev Kumar Auditorium Rd, Pal, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM",
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "9 AM–2 PM",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8:30 PM",
+      "wednesday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 91063 40618",
+    "website": "https://theimplantcentre.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"The dentists were truly excellent – highly skilled, gentle, and confident.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgBePqH5l4N9iV1_k7TQZIda_0kCD55AV2U52IU4eUwRhsnakjCa0VjKonELUCDgv5KutYQnXLMvF9wCAC2oiFAFe9tsNxbiXpzFHq-gx3-Z57nIxrXw805Whjc0c9SF4g3l3diYyH7-8G=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LJZaPXicHcRLjoIwAADQE1Uq0CCTuKjVCtEh4giiG4O1afnYoq3CeMlZz21MfIv3_yet7cyX47TSGwmtRcsfht-ZVpYrO2L66ojOAGaAcfAmSRu8FDO-uUWo9ZOwysenJtilx_hSnmBD5gjh3M2QG2c-z_qtNKpsalLCvF5ptVhnZC6eaPWwh1QV6-8nDXuCiasriikPrUmGc1V0LxrdgBg8cESBiod70U8g2suaQRb-UF94rXepDr9RACbLaT-GEAL5mQH1Bgq6RaY"
+  },
+  {
+    "position": 4,
+    "title": "Navadia Dental Clinic",
+    "place_id": "ChIJnaS59ZNN4DsRNE3egTlRQ34",
+    "data_id": "0x3be04d93f5b9a49d:0x7e43513981de4d34",
+    "data_cid": "9098204979652349236",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d93f5b9a49d%3A0x7e43513981de4d34&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d93f5b9a49d%3A0x7e43513981de4d34&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2301264,
+      "longitude": 72.82148049999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnaS59ZNN4DsRNE3egTlRQ34",
+    "provider_id": "/g/1s04dqfd5",
+    "rating": 4.9,
+    "reviews": 546,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist"
+    ],
+    "address": "29, siddheshwar society, Ved Rd, opp. Swaminarayan Mandir, Dabholi Char Rasta, Gayatri Nagar, Katargam, Surat, Gujarat 395004, India",
+    "country": "India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9:30 PM",
+      "friday": "9:30 AM–9:30 PM",
+      "saturday": "9:30 AM–9:30 PM",
+      "sunday": "9:30 AM–1:30 PM",
+      "monday": "9:30 AM–9:30 PM",
+      "tuesday": "9:30 AM–9:30 PM",
+      "wednesday": "9:30 AM–9:30 PM"
+    },
+    "phone": "+91 94279 68553",
+    "website": "http://navadiadentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The staff were friendly.my teeth cleaning was thorough and painless\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOw3jYXzuQSAzbf573rcEBiL4KvoWBsPeOeVLqEccbydrMiQDukqsVboF-kOr6AfNw2-c2G0vNddMTKmnSUU1q5BqsM8E3T1UCEVd44ZQeuViS9h-dSJ5skwKC2wYkZyU9pKhM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BNYM7HicHcRJDoIwFADQE5UZp8QFaDURAQmCw5K2UixS4IONXtAzeBsT3-J9P3wYWljoes1trZSyrNkIrCeyGVgzaEQ-9LIFRACB7h2iRHg4Vvb9cn6PSeq9i5s7tXuC_WrvBE958uHAYpbvO0xI8aJ9WCXrUXSQF3KDRNxPvFukLESsrfGMKA2PwaNJs8zsXL-DcIbto5mtcE4d55qwMa_SOUc03bkgVLCy1EVcX9m8DXi4VKZhGIj_J6j5AX8JRJU"
+  },
+  {
+    "position": 5,
+    "title": "Sai Smile Dental Clinic",
+    "place_id": "ChIJv3h_2t5R4DsRGHxBYQRbcCQ",
+    "data_id": "0x3be051deda7f78bf:0x24705b0461417c18",
+    "data_cid": "2625698657126677528",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be051deda7f78bf%3A0x24705b0461417c18&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be051deda7f78bf%3A0x24705b0461417c18&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1506002,
+      "longitude": 72.8330462
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv3h_2t5R4DsRGHxBYQRbcCQ",
+    "provider_id": "/g/1q5blp142",
+    "rating": 4.9,
+    "reviews": 199,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist"
+    ],
+    "address": "Shop Number 3 , Building -13-14, 120 Feet Rd, Housing Char Rasta , Piyush Point, Laxmi Nagar, Pandesara, Udhana, Surat, Gujarat 394221, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "phone": "+91 98793 62024",
+    "extensions": [
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"All staff are such a welcoming, well trained and knowledgeable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHIqCI9frVUMvsnhv9AQvyzV0qsptHsC43oGlScY0mo5quMIavtswisc8zj5X1fQRqEKUYvzvZL8QyjTkw8ka7QUJa4ZBDyaBzmxrppQCKEkJzpvPCP5WrdzYjFd3mgb4YoJVx=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OPyOr3icHcRJDoIwFADQEyE1QEQTF4ATOISqoLjDiiBTC78W6AU9g7cx8S3e95NxzmCmqmWmjVJK0zJ5Q9ISWvOk5iNCKzVloBBQQLX8Ay6s1cZtHHf6bMNgL6DOxNTCYpAhaoDxDTi6RtfliUSookbz3rux4NC9gJgyN67jJz42y20QCSluOxMP-bnozCKe4MCL9Zu9GGJbVn3LGHa2y8KTTPiOb1zah4zy1UOr0rseUS_s590YIaRk_4lS_wA6p0dM"
+  },
+  {
+    "position": 6,
+    "title": "Surat Dental Clinic & Implant Center",
+    "place_id": "ChIJna_FLzpP4DsRlDBANevpekg",
+    "data_id": "0x3be04f3a2fc5af9d:0x487ae9eb35403094",
+    "data_cid": "5222743914309496980",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f3a2fc5af9d%3A0x487ae9eb35403094&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f3a2fc5af9d%3A0x487ae9eb35403094&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1602271,
+      "longitude": 72.83146339999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJna_FLzpP4DsRlDBANevpekg",
+    "provider_id": "/g/11nmlgh_3r",
+    "rating": 5,
+    "reviews": 24,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "115, New Haridham Society Besides Suvidha Hospital Main Road, Bamroli Rd, Surat, Gujarat 394210, India",
+    "country": "India",
+    "open_state": "Closed · Opens 4:30 PM",
+    "hours": "Closed · Opens 4:30 PM",
+    "operating_hours": {
+      "thursday": "9 AM–1 PM, 4:30–8 PM",
+      "friday": "9 AM–1 PM, 4:30–8 PM",
+      "saturday": "9 AM–1 PM, 4:30–8 PM",
+      "sunday": "9:30 AM–1 PM",
+      "monday": "9 AM–1 PM, 4:30–8 PM",
+      "tuesday": "9 AM–1 PM, 4:30–8 PM",
+      "wednesday": "9 AM–1 PM, 4:30–8 PM"
+    },
+    "phone": "+91 90166 50410",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjB7cy-3-IEF3KdesMvizO4AYRFYrhvRymWNfOv5NQOnFeKsTSxjwLTbqQH6wnoL30WEpxAoGBWhR8nUTJHcKJjY13TGJjqxFwWyWg47sYGBMC1TmtHDdFPIHm9z1CEN_nUz7o=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dG02YHicHcRdDoIgAADgE5E6KqutBy3RtDSNxnxqi0iyBAvy74Kdodu09T183w_XulYLw3hwOCqkLB7srdiLSqGZ0CMqK6OoFaAKKMPZx-ndQaVr0x5AsPEQjC5M7ZrbkIydPEP5izdZX5H4mjSTOE0EYpHCh65st_j8TINpK-QWmsSrO0f6LuHZTBxxGNAoLHMLYj8snx1qSU-Ksa1y392tLFzpYH1B-01QzQdr5cUncRxsuWwt0zQB_0-B-AFMZkRU"
+  },
+  {
+    "position": 7,
+    "title": "Alpha Dental Clinic -Implant And Braces center",
+    "place_id": "ChIJRQN4RIRP4DsRwJGOrlq8Whc",
+    "data_id": "0x3be04f8444780345:0x175abc5aae8e91c0",
+    "data_cid": "1682864508437959104",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f8444780345%3A0x175abc5aae8e91c0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f8444780345%3A0x175abc5aae8e91c0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1741222,
+      "longitude": 72.8708406
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRQN4RIRP4DsRwJGOrlq8Whc",
+    "provider_id": "/g/11vs_w9f41",
+    "rating": 5,
+    "reviews": 662,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants provider",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_provider",
+      "orthodontist"
+    ],
+    "address": "Ground FLoor, Rushi Nagar -1 society, Godadara - Dindoli Rd, nearby Maharana Pratap Chowk, Godadra, Godadara, Surat, Gujarat 395012, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 99041 75746",
+    "website": "https://alphadentalcllinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is very clean, modern and the staff is friendly and supportive.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGhSHXDS0ubXMKCHVKzO8s-dvmwQQYA1paaBdZaOtQt8eU0VhwGgjRxC13HCoNiCrtvqQqM-WK2XZiTzswJ-ZoIP_5PqvNCCcYSdPtQoN0dgGVW-Q3ziSiJEOa2Xg8-J4cZzvs=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/affhwHicHcRRCoIwGADgE_06s0CCHmyFpqQuS82XsCmbZU7b0vCA3aHbBH0P3_fDlerkUtcbbmpMCNZUL1k9qWhV1SqNiofOOglUgtTtKCB32-Gxm21i9Lpmex-7iT-FloRyeIyEnG2jK4p1mRehIsqqTijho8Nuhzc2TBeLoMZPNfSk30Pqz7K8Pk5y9CAXu-iyiPohwJie4zJSRASoZE6SAjGnOq69bVjMMmaBN6f5NMjVaCCEgP-n0P4AHa9EVw"
+  },
+  {
+    "position": 8,
+    "title": "Pearldent Dental Care Vesu Surat - Dental Implant - Root Canal - Braces - Aligners",
+    "place_id": "ChIJZQyGoXNS4DsRGK4Z9R_g3Gw",
+    "data_id": "0x3be05273a1860c65:0x6cdce01ff519ae18",
+    "data_cid": "7844391078833270296",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be05273a1860c65%3A0x6cdce01ff519ae18&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be05273a1860c65%3A0x6cdce01ff519ae18&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1409944,
+      "longitude": 72.77740299999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZQyGoXNS4DsRGK4Z9R_g3Gw",
+    "provider_id": "/g/11bxfhl7rd",
+    "rating": 5,
+    "reviews": 387,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "2006-0, VIP Rd, opp. Nandanvan 2, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–1 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 84605 02255",
+    "website": "https://pearldent.co.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Left feeling confident about my oral health.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2_TEQ_Y6MEYA81WZGbK2Vfsy6zE9yFYywNfidKTaXtyfdqJbenVxVNfDWgUlRLb1Cf2SwP2sABDSR8n0Zv-FWt1YyFBhXDQ0xEKaUO7qZwYNVCzuITIfqUl0I7nC8XqpCllUctD_Alhgu=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/iiy8b3icHcTbboIwAADQL6oUTJAt2UPlsjAmE-VWXohU2i6rBdYi1p_02b9ZsvNwng-u9aheLUvw9YoNAxP9rPpfMkjdS70iw8ViowJEAWWhfZr9oMhp8zBrsbsLMfLsqnnvEqekyrj38MVE2Cwp_T4n-anWhp6nj66X5a1MaVCxQhw-O9unznHZOwptg-PBk7C5gqjSNjbRltdBBm9hciq-NlOz4LT073Ocx3QqBIw30vfqafSFKIgOWiQ4m98WG0II-P8EyD-FC0eJ"
+  },
+  {
+    "position": 9,
+    "title": "Sabka dentist",
+    "place_id": "ChIJZxUb1G1O4DsRo5xiLhBXxDM",
+    "data_id": "0x3be04e6dd41b1567:0x33c457102e629ca3",
+    "data_cid": "3730202118378921123",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e6dd41b1567%3A0x33c457102e629ca3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e6dd41b1567%3A0x33c457102e629ca3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1812786,
+      "longitude": 72.81914429999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZxUb1G1O4DsRo5xiLhBXxDM",
+    "provider_id": "/g/11bbrj9vng",
+    "rating": 4.7,
+    "reviews": 2160,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "H.No: 2, Swami Narayan Complex, Office C/1, Mezzannine Floor, 1932/1, Majura Gate Rd, near International Trade Center Building, Kailash Nagar, Surat, Gujarat 395002, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 90811 05511",
+    "website": "https://www.sabkadentist.com/dental-clinics-in-surat/majura-gate/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Dr Charmi is an excellent dentist gentle, patient, and highly skilled.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgvriFPdK1IPmXU9vBMcpndKPn7kCeLFC_qzX88Jr9akJMtgZeEnE4vCrT2DhE-lPLc-r6PLelRo9Fd5svKoo4UbZdF3j0RxuDLjy6_U2PPW19QxxCxe28wSN0ZJ1ckIOslwET=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OpsUDnicHcRJDoIwAADAF1UKbmDiQVmMgFgXouFCtDRFqS22ZdEP-gZ_Y-Ic5vspta7VzDBYORxQISgjjSISC64J1wMsHgatFcAKKGOBkl21WNFW3gJUROYaPc6p0y43uOZFhPi0ckkcuPnzfbbtUDqXKtxomhGf-6PWlUfLK33AUIyBnKCYsL1wgmKs2kiIUXrNimB4h_u-8eL7a5KnFkIn09n1vdsTy-4OCcxCE1frrWKdf5x3JoQQlP8x4D9ZUERU"
+  },
+  {
+    "position": 10,
+    "title": "ocean 32 the dentofacial hub",
+    "place_id": "ChIJu1gY6ctN4DsRS5qbaom6X3s",
+    "data_id": "0x3be04dcbe91858bb:0x7b5fba896a9b9a4b",
+    "data_cid": "8890029288814516811",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04dcbe91858bb%3A0x7b5fba896a9b9a4b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04dcbe91858bb%3A0x7b5fba896a9b9a4b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1901817,
+      "longitude": 72.7854542
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu1gY6ctN4DsRS5qbaom6X3s",
+    "provider_id": "/g/11c5s9h9x1",
+    "rating": 4.9,
+    "reviews": 439,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Orthodontist",
+      "Periodontist",
+      "Specialized clinic",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "orthodontist",
+      "periodontist",
+      "specialized_clinic",
+      "teeth_whitening_service"
+    ],
+    "address": "302, Western Arena, Madhuvan Circle, To, Green City Rd, above Hdfc Bank, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 74900 43232",
+    "website": "https://www.bestdentistsurat.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The entire process was incredibly gentle and pain-free dental treatment.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDOROTqga2ISbUFXz0kt4fTZGb8DxKaGPyOx_hEd2bKikXag7Q3CTZVuKA7_vEWbKZtmgXzkmJRBhD6DWx6Oc5ZAidqw-9mgHicx9WmTo4fLi7Y4bzzJbESGwtcSRuhZkNhhp8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/gPqvVHicHcThEoEwAADgJ5pChDs_ooScqCj707XJ1s1abCm9oGfwNu58P77vhypVyZmm3emwR4Qg97yW-ROLUuWl6mHBNVJJgCWQmnXYH5m1sv3Ajx4kG2xCdFolnc6UcYugiyZ262Xu4e23KXWuA-QVLMmIeRwuI3iuPctMX06MPKg4STrGt8GC2mM7bsc-HkGruD4aMOVkXeB2GvNIGLddYV4M1HVb5IRuo3AY1BSyPaXVZN70dV0H9D8G5Q91eUV5"
+  },
+  {
+    "position": 11,
+    "title": "SmyleXL Dental Clinic Lal Darwaja Surat",
+    "place_id": "ChIJL1npHqVP4DsRG2dCfJfGmoU",
+    "data_id": "0x3be04fa51ee9592f:0x859ac6977c42671b",
+    "data_cid": "9627225507384944411",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fa51ee9592f%3A0x859ac6977c42671b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fa51ee9592f%3A0x859ac6977c42671b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2104332,
+      "longitude": 72.8330864
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL1npHqVP4DsRG2dCfJfGmoU",
+    "provider_id": "/g/11lx_y0hq7",
+    "rating": 5,
+    "reviews": 412,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "206, opp. SRSS Venus Hospital Road, Lal Darwaja, Patel Nagar, Surat, Gujarat 395004, India",
+    "country": "India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM"
+    },
+    "phone": "+91 88559 51200",
+    "website": "https://smylexl.com/dental-clinic-in-lal-darwaja-surat/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Dr. Devanshi Patel examined my teeth and cleared my problems by advices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGpixbWQeF6TSmIU8eRuAGoGpuP2BDRMA8G0229xZzOLT-v7Zat7w7-s1v4MQCAbrsacybIz0_w7VDJlm672Cb8L6era9EIpaC8pBSjdOB6kYb9fIg4mMOmMOi16k7FbPmRiHEH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yjDSV3icHcTbboIwAADQL6oUNC2Y7KGgIovIxVv0xdCuAwalDS2i_qDfsL_ZYnJyfl-VMUrPLautppNSyrLlg-Y9k53hnZkwKaxSacA00BZJt1lDQlXf6SnjK7Tfiejg8nwgoQzVkDr-Io-JG0LH8e6XZ7LZgxu-FAaPGGj7NouzgNBeF-xBoye8jvi4-GwFwk5A3Q3ifeEtI1UErvJ3P1-Jj5oz9b6jcibi5F9towavaCryer1cf4w2hBBU7xno_gDRv0LA"
+  },
+  {
+    "position": 12,
+    "title": "World of Smile Dental Clinic",
+    "place_id": "ChIJe6z0XR1P4DsR3iraxaiiAPQ",
+    "data_id": "0x3be04f1d5df4ac7b:0xf400a2a8c5da2ade",
+    "data_cid": "17582231791012031198",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f1d5df4ac7b%3A0xf400a2a8c5da2ade&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f1d5df4ac7b%3A0xf400a2a8c5da2ade&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1993939,
+      "longitude": 72.8200785
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe6z0XR1P4DsR3iraxaiiAPQ",
+    "provider_id": "/g/11fmmdn0pc",
+    "rating": 5,
+    "reviews": 146,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency care service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "emergency_care_service",
+      "oral_surgeon",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "11/1171, Dariyamahal Lane, char rasta, opp. Jillapanchayat office, Mughal Sarai, Nanavat, Surat, Gujarat 395003, India",
+    "country": "India",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+      "thursday": "11 AM–6:30 PM",
+      "friday": "11 AM–6:30 PM",
+      "saturday": "11 AM–6:30 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–6:30 PM",
+      "tuesday": "11 AM–6:30 PM",
+      "wednesday": "11 AM–6:30 PM"
+    },
+    "phone": "+91 92281 32541",
+    "website": "https://worldofsmilesdentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"I blindly trust her immaculate judgment and flawless dental treatments.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk58V7Ais63Um589gmR0pZCTZzgoOhmP46aetIDwJt1R45jEnxQQFlZ2bvuQZU_DkXN9grOQPEPx5xHbLfmC4EJf5vdR-K1dtJZACOSPbV93Z3u3CaK-iYxCa0f5yNK0kXOYRb=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2KjqVnicHcRLjoIwAADQE1XKlKpM4oJUdAYMtPiJdmMAoSiUElsUvaBn8DYmvsV7vypjOv1rWU2FRkIp0RS9Lq65ak3RmlGupCU6DXINtOXRiNXessbT3cQ76zHaSjx1hUxgx8mGP4WKK0mdcVqY__k9MHbi4IvfDowtGv6T3XrGt8d5vY9ccY0Z9emAh79sVUri-EGJb6cEhPbJBNwj8ZpmOxdx1COShuB8GEgKS_yIQljv40OSze42hBBU33PQfgDkOkMF"
+  },
+  {
+    "position": 13,
+    "title": "Tanushree Dental Care",
+    "place_id": "ChIJGeGba8xN4DsRMMHvduBdKg8",
+    "data_id": "0x3be04dcc6b9be119:0xf2a5de076efc130",
+    "data_cid": "1092789078240248112",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04dcc6b9be119%3A0xf2a5de076efc130&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04dcc6b9be119%3A0xf2a5de076efc130&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1913393,
+      "longitude": 72.7877522
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGeGba8xN4DsRMMHvduBdKg8",
+    "provider_id": "/g/12mkw9j71",
+    "rating": 4.9,
+    "reviews": 889,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "208,209,TRINNITY BUSINESS PARK, OPPOSITE MADHUBAN CIRCLE ,STAR BAZAAR CROSS ROAD LP SAVANI ROAD PAL, Green City Rd, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:15 PM",
+    "hours": "Open · Closes 8:15 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8:15 PM",
+      "friday": "9:30 AM–8:15 PM",
+      "saturday": "9:30 AM–8:15 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8:15 PM",
+      "tuesday": "9:30 AM–8:15 PM",
+      "wednesday": "9:30 AM–8:15 PM"
+    },
+    "phone": "+91 84878 20869",
+    "website": "http://www.tanushreedentalcare.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.practo.com/surat/clinic/tanushree-dental-care-surat-city/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnEuooKr-Bv5WzyJesgGVPQfQOJmNHTG6CkAZiPVOUd9ByMAsmbnfHrE8QKaadyacWHt1y259zFBU79X8-PqpMZCh4w_KA%3D%3D",
+    "user_review": "\"The staff was friendly and the dentists are knowledgeable and caring.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjSnIHE2eF6sj87e5WcpJSqfgz1yRUfB2DX_fER06ZK91EpHFD3uNZ5coXu2GSbrU0s4zYr9_9ZRA_BNIHbTvXlfsHEvGVdgRqA4DbKtPuPJ3uLJz7zQkoJVtsjQp7oFjwZsZ0ZQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Y1hKBnicHcRbjoIwFADQFSEFVMTEDwwv0RAe4jD9IaFTSpChldtqZIcuwd2YeD7O-9VJKWCr60NnLRjnbKAK6ET4KOkoF4T_60yARkAD3U2T7OqGfTEeIt-kwRr6jU1XP0TExa1ls_HMy3ZvelXd-jla46Nj-CIKPEsleEV4pcywaKYSwXL-nZzawblb75ND1Jzv1dBC5N_Dyx_Lb-7Sa44yVWlsqVM823N25fFFQp8Jmwf9AwNGONs9DISQ1n0n2vgBirpE-w"
+  },
+  {
+    "position": 14,
+    "title": "Nxtdent Dental Clinic Adajan (Surat) | Dr. Ankit J Desai MDS",
+    "place_id": "ChIJby-QuTRM4DsRLg6gd7MqWN4",
+    "data_id": "0x3be04c34b9902f6f:0xde582ab377a00e2e",
+    "data_cid": "16021602624665030190",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04c34b9902f6f%3A0xde582ab377a00e2e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04c34b9902f6f%3A0xde582ab377a00e2e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1894919,
+      "longitude": 72.7898804
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJby-QuTRM4DsRLg6gd7MqWN4",
+    "provider_id": "/g/11rtnt_g22",
+    "rating": 4.9,
+    "reviews": 122,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "401, White Orchid, Subhash Chandra Bose Marg, above People's Dine Restaurant, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM",
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–7:30 PM",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 70695 37131",
+    "website": "https://nxtdent.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The procedure was done with great care, and I experienced no pain at all.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfJevRn0eqzJJ_D0GKQ6h2YbkR441b4F80SZWaBQMyhWcXqKjOaOtTWcSLvHlhlzx_fx2TbIYgJ8aavkSrDzaYhS9ZHg4cOmEpYqXdNF1XvlNwOxd7zUqyvAKT-bOWgYyurpn98A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pl7lNnicHcRdboIwAADgE1WKIxua7AHj1IGjIhioL6bU2kZq-WmtwA09wm5j4vfw_T-FMY2eO44UHxNe11yyu2YdrZVhykxofXN4owHVQDvBLk6qYH0Jmd0ryNoxDE9LuI6STzHFZbX3PLf0Vj5MjzlZJH-DyGnRRldEkMlymm7tRgo59qdLP83KX8xDnxBbpd1yJFiks-OGexTdfhrcFud45RZWxg_Un7_GQzvYIMpAiXKOh3vXqJkffD9cCCEQ7ylQLxOGRog"
+  },
+  {
+    "position": 15,
+    "title": "OrthoSquare Dental Clinic",
+    "place_id": "ChIJu9vkkuRN4DsRH5nU-vCdGAE",
+    "data_id": "0x3be04de492e4dbbb:0x1189df0fad4991f",
+    "data_cid": "78986651804932383",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04de492e4dbbb%3A0x1189df0fad4991f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04de492e4dbbb%3A0x1189df0fad4991f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1869809,
+      "longitude": 72.793773
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu9vkkuRN4DsRH5nU-vCdGAE",
+    "provider_id": "/g/11qf_ws8g_",
+    "rating": 4.8,
+    "reviews": 448,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shop No 104, First Floor, Aqua Corridor, Hazira Rd, opposite Cable Bridge, next to Star Bazaar, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–8 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 8071 820 820",
+    "website": "https://dental-clinics.orthosquare.com/near-me/surat/Adajan/orthosquare-dental-clinic-in-Adajan-surat--5IqXCN/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They explained the treatment plan and every procedure very clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvPZzMRfODBGXqWG_cVG7ygl1ClkFIBmIpII_p-3-wGejGDqM5PxjHKaxRGGhi5dU4J145INTc3ZE1KVkfcQV6sKZiGLzIcfgZHjehqYMTaxLWaKFZUZhrt0pdhVeBpwNK_qCGLFQ4bV_x=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oRWJ8XicHcTBboIwGADgJ6pAgC1ZsoOo_HYFBkbr7IWwWloBodhuMF_S895myb7D9_tQ1mrz4jid8hdyGGQnvoy48aG3orcLPlwdqQ3iBhlnmWdFu4TvnN3TXf2-juBjPELJKTz_yM5bdW2MoyvWGJca-WgC0cB6TMN8brakmncA6hKeD8GbF4Q423OfbTxC25oX9MkQdoHkjnkt2bYRajyl-2pOjhWJ2YGpm3X1WVER6Skj5biCJC6CT1rOr5Pnui5S_3PU_wFv-kdB"
+  },
+  {
+    "position": 16,
+    "title": "Aarna Dental Clinic",
+    "place_id": "ChIJNXJgZadP4DsRciz9C3g8MLI",
+    "data_id": "0x3be04fa765607235:0xb2303c780bfd2c72",
+    "data_cid": "12839829023928167538",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fa765607235%3A0xb2303c780bfd2c72&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fa765607235%3A0xb2303c780bfd2c72&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1876054,
+      "longitude": 72.83520399999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNXJgZadP4DsRciz9C3g8MLI",
+    "provider_id": "/g/11kpnzd0r3",
+    "rating": 5,
+    "reviews": 248,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist"
+    ],
+    "address": "1st Floor, SP House, Nr, opp. Shree Sai Dhosa, Vachli Sheri, Salabatpura, Surat, Gujarat 395003, India",
+    "country": "India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–7:30 PM",
+      "friday": "9:30 AM–7:30 PM",
+      "saturday": "9:30 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–7:30 PM",
+      "tuesday": "9:30 AM–7:30 PM",
+      "wednesday": "9:30 AM–7:30 PM"
+    },
+    "phone": "+91 97144 27823",
+    "website": "http://www.aarnadental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"The treatment was smooth, well-explained, and absolutely painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7HJpnF1QEPJ8zwyFJ7fUR62exa1x5cyL3TNzNPrUB_ScOUH1CC60aiKNRu0i3enwtnzSoQcrMeqUzJk8S-UZ3JXTfNx6ZwCGCORsOBcF3sY2SjPzsMjXFrDjtlVUyYhn5GFVe3A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/k0IB53icHcRdDoIgAADgE5EY01pbD2ZRo8K_aNlLa4w0MzChqdywI3Sbtr6H7_spjWn0zHHqEo0KpYpavLVouZJGSDPi6ukUjQZcA-0EMU0eAZ5sSCOxm6xiMrXdgMnkxlJ_LPqr23t82KEDtTRu2eKS8Yht3DD04fW-pekb3pGQnZE2Uwlv9-LFLHlMM8DOiJwON9r75y5ch1GqowXHSOfjrIqt3lcn3C4rUx_ZkJfSW-OjQMG8cyGEoPzPgfwBqBJE-w"
+  },
+  {
+    "position": 17,
+    "title": "Smile centre Dental Clinics",
+    "place_id": "ChIJtRO0oINP4DsR97MQeteJ8TA",
+    "data_id": "0x3be04f83a0b413b5:0x30f189d77a10b3f7",
+    "data_cid": "3526751541766697975",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f83a0b413b5%3A0x30f189d77a10b3f7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f83a0b413b5%3A0x30f189d77a10b3f7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1858829,
+      "longitude": 72.8088944
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtRO0oINP4DsR97MQeteJ8TA",
+    "provider_id": "/g/11h1m2lx90",
+    "rating": 4.9,
+    "reviews": 320,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Orthodontist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Oral surgeon",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "orthodontist",
+      "dental_implants_periodontist",
+      "dentist",
+      "oral_surgeon",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Swashray Soc, B-33, Diwalibaug, Athwa Gate, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1:30 PM, 4–8 PM",
+      "friday": "9:30 AM–1:30 PM, 4–8 PM",
+      "saturday": "9:30 AM–1:30 PM, 4–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1:30 PM, 4–8 PM",
+      "tuesday": "9:30 AM–1:30 PM, 4–8 PM",
+      "wednesday": "9:30 AM–1:30 PM, 4–8 PM"
+    },
+    "phone": "+91 75675 27993",
+    "website": "https://smilecentredentals.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My teeth look much more aligned, and my smile has improved a lot.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBA-zG2_EDAC6xE4FR9nRCtil4BFqYTv5eDMN_NqvQOFHnixTiSy74YpPlDpPdfYhmq_CCW9mtDUucDVhq9-QNmW3bplbC0oSA1h5mP8Y3xyawTPzLgUgIaFaDfu_fJkMR4DJK461IE6-A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7_pQBnicHcTBToMwAADQL-oAYSgmHrqW6qbDwpgLJ8IqtGSlLbZsbD-5s39j4ju837twzthnz5MiXHCtuWwn2_4wrVyr3ILpwePGAmaB9SDN8hMkKwhurw91iiGK5zQiRaIK5HoZrchYledli7dZnY3n_JO8qX4u-931MaoMldjQ764Sw1gjdEgGh_cTw19iTECeDYfwaOQR-XoHA7Ec6FMVztfmUtLbB9_zdUMa3E11tzltiwhv3qM4WKcxgC-XwPd9IP5nQP0BPThGFw"
+  },
+  {
+    "position": 18,
+    "title": "Pulse Dental Care & Implant Center",
+    "place_id": "ChIJDefAtQBN4DsRTgMr1hQ-NpE",
+    "data_id": "0x3be04d00b5c0e70d:0x91363e14d62b034e",
+    "data_cid": "10463619043455337294",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d00b5c0e70d%3A0x91363e14d62b034e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d00b5c0e70d%3A0x91363e14d62b034e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.202547499999998,
+      "longitude": 72.7939832
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDefAtQBN4DsRTgMr1hQ-NpE",
+    "provider_id": "/g/11pcs8v11r",
+    "rating": 4.9,
+    "reviews": 176,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dental radiology"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dental_radiology"
+    ],
+    "address": "Prime Arcade, 421, Anand Mahal Rd, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "phone": "+91 87800 68422",
+    "website": "https://www.pulsedentalcare.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "user_review": "\"The clinic is clean, well-equipped, and follows excellent hygiene protocols.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEnnuhwm2xCqUth-Mcm9tINbbSplFGP8M9yi6Txh_8T5Ts51pBcc0nvC0OYUju5RZ0wRymF66QF0P8bKFYWTJ-cxX7uNDwvRUrhQJL4ppDK-RqgRZ1zWJj-wSJNFlpCArzPbZFy=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/q5GsnnicHcRRDoIgAADQE5FYadrWh1m0LE1JV_nTJnNSKaKgaBfsDN2mrffxvh8qJRdLTSvpbFLUdVHmnchbUjOZMzkhdaUVXAAigNCcMIhezpaxjqpqOrhNIinwSWXLfZBlZ16iXWj59vgw44HerdiIhaHzNSGQ9S483ZJnZ-AUKjxWyDQjBEMrO6DbJfYAGa6LLtioHictjbzjnPPNAeCmwKn-vnhPoM5egEruOu07zFI0rpQOIQT0PwHsB3KHRKA"
+  },
+  {
+    "position": 19,
+    "title": "Sabka Dentist",
+    "place_id": "ChIJ8-2gqdJN4DsRl_2wA-qSgJ4",
+    "data_id": "0x3be04dd2a9a0edf3:0x9e8092ea03b0fd97",
+    "data_cid": "11421290188793511319",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04dd2a9a0edf3%3A0x9e8092ea03b0fd97&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04dd2a9a0edf3%3A0x9e8092ea03b0fd97&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1955804,
+      "longitude": 72.79267639999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8-2gqdJN4DsRl_2wA-qSgJ4",
+    "provider_id": "/g/1q62gckqz",
+    "rating": 4.6,
+    "reviews": 1594,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Offc No 111, Gangeshwar Mahadev Temple Rd, Bungalow Society, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 96247 99333",
+    "website": "https://www.sabkadentist.com/dental-clinics-in-surat/adajan/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Dr garima did my cleaning well and gave useful advice for my teeths\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFr9H307zfR8EQcOENFT_xMuvii6ltAozKanxbRRHArU_jRPRp53qs8eKN_LsOewHMMgNAB0gvpnL5dkcuv2sWdYesy0gJTwTDVYR-lX2IY5YgHteX2NHhSiy6s--o-V_IWl5oZMQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MvfoXHicHcRbjoIwFADQFVUqBHVM5qNGTX1QpYMP_CFaa0E7LXILqDucJcxuTDwf5_8vd66EoefpPOgoa5WWNchKWOOkcR1hfz1VAhKAwCNrFt_ItPqiAe6_LnwwicVqwqZJ9ojqpih62hH7WhzN48Q5JdUmu_I1L8PgDgO5YNkSVrKlUaQYGWHVlGYZnm-ibnzYnVMJT6zmSZuMtylHeu_P0jBV1Mm9z2j-Uzx7gJBF22y206E9RPF328UYo_yzQOYNFiFFnQ"
+  },
+  {
+    "position": 20,
+    "title": "Denticare Dental Care Centre",
+    "place_id": "ChIJywrepWNO4DsRmq2lQExY5Uk",
+    "data_id": "0x3be04e63a5de0acb:0x49e5584c40a5ad9a",
+    "data_cid": "5324759218960838042",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e63a5de0acb%3A0x49e5584c40a5ad9a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e63a5de0acb%3A0x49e5584c40a5ad9a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.172500499999998,
+      "longitude": 72.7903438
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJywrepWNO4DsRmq2lQExY5Uk",
+    "provider_id": "/g/1tnsqcwl",
+    "rating": 4.7,
+    "reviews": 212,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Denticare Dental Care Centre, Majuba, Behind Sargam Shopping Centre, Parle Point, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open �� Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "phone": "+91 261 221 1481",
+    "website": "http://www.denticareindia.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"My dental implant treatment was seamless and virtually painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHALKjOW9IM7DgOPcDgrPffvVTS-juAj1sIyTKejtaDf73hgI-Qpj7m1l9nyOFqvGHSSIhiAyG941QGvJKHLOj0E5gY4GFanMt9g3AjazqqZIIuf5dDg9Kfay96YhhVufndPHn7=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/u64mhXicHcTdCoIwGADQJ1oqWrKgi4Gpy0rFKOxOlvvWsvmzadgL9gy9TdC5ON-PMKbTa8tqhLuAtoWmHnU9sFaZWpkFa58WdBoxjbRFsmP-IDHZJzK9YHrwA0gzFsCQcT6dTwWSI5GOpvMpqaWpAu67AijKO-k_nQarOQ37KYqLgoo7mSPsOXk07ZJ4n0p7u4TSi8JKHQwGl8jq3fdXSke-vAWAE17NeFUKcR65umWx8jcvx7ZtJP4zpH4g6EQt"
+  },
+  {
+    "position": 1,
+    "title": "Geeta Dental Hospital and Implant Centre",
+    "place_id": "ChIJj8lKfCNP4DsRtWkpgt3O78k",
+    "data_id": "0x3be04f237c4ac98f:0xc9efcedd822969b5",
+    "data_cid": "14551076371824208309",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f237c4ac98f%3A0xc9efcedd822969b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f237c4ac98f%3A0xc9efcedd822969b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1913949,
+      "longitude": 72.862324
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj8lKfCNP4DsRtWkpgt3O78k",
+    "provider_id": "/g/11fl0tthdt",
+    "rating": 4.7,
+    "reviews": 51,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Pramukh Doctor House, Parvat Patiya, Surat, Gujarat 395010, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "website": "http://www.geetahospital.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Very good facility good doctors\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGV_aoi-VP5rJP52rguatQRb5dvPmMJh2UnTkr_oEOLWGwkipS4VZUlE0TsNLxZd7AivbjifuwYEjnQCiM-6_eqjPjDIoAzIpeecYfvgyFfcqq-Xb0Zh251jP84M0xhTBzH-FhJ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4RVEpXicHcRdboIwAADgE1UqwjQmPrANnUS0KKLyQqSW_oAt0ALOC3oGb7Nk38P3fjFjaj23rIpNRlQpWpFOkxYraYg0I6zuFq01wBpoy0PbqPRWSXZVHCTIbQPk2i3triba5-6tR_cwYPZRxmWbKX-3Oa2GktcHJ0mPlQ9jvd080tvU430ueNENF1_I6IuH4CMjjUDie62857omBF-Knv4uC9w04JzDlNnuWKCZE8IHiz-fP2DJgsUwhhAC9j8G8g_SfEWk"
+  },
+  {
+    "position": 3,
+    "title": "Vedansh Dental Care",
+    "place_id": "ChIJqasttm5O4DsRtfNO5sCtMbE",
+    "data_id": "0x3be04e6eb62daba9:0xb131adc0e64ef3b5",
+    "data_cid": "12768177462581326773",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e6eb62daba9%3A0xb131adc0e64ef3b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e6eb62daba9%3A0xb131adc0e64ef3b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.183126599999998,
+      "longitude": 72.821456
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqasttm5O4DsRtfNO5sCtMbE",
+    "provider_id": "/g/11g6bj9ck7",
+    "rating": 5,
+    "reviews": 47,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "5,6 kalp residency, Opp. Panchsheel Bank, Nr. Sabji Mandi, Kailash Nagar, Majura Gate, Surat, Gujarat 395002, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–8 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 95107 81177",
+    "website": "https://www.lybrate.com/surat/doctor/dr-rachit-jain-dentist",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Great treatment , excellent staff ,very nice experience\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQq2BAUCWlLt2EhZI4QW_8Vo_HPd7ud756qeIV7zlFVfpK3HwIi_gDorYGx7OwuCsJEYPNBzSbWwgq22uycOzhNFagoualCGulxQ4peg0jCgA-IaA7KdlKDdckPR-JNhfDmHHZ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/V7cljHicHcRdDoIgAADgE5FmP7S2HkhNzWZaS2cvzhChItGAWV6wM3Sbtr6H7_thSrVyaRicTUZUCMqJluSJRaNIo0ZYPAzaSoAlkAaKo-SO3KSz1uhkZ3ynLJedg2mSFYtUFH5cQV3B2bwjQQoHvknrNpz4fXAtqCOeufeC-17bcuvmcbQejpesp51l6TfeDyzalFToktue5q9k2hJq3myKQFAiGFY8dCp8jw9gG7Haefj-edWPTdME7D8GzQ9TTETS"
+  },
+  {
+    "position": 4,
+    "title": "My Dental Clinic",
+    "place_id": "ChIJhVFGtQ5T4DsRgR5FFXTP3eA",
+    "data_id": "0x3be0530eb5465185:0xe0ddcf7415451e81",
+    "data_cid": "16203335131828919937",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be0530eb5465185%3A0xe0ddcf7415451e81&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be0530eb5465185%3A0xe0ddcf7415451e81&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.149247499999998,
+      "longitude": 72.7904315
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhVFGtQ5T4DsRgR5FFXTP3eA",
+    "provider_id": "/g/11jpmlz5n6",
+    "rating": 5,
+    "reviews": 90,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Shop number 312,Times square near Poddar residency, Vesu Canal Rd, Bharthana, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "10 AM–2 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 96626 70001",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Got my tooth fixed in a painless way , very satisfied with the treatment\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkPsz_i2yCJO0Ez2Kigy0B6ehJvctDNCsGR4cRnjqNBZM_7FitHspCBLYbmONIZzgwVrfIjI2ZvlA4yiVoZ7KtqQV973YCFyhZ8Qjb_SCuk87cUE0WuUyGvt7q62j4JAWbmGWE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jUyy7XicHcRdDoIgAADgE5lkLqqtByUzrSxr6uLFTWbgLxpowwt2hm7T1vfwfT9Myk5sdL1mixnlnNb5IPIX4a3MWzkjvNFpJzQiNKFb1yCsLKe6iiktDIX8C3Am41hQBexlzvyRyF2AhHszya0t-8DG5xTuC3kQHbJPj6y5BB6e6Dt-Pb3SM_BYW6YqYo7hUfZhvIaLB9orhldhmaV3NFQrSCIHJEOk3FHCfmmUpm8lWeMmzvY9BwBo7D_R2h-KfkTN"
+  },
+  {
+    "position": 5,
+    "title": "Reeva Dental Clinic",
+    "place_id": "ChIJhWfdlDlO4DsRhWVkXvGEF6k",
+    "data_id": "0x3be04e3994dd6785:0xa91784f15e646585",
+    "data_cid": "12184353489079788933",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e3994dd6785%3A0xa91784f15e646585&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e3994dd6785%3A0xa91784f15e646585&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1730166,
+      "longitude": 72.8380239
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhWfdlDlO4DsRhWVkXvGEF6k",
+    "provider_id": "/g/1hc1q6v9z",
+    "rating": 4.6,
+    "reviews": 60,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "orthodontist"
+    ],
+    "address": "13 14, Tulsi Plaza, Near, S Zone Rd, below sarvottam restaurant, Udhana Village, Udhana, Surat, Gujarat 394210, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 97142 56006",
+    "extensions": [
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "user_review": "\"The doctor is very professional and gives helpful suggestions.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdVdQK6kSCw-_fX6JJuIpzq1Qs8g24iLuCiS0cJJl-bm1J8RfOWOh67FODwMKRrxTpa3xBy9UqEN62Pj52LCZYAxCUMb1536tA9IxtvfXho4WK3V6Qhgolxi1690jGMQHIcTgDUiAObIPg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XGWtPnicHcRBcoIwAADAF0US0FQ600PEagkiREVtLx2JkKBI0ISS9pOe_Y0z3cM-7tKYVr86Ti29gVBK1EWnixtXjSkaM-Dq4ohWA66Bdki6ZGcyO26PLMLnddCD73KPKe3C9u-KmB4Ld1gtuqBaQ05pDfILouNVmewSiV9mybSPo9XNbtqDZye_fnZ9X2I3PY3cRfD1SWyQxTkaedgQP7Tmp9xLNdxF3hYzKVRtK4R9eJrH7CPkGzHNKpLkYSreegQhBPJ_Dpon_5FFaA"
+  },
+  {
+    "position": 6,
+    "title": "Seva Dental Clinic",
+    "place_id": "ChIJt8zGczZM4DsRNsQ90BkAs_k",
+    "data_id": "0x3be04c3673c6ccb7:0xf9b30019d03dc436",
+    "data_cid": "17992725047143154742",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04c3673c6ccb7%3A0xf9b30019d03dc436&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04c3673c6ccb7%3A0xf9b30019d03dc436&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2011257,
+      "longitude": 72.7824357
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt8zGczZM4DsRNsQ90BkAs_k",
+    "provider_id": "/g/1yf_9mfjs",
+    "rating": 4.9,
+    "reviews": 26,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Shop No.27 Green Plaza, Honey Park Rd, LP Savani, Circle, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "thursday": "8:30 AM–7 PM",
+      "friday": "8:30 AM–7 PM",
+      "saturday": "8:30 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "8:30 AM–7 PM",
+      "tuesday": "8:30 AM–7 PM",
+      "wednesday": "8:30 AM–7 PM"
+    },
+    "phone": "+91 95374 44401",
+    "extensions": [
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Excellent services for dental care\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuk-R0knocqvV00bx-mssOCo2F-9XOB5D5GDXFA7gvpe_O2FCYJf6Wam6hg5uG_FcskzcxEURn9kKFocYrPRg7Bp_OgflQsfnZZRyUzr4TGQnyzzE-2GPVYnIe8C_mI5RpfvZo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZvQ0-nicHcTdCoIwGADQJ1ouy_6gCzMnFaSOsvRGaswJ0235qZUv2DP0NkHn4nw_ZdsaWFlWVU5GQmtR8Q54w7RquWpHTNeWMIAYILDc6BhL1-8kolgqzR59gvH9hWqA0NM2QctruHG2TrC9EncuesPz0CZeui9ml1s9K4XTBTlhIAf28s9ULeWBaJY2ERXzjclDUVQxFCrL6Ps8NNNTEKv3MPjIDqIkVTu-8PJ651BT9JleP8cYY1T-Z0j9AFIIRSk"
+  },
+  {
+    "position": 7,
+    "title": "DEV CARE",
+    "place_id": "ChIJOQyfJ_dO4DsRW5dN1NhdvQo",
+    "data_id": "0x3be04ef7279f0c39:0xabd5dd8d44d975b",
+    "data_cid": "773877896833767259",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04ef7279f0c39%3A0xabd5dd8d44d975b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04ef7279f0c39%3A0xabd5dd8d44d975b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2053303,
+      "longitude": 72.83676489999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOQyfJ_dO4DsRW5dN1NhdvQo",
+    "provider_id": "/g/1q67md0jv",
+    "rating": 5,
+    "reviews": 107,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Car rental agency"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "car_rental_agency"
+    ],
+    "address": "Helena Trade Building, 3, Unapani Rd, near Abc Medical, Lal Darwaja, Varachha, Surat, Gujarat 395003, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 98982 07906",
+    "website": "http://devdentalcare.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0261P261STDF001292&rwg_token=AFd1xnH2BlYXRPf6Q133FFAB1MwS1tChZZgkG3WEFj1YOMlehy45PR3eUVipiKPMU8bbIqzu4leEnD-gJlZe5Ky1JBtZacVf9A%3D%3D",
+    "user_review": "\"The treatment was comfortable, effective, and reasonably priced.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxW4pC9LB4p7IEPZvz6hybiSc89VB7aS2P1PZ5w9St7NJisJ6Tm3AqoJ4H6p2v5pIRp8SfUguhe15apVsoZUGZez63jvM9fG9kedzATvZ4dSW6FGQk4OyETf_Q9ZniR7vZVXUDLg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/zTkgB3icHcRRboIwAADQEyEgpdgl-0CnKFEHFnDpz-JqaRGlda1VuaFH8DYmvo_3fAhjlP5w3aMIBlxKfmQXzf6p7AzrzIDKk8uVdqh2tBtn67yN57ctUBO0HAMVLaYZsT0U978G0xGqxtEODzM_I-EVYROt00ansDgF8VmmYA7V0IZqsVEjXJf8Ipgf7lSlJSkTwnoYHOwK1Qlq2b6PC0vAHm_hLMlb8H2fFvVvjkjXbCJLqp_ya8k_r77neY54T53uBWrWREM"
+  },
+  {
+    "position": 8,
+    "title": "SATYAM DENTAL CARE Smile Designing & Implant Center",
+    "place_id": "ChIJ3_N058tP4DsRwb5igQ7Bs7Y",
+    "data_id": "0x3be04fcbe774f3df:0xb6b3c10e8162bec1",
+    "data_cid": "13165078403778526913",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fcbe774f3df%3A0xb6b3c10e8162bec1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fcbe774f3df%3A0xb6b3c10e8162bec1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2003642,
+      "longitude": 72.8546406
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3_N058tP4DsRwb5igQ7Bs7Y",
+    "provider_id": "/g/11y1q_mdz1",
+    "rating": 5,
+    "reviews": 190,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "101, Laxmi nagar society, ishwarkrupa road, Lambe Hanuman Rd, near Shree homeopathy, Surat, Gujarat 395010, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–10 PM",
+      "monday": "9 AM–10 PM",
+      "tuesday": "9 AM–10 PM",
+      "wednesday": "9 AM–10 PM"
+    },
+    "phone": "+91 82383 42362",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"The dentist was knowledgeable, gentle, and explained everything thoroughly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-jYjdScZH1ARNS8rdJC-xvswkWSKpmI-vftprtu_wsTtHz3GK_dq8ByE6v7GLhuJHlrgVUeJgJ6MY4I9CiFgv37LWjb1hSLhI57axAuWZv9qS0ywpNH5bbszUWKZB5EnXhIyFNA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZdqOYXicHcTbEoFAAADQL1rVJGHGw2qimwaL6MVoy66kVrttlz_0Cf7GjPNwvh8qBONzRSmoPiJVRYqs4VmNq1JkpRjh6qUQxgHmgCtwG-6e0Ab5JU8Rjh0N7kM0rVPPAp3k7TNCPnu5QN4Fq0VzbflBOIO-9q_pe7rs7Yk01wFtPKeoyemYecSbbC5jd2Y9VkTqZhDliUZRQF3DvHWwiWI5eyO1b1noGEnCh2Pkx0vDLs_U7VchXLSaqqqA_seg_AE7rkXr"
+  },
+  {
+    "position": 9,
+    "title": "Aastha Dental Clinic",
+    "place_id": "ChIJMXkzkHNO4DsR0j9IRnsTA3s",
+    "data_id": "0x3be04e7390337931:0x7b03137b46483fd2",
+    "data_cid": "8863949911776313298",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e7390337931%3A0x7b03137b46483fd2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e7390337931%3A0x7b03137b46483fd2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.178501999999998,
+      "longitude": 72.8109623
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMXkzkHNO4DsR0j9IRnsTA3s",
+    "provider_id": "/g/11bxc7l6tz",
+    "rating": 5,
+    "reviews": 360,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Shilp Apartment, 7-10 LG, opp. Gokulam Dairy, Adarsh Soc, Athwalines, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "9 AM–12:30 PM, 4–7:30 PM",
+      "friday": "9 AM–12:30 PM, 4–7:30 PM",
+      "saturday": "9 AM–12:30 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–12:30 PM, 4–7:30 PM",
+      "tuesday": "9 AM–12:30 PM, 4–7:30 PM",
+      "wednesday": "9 AM–12:30 PM, 4–7:30 PM"
+    },
+    "phone": "+91 261 352 8818",
+    "website": "http://www.aasthadentalcare.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Professional , Knowledgeable and caring dentist, great results.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGJSAB0Vr0gH34mcQC2lDkMT7Gd7ka2Gj4tM0zJ9-g1e43pfDWtpjPdkZw23POw5lSduyv1iooggTR3P1g_ryO_1ryGOIALMesXGfIjLDSA64j6klbQiaoyMT3bVrfbcjP9M3ySIA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BwesN3icHc1RboMgAADQE1FBbJsu2QebCbUpE6fplv00FRELVA3QGXbDHWG32bKf9_t-vocQZv-QJHbAKzVNysq7l05MY5BjWInplqjZA-GBTwh_qQyhh5o8wZODao-zm6ieU5sb1mxptzWXlOosMPh12AGFZIbnPn8Ls-ad-VhSzMtlbevuHj_R9a9SzSvmSJ1dLM_IRVoW5Mikf6d9oY95TTaZ3hjbVtfLFFmD25PrW6H5juFYF-RxQRBCMPwrwPgLY89EfA"
+  },
+  {
+    "position": 10,
+    "title": "OrthoSquare Dental Clinic",
+    "place_id": "ChIJc4FvnmVN4DsRlDPNO8vZS64",
+    "data_id": "0x3be04d659e6f8173:0xae4bd9cb3bcd3394",
+    "data_cid": "12559371452757652372",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d659e6f8173%3A0xae4bd9cb3bcd3394&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d659e6f8173%3A0xae4bd9cb3bcd3394&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.147058299999998,
+      "longitude": 72.7597521
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc4FvnmVN4DsRlDPNO8vZS64",
+    "provider_id": "/g/11krkt2c5k",
+    "rating": 4.9,
+    "reviews": 234,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shop No 209, Luxuria Business Hub, Surat - Dumas Rd, nearby VR Mall, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 8071 820 832",
+    "website": "https://dental-clinics.orthosquare.com/near-me/surat/Vesu/orthosquare-dental-clinic-in-Vesu-surat--8MfeHE/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They provided me with the right advice and treatment for my dental problems.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtMK1wF_8ocuBrxk_9UwBovAA9QborJhj41_YJdLU8h6WQFDGDKTTVryKewT_61y-fL2JlDIWjGeU8eW24OHDqXmODRBae9gJbEy_uD4hvylyEXUljCYa2Y0CHkOwZ9cfAwkBldPb6FVMv=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_pMOXXicHcTNboIwAADgJ6r8jBAw2aFYwYEOWUBkl0ZqpYFKHS10fUrPvs2SfYfv9WRKPeTasjh7W3VCdJzOkk5EjIqOakXE3eoeEhAJpAWPn8UAE3XIHB3jQJA5mn4HHFY6EguEYdGKKWW95-Amve6rgPl1EaMEZWV5mkxGdYl9x4Db3k05-qj7hFYBrV0v36Gf8z1HX9GFhl3abg2ekccWw832XPF-01zcxt7shlx_h-QG9RDx67H149NhedeObduA_U_A-AeD7EcX"
+  },
+  {
+    "position": 11,
+    "title": "My Dental Clinic",
+    "place_id": "ChIJR6i_gqRP4DsRKSCyOwXjjNc",
+    "data_id": "0x3be04fa482bfa847:0xd78ce3053bb22029",
+    "data_cid": "15532038826509869097",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fa482bfa847%3A0xd78ce3053bb22029&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fa482bfa847%3A0xd78ce3053bb22029&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1908221,
+      "longitude": 72.86181719999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR6i_gqRP4DsRKSCyOwXjjNc",
+    "provider_id": "/g/11bym_zgr2",
+    "rating": 4.9,
+    "reviews": 94,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "A/106, Swapn Shristi Complex, Nr. Sai Baba Mandir, Puna Kumbariya Rd, Parvat Patiya, Surat, Gujarat 395010, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–2 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 96626 70001",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay"
+        ]
+      }
+    ],
+    "user_review": "\"Best dental clinic in surat\nPocket friendly painless and fast work\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGiOAbSFOMd1VGPpse5M8cSdWM1dJF8Ah9brv61JLYib34-H0IIqbQ9M-DuLFweEVcKTMMIJZXWristnAoeM4DTS0FUPPyubrgsIUlXu3-KjYeBdS2wiYeMOIj4Vu8Sy7hPCetJ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QezwUHicHcRRboIwGADgE1XKwIkme-jm0KKVmiqKjy1_KIqU0VbiCXcGb7Nk38P3-tXO9XYRBK2OJrUxdQvewqBM56BzE2XuQd1bpCyyAeG7_Y2smpxIkeasCosV7y1MWaJEdWJhlaUJ0XM5PN7DbFs2MorRGlP6I_dzhpZ-m47wXajNgTGaXc6nobGuIwZYvDwInB45f3o51JYe27OP0OZawmcl3samBJbTa1z4RDxnmn-Byz7GEGOM9P8KdX-67ENm"
+  },
+  {
+    "position": 12,
+    "title": "West Coast Dental & Cosmetic Care",
+    "place_id": "ChIJn9FV7vVT4DsR3OPhJxxv6hM",
+    "data_id": "0x3be053f5ee55d19f:0x13ea6f1c27e1e3dc",
+    "data_cid": "1435081597989807068",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be053f5ee55d19f%3A0x13ea6f1c27e1e3dc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be053f5ee55d19f%3A0x13ea6f1c27e1e3dc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.146964099999998,
+      "longitude": 72.7663853
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn9FV7vVT4DsR3OPhJxxv6hM",
+    "provider_id": "/g/11g18_b5gq",
+    "rating": 5,
+    "reviews": 47,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "210, SNS Arista, opposite Safal Square, next to Prime Shoppers, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 98088 88865",
+    "website": "http://www.westcoastsurat.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Dr. Anjali is extremely experienced, knowledgeable, and professional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFTNgy86cIJOJy6mlJDcE1YSlXvD-3t5dYE8wEwydBDpZjvRJMfEG8JLnU4d0TlkVoP9StjVf6MBhtdAfYtXzLnLc2E_dk7PQNfZXlYk8vfFQHbtlfIMsl4zModHKUNRGtvqS1bCg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BQH3iHicHcRNjoIwGADQE1VAHUQTFzjUnwoIogbcTGJLS6S2aD8heEOP4G1M5i3e510BNGZmWbIaDYTWQpZPUz6oVlAqGFB9s0RjEDXIWH4Sp7W_PMSi91y6ITvSuzdJAoqdIpN5G6AR_LACex3uerYImvO13ZOI45VHQnUcM_sg65NOphlcT9yNFhUwnxeQv0IV0iH-Y_UkSWN-zmVRey1fpusLSL6JjBy_Is3W22O8X0F7z5zLr5h3jm3bqPqfIvUF3cZFvg"
+  },
+  {
+    "position": 13,
+    "title": "Sabka dentist",
+    "place_id": "ChIJK1PcSq9T4DsRGzWBE6p9WVg",
+    "data_id": "0x3be053af4adc532b:0x58597daa1381351b",
+    "data_cid": "6366257717690053915",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be053af4adc532b%3A0x58597daa1381351b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be053af4adc532b%3A0x58597daa1381351b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.145398,
+      "longitude": 72.7733346
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK1PcSq9T4DsRGzWBE6p9WVg",
+    "provider_id": "/g/11jrjrd972",
+    "rating": 4.6,
+    "reviews": 873,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Shop No. 8, 1st floor, Aagam Arcade, Agam Arcade, above Bhinayak Fast Food, opp. Hampton Park, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 70690 88833",
+    "website": "https://sabkadentist.com/dental-clinics-in-surat/vesu/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"The dentist here are experienced and does quality work.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzEs2yaBTCNGPfm_tqaZ8CkOjeBa0BDZ-Rr5YliV2-TTyAuL4mXP7y8B-njdUKbFj6xk6_MDonLeLBtdhHqQwJN522UAXIMn0hzVP_VKnaDeQj8DVvNm26T6_1fv3wgJobA20=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6hQxvHicHcRJDoIwAADAFxVKVSQmHlpwA0QwSNQLQaxUllZsFfGB_sHfmDiH-X6YUjc50fWaDbRCiKKmD0nvueCKcqXlotGLmwS5BFLHYRBVePmeSdRnJLaDRXhpUtVmR8uuNiUlGSTOEWzvo0N9TRCI4x4__GGzD8e9RQAvzzvvNC_NV2Wma0dwn_pEndmyjTo3GCG0w_vVmkP2TsI08Xjm0Ki0nOQZNMiMzdS4PAdd4YoTRnDaGRBCwP7ngP8A3KlDQg"
+  },
+  {
+    "position": 14,
+    "title": "Jitendra Jadav",
+    "place_id": "ChIJ993mLgFP4DsRHxuuprTXqh4",
+    "data_id": "0x3be04f012ee6ddf7:0x1eaad7b4a6ae1b1f",
+    "data_cid": "2209815738069162783",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f012ee6ddf7%3A0x1eaad7b4a6ae1b1f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f012ee6ddf7%3A0x1eaad7b4a6ae1b1f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.20184,
+      "longitude": 72.83872889999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ993mLgFP4DsRHxuuprTXqh4",
+    "provider_id": "/g/11j7yjk8ns",
+    "rating": 4.9,
+    "reviews": 145,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Oral surgeon"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "oral_surgeon"
+    ],
+    "address": "Delhi Gate, Dangi Sheri 1, beside Crystal Hotel, Japan Market, Begampura, Surat, Gujarat 395003, India",
+    "country": "India",
+    "open_state": "Closes soon · 4 PM · Opens 9 AM Fri",
+    "hours": "Closes soon · 4 PM · Opens 9 AM Fri",
+    "operating_hours": {
+      "thursday": "9 AM–4 PM",
+      "friday": "9 AM–4 PM",
+      "saturday": "9 AM–4 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–4 PM",
+      "tuesday": "9 AM–4 PM",
+      "wednesday": "9 AM–4 PM"
+    },
+    "phone": "+91 76219 70001",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The treatment was smooth, painless and the clinic is very clean.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDU_o8eo1axoQEHSHahDn6eOgIguLVPEbqV1pO50EWqqrDW61v6TQXs74njswaUr6lP539WOYrrdTHGwJM38iGlNcHBMcidX6swPbTD94eHKI8VjpCKughrcJAvmx5taugL-W-wA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pZWQAXicHcRdDoIgAADgE5E6k6ytB0sn_arLtJ6aEgPNQAGjK3aEbtPW9_B9P0zrXi0sq2PuhApBOzIqIrHgmnA9weJp0V4BrICygvSYPYIoPN-ET4RTvUUWoROqWMghSeiGjvsijeqhcPrEs6NyGGRYQucF8-yiZlPeKlOdJexSz52XyVXKe45isz24fhN3R4xWB9zcL1CZtM7D-ZSg3cYv2n69GymTeBu8nm9PVyPdgxKYYGkc27YB-48B_wHSFEUh"
+  },
+  {
+    "position": 15,
+    "title": "Sonani Dental Hospital",
+    "place_id": "ChIJy-0LabFO4DsRHRrhbxYEKJA",
+    "data_id": "0x3be04eb1690bedcb:0x902804166fe11a1d",
+    "data_cid": "10387557034942863901",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04eb1690bedcb%3A0x902804166fe11a1d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04eb1690bedcb%3A0x902804166fe11a1d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.232124,
+      "longitude": 72.8210356
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy-0LabFO4DsRHRrhbxYEKJA",
+    "provider_id": "/g/1td9c6ny",
+    "rating": 4.9,
+    "reviews": 686,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "89, Laxmi Narayan Society, Dabholi Char Rasta, Katargam, Surat, Gujarat 395004, India",
+    "country": "India",
+    "open_state": "Closed · Opens 5 PM",
+    "hours": "Closed · Opens 5 PM",
+    "operating_hours": {
+      "thursday": "9 AM–2 PM, 5–9 PM",
+      "friday": "9 AM–2 PM, 5–9 PM",
+      "saturday": "9:30 AM–2 PM, 5–9 PM",
+      "sunday": "9:30 AM–1:30 PM",
+      "monday": "9:30 AM–2 PM, 5–9 PM",
+      "tuesday": "9:30 AM–2 PM, 5–9 PM",
+      "wednesday": "9 AM–2 PM, 5–9 PM"
+    },
+    "phone": "+91 84013 28677",
+    "website": "https://sonanidentalhospital.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Excellent dental care with friendly staff and a clean environment.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESrwSf1O98M8GJDDL4Y81Fc2ZO9bCrE9Iv5-IHpKyAc4yIfPNlQEq3ckIftBliuMaIdpRzJCRSTYjKVNEHdGdo45tCXW8EMCWmsl0ySqTEykkY47gWHmjncBJc31QHxXEXwO9T=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/146pVHicHcTfskJAHADgJ9oQTTTThdiyCokJ3dXPv7Ks7HYc5wXPM_Q2zfRdfO__WoierySJ1uqsYqyixYsXA7BOFJ2YAWulqucIOOKSefTDxsTRMEalEhi6p-9c2z5oma5sYX4JjJs1YIP8LBBx-v1kgjaR8ujTED9VaEgpNvT-8q4k709_rnWK4uyxP_vYyXc50xbCShMde1bScipP0TPGU9Nk2rJKnPbRwcYFVQmd3xSnY2DE61GRZRnV3wF1H6drQzI"
+  },
+  {
+    "position": 16,
+    "title": "My Dental Clinic",
+    "place_id": "ChIJF4kk_ORN4DsRwfLClVay-2o",
+    "data_id": "0x3be04de4fc248917:0x6afbb25695c2f2c1",
+    "data_cid": "7708951272124248769",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04de4fc248917%3A0x6afbb25695c2f2c1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04de4fc248917%3A0x6afbb25695c2f2c1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.164099,
+      "longitude": 72.795686
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF4kk_ORN4DsRwfLClVay-2o",
+    "provider_id": "/g/11c6tht23b",
+    "rating": 4.9,
+    "reviews": 34,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Shubhlaxmi Complex, U-10, main road, City Light Town, Athwa, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM",
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "9 AM–2 PM",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 96626 70001",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"You cleaned my teeth very well and without pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfXI05fskiMUC5kOjX2DUYdEJOyZEWwN4HutZyp-xvbeG6w3KoZASlNCJbFbZp8BDlSH0qA_Y5-k-DampSqtz9ylAV-SXJu-94xJS457anntUkwgTlY3OQr13TOoDWPecOQY46=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RqoLwnicHcRRboIwGADgE_1SB7i5xIcqOmUZlVQUeDHSVZitbbVFxAvuDLvNEr-H7--3cc7Yd8-TjT-ota4lby2_Mq0cV27A9NmrjQVmwXp4naQCL475CoVHK36-slkoyCl_ibLiex6TvpzvuiRYtq7sDdxvFf8Ydf6nLjGVySyuFlVp3qaRpEt0wfsiBAHR4WzoxT3GvcRboHncwji4xzQIXw9KuUx09UYWPkmvQ39DdLRbc0bSIhhNuiFCCJrnDNQ_K6RDxg"
+  },
+  {
+    "position": 17,
+    "title": "The Dental Clinic - Dr. Nirav Vinod Jain",
+    "place_id": "ChIJpUw4LGVO4DsRfgrRPWz9iyk",
+    "data_id": "0x3be04e652c384ca5:0x298bfd6c3dd10a7e",
+    "data_cid": "2993765018653231742",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e652c384ca5%3A0x298bfd6c3dd10a7e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e652c384ca5%3A0x298bfd6c3dd10a7e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1883055,
+      "longitude": 72.8153739
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpUw4LGVO4DsRfgrRPWz9iyk",
+    "provider_id": "/g/1tpf5lrz",
+    "rating": 4.9,
+    "reviews": 17,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dental supply store",
+      "Dentist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dental_supply_store",
+      "dentist",
+      "pediatric_dentist"
+    ],
+    "address": "204, Hassanand Complex, Nanpura New Rd, near Handloom House, Timaliawad, Nanpura, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 95746 03801",
+    "website": "https://dr-nirav-jain.lovable.app/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Super skilled and Best in town—friendly, professional, and always caring.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-YD6G_tkQBDcgM0iQ4SzILlIzstbjIj3ws_y1_w-1AJ9n08CsFShP9gpiX4MQUFRzO9wJhtgeRDN3kHKFkSvxVNJecP54i-Pi4iLi8s1WY0fW2wv_vFXCD2yvJ1A7uDm_P7bPlQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jesoTXicHcRRboIwGADgE1VaYVOW7AHtUFBZK3HqUxOb2lYQiH-lkxt6BG-zZN_D93oa5zr4CILahCPdtrpWd1A32TZONW4k22ugO0ASEAQJK3iVfKEjfV8IV_EZlXqDLY_KIVvX2QDudMkuoQfxIMIjkuRxg6dzSEvDYt3ZQ7Thu3Q7fMc-N06rLS3CarlKq7L__SlyJdlbZBGzkV3bKZD9EZ_3Y9-LPj3M6fjR5ySZ3OlVsMmJ1fzTE4wxMv9L1PwBoR1EXw"
+  },
+  {
+    "position": 18,
+    "title": "Sakariya dental and implant care udhna",
+    "place_id": "ChIJt_UxG8xP4DsRsDOCfv0tj_M",
+    "data_id": "0x3be04fcc1b31f5b7:0xf38f2dfd7e8233b0",
+    "data_cid": "17550296839658550192",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fcc1b31f5b7%3A0xf38f2dfd7e8233b0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fcc1b31f5b7%3A0xf38f2dfd7e8233b0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1721617,
+      "longitude": 72.8389009
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt_UxG8xP4DsRsDOCfv0tj_M",
+    "provider_id": "/g/11m6yn3ny9",
+    "rating": 5,
+    "reviews": 236,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "84,85,second floor, Silicon Shoppers, 83, A, Udhana Main Rd, Udhana, Surat, Gujarat 394210, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM",
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "9:30 AM–8:30 PM",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8:30 PM",
+      "wednesday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 99743 98474",
+    "website": "https://www.sakariyadentalcare.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The staff was welcoming, the dentist thorough, and the procedure painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxpB8WWZ42doawgliZI5lRJp3u0ucrcDnKJfxhrjb3UEXpz2kd6-KNtDGdZo-1uR_T13vVLV5HIW5L_Ixvljf1iOncuMthBs0FBNaMbaB3bkxNdD9LQGl1Kj0cFdtcQgrTqmiDWeS6bQoA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Y4GHq3icHcTBboIwAADQL6q0dphpsgMEZQjicE4MFwMttkBtK22V7Cd33t8s2Tu83x9urTYrzxMcz5hSTLTOtCNR0rbSzoi6eUwbQAwwXvCRF0MQTzp8LcvqZU5V_WSiqxJfHLYaO-jISCKZbq8TH_sGf63P-ns-0AVIcxvFtFIAucPliPDjlJ3896T0s0syPUR_Rd1eErezPDRwE-b1rqlD3AxTTqNlVsQCpT0kG2pJwcbj_dZFZfu5aAoVvD0RhBDw_wmQf87HR8I"
+  },
+  {
+    "position": 19,
+    "title": "Braces N Gum Care Multispecialty Dental Clinic",
+    "place_id": "ChIJB4dH4eVN4DsRvvRBxrlAb7U",
+    "data_id": "0x3be04de5e1478707:0xb56f40b9c641f4be",
+    "data_cid": "13073739409919177918",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04de5e1478707%3A0xb56f40b9c641f4be&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04de5e1478707%3A0xb56f40b9c641f4be&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.167154,
+      "longitude": 72.793973
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB4dH4eVN4DsRvvRBxrlAb7U",
+    "provider_id": "/g/1hc6zj86q",
+    "rating": 5,
+    "reviews": 59,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "orthodontist"
+    ],
+    "address": "M 8 -10, Corner Point, City Light Rd, opp. Sejal Appt, City Light Town, Athwa, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "10 AM–2 PM, 4–8 PM",
+      "friday": "10 AM–2 PM, 4–8 PM",
+      "saturday": "10 AM–2 PM, 4–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–2 PM, 4–8 PM",
+      "tuesday": "10 AM–2 PM, 4–8 PM",
+      "wednesday": "10 AM–2 PM, 4–8 PM"
+    },
+    "phone": "+91 261 221 0082",
+    "website": "http://www.bracesngumcare.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The specialist explains everything clearly and never rushes the process.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFfYprtXIJEnm586j5J19aZhMwaJQb_2gp19SkAf_GWUSRJ6i4ML5vLUH37-C71ICRRpmiBO2I_C5D7uPMglixjYV9Bs842c3vkaTu_hw0TPyz58LBZoQMiyCFoPA3mYA9HZFw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7pN25XicHcTbboIwAADQL6rcrIDJHgoThYACog5eCDbYIpc2tMjwA_cP-5slOw_n94dKycVWUTpqrAhjpKsnUY-YDbIe5AqzXiFcACyAUFB8TFrkPXI-yi8_2A09tDZPGGh2VdBoroLkXuqEa_a5RY9yf7uc02DTrKMQvsLLwTCBa2q-m6a8b5yT7pcu_DSnOCJd8_3Mr7YjrLWOjVdbZVNJZzWLlze0QqdgSdQsrsdiZPQ5sg-FN3_MmqqqgP6PwfAHYdJCQA"
+  },
+  {
+    "position": 20,
+    "title": "Suvagiya Dental Care Clinic",
+    "place_id": "ChIJi31KmQRP4DsRpzxOBNbdU78",
+    "data_id": "0x3be04f04994a7d8b:0xbf53ddd6044e3ca7",
+    "data_cid": "13786606795576196263",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f04994a7d8b%3A0xbf53ddd6044e3ca7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f04994a7d8b%3A0xbf53ddd6044e3ca7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.211653599999998,
+      "longitude": 72.85490159999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi31KmQRP4DsRpzxOBNbdU78",
+    "provider_id": "/g/11g723yvlf",
+    "rating": 5,
+    "reviews": 52,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "1st floor, ganesh colony, C-3, Varachha Main Rd, above ganesh agro, opposite axis bank, Vallabhnagar Society, Varachha, Surat, Gujarat 395006, India",
+    "country": "India",
+    "open_state": "Closed · Opens 4:30 PM",
+    "hours": "Closed · Opens 4:30 PM",
+    "operating_hours": {
+      "thursday": "4:30–9 PM",
+      "friday": "4:30–9 PM",
+      "saturday": "4:30–9 PM",
+      "sunday": "9:30 AM–1 PM",
+      "monday": "4:30–9 PM",
+      "tuesday": "4:30–9 PM",
+      "wednesday": "4:30–9 PM"
+    },
+    "phone": "+91 87348 07771",
+    "extensions": [
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0261PX261.X261.151012181717.E6C8&rwg_token=AFd1xnHJN-TGJwDUs0mU-5v_e-sKepB0EIqCWHex27KcvWuG_c_4JZIWxfKViAZWsft4DUIli8c-EhpX3OD4gfMOEnfUy9lLbg%3D%3D",
+    "user_review": "\"My dental treatment was smooth and completely painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOu7T3dm_CVx5Vq7zOinfrfk0XywvY1qQML6hmbFxxQOk9fJTJj1K2Fi50xhJt2L6ryo1wkZ5kTqzV7qNT9XDip53e7yr3GgyFz2kXKHTg1uWUQRdyUWjs8r6Uppv_uszVk6GS=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kK5gdHicHcRdDoIgAADgE5mgU6uth1azZj9moVkvbZmCkYKAKV6wM3Sbtr6H7_shSnE5Nc0XsUeYMfzKW5mLjNUqr9UoY5WJuTQyaUhzfthHdL4OWw_Zj-q2SHonabwhLOtCFBSkuntfYBPtti6p7n7fRyGdFAEKnnBj-aUDehIoa-sKzWBHrw5FzZB4zR5N0mXJHTv3tLBXWPuDRdPNGmHYnuPo-NDx-SnHwo05f99aOSTUXZ1mHQQAGOR_ZtQ_tdhF5w"
+  },
+  {
+    "position": 5,
+    "title": "Sabka dentist Clinic",
+    "place_id": "ChIJd1MjSXdP4DsRbJITLpS_dko",
+    "data_id": "0x3be04f7749235377:0x4a76bf942e13926c",
+    "data_cid": "5365686649207624300",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f7749235377%3A0x4a76bf942e13926c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f7749235377%3A0x4a76bf942e13926c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2304511,
+      "longitude": 72.866562
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd1MjSXdP4DsRbJITLpS_dko",
+    "provider_id": "/g/11tfbbfmmh",
+    "rating": 4.8,
+    "reviews": 1852,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "G/F - 8, Aditya Complex, near VIP Circle, Utran, Surat, Gujarat 394327, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 90811 05544",
+    "website": "https://sabkadentist.com/dental-clinics-in-surat/utran/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic was spotless, and my teeth feel incredibly fresh—just like new!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlBTRuuZaUG-IovdROM8IFAX7I-DID4wUmd8PEhI5dj1OzymJ7Hun7zxBGZkKymgei1OTfwBt5IL7TUWgTxOw5qEraRkiCu4L4XCCNwK58aSJY5aky4z7KtrA2KkVstgLo_qk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/P0EohXicHcRJDoIwAADAF1VAaUpMPLC4VFAUwe1iCGDRAlXaWuGB_sHfmDiH-X5KIR58rGlVORoQxkhVSF60GWtE0YhBxmqNPDjIOOCavVlvqb2onDiS8pwmc4DZK4_ClYVn9hFh4GHPVEmdW5tpiWF-N8K-q5doIRvUv535mfpdTYqbEcZX5QiIAxQnBxK_QwWf0zaN6M2VZmAeXXetfGilu-UJprQze-SL1h76dM8FCdjlSSfK0HUdlP8z0PwA5jhEOg"
+  },
+  {
+    "position": 9,
+    "title": "Four Seasons Dental",
+    "place_id": "ChIJwczg_BdN4DsRNnc2TtQrCos",
+    "data_id": "0x3be04d17fce0ccc1:0x8b0a2bd44e367736",
+    "data_cid": "10018868511884343094",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d17fce0ccc1%3A0x8b0a2bd44e367736&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d17fce0ccc1%3A0x8b0a2bd44e367736&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1495666,
+      "longitude": 72.78860279999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwczg_BdN4DsRNnc2TtQrCos",
+    "provider_id": "/g/11k3rmxmc1",
+    "rating": 4.9,
+    "reviews": 121,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist"
+    ],
+    "address": "Galloping Corridor, 104-A, Vesu Canal Rd, near VIP Road, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–2 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 82005 95435",
+    "website": "https://fourseasonsdental.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My recovery has been smooth, and my teeth feel wonderfully clean.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoLQJnzBnQu5BarvxQ4HpDXc1zF4Lu1wlkoW2JXqXWyJ-yXSTARhJoTeaa_fapsLPFfmQ5HCJVJUZ9t4yeSqETJaFgp4d-40Emrnven3BjKMgCqPPbV7FS2qNnt9a2L2QTvPs=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QyKAwnicHcRdDoIgAADgE5E_0VptPWjpGlmDtHS9NCLClQIKWnbA7tBt2voevu-ntFabueNU5XgklBIV7wxvmZKWSztiqnaENoAZYJwA78gjiFRCkHyHknSTkLb9i8C1XhXMe8cw6bxn9VC5j4qmyAcEhiLNgn2JVMYpPd-oNgmObzWZrJfoiA6nmYUDT5soQzQWGl4BdKO6lT2X4_C-2Yplg_HlOI1Tv9lJO6N-4pOsx2bx9FzXBeV_BuQPUoVEiQ"
+  },
+  {
+    "position": 13,
+    "title": "KRISHNA DENTAL CARE & IMPLANT CENTER",
+    "place_id": "ChIJwxwwtBNP4DsRy01vGPbkgmU",
+    "data_id": "0x3be04f13b4301cc3:0x6582e4f6186f4dcb",
+    "data_cid": "7314660490426142155",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f13b4301cc3%3A0x6582e4f6186f4dcb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f13b4301cc3%3A0x6582e4f6186f4dcb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1711951,
+      "longitude": 72.8716717
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwxwwtBNP4DsRy01vGPbkgmU",
+    "provider_id": "/g/11qr9qgjt3",
+    "rating": 4.9,
+    "reviews": 473,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "50/77, 2nd floor, s.k.nagar jogani mata char rasta, Godadara Main Road, above ganesh pan, Godadara, Surat, Gujarat 395012, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM",
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "9:30 AM–1:30 PM",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8:30 PM",
+      "wednesday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 97243 98474",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"It was painless, smooth, and handled with great expertise.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFv6I6pPW9pr7GG9OihJwk4BBJbsBseBT_x4ZWcquyZiVNNAExg6VunFIQqKtuCh4E_gMTYU9RaRLxFSrlaSIiDQxne_xz8fzDzL0Z_J1sbUHYWVKSL29D7fudMIOszQg66__j=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xzx0rXicHcRRboIwGADgEyGopMoSH2AIAxFFFCIvjXa1RVlB_lY7LrgzeBuTfQ_f649L2cGHaTZ8OmJtyxqqgPakFZIKOSLtj8k6MAgYYLrbNLu5YfBAEeq2pdP1szB0NjWPnzfb8-IzeEC9PdZ2VZK7-q3qIk3dpWaoUCKIsvtKqk9uLzFb748HZ3faJTrI--aUR7WfaUGxHuaXwR8Sq8LxGM6Hr2NZrPJk4vizi_peRxsYMoYQxtfFc2xZlsH_J4Z4A311RR0"
+  },
+  {
+    "position": 15,
+    "title": "Sabka dentist",
+    "place_id": "ChIJhz22SA5O4DsRJJ9Oe0DPwEs",
+    "data_id": "0x3be04e0e48b63d87:0x4bc0cf407b4e9f24",
+    "data_cid": "5458590624226647844",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e0e48b63d87%3A0x4bc0cf407b4e9f24&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e0e48b63d87%3A0x4bc0cf407b4e9f24&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.166216499999997,
+      "longitude": 72.8135144
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhz22SA5O4DsRJJ9Oe0DPwEs",
+    "provider_id": "/g/1q66xskrx",
+    "rating": 4.7,
+    "reviews": 829,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shop-U, 10/11, 1st Floor, Raj Complex, Bhatar Rd, beside Vaishnao Devi Mata Mandir, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 98926 26188",
+    "website": "https://www.sabkadentist.com/dental-clinics-in-surat/bhattar-road/",
+    "extensions": [
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Great experience clean clinic friendly staff and a very gentle dentist.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwJ0fObBZEhZpMDpoSoeDhxHzRE9xO4vU5elxe1OiTj5BEMY6UNBgRwQXAP6ownEn3c1BB_1AslxKSOZPnArv2i_enD_uH9YpH3UzffnKuc-HioPEFZQVIwvz5ClR9AnpNNbaEQQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KbGTSnicHcRRboIwGADgE1VAhglLfGhHFzYjUJRl8EJmUyhb97exQAk39AjexsTv4bvf5Dga--p5SoabXuteicmKK9cwChg3XP97vbGIW2Q9XGTsD1P36Xf5hTRUNuaYGH3SIpFLupY0XvKXuYqEWkSQD-ffiNBjvasy0peOfeNipx1QCHlASBtgq5bDKW8KwNd5O7QCknZK49qkYbV2HRwmjtJBF_S9YV8fbl6jN1XGGEyWXX4oY3sX-L6P5HOO4AEIYEWp"
+  },
+  {
+    "position": 18,
+    "title": "Dent Arena",
+    "place_id": "ChIJlQOoS21O4DsRXI9l6IWp4dA",
+    "data_id": "0x3be04e6d4ba80395:0xd0e1a985e8658f5c",
+    "data_cid": "15051497822243622748",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e6d4ba80395%3A0xd0e1a985e8658f5c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e6d4ba80395%3A0xd0e1a985e8658f5c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.175596,
+      "longitude": 72.81734589999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlQOoS21O4DsRXI9l6IWp4dA",
+    "provider_id": "/g/11c5_grryc",
+    "rating": 5,
+    "reviews": 503,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "1st Floor, Sheetal Shopping Complex, 22 & 23, Bhatar Rd, IOC Colony, Subhash Nagar, Athwa, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 95866 35135",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"I went for a root canal, and the treatment was smooth and painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOt4f2Qu4-qlXLO1Sca8u7HZMTHsZ7z8foM1PLMudbXIiK0XQ3rE9pqDmW7eMJoTWpIIZtgocqLSaU8MCQMSy0XjUIY00almz8LmHpk8UVKH8-HmFNO8uJRJnHGSw0hu6_1V45fQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KxF5CXicHcTbDsEwAADQL6p1jJXEg7h1s5qaMXuRqV2wrp22Ef7QJ_gbifNwvp9Ka6lGllVXvU4pRFnnRuUPJhqdN7rDBLdKqQBTQFmTzZreJ_NQO0WXGge0dRKEdsQyZFyckh1WqftGhSD2JiDmck686womtPeYD2U74wc3J77YHaTnpboUrA2iLEZkSkn0gskt9o4QZjV_o4BjeUfxfoURwHyxDpHxt36Dl9ETVmZwsvdOv6Djpw0hBNV_BpofewRDwg"
+  },
+  {
+    "position": 20,
+    "title": "Kapadia Dental",
+    "place_id": "ChIJvVWeoHBO4DsR6-RAfLz8BZA",
+    "data_id": "0x3be04e70a09e55bd:0x9005fcbc7c40e4eb",
+    "data_cid": "10377978802813854955",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04e70a09e55bd%3A0x9005fcbc7c40e4eb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04e70a09e55bd%3A0x9005fcbc7c40e4eb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.186237,
+      "longitude": 72.81142179999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvVWeoHBO4DsR6-RAfLz8BZA",
+    "provider_id": "/g/1260mxnz4",
+    "rating": 5,
+    "reviews": 44,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "201, Sagar Plaza, opp. T &T V High School, Near Athwa Arcade, Athwa Gate, Surat, Gujarat 395001, India",
+    "country": "India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM",
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–7:30 PM",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 93755 11994",
+    "website": "http://www.kapadiadental.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "book_online": "https://www.practo.com/surat/clinic/kapadia-dental-athwa-1/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnHFdORe5RrN7IENXZ3gom5PuSm0UwAPOxerXOv5T_4h-LDmyWuN_dHAhpKrnWyS1xBGkAFTBBjm6ht4CRfngG7m8AWC7Q%3D%3D",
+    "user_review": "\"They provides great care at reasonable prices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbFvj92CdzQ-G0hweH7tuTdQxZCQia0-purq1dVxGjJVimWNZMEX317NqsgdQ6I8Ek5oE9R3ueGu9UL2fjfSVs2vBPf5h3FgCKwViSrq6U_ZRnBmRvqiAs0VYTeQiu2dsq3KG9=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FALMNHicHcRdboMgAADgE1FR0h-X7MEay9ZuptiWbb4smyBgq4iANrtgz9DbNNn38N1v0rnePgXBRaKZ0FpcuLd8qHTneOdmlW4D0VtQWWCDZJ-Tc4J_N2MTRyn7IwBDOfGXpfNHRq5lStQPBL0fTMjoFTdbqtqPvHzPPlG4zI0VjCxeV9l5rrO4QJ5jH5_eorqpD9RG43pfzyXaiHQ3UXUYzOL0XRbdui1GoxIL6deRE-UjZg3a4fh5CiGEQP5fge4BSDJEeQ"
+  },
+  {
+    "position": 1,
+    "title": "Vesu Dental Pro",
+    "place_id": "ChIJX-oCDCBN4DsRaJSPnWkehd4",
+    "data_id": "0x3be04d200c02ea5f:0xde851e699d8f9468",
+    "data_cid": "16034255487286350952",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d200c02ea5f%3A0xde851e699d8f9468&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d200c02ea5f%3A0xde851e699d8f9468&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1492981,
+      "longitude": 72.7747672
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX-oCDCBN4DsRaJSPnWkehd4",
+    "provider_id": "/g/11lgwp7zp_",
+    "rating": 5,
+    "reviews": 210,
+    "type": "Cosmetic dentist",
+    "types": [
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants provider",
+      "Dental radiology",
+      "Dentist",
+      "Endodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "cosmetic_dentist",
+    "type_ids": [
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_provider",
+      "dental_radiology",
+      "dentist",
+      "endodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "UG-1, Atlanta Shoppers, beside reliance mart, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "11 AM–2 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 97241 42664",
+    "website": "http://www.vesudentalpro.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJX-oCDCBN4DsRaJSPnWkehd4/mid/%2Fg%2F11lgwp7zp_?sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!8i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sjGDFQgQJe6H01yXynRnWy39craMlQS4:2!2s1i:0,t:11886,p:jGDFQgQJe6H01yXynRnWy39craMlQS4:2!7e81!12e5!17sjGDFQgQJe6H01yXynRnWy39craMlQS4:51!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26hl%3Den%26q%3Ddentist%2BSurat%26tbm%3Dmap",
+    "user_review": "\"Root canal treatment at Vesu Dental Pro was swift and painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFrjB4JtpaRgOR-2RcLVIwbmp-ovBj-gBW54-ele5V0v3llyiurHfDvP6nv2ApiVR_6m8AH6u52vUakLe3Rb5JyNCX2KY5ukD7C-dR00RsQCmklaEYq8IKTBtk4VeFr_5x1LjMHJg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/0W32NnicHcTdboIwGADQJ_qkAmXGZBeAM4jMn8axeWWw1iIttNJS5yP6CL6NiefiPB-1tdpMPU_WwYgrxSUbDOup6izr7Iiq1uPaADVgvHiz2op43jdJmFtdEb4m4BNalIvbsdWgXNIAT35xCEwyXCIXSHm_DH12nrlN1Dk_1peSHKJ2EmfRgH33U4mCBeSI8_sq_fOXezyI2UcKJ4IQMdu0FbL62l8ni-UusSIs2bw_4P9x0XxnOf-8jRFCUL-n0L0AoZVEGw"
+  },
+  {
+    "position": 5,
+    "title": "Sumukh Multispeciality Dental Clinic",
+    "place_id": "ChIJ5ZYrHHRN4DsRIFzUsghM9V4",
+    "data_id": "0x3be04d741c2b96e5:0x5ef54c08b2d45c20",
+    "data_cid": "6842458809103047712",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d741c2b96e5%3A0x5ef54c08b2d45c20&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d741c2b96e5%3A0x5ef54c08b2d45c20&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1980179,
+      "longitude": 72.7953928
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5ZYrHHRN4DsRIFzUsghM9V4",
+    "provider_id": "/g/11r40q96b_",
+    "rating": 5,
+    "reviews": 120,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist"
+    ],
+    "address": "207, Om Arcade, Anand Mahal Rd, opp. Green Elina, across ICICI Bank, Chatrapati Shivaji Nagar, Adajan Gam, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10 AM–9 PM",
+      "friday": "10 AM–9 PM",
+      "saturday": "10 AM–9 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "10 AM–9 PM",
+      "tuesday": "10 AM–9 PM",
+      "wednesday": "10 AM–9 PM"
+    },
+    "phone": "+91 70960 67239",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My teeth are now properly aligned, and my smile looks much better.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE5oXfXYSdeD72Visd3A09zykn9kcbtFCZNBQpvUEKm1-e_67xiEtBQ0Uv5EpSTQdiZPdQk3deRvxrpzUi1D5vhBtWHMu1U7w63JXCUAu4hs7r_hqDlfIZ8szNUThFqAdQ8d4hc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Gs96iHicHcRdDoIgAADgE5GYmdXWA6atn-WkosyXtoDEaUKCWl6wM3Sbtr6H7_sRxig9s6xSOINMyqzkjeY1lZXhlRlQ-bAypQHVQFsojnCBQlcm9-RyYDzwhqdcMwfBaf8uqmlBb2a5SCMfq5aE24cN-HXsvfLQ-BiS1g3V4YhZnsYMFw7j-_ZVq57kduC2wjfn1a6xideNnU2yIKgZCe3VV_EMyvs6neg-IkexfCKGJ2wk6LyzIYRA_Keg-gFYj0TC"
+  },
+  {
+    "position": 7,
+    "title": "Dr. Deepika's Cure Dental",
+    "place_id": "ChIJ3d38ZD9P4DsR4hC5C4VBKQQ",
+    "data_id": "0x3be04f3f64fcdddd:0x42941850bb910e2",
+    "data_cid": "299842889879982306",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f3f64fcdddd%3A0x42941850bb910e2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f3f64fcdddd%3A0x42941850bb910e2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1907914,
+      "longitude": 72.86898959999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3d38ZD9P4DsR4hC5C4VBKQQ",
+    "provider_id": "/g/11h1fpf_9k",
+    "rating": 4.9,
+    "reviews": 107,
+    "type": "Cosmetic dentist",
+    "types": [
+      "Cosmetic dentist",
+      "Endodontist"
+    ],
+    "type_id": "cosmetic_dentist",
+    "type_ids": [
+      "cosmetic_dentist",
+      "endodontist"
+    ],
+    "address": "128/129, La Citadel Complex Near CNG Pump Station Magob, Parvat Patiya, Surat, Gujarat 395011, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 94090 13286",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My teeth cleaning and polishing was done perfectly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG10RKzvTpvczYsU44UqJF1IgfGwXue8GmBmSmNWWBXXbMu0KVN501cD2Zi1xOUa-em3zpE4ewZgSl86opausEmaB6LXolrOaoS7RK6ENRpEULYGYy6Yk5AR9nsrhlqjFDYXyIh=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/v5FnKnicHcRRboIwAADQExXaiehM9gERCaKoMEbrH2tqq7a0UpDJBT2DtzHZ-3ivp-g6YxeuK8XE4VpzyXrLWqqbjjWdQ7VyubGAWmDdYJ8drkGMYJ6O929zpyOxpeeVt_UKJfwUD7hn81iFqlBZVYUY_257mP5kU4jo8uN4Rn-7sgZMTUYTeWw48kLOfW3q3kaqDv0N1rLd1bqY5akfZbmJyg2JycMn12mQfza2FfJ2WS0JfiTia0AQQiD-p6B5A1FbRL4"
+  },
+  {
+    "position": 9,
+    "title": "Dr.Hetal's Advance Dentistree",
+    "place_id": "ChIJJ_KGHVRN4DsR_zjxVOgxRYk",
+    "data_id": "0x3be04d541d86f227:0x894531e854f138ff",
+    "data_cid": "9891367030516431103",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04d541d86f227%3A0x894531e854f138ff&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04d541d86f227%3A0x894531e854f138ff&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1836923,
+      "longitude": 72.7831733
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ_KGHVRN4DsR_zjxVOgxRYk",
+    "provider_id": "/g/11h2k2213d",
+    "rating": 4.9,
+    "reviews": 241,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "222, Marvella Business Hub, opposite Pal RTO, Adajan, Surat, Gujarat 394510, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "9 AM–1 PM, 4–8 PM",
+      "friday": "9 AM–1 PM, 4–8 PM",
+      "saturday": "9 AM–1 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–1���PM, 4–8 PM",
+      "tuesday": "9 AM–1 PM, 4–8 PM",
+      "wednesday": "9 AM–1 PM, 4–8 PM"
+    },
+    "phone": "+91 81549 30063",
+    "website": "http://drhetalsdentistree.netlify.app/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Most experienced dentists, most careful and very friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHV6jMC-r97oIRf2LXNIyUAOIFtDTm9ELWbeGrwMOhZoO5Mi6XORaSNS8ociyUipv0IcKJONWXBkWYatLnMAJwdFjErV3rlkmUTo9KIIOxL-qc6qtUAoChqt3yRL5ex8Wce4wGIlA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/REaZZnicHcRbcoIwFADQFUVQlIozfkSrNhqIojzqn6YpQR4XkiiyRJfgbjrT83HeL2lMo2eWVUpnkAFkpbhroTjURtRmwKGyskYjrpG28D44FPgrdm_-EinvA0j4O6JpQPoIM7I2n6fKW9HkKjaq85k8A5v4uZuy8HIMjlPgeR_lzcMmfLdlQZIuiuT7Ymjt4233s76tVOyosqiiE3g7QtiTopa7rYkwLGVrnD6kE_GcJlyMuw0p8bwb2raN5P8c1X-2ikVG"
+  },
+  {
+    "position": 11,
+    "title": "Aarna Dental Clinic | Dr. Jugal Sherdiwala",
+    "place_id": "ChIJSSshf29T4DsRvaqJ6DiIVFg",
+    "data_id": "0x3be0536f7f212b49:0x58548838e889aabd",
+    "data_cid": "6364861951382235837",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be0536f7f212b49%3A0x58548838e889aabd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be0536f7f212b49%3A0x58548838e889aabd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.140721799999998,
+      "longitude": 72.8033482
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSSshf29T4DsRvaqJ6DiIVFg",
+    "provider_id": "/g/11h91llgjt",
+    "rating": 5,
+    "reviews": 326,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "206, Raghuvir Symphony , Althan Canal, Bhimrad Rd, near Dhiraj Sons, Althan, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4–7:30 PM",
+      "friday": "10 AM–1 PM, 4–7:30 PM",
+      "saturday": "10 AM–1 PM, 4–7:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4–7:30 PM",
+      "tuesday": "10 AM–1 PM, 4–7:30 PM",
+      "wednesday": "10 AM–1 PM, 4–7:30 PM"
+    },
+    "phone": "+91 97144 27823",
+    "website": "http://www.aarnadental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"The dentist was thorough and explained everything he was doing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHaO5BvloJmuo25FQieD7yIGILAI6-vH0p4030EeB2h7a8i3XWQgneLv6AcSrf4KVmdik49rDXPZ-E8p5pvulMR-3YlPE-kfnkOp8QAbHcNNT-orx6em9ZWfNjRDwlsnZReB9AKY_pijsBy=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/E4KMp3icHcTJjoIwGADgJ_qlI4tg4qEEHBiVbYwoF-N0yiKlbSiLPqXneRuT-Q7f36seBqnWmsZqfVEJUTE6KtoTwQfKhwURnVZJBUSB0nASpS0ObrHpTkx8daNYmtu0od7qGX6GexxaMAVIGkhHPnWX9epmN_o5TytO95OFyXdfGrtT99u0htN756QA35amnEZ2yEC_sMSHtuRtLO0U_wQkio4g-odFO6fIy-ieeTNTvMio6-Dd5Sqbu3Kfm_kDIQT1_wT4G-q_Rks"
+  },
+  {
+    "position": 12,
+    "title": "DENTAL BEATS CLINIC",
+    "place_id": "ChIJk6zQHQlR4DsRJGd861PZ9kA",
+    "data_id": "0x3be051091dd0ac93:0x40f6d953eb7c6724",
+    "data_cid": "4681167817154520868",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be051091dd0ac93%3A0x40f6d953eb7c6724&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be051091dd0ac93%3A0x40f6d953eb7c6724&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.147481199999998,
+      "longitude": 72.8057791
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk6zQHQlR4DsRJGd861PZ9kA",
+    "provider_id": "/g/11h7bbzgy8",
+    "rating": 5,
+    "reviews": 285,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "F-14, Blue Arc Complex,Near Althan Garden, VIP Rd, opposite Mantra Heights, Althan, Surat, Gujarat 395017, India",
+    "country": "India",
+    "open_state": "Closed · Opens 5 PM",
+    "hours": "Closed · Opens 5 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 5–8 PM",
+      "friday": "10 AM–1 PM, 5–8 PM",
+      "saturday": "10 AM–1 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 5–8 PM",
+      "tuesday": "10 AM–1 PM, 5–8 PM",
+      "wednesday": "10 AM–1 PM, 5–8 PM"
+    },
+    "phone": "+91 94273 13089",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.practo.com/surat/clinic/dental-beats-karelibaug/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnELk26XftuLSjb3ePXkejBQFP0NGC1mZTJ1XNiFvhsotDNh2O921ofuukfY1_oYh2Blpi7YHp62jozwrXvuVwWJ69u2WQ%3D%3D",
+    "user_review": "\"Thank you for bringing back my smile with such gentle and expert care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3iBLKBhxCg2NvkEC-BXRMG8HrnI-GqazsgKQFGemDZf-Jlmm9J6QuElSu3NYdTSXv8f8wPcHIOc9woXM4_50aSyor7kiPgY1n3exxVVvXnLOUI1ZHh8XnwF5QDn0f1uI0nqsDz2pzkC-N=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XzyHgHicHcTLjoIwFADQL6oU0RFNXAjIwweCqKluJqZTWgPcIuUlPzlr_8bEszjvf1HXpVpoWi6MEZeS56xRrKISagb1iMpC46VCVCGlraIwzlau8bB2W0v0Nh-Hbba2kUWOe8_0KwiQ97wPim9j12OFc0vRJi-K-eYnbtZ50hjh9e-UkNZMzS6ifnCg806S_eR3iu_JS1az7BHxqw4G6_vLpSWwO5wD_eYLk0DnTmMHcKo3AYancoZxOWQ2CpedjjFG4jtF8AFRrEbZ"
+  },
+  {
+    "position": 13,
+    "title": "Mini Mouth Dental Hub",
+    "place_id": "ChIJv6qAwLVN4DsRisauYPh8fl8",
+    "data_id": "0x3be04db5c080aabf:0x5f7e7cf860aec68a",
+    "data_cid": "6881074686884497034",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04db5c080aabf%3A0x5f7e7cf860aec68a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04db5c080aabf%3A0x5f7e7cf860aec68a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.1905765,
+      "longitude": 72.77874059999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv6qAwLVN4DsRisauYPh8fl8",
+    "provider_id": "/g/11dynwdxwt",
+    "rating": 4.9,
+    "reviews": 367,
+    "type": "Pediatric dentist",
+    "types": [
+      "Pediatric dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Endodontist",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "pediatric_dentist",
+    "type_ids": [
+      "pediatric_dentist",
+      "dental_clinic",
+      "dental_hygienist",
+      "endodontist",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "B-22, Upper Ground Siddha Chakra Residency Galaxy Circle Green City Road Adajan, Pal Gam, Surat, Gujarat 394510, India",
+    "country": "India",
+    "open_state": "Opens soon · 4 PM",
+    "hours": "Opens soon · 4 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4–8 PM",
+      "friday": "10 AM–1 PM, 4–8 PM",
+      "saturday": "10 AM–1 PM, 4–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4–8 PM",
+      "tuesday": "10 AM–1 PM, 4–8 PM",
+      "wednesday": "10 AM–1 PM, 4–8 PM"
+    },
+    "phone": "+91 91666 38826",
+    "website": "https://www.facebook.com/MINI-MOUTH-DENTAL-HUB-128653747624811/?ref=bookmarks",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Root canal procedure was done without any pain and with perfection.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkZ32IhiBCaYUHhJljG5EMKBjQTyL9UOKTLDKnvbhQ_bHiBp5Kxg9UMALkCt0SQRwxfi9EYfsl7iRhckf_wuEWWqOxu0aI6dDmcwiLXElZP0X3vV14ta49jLcGj1bYwZIZatM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pO5hzHicHcRREkJAAADQE8mKajTTBzKRFSoVPw0bdtlQu1pdsDt0m2Z6H-_7wZz3bCnLFKuTqusqWgyseKKu5UXLJ6i7y1XPJMQkJhvhLmoMp0nVqYuJaWVJ7OAtrTcz2_fMOjq-oR4H3hGuvfaV4-iaO8TsZ95Y6bFvwMbi4BDtxVgS3U5KRhdkj1FTXsVgn8-PYBxA5s5v6zsSBF5smobgor5OisYzTa8h2tRKnojUTTPur4QCAJDwfyS1PwhRRH0"
+  },
+  {
+    "position": 14,
+    "title": "Near-By Dentist, Dindoli",
+    "place_id": "ChIJc0gY0UxR4DsRs71FGuZM8Eg",
+    "data_id": "0x3be0514cd1184873:0x48f04ce61a45bdb3",
+    "data_cid": "5255785316308336051",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be0514cd1184873%3A0x48f04ce61a45bdb3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be0514cd1184873%3A0x48f04ce61a45bdb3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.15664,
+      "longitude": 72.8731312
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc0gY0UxR4DsRs71FGuZM8Eg",
+    "provider_id": "/g/11qz28mx4w",
+    "rating": 5,
+    "reviews": 238,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "REGENT PLAZA, 126, near Rami park, society, Surat, Gujarat 394210, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM",
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "9:30 AM–1:30 PM",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8 PM",
+      "wednesday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 70690 23453",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"The doctor made me feel at ease, and the treatment went smoothly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGE41ZEOlOvcnV5g562W2n5LuxdAIOiS4Tib5ezMI-JOwDUHc2B3cti2Fryqc45At7EHGoCjQrl7Dp-GsGKbZkvHmYXsMzXOK_SeCBDfsuCQbMwI6NUNNq1R35M6HMbsXcrgtq6=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/we4HvHicHcTdboIwGADQJ6r8FpMlu0BggK50zLkxb5bwrRYUW-ArMn1Bn2Fvs2Tn4vzeG2N6fLCsrvEWUmvZiQnFCFoZocwC9NmSPRJAglb4UpSnME18Z5_wjl9AvVNJA_fDVfR5-vkOc95u_be2puLGcrLmc7zLwF15YFr3abwO4NPQLJMs1dGxHLtl3JMU0029P12y82eF7FbxzddWRKv4gFNU1mzOg2JXFIPz6lEWZKzGCkZphuBxdmzbJs3_QNQfzMZDcQ"
+  },
+  {
+    "position": 15,
+    "title": "Neha's Dental Care",
+    "place_id": "ChIJSe6eydG25zsR8TE1UeVfzZY",
+    "data_id": "0x3be7b6d1c99eee49:0x96cd5fe5513531f1",
+    "data_cid": "10866446914429465073",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be7b6d1c99eee49%3A0x96cd5fe5513531f1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be7b6d1c99eee49%3A0x96cd5fe5513531f1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.201186399999997,
+      "longitude": 72.7825162
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSe6eydG25zsR8TE1UeVfzZY",
+    "provider_id": "/g/1vf99twx",
+    "rating": 5,
+    "reviews": 181,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Endodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "endodontist",
+      "dental_implants_provider",
+      "dentist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "221-222,2nd Floor,Green Plaza, L.P Savani, Circle, Honey Park Rd, Adajan, Surat, Gujarat 395009, India",
+    "country": "India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM",
+      "saturday": "10:30 AM–4:30 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–7:30 PM",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 99133 35836",
+    "website": "http://nehasdentalcare.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "user_review": "\"My tooth treatment was done with excellent precision and professionalism.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKJ9WmsLbmhtfs0_IfVwom_iGBKyrpTwPoDfQ7t1DP-3smKLoMtS-M1F_VlF7WWBIkxtOjIE9Timn4pjWv6APbSJbuT70QSBOdBp2FgwU8hcB88SFpWCyJdw3nCMELqdV1JKo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WRDvyXicHcRJDoIwAADAF1WKGEETD1RF2RQC0iMJZalKF221-kH_4G9MnMN8P1RrqZaWNVJnMggxjN1DdXciuO64nhDBrEEqQBRQlp8d8qu_j6MFZippGNW9gnXYV0aw-rxD8fsuS5OJTZ-72t5kwFEsTkSqC5DaQV2NgYsxCq8vfbyE20V5ZnwmL_g597OmiJpH6cK8QMcWyWkwmJNHCfK8IpB4_Y5a4_B1uk1ubWVHsVgZG0II6H8C-A9CHEQj"
+  },
+  {
+    "position": 16,
+    "title": "HARIKRUSHNA DENTAL CLINIC & IMPLANT CENTER | BEST BRACES DENTAL CLINIC IN SURAT",
+    "place_id": "ChIJCcknQGtP4DsRIdUwJIvMYqQ",
+    "data_id": "0x3be04f6b4027c909:0xa462cc8b2430d521",
+    "data_cid": "11845254867917526305",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04f6b4027c909%3A0xa462cc8b2430d521&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04f6b4027c909%3A0xa462cc8b2430d521&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.2240127,
+      "longitude": 72.82297009999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCcknQGtP4DsRIdUwJIvMYqQ",
+    "provider_id": "/g/11w_w16mt4",
+    "rating": 5,
+    "reviews": 146,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Endodontist",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "endodontist",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "1st FLOOR, Vihar society, 2, Singanpor Rd, Ishwar Nagar Society, Katargam, Surat, Gujarat 395004, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–3 PM",
+      "monday": "9 AM–10 PM",
+      "tuesday": "9 AM–10 PM",
+      "wednesday": "9 AM–10 PM"
+    },
+    "phone": "+91 95373 44409",
+    "website": "https://sites.google.com/view/harikrushnadental/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is very clean, the service was fast, and my teeth feel amazing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRILzO_GBVxKFqocm1Z-o-k10kihvOfl_oh0LFlQRF_4Jg4N_AZB9YRwBSzPdHG6z6qCNKCeyNK-acLbVvdm_wIdVR-ImkjbNwgN2x1xiZKqQimD3ca6O_se7ZJYHVVodw-G1OuEpJ5BhO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ogzqpXicHcTNboIwAADgJ6q06li2xAO4gfykFUyayKXR0rUMSmFFy3jJnfc2Jn6H7_9PTdNg3z2vU5uVNEZ24mbFDzf9JPppxY325GABt8B6wREXbRCXSb4QFod0zqLRcI0qYECLYNuoO_nqmFEwj7qijNg2lVvMgip8O5cuPC3H-hD7iz_ucbYXvzgDF55f6b3WzCU1LUGi2-8rdhKvZzQ3VTYWjf7Y8ItPmBWvVXo-UGpqB2JEbp9D-hIqsnMIQgjUcw76B4tuRyc"
+  },
+  {
+    "position": 17,
+    "title": "Dr. Preeti Shah",
+    "place_id": "ChIJjUT1UKlP4DsRYmfhnEKG0O4",
+    "data_id": "0x3be04fa950f5448d:0xeed086429ce16762",
+    "data_cid": "17208401796840646498",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be04fa950f5448d%3A0xeed086429ce16762&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be04fa950f5448d%3A0xeed086429ce16762&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.185436799999998,
+      "longitude": 72.8210668
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjUT1UKlP4DsRYmfhnEKG0O4",
+    "provider_id": "/g/11kqclnrjh",
+    "rating": 5,
+    "reviews": 245,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Oral surgeon",
+      "Pediatric dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "oral_surgeon",
+      "pediatric_dentist"
+    ],
+    "address": "205, Seven Square Doctor House, near Asutosh Hospital, Kailash Nagar, Navsari Bazaar, Surat, Gujarat 395002, India",
+    "country": "India",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–6:30 PM",
+      "friday": "10:30 AM–6:30 PM",
+      "saturday": "10:30 AM–6:30 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–6:30 PM",
+      "tuesday": "10:30 AM–6:30 PM",
+      "wednesday": "10:30 AM–6:30 PM"
+    },
+    "phone": "+91 72020 03600",
+    "website": "https://www.auoraentdental.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dentist explained each step and addressed my concerns thoroughly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdojvmwMLeCon8gQ6IsZwL7Jjk85UXbGWqSvubwpu-cSwyfDkhRWiS7WYCAzB1mM500lj3endoj_JCMn1fTnSR50Sm65g8uRJxvNcbS48w2HtNp08lue2YSsthQXrHIWD7qOri=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Xp6xn3icHczNboIwAADgJ6oUFWmW7MAwAYmwQTWgFxNqbeWnRdrS6Qv6DHsbzS7f8ft7cq0H9eE4HV_MmJSso0bRkUihqdAzInuHDQoQBZQT_GR5G0Rn2Uy9Tbc0lAKxfLVRR7v1k6ZF3r6qo_KGJ1PbwQCC7f2ybnlRXrFfHsLg8eX2qQdh1yyoeDenJEyFe9kJXHgQ9yuPIVMkv1NGarxEdh7rbICoM3R-wErzvBrjTbn2b9_j9dO6EELA_yVAvADHxUVr"
+  },
+  {
+    "position": 18,
+    "title": "Gums and Ridges Complete Dental Care l Dr.Sonal Ganji Parmar M.D.S l Best dentist in Surat",
+    "place_id": "ChIJ413zCzNT4DsRb-YT2rLHy9E",
+    "data_id": "0x3be053330bf35de3:0xd1cbc7b2da13e66f",
+    "data_cid": "15117396145176045167",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be053330bf35de3%3A0xd1cbc7b2da13e66f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be053330bf35de3%3A0xd1cbc7b2da13e66f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.148999999999997,
+      "longitude": 72.79836259999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ413zCzNT4DsRb-YT2rLHy9E",
+    "provider_id": "/g/11j0br0k91",
+    "rating": 5,
+    "reviews": 84,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist",
+      "Specialized clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist",
+      "specialized_clinic"
+    ],
+    "address": "Eco Futurz, Opp. Samarth Acquisti, G-6, New City Light Rd, Althan, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–6:30 PM",
+      "friday": "9:30 AM–6:30 PM",
+      "saturday": "9:30 AM–6:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–6:30 PM",
+      "tuesday": "9:30 AM–6:30 PM",
+      "wednesday": "9:30 AM–6:30 PM"
+    },
+    "phone": "+91 99864 37158",
+    "website": "https://www.instagram.com/gumsandridges?igsh=ejVwb3RqYTF0dnM4",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"Everything on time without pain and affordable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFiAwL8sqAEFuX2_GxScpcM83kJ-1K6Gvw7MUsCW4X3gBsRg1ER5lryXzeFkvs4yqOa8C_vpcyfv3qFs4zDjXUC2J3FywC1kuIk8gh_N-VexWeg8d7WG7AVK7onNRe4fwBPFQ6I=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/enCx3nicHcRLDoIwFADAE1XAojQmLgpa4g8Vo7AjptaiRQo-oOIFPYO3MXEW8_3kTVPBxLKKHA-k1rIQLYgn12UjymbA9cOSFSAOCCy6i_aKshs1awI1nbM2HWbh68ArviFYLZGzGoed8TZHCBI3xdKHWDrzeFQ8-_QtmOrA7evtmQRZV_H-2uGagfue3dNjMFxi1pvAUe1CEZlnETqJVyIkuXhJ6NHTytNlFAv3avwd248XU-PYto3y_xyVP0UuRDE"
+  },
+  {
+    "position": 20,
+    "title": "Dr. Dordi's Dental Hub",
+    "place_id": "ChIJy7_NI-xT4DsR0NVIFS3wcE4",
+    "data_id": "0x3be053ec23cdbfcb:0x4e70f02d1548d5d0",
+    "data_cid": "5652281608771261904",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be053ec23cdbfcb%3A0x4e70f02d1548d5d0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be053ec23cdbfcb%3A0x4e70f02d1548d5d0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 21.141555399999998,
+      "longitude": 72.780204
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy7_NI-xT4DsR0NVIFS3wcE4",
+    "provider_id": "/g/11s5xwphjw",
+    "rating": 5,
+    "reviews": 95,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "endodontist",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "1st floor, Highfield Ascot, 105, VIP Rd, beside International Finance Centre, opposite Palm Avenue, Vesu, Surat, Gujarat 395007, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 95877 26969",
+    "website": "https://www.justdial.com/Surat/Dr-Dordis-Dental-Hub-Opposite-Palm-Avenue-Vesu/0261PX261-X261-220830112532-N2S7_BZDET",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Made my tooth extraction as painless as possible.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkuYyyFZM3h2LM1XonnPOI_4oQ_r1vxthPKAtIEckLrvX1YSHtdFpF7XhOq3F1uxQWvpShsVe8vKuq0n0OhgEmm2biw62zeIQ-h8D6ZdgYowPHOg2qnIj6xrGDSA7Il3XNlz7e=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/keQCcXicHcTdCoIwGADQJ1puGhpBF0Kaox8VobSboDn2lbqpmz_1gj1DbxN0Ls73A8a0em1ZNTgLoZSo-aB5z5Q0XJoFU40lWo2YRtryk1Na-UE1FK9XeD06YB-OJFdSJjG9LVV668k4G0j2vqEBqw79mJMii0wZtqGXQ9w5IRnm9DK2GegzX437ocMSxyCCprHvj8m135ymCFZb91qKQk1JFAu7k_Tpzv1um_kerZ38VL89vpkIxhjBf4bkD8FfRXg"
+  }
+]

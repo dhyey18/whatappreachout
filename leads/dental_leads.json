@@ -1,0 +1,4026 @@
+[
+  {
+    "position": 1,
+    "title": "Ahmedabad Dental અમદાવાદ ડેન્ટલ",
+    "place_id": "ChIJ8y0Mif-DXjkRUvxQzOSZzNw",
+    "data_id": "0x395e83ff890c2df3:0xdccc99e4cc50fc52",
+    "data_cid": "15910260791552572498",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e83ff890c2df3%3A0xdccc99e4cc50fc52&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e83ff890c2df3%3A0xdccc99e4cc50fc52&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0683921,
+      "longitude": 72.5522324
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8y0Mif-DXjkRUvxQzOSZzNw",
+    "provider_id": "/g/11fqztmjyw",
+    "rating": 5,
+    "reviews": 672,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "6th floor, Swanik Arcade, 610, Alok Rd, opposite to Arjun Greens, Pragatinagar, Nirnay Nagar, Ahmedabad, Gujarat 380061, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 97253 68282",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=079PXX79.XX79.191217180232.T9N9&rwg_token=AFd1xnFr9ZELw15--7pI5C2z_6rUGzZawZtVVm_AfS4yeMyymj-D7mFZZsZBRHFTXhS5DbqeCaChUKFjmBIImFAjPgSAg5gdTg%3D%3D",
+    "user_review": "\"Got my braces here, excellent service, friendly staff, and great results!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerRhzhaO_2iW7osRNoZ2fHedeV6voUjH_9NsSxAL8BnYepk35R5auSgfhpK09CdK2uN2TeK9i6DLuqhrnzFvsuPrAN4o-EQUB_00wztU96ENIJ59GRASBAhkZRlIRFI06eg_LMm=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/zseNrXicBcFBUoMwFADQE6VgEGyccRFqKwhGDdKO3TAd-ptUaD6SpDjcz0N4G9_7-9XODfY-CHodLRSi6sFbGFs0DoxbtHgJ1GBJa4kNeLblE4xSz_rw2tDz7g6tFLinpwyOsE2uWH9lDRO2-uHlMjWfMHRRLOODr9RJD0XIVseCekE_oGDn5LH033o08-Zq_dvIxS2S9XudNmE4za5myVrkzzF7krxKue72ss_lJg8TUE35cnmYbqIl0YySjhj8BwlTRC0"
+  },
+  {
+    "position": 2,
+    "title": "US Dental Clinic",
+    "place_id": "ChIJq6raXAGFXjkR6R2wB5_pjSY",
+    "data_id": "0x395e85015cdaaaab:0x268de99f07b01de9",
+    "data_cid": "2778133414395518441",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85015cdaaaab%3A0x268de99f07b01de9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85015cdaaaab%3A0x268de99f07b01de9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.010780099999998,
+      "longitude": 72.5625388
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6raXAGFXjkR6R2wB5_pjSY",
+    "provider_id": "/g/11bbyfd5k6",
+    "rating": 4.9,
+    "reviews": 936,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Doctor",
+      "Orthodontist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "doctor",
+      "orthodontist",
+      "periodontist"
+    ],
+    "address": "104, 1st floor, Shivalik 5, New Mahalaxmi Cross Rd, Paldi, Ahmedabad, Gujarat 380007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 89806 23275",
+    "website": "https://www.usdental.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.practo.com/ahmedabad/clinic/us-dental-clinic-paldi/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnFv5sPxyD4a9aDI6CkIpsI6dxP-rd7WZz2ulJ4kxJtZ7V5s_wv6JLem3wuFmH_1uDtIZt9B3Lb-j3pMbkL9cU_rosv29w%3D%3D",
+    "user_review": "\"The staff is very helpful, and the doctors are skilled and friendly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqK4t4UM--eVkU54PFOgR9yZEr6FHf6u4me20iQKeaWXRho3GBwN_u_ASPDoxMQrnQHosSxnss21i4EApVVC1qcEbohVJGsxB-sxW8e3qq0kdggWhyUHsjmRbdr6YhWGGgcqzDezQ=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sj_d6HicBcHRboIwFADQL6qAdMSZ-IATITNugqG4vZhZ71qH9FJuCegP7hv8G895_GvnWpp73lWHE4WortATdBKNA-MmEhtPtcQkMfLiTMQD2A13vNwyBqIuX_hu_amK19t30kXr7DfqeQNT_5Jv4Kc6FBrDdDl8HPtjvN-tcNzmnckzpP1oiKbBhSdxK8RbYGVyQi3eUxqXjMZqBqG1fn1WqtK3MqO_pjidu-hLV2mqpL2v4J4vhpnPdOBHrGYGn0uFRiI"
+  },
+  {
+    "position": 3,
+    "title": "Clove Dental Clinic - Navrangpura, Ahmedabad",
+    "place_id": "ChIJhdTw0oyEXjkRJEXrbuVopkA",
+    "data_id": "0x395e848cd2f0d485:0x40a668e56eeb4524",
+    "data_cid": "4658526199179068708",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e848cd2f0d485%3A0x40a668e56eeb4524&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e848cd2f0d485%3A0x40a668e56eeb4524&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.038478299999998,
+      "longitude": 72.55963
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhdTw0oyEXjkRJEXrbuVopkA",
+    "provider_id": "/g/11gcx_gd0k",
+    "rating": 4.8,
+    "reviews": 686,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Aman Avenue, Swastik Society Cross Rd, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "10:30 AM–7:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 40 3824 5727",
+    "website": "https://clovedental.in/dentist-near-me/ahmedabad/navrangpura?utm_source=website&utm_medium=gmb&utm_campaign=Navrangpura_GMB_Ahmedabad",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is clean, well-equipped, and appointments are well managed.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerPz3pXKSPKNJg1vPRySpyi6dFI4OJFCU39GDnQ2Kby2QIbrERdufYN02J_f1qnTUQfOZx7YiKaULCcGCclDdScc2B7p7WcsgA8d5IYv4_lqiB4EPLH-1TQmGDG2Fwv7tQ41t91iA=w194-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3Bc-xXicBcFRkoIgAADQE5GBbObO7IdpmtqUZNbaT1Oo6GRAQppdsDPsbfa9v0-ttVTfhtHW5oQJwdryqcqOCq5LridU3A0mFaAKKMNZHZyh7JK3KX_jNIk3EYN9shtTOTazwg_xNvLdzLQDjxMUX0dEwmu33BXPKt9MUXSu4IPvM1JtTy8rb-JLtnZp4NLWK1JK0cKS1pEq5syLrzDv8bl9NAu8TNYrAPfkHngB8ofe0gRDbcPG-RmgjUFtI3ADXPwDBxxDdQ"
+  },
+  {
+    "position": 4,
+    "title": "Agrawal's Multi Speciality Dental Clinic",
+    "place_id": "ChIJ9R8It8-EXjkRKyCkzz1laoQ",
+    "data_id": "0x395e84cfb7081ff5:0x846a653dcfa4202b",
+    "data_cid": "9541550076688867371",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84cfb7081ff5%3A0x846a653dcfa4202b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84cfb7081ff5%3A0x846a653dcfa4202b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0247942,
+      "longitude": 72.5294606
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9R8It8-EXjkRKyCkzz1laoQ",
+    "provider_id": "/g/1pp2tzrc4",
+    "rating": 5,
+    "reviews": 727,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist"
+    ],
+    "address": "B, 105, Shital Varsha Complex, 104, Shivranjani Cross Rd, near Kalupur Commercial Bank, Suryapooja Block B, Satellite, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 79 2673 0229",
+    "website": "https://agrawaldentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic was clean, well-maintained, and had a welcoming atmosphere.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweogxsSirHJ4aeoheTJSnsodED9HZvHTNTbimqF2C3XNjr4ytXLpBZs73koMoCvPZbuapOD1E1KYoKAiDyV_MiHQpXv0yrEWvRS_-YYgtWQ69f4q9VkJf29kdrz59Pi3skkarFDhSQ=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PxQ5WHicBcFbcoIwFADQFUUKoY840w8qOBl8VAqDwI-DGJMY5cYkorjBrqG76Tl_v8I5baeedxZ4wgH4md0sMx30jvVu0sHF49qiziLrRbSM7gz4w-bS0DRsGQhWpHlv4ZDEhDYDLdbFXl6u82CGq_XJhKOrlvqrse9YwQpmw6bZ31r9HfuJv6hhEcl4LHcrSTNdDS-jSbbDT75Ddc3dNnsjx_BKSpUeA6IO5vlKNhJbpVozj0Wefd59_IEECZBCPfwD-tBGhA"
+  },
+  {
+    "position": 5,
+    "title": "32 Pearls Multispeciality Dental Clinic and Implant Centre",
+    "place_id": "ChIJNWvuz56EXjkRdeVuPRcQV8k",
+    "data_id": "0x395e849ecfee6b35:0xc95710173d6ee575",
+    "data_cid": "14508082416598312309",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e849ecfee6b35%3A0xc95710173d6ee575&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e849ecfee6b35%3A0xc95710173d6ee575&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0571624,
+      "longitude": 72.549363
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNWvuz56EXjkRdeVuPRcQV8k",
+    "provider_id": "/g/1tnqfctp",
+    "rating": 4.9,
+    "reviews": 2658,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dental radiology",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dental_radiology",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "3rd Floor, Shanti Arcade, BRTS Stop, 311-312, 132 Feet Ring Rd, near Jay Mangal Society, AEC Char Rasta, Naranpura, Ahmedabad, Gujarat 380013, India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM"
+    },
+    "phone": "+91 94995 57474",
+    "website": "https://www.32pearlsdental.com/naranpura-clinic.html",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Very quick, efficient, effective, and painless cleaning and fillings.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqQM4BjSHHsIIR5PnX2aeD_AdDHOpJizHchJBkftUD1A-VHrZRmT29C2rYs717fNLEkW9NPk3q_xa4rOjJtpgZ_wwAcdUtBXsU-GHozoY9_6gsm7SWpMVwDneZRxx73iBJpfwgaqQ=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WoAdV3icBcHdDoIgGADQJyInVs62LjBb5Pq1tPLGOUIsE9CPhusFe4bepnN-39oYDTPHedXeSCglXvwNvGdKGi7NiKnWERoQAwQOoRmxvDtux-HzRCms18nkIK-45FFB7hHd6_jxoayOw6YyaeQSlNE-T9ozDha4v4Hv-tVus2wuwe7QeF0xlON-_4yNFnlhLWH31IRXSNGKqo-6BcVUQOufLnqb2UjyPBkG33uEsa6sKLvj3LoYozrAqEFS_QFBMkXC"
+  },
+  {
+    "position": 6,
+    "title": "Stavya Dental Clinic",
+    "place_id": "ChIJHXMS9tCEXjkR-42elNjT0ps",
+    "data_id": "0x395e84d0f612731d:0x9bd2d3d8949e8dfb",
+    "data_cid": "11228269748147883515",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84d0f612731d%3A0x9bd2d3d8949e8dfb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84d0f612731d%3A0x9bd2d3d8949e8dfb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0203146,
+      "longitude": 72.5305332
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXMS9tCEXjkR-42elNjT0ps",
+    "provider_id": "/g/11c1ws28rr",
+    "rating": 4.9,
+    "reviews": 240,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental laboratory",
+      "Dental radiology",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_lab",
+      "dental_radiology",
+      "dentist"
+    ],
+    "address": "Upper Floor, TIRTHJAL, Opp. ICICI Bank, 132 ft Ring Road,, Way To Shivranjani - Shyamal Cross Road, Satellite,, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–2 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM"
+    },
+    "phone": "+91 89803 95039",
+    "website": "http://www.stavyadental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"I had to undergo Root Canal treatment and it was truly a painless procedure.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepXbgIJLdTqM8nY5fPPNcPJPYmRn30_FjTbFveY6id_WrZQyxL8HgfJRfm_Otl6sMus8B041WSCi25r6tvCYBqRV97rJkQMjCSZuCJICboKm1IrbNTywcEPdRPTaiMhWEDiAS_NCg=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4_pxKnicBcHh1oEwAADQJ5okku-c70eGo1GmOpI_Ha21orZsSzyhZ_A27v1-Kq079WcYTWWNmBCsob2ikgiuKdcjIlqDdQoQBZThbk_uQLtzzjy0L-KH7_B0VmIcEIxw2obcGmebW5xvnjS16yJL5OX4fu2dLStRWLbZQTe28nvlLMdTM4lgPZlJWz9hunyEp8VcovvRv8Ho0kPkwVzsWtOTeRC_B7LGRYjja-1XyXpVu1EWQPY_mJYDqsUE3AEXP4moRXw"
+  },
+  {
+    "position": 7,
+    "title": "Aashu dental and multispeciality clinic",
+    "place_id": "ChIJFVVVFfWEXjkR7OmghD7gS4Y",
+    "data_id": "0x395e84f515555515:0x864be03e84a0e9ec",
+    "data_cid": "9677074783453374956",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84f515555515%3A0x864be03e84a0e9ec&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84f515555515%3A0x864be03e84a0e9ec&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0345336,
+      "longitude": 72.56363
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFVVVFfWEXjkR7OmghD7gS4Y",
+    "provider_id": "/g/1tdxz952",
+    "rating": 4.9,
+    "reviews": 1870,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Denture care center",
+      "Laser cutting service",
+      "Medical clinic",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "denture_care_center",
+      "laser_cutting_service",
+      "medical_clinic",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "Dr. K.K.Shah's Bunglow, Post Office, behind Navrangpura, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "8 AM–12 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 98251 58578",
+    "website": "http://www.aashudentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.practo.com/ahmedabad/clinic/aashu-s-wellness-navrangpura/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnFdaMpgQauKFqKsb8kABkuIJpSIoexwwGOshp0YGDSRXcLvvWlXyOaWTkHU5KpWo8MSnSn40U3ga8o9DGhgzBGDrA_AMw%3D%3D",
+    "user_review": "\"The clinic is clean, well-equipped, and the staff is very friendly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoE2d5lii1sQgo-gO4t0hG6XbePBkjbg_baHsiElxotOHQC9-VTMQwuTsvfsfrYQ1FoU5l0BrPvWf92dn7GPmP5QTWAO9w0iKmppPVUGgBz3ghFNEKTg-FWO-JEs1-zLExiZi_1=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/K5-pR3icBcHRboIwFADQL7rS6nDDZA-wFMh00iYI217MwNJWCyXcKsb_20fsb3bO36_2fsRNEFi9WijnlJVXlFPrBi8Hv2hdH6gRoUXAIM6reJaOLU-hNYaiUA5U8eSJztafjeTJ5dyoY_OTo2H27nyRi7cIqvJDzNcSbx1205egqTuEliQTv9VdtDwNzxnveSjKOi6imZhtP468OmQqeayUTvdsWypI6wLeGVJ47NjdfJsjfZ1fCGhK1nCBwf0DA3dEcg"
+  },
+  {
+    "position": 8,
+    "title": "Mehta Dental Clinic",
+    "place_id": "ChIJuz4WgoSEXjkRvchZUqK4LuY",
+    "data_id": "0x395e848482163ebb:0xe62eb8a25259c8bd",
+    "data_cid": "16586397484957943997",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e848482163ebb%3A0xe62eb8a25259c8bd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e848482163ebb%3A0xe62eb8a25259c8bd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0528873,
+      "longitude": 72.5588396
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuz4WgoSEXjkRvchZUqK4LuY",
+    "provider_id": "/g/11bw5vhm1d",
+    "rating": 5,
+    "reviews": 487,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Doctor",
+      "Hospital",
+      "Medical clinic",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "doctor",
+      "hospital",
+      "medical_clinic",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Police Chowki, 203-204, Ratna Highstreet, Complex, Naranpura Cross Rd, above &, opposite Croma & Osia Hypermart, Ahmedabad, Gujarat 380013, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "10 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–9 PM",
+      "tuesday": "10 AM–9 PM",
+      "wednesday": "10 AM–9 PM",
+      "thursday": "10 AM–9 PM",
+      "friday": "10 AM–9 PM"
+    },
+    "phone": "+91 91730 99993",
+    "website": "https://mehtadental.co.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJuz4WgoSEXjkRvchZUqK4LuY/mid/%2Fg%2F11bw5vhm1d?sourceurl=https://www.google.com/search?hl%3Den%26q%3Ddental%2Bclinic%2BAhmedabad%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sVTK0DHpvCBkH-QMqZyE_f9ytPm2s3PY:2!2s1i:0,t:11886,p:VTK0DHpvCBkH-QMqZyE_f9ytPm2s3PY:2!7e81!12e5!17sVTK0DHpvCBkH-QMqZyE_f9ytPm2s3PY:90!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap",
+    "user_review": "\"Clean clinic, painless treatment, and great results.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqw65KKUbBCWf_h-TLAM5kKOwx9_iOLbfoU55l4E-e__y2zJfCTf6eE_NJit5dn6M_Nx0PON0mgXmJL314X_0-P6WW3SqcEnkVCgy9t0v8i-sOmDFErWwcTxTjt0_YbUK_DRBcJ=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vHbSOnicBcHRboIwFADQL7pSxRJZsgdEzAIIxoHo002opTCgVdtZ3P_tI_wbz3n9t8Zc9YfjDK07E0qJgf9qfmdKGi7NjKnREVcNTIN2gq9jYPnNejRJynodVg22UKTBjvZJbicfuzytG1VSOiwj4IjPxV_chEXj8QizuDP0Ir0dZhPZ5xkZxWmMU3e-PCGBvVdV7veNRbI_huLpG_JYdaDzcbON7pVlxVT8GILnukxwc1iz-NPO3RW0_gJ6kOoNb_xDgA"
+  },
+  {
+    "position": 9,
+    "title": "Teeth Care Centre® Dental Hospital [High-end Dentistry]",
+    "place_id": "ChIJaWto2tCEXjkRTraK_4w42I4",
+    "data_id": "0x395e84d0da686b69:0x8ed8388cff8ab64e",
+    "data_cid": "10293039126589126222",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84d0da686b69%3A0x8ed8388cff8ab64e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84d0da686b69%3A0x8ed8388cff8ab64e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0180835,
+      "longitude": 72.529896
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaWto2tCEXjkRTraK_4w42I4",
+    "provider_id": "/g/1vyk0xlc",
+    "rating": 5,
+    "reviews": 5836,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "2nd Floor, Pushpak66, 132 Feet Ring Rd, near Someshwar Jain Temple, Satellite, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+      "saturday": "9 AM–5:30 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM",
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM"
+    },
+    "website": "https://www.teethcarecentre.com/",
+    "extensions": [
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"The clinic is clean, modern, and the instructions were very clear.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepr6rcU4FYEpyN9CKZN7zz6ki_KegFMA4-CyL6Jr9LHBAz5JkZorYRWaIDosgsUYzbgTVeOLT106ucAf55y4sNQC4oeL-rjK_pF-uWyBe2uAR2_k37qwf7DIOLDrJLYnEO3fBRi3g=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vVjq43icBcFtDoIgAADQE5EpfmRbP1BzpaTLac3-uGKIpQmBzukFO0O36b3ftxkGobaa1jVwxThnHR0VlYT3A-2HFeFvjQkFiAJKQ4cLmqiQtiSFGZZ7MSeuH98SZ1ns9lnFlIUnZAJ_xnYkXXzw0GJF7Y3LMrvejwFXTBXl8mD5haY419f2SFBtWbOpkrNvcoqBfMWVCMF4nT1qjCgzqhY6n6l2gmOKAxnhst-nsPayJ2S7SYcb0LgGaEHP_zpmRF4"
+  },
+  {
+    "position": 10,
+    "title": "Global Dental Clinic CG road",
+    "place_id": "ChIJwbOkfgKFXjkRRoCfJD6sov8",
+    "data_id": "0x395e85027ea4b3c1:0xffa2ac3e249f8046",
+    "data_cid": "18420474808801132614",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85027ea4b3c1%3A0xffa2ac3e249f8046&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85027ea4b3c1%3A0xffa2ac3e249f8046&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0290847,
+      "longitude": 72.5571399
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwbOkfgKFXjkRRoCfJD6sov8",
+    "provider_id": "/g/119v9_smp",
+    "rating": 4.9,
+    "reviews": 347,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "prosthodontist"
+    ],
+    "address": "Lal Bunglow, 311, Balaji Heights, Cross Rd, near Idbi Bank, behind Tanishq, Ahmedabad, Gujarat 380006, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8 PM",
+      "tuesday": "9:30 AM–8 PM",
+      "wednesday": "9:30 AM–8 PM",
+      "thursday": "9:30 AM–8 PM",
+      "friday": "9:30 AM–8 PM"
+    },
+    "phone": "+91 94091 18811",
+    "website": "https://drjoshipura.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"I went for check up and extraction was completed in half an hour.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepgcabOgzCzixjUvnOoduNLe4wi85n2D6ryJNFFEJmzw_tPiZyCJ-zJssBtMHGtDKs1x7QPzLc4H9zCylHxdMX4AXMLaAAr38ThjCXiB90ygn3s1dgyiPTytnHBzfJJmOf5DbR-Lg=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hJNodXicBcFRboIwGADgE1VE0MmSPRTQNR0IM2whvhgttdRBS_jroL3gzrDb-H3_f60xA7x6XtcGC6G16PgD-Mi0MlyZBdO9JwZADBB4mHzjiQ-CXa6FcImT8_3rVxW6eRwyHk5yu1ardDNaetjvd7R309mU8mQTihwFiE1O3k36Af788lm6jIUkcontyNzkdYjrPLtgPAbbqr0ntYyjpRUqAL8RVpaVNYrE7kZpX9zW6fWIMvE2-ZsAtdEK_SClnyJQRqU"
+  },
+  {
+    "position": 11,
+    "title": "IVORIES DENTAL",
+    "place_id": "ChIJryJH0cuEXjkRYwzJMMMyPLM",
+    "data_id": "0x395e84cbd14722af:0xb33c32c330c90c63",
+    "data_cid": "12915253645310233699",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84cbd14722af%3A0xb33c32c330c90c63&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84cbd14722af%3A0xb33c32c330c90c63&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.031028799999998,
+      "longitude": 72.5261369
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJryJH0cuEXjkRYwzJMMMyPLM",
+    "provider_id": "/g/1q6kk5prs",
+    "rating": 4.8,
+    "reviews": 1219,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "periodontist"
+    ],
+    "address": "303,304, MAULIK ARCADE, 302, Judges Bunglow Rd, opp. MANSI TOWER, above KARNAVATI PAGARKHA BAZAAR, JAYMA SOCIETY, Vastrapur, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "11 AM–1 PM",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8:30 PM",
+      "wednesday": "9:30 AM–8:30 PM",
+      "thursday": "9 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 98983 04506",
+    "website": "http://www.ivoriesdentalclinic.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.practo.com/ahmedabad/clinic/dr-alaap-shah-bds-mds-ced-nyu-usa-implantologist-esthetic-dentist-vastrapur/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnEU3F0X8FFk0yB6PcdKcvLdzA2AGjJf-M_iOmaHjbfMUheURMlNMBRr38XZEf-MG7avW6dUgXDzmO2a5AhdJaxDz18i4w%3D%3D",
+    "user_review": "\"The staff was Friendly, professional and the office was clean !!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerO0c5Mo3zOXGelkBZDZckQ4yuIFukmTdoH081jMY1z2XSXxyUVlB9i0Ts98ISFQmiqoJMA0Nt_Bo09q3jqgb3FfN19F_GTL7VKZxpAY_8I-dhQOe8E17tzNv-Lyy9ZW_KzwQKzYg=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sUDl9XicBcHdboIwGADQJ6q0dgt0yS4gE2UIhIgMuCGxdkX5-cCWIX3BPcPeZuf8_TZaj-rNsrqGbiSA7MSsxIPDoMWgNxx6S44KcYWU5R5ydxGPBPPXCKhJir3oWq_6qHibvqxz4M9tn13hgB1yj0pitsWpeK7nvPPYDWeKOcHJT_vbBJ-Ri2Nde4DZRO-TvFD_OybMr_fZ0c7D6jm6Ze0E6NqkiXB2xNYm_kHHdWXVVx2aJQ1NKd8XQm3UsC1q0QD_Pt1Ewg"
+  },
+  {
+    "position": 12,
+    "title": "HAPPY DENTAL CLINIC",
+    "place_id": "ChIJ56RJnsqDXjkRbE1hImuoGJc",
+    "data_id": "0x395e83ca9e49a4e7:0x9718a86b22614d6c",
+    "data_cid": "10887637277259943276",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e83ca9e49a4e7%3A0x9718a86b22614d6c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e83ca9e49a4e7%3A0x9718a86b22614d6c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.109001799999998,
+      "longitude": 72.5948258
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ56RJnsqDXjkRbE1hImuoGJc",
+    "provider_id": "/g/11c0w0tzw7",
+    "rating": 5,
+    "reviews": 2131,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Hospital",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "hospital",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "First Floor, Shop Number 13, AARON ELEGANCE, New CG Rd, opposite to Radhe Bunglows, above Apollo and Planet Health Medical stores, Shrinath Bungalows-I, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat 382424, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "9:30 AM–8:30 PM",
+      "monday": "9:30 AM–9:30 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM",
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 85114 66406",
+    "website": "http://www.happydentalclinic.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Procedure was done fast, minimal wait time and barely any pain during.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweptKgnh88Pq5JPH6CSGW-g1FPT2s9j_vvYvZrQjZCZu5Fmt8SUcIsrWQJclD4fdHz6LDlq9st74Cp07fSCSGrRCIXT2dV9ehHZMoIOt4vbvBsbYfgQg51dnWSms-3ex8zoHeBwt=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aLmeenicDcxBjoIwFADQE1WkgoKJC8VocTSCOKJsTCyljQMt8r_FeD8PMbeZeQd4vx-F2MLUcWo1GkhjZC2eIDpuNAqNA24aR7ZAOBBw5uw070WLX1KrIEge_iZh4yhb50S6q-RIIbxfrb3YokvvRVQ8_VWDQfbNY-jydMPrpVeV7D3eLutHCDjxonY4qbL_oDtE8flIy1MoFCt2Jt6jZ292AbdLJVPpu6XOswbISLyCt2Fi0eOsdyklKqTkh2jzB80lRNA"
+  },
+  {
+    "position": 13,
+    "title": "Agarwal Multispeciality Dental Clinic Implant and Laser Center",
+    "place_id": "ChIJEcwa4w2EXjkR5MHObf8uNjY",
+    "data_id": "0x395e840de31acc11:0x36362eff6dcec1e4",
+    "data_cid": "3906361401384288740",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e840de31acc11%3A0x36362eff6dcec1e4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e840de31acc11%3A0x36362eff6dcec1e4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0547948,
+      "longitude": 72.59721379999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEcwa4w2EXjkR5MHObf8uNjY",
+    "provider_id": "/g/1tg33m0t",
+    "rating": 4.9,
+    "reviews": 758,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "8,9,10, Manibhadra Complex, B/7, Shahibaug Rd., opposite Rajasthan Hospital, Dhabharnagar Society, Arihant Nagar, Shahibag, Ahmedabad, Gujarat 380016, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM",
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 87802 32648",
+    "website": "https://www.ahmedabaddental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=079PXX79.XX79.090919093032.Q2Z4&rwg_token=AFd1xnEYDqfn1x_X5t4luZHgK4LWpyxe2nGwPVV7DOUeuueqUAEoN2blj0qvysyi5xWlPCeN_bLGeUIM-E79BLdCe5HlgAdsMw%3D%3D",
+    "user_review": "\"The staff is professional and the doctor is very kind.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqh_mWhBa4wV93oc9B66hnNeGHhYqrGIV2HKGy7y9c-gnsHr8s6Qc9R2WzVvSTmhr4onsc-lSiQkYjzTEyEw2_gErfIzd-G63ohv253AFnL1kIaLdlMFRIh0v0FBchUlKltUG_N=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hEA7KHicBcHdDoIgGADQJyILyqKtC90UXT9bf7quXCPiKxEKSKfv10P0Np3z-4L3L7cMAgVkJI2RSnycsNxoL7QfcdME8uUQd8gFUVZEnXhD1ZQQX6ddQYnhNA5D0DvBMri8LcsLnK1ZP-8pR1K7zC5cuOf0gMuhaI-nBuzUaMeROj729eU5nJI-6XAlE3vPhxtiITHQ4hmJUr2Z1Pl1c1Pb9JDDuB2nMYezWit_ZtVu1U3IAgHFqEba_AH4iUTC"
+  },
+  {
+    "position": 14,
+    "title": "Dental Clinic in Ahmedabad",
+    "place_id": "ChIJzbWQ8YGDXjkRvJeYLvw5dik",
+    "data_id": "0x395e8381f190b5cd:0x297639fc2e9897bc",
+    "data_cid": "2987639158083196860",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8381f190b5cd%3A0x297639fc2e9897bc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8381f190b5cd%3A0x297639fc2e9897bc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0673761,
+      "longitude": 72.5689738
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzbWQ8YGDXjkRvJeYLvw5dik",
+    "provider_id": "/g/11b7gkbtvr",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Abortion clinic",
+      "Dental implants periodontist",
+      "Dental laboratory",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Hospital",
+      "Medical clinic",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "abortion_clinic",
+      "dental_implants_periodontist",
+      "dental_lab",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "hospital",
+      "medical_clinic",
+      "orthodontist"
+    ],
+    "address": "B/3-4 Shyamal Complex, Opp Vaysvadi, Near Bhavsar Hostel New Vadaj, Ahmedabad, Gujarat 380013, India",
+    "open_state": "Open · Closes 7 AM Sun",
+    "hours": "Open · Closes 7��AM Sun",
+    "operating_hours": {
+      "saturday": "12–7 AM, 10 AM–12 AM",
+      "sunday": "12–7 AM",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–12 AM",
+      "wednesday": "12–7 AM, 10 AM–12 AM",
+      "thursday": "12–7 AM, 10 AM–12 AM",
+      "friday": "12–7 AM, 10 AM–12 AM"
+    },
+    "phone": "+91 97379 23223",
+    "website": "http://www.ahmedabadbraces.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo5vOd-cny_ViJ9sfhJ3cJP5qan8ONEqmQcxCwtBf-6ClCSJxkMfv9dLnOKu_MM77sXlSDKoNA1Ze0n8gDmXK2BTJ5x8Cl0OwoubDnxPMjz6UuiUcCky5lvf5akfUzpi6OxSFmO=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nUljIXicDcNtDoIgAADQE5F9DNO2fijWGmbUzNb604pATQQLVOp8XaLb1Nve91MY0-iZ44hiMsiVygVrNXtSJQ2TZkBV7eSNBlQD7QSrQ9AzBTtyA1S-zocS-5oXeELxFj4u0iObxaPeUYt6E3LgIoFSbKuEd_5tLUncnpNkOtVHkUax2gSjExtKL4_qYzwO9xhaD4kh6VV7jaTdJve3m7VlRlH1gqLj8FLx7N2ULrHpsibz3h-D4r8CUv0A1GtFbw"
+  },
+  {
+    "position": 15,
+    "title": "MODI DENTAL CLINIC",
+    "place_id": "ChIJF9PuaraEXjkRSOgYS_PbmmU",
+    "data_id": "0x395e84b66aeed317:0x659adbf34b18e848",
+    "data_cid": "7321405982227621960",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84b66aeed317%3A0x659adbf34b18e848&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84b66aeed317%3A0x659adbf34b18e848&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.034391,
+      "longitude": 72.509193
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF9PuaraEXjkRSOgYS_PbmmU",
+    "provider_id": "/g/1pty6hfzy",
+    "rating": 4.9,
+    "reviews": 160,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shilp Revanta, M106, near Club O7 Road, Bodakdev, Shela, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–6:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30–11:30 AM, 12:30–6:30 PM",
+      "tuesday": "9:30–11:30 AM, 12:30–6:30 PM",
+      "wednesday": "9:30–11:30 AM, 12:30–6:30 PM",
+      "thursday": "9:30 AM–6:30 PM",
+      "friday": "9:30 AM–6:30 PM"
+    },
+    "phone": "+91 97267 55207",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The doctors seemed genuinely interested in solving the issue.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqtn4qHdDaPblgISI5bHa_Kq9B0Wi1c55GEikyfz5SU1VnpnRW7ty86S5yyHx6ytkP1aI3F9_cHwCmNx1KgkxzK7eSxgXn_aGD7R_S59KL3S52RhwrBHmhpvH05JQoA1wmd7UI=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/miArvHicBcHbDoIgAADQLyIlI7OtB7titlayLm9OiaCpoEEhfV8_0d90zu8rjGn11PNqEQy4UrxmL82eVEnDpBlQ1Xi81YBqoL0Yn2PLOiNHHb4ti0NZ84QkqMRFnnbR3L88IEVos3pU7v5B5ATPspXZJTRuMibIOdyPnakOsEiCdZRTbBfNvocpr_pPGjLS86vMi80yzHKConQXEDTMhH3OcSPaN_bR9qhiaJtbeEpmFgYTIKIhqIBUf5yyQ_c"
+  },
+  {
+    "position": 16,
+    "title": "Dr Maitry M Shah Dental Clinic And Implant Centre",
+    "place_id": "ChIJY7lpTAOFXjkRnOsF0YZ_of8",
+    "data_id": "0x395e85034c69b963:0xffa17f86d105eb9c",
+    "data_cid": "18420144167931210652",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85034c69b963%3A0xffa17f86d105eb9c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85034c69b963%3A0xffa17f86d105eb9c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0096593,
+      "longitude": 72.5620167
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY7lpTAOFXjkRnOsF0YZ_of8",
+    "provider_id": "/g/11fyzfhw0w",
+    "rating": 5,
+    "reviews": 748,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "4th Floor, Merlin Pentagon, 406, Mahalaxmi Five Rd, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 94290 24468",
+    "website": "https://drmaitrymshahdentalclinic.com/?",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"I got my fixed teeth via implants which was done in a painless manner.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7s2uBrG8ocWfTp0S1GR5772ulXN64ox-1sk3CkHtgJRqyT2UZDaq4QV4wG2uNPbzGIcVgkELkROV_Q8iXaFMaUi8g_caDHwt4IQIqyca9OUYG7uhtTo_yDc-m3TKcYW4yWhWY=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/zxOOiXicBcFbcoIwFADQFQUkRMHO9EOlDfShBXmIP0x6hyZMkIBJhtL9dRHdTc_5-xXGjPrBdXvhO1wp3rdWt3dQg2kH44C6uXzUCDTS7i4ud3M7Bhrb_Z2GCqqvfFydPZqtgwDb_nLcEPWNPC39g4wNf8mmJcfFNWITSUsyU2yPH58_NIGSy6c3mZ3KJg27C3t-Z0UX8gZYFM-GJGkyLcC2p6KmgRUmV80SAbr5-SvUFVkqUdWPs7fxkdhiJNGg_gGf6URk"
+  },
+  {
+    "position": 17,
+    "title": "The Dental Wellness Centre",
+    "place_id": "ChIJ4-2ymfmFXjkROdBrrxykyNM",
+    "data_id": "0x395e85f999b2ede3:0xd3c8a41caf6bd039",
+    "data_cid": "15260627780454043705",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85f999b2ede3%3A0xd3c8a41caf6bd039&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85f999b2ede3%3A0xd3c8a41caf6bd039&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0212093,
+      "longitude": 72.5435538
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4-2ymfmFXjkROdBrrxykyNM",
+    "provider_id": "/g/11k7s4kmyy",
+    "rating": 5,
+    "reviews": 604,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shalibhadra Complex, 302, opp. Jain Derasar, nr. Nehru Nagar, Ambawadi, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–7:30 PM",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 98242 77468",
+    "website": "http://thedentalwellnesscentre.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Their professionalism, care, and expertise truly stood out.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfuDezThkcc1-x_NFwRUS6W1WdDUFhj2yh4PYkX8Z6XoRLXivHtL8yaqnLcRv3rdfUB-Is6MnGmcmyU6rEPKeMl2Y1VnmU5-dEJWWzv5HV1k0JDiE3GIjW4RK76MRyoaO2LJXdBGlzhk7z=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WkwPiXicBcFRboIwAADQE1UsaGVL9qEBQQRnqqW4H2NKpVpoHa0wuKMH8DZ77_0S1j7Mp-PUwptUWlc1fxreMq0sV3bCdONUDwOYAcZZxvmy5-31GfDxKCRjEPydd-sekwOikJYBWYu7O4jZ_iQL_wcVGqfFrYtt6g-XX5Uy3HlteSUrsDEoU1HDmoGgNtxveVa7J5irhsxBGSaUjt08zqGcJsEt9KLNnc7wdoEyPOjLt5smRbmK6lHIxfjVQ88H4sMFEij9D0cSRyQ"
+  },
+  {
+    "position": 18,
+    "title": "Pramukh Dental Care® - Dental Clinic in Ahmedabad",
+    "place_id": "ChIJg85b9KeEXjkRrIV1j7E8c1Y",
+    "data_id": "0x395e84a7f45bce83:0x56733cb18f7585ac",
+    "data_cid": "6229389442897249708",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84a7f45bce83%3A0x56733cb18f7585ac&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84a7f45bce83%3A0x56733cb18f7585ac&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0527002,
+      "longitude": 72.5339545
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg85b9KeEXjkRrIV1j7E8c1Y",
+    "provider_id": "/g/11bw5v33mk",
+    "rating": 5,
+    "reviews": 88,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service"
+    ],
+    "address": "Gayatri Electronics, 201, Shilp Corner (Second floor Subhash chowk, Gurukul Rd, opp. Maruti Complex, Memnagar, Ahmedabad, Gujarat 380052, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 70169 93042",
+    "website": "https://www.pramukhdentalcare.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"We got 6 dental implantation and fixed teeth in just 7 days.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepfIgDnXI8BHieLKJq2qxEjmTLx45-4FI4dMwIP_aIR87Y4wRsUdfUZ3KB6fKAeCOn5cS_H_hgWfNSVH7jEiOdo27Gosdt4cEhkj86Opuc_YhS5m7I3oS0Y9NPmBMcFIZ34KgtnvQ=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fTlQxXicBcHtFoEwAADQJ5pYS-UcP4poSiFf-dNx1tpEW9nIG3oGb-Pe35dr3aqJYTy4OWBSsgd9KfokUmgq9IDIxmCtAkQBZXjh0etpW2E2F2fs-OGNxtGqg90nqJt9_EEWQAuMynWPN8UV7xw7R_1OHcrqcDEjf1xFHp2lwiJZERacnaokO4Z2HdzSUkJ7KVWpEQn4vXbGafsiRc4zq7GxKbNh7iabxl-TBb6YKGJavLfTfgQh4C4EdyDkHwp2RCY"
+  },
+  {
+    "position": 19,
+    "title": "Clove Dental Clinic - Shahi Bagh, Ahmedabad",
+    "place_id": "ChIJQ4T5wZuFXjkR7tRpNEAhZAU",
+    "data_id": "0x395e859bc1f98443:0x56421403469d4ee",
+    "data_cid": "388472027501679854",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e859bc1f98443%3A0x56421403469d4ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e859bc1f98443%3A0x56421403469d4ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.054718899999997,
+      "longitude": 72.59645189999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ4T5wZuFXjkR7tRpNEAhZAU",
+    "provider_id": "/g/11j03p9sw_",
+    "rating": 4.9,
+    "reviews": 374,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Shukan Mall, Shahibaug Rd., opposite to Kedar tower, near Rajasthan Hospital, Shahibag, Ahmedabad, Gujarat 380004, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "10:30 AM–7:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 40 3824 5727",
+    "website": "https://clovedental.in/dentist-near-me/ahmedabad/shahibagh?utm_source=website&utm_medium=gmb&utm_campaign=Shahi_Bagh_GMB_Ahmedabad",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Dr Arpi addressed my immediate dental issues with precision and care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq8lX9Pi-BeDvOJ_jl6o5Ta-VbOjzJRsx6dLGe0V58_InPxYWMPpoxcOSph3xIAm0dWQ8d5LOghOK_sa08MbwAPh6m2Qli_TYkZNloezzvH3UH2tvG0OLWPRWlSc1rUAthr9AqOXpEo6pQ=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dsvra3icBcHdboIwGADQJ6pUCU1dsouaLaLDtfgDuhuipaFq4au0AuEZfQHfZue8X9p76z6CwOhwUgFURj2daiU0XjV-IqEOKuuQdMgFLM5Yrx7UHOfiihbqq-Pr4mYIRPszyi78Nq63biBlslQ4i2ixasRwyjfCwiD5zupwWLEal3lKyyjhleY_hTtjurn0TGhSz1JzLfan-9-vATWOXRwe4pnvlpgnudjmZien7YF53c7Zgx_tNxCbfvYUIz3FBN1RA__itUdl"
+  },
+  {
+    "position": 20,
+    "title": "DENTISTIUM Multispeciality Dental Clinic",
+    "place_id": "ChIJwVlGTRDK6qIRdTdr_ZW1mmo",
+    "data_id": "0xa2eaca104d4659c1:0x6a9ab595fd6b3775",
+    "data_cid": "7681651770240218997",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xa2eaca104d4659c1%3A0x6a9ab595fd6b3775&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xa2eaca104d4659c1%3A0x6a9ab595fd6b3775&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.041145399999998,
+      "longitude": 72.5290874
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwVlGTRDK6qIRdTdr_ZW1mmo",
+    "provider_id": "/g/11vkkpjhp0",
+    "rating": 5,
+    "reviews": 840,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Imperia, Sheetal Westpark Residency, 216, beside Hyatt Hotel & Vastrapur lake, Vastrapur, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "saturday": "9 AM–8:30 PM",
+      "sunday": "9:30 AM–6:30 PM",
+      "monday": "9 AM–8:30 PM",
+      "tuesday": "9 AM–8:30 PM",
+      "wednesday": "9 AM–8:30 PM",
+      "thursday": "9 AM–8:30 PM",
+      "friday": "9 AM–8:30 PM"
+    },
+    "phone": "+91 97267 55207",
+    "website": "http://www.dentistium.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Great hygiene, modern equipment, and amazing results every time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepYiIHw-J8MmTy7LdE7v4dAkNAl5J3PhXFfKrM2XMJUyz5zbdw9TbZ0JkX8s3gLQecU3xGRbF4KAwvbO88A_NE4oaGT4sBKQ9fFBBcJ9JFXU4H9jaNEfuKWSODnLQUARjodnc0Y=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/80pX7HicBcHtFoEwAADQJ5qiYTnHj3WUrA9KEX8crVWUrWMxvJ-H8Dbu_X3rvu_kTNPa2hhUQlQte0h2p4L3jPcDKm5a1UlAJZAadndYse5wWbkKEBTckvfUL-zpExa4CXE7JsamzpzSuwejLCDp-zP-5IUyk_yokyZD0qj8iNHUeC3j3IEeVs98jRA-hTYU52UCpeVFZulYFiUmcbIUuub1HNrlw9tv1wvuRymOr6LgVD_MFdJBPdQnoAFc_AFickLr"
+  },
+  {
+    "position": 1,
+    "title": "Clove Dental Clinic - Vastrapur, Ahmedabad",
+    "place_id": "ChIJrb2dC9WFXjkRobUYtQQWcMA",
+    "data_id": "0x395e85d50b9dbdad:0xc0701604b518b5a1",
+    "data_cid": "13866607462147732897",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85d50b9dbdad%3A0xc0701604b518b5a1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85d50b9dbdad%3A0xc0701604b518b5a1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.029447299999998,
+      "longitude": 72.52746619999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrb2dC9WFXjkRobUYtQQWcMA",
+    "provider_id": "/g/11h7y6vg2l",
+    "rating": 4.9,
+    "reviews": 362,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "shop no. 102, first floor, Satyam Mall, Jodhpur Village Rd, above Sonalben Khakhrawala, near Mansi Cross Road, Suryapooja Block B, Vastrapur, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "10:30 AM–7:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 40 3824 5727",
+    "website": "https://clovedental.in/dentist-near-me/ahmedabad/satyam-mall?utm_source=website&utm_medium=gmb&utm_campaign=Satyam_Mall_GMB_Ahmedabad-0502",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Clove Dental provides a professional and well-organized clinical experience.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFsyOj4XtwYsS7T4-g__NJDWkQ1fzQvHXakunB7SV9UYBtkI5xJu4bQ1rJ_GECbOTDIMNwSRm4L4zbbQrVdYVhJIYAD0dEupM4ZNCKXO9XIbIMIEFX5_0zWqJ7QSpSSeJe8fzR7SZgoc4=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uRHN_HicBcFRkoIgAADQE5FpNK7N9GFpG5Q6RGvYj7MY4WSJCWZ5xi7QbXrv8y6NafTMsq7lZCSVklfRadEWqjaiNqNC3SzZaFBooC1_nfq9uK_0K7lAZvpMU3cPgczzGAeHitjngTzW7L_q6oVLU-8vW5gKTZ-4g5zYLc5_wyVP9gGK4p7ubnALB85Jm56ytMQo84PxKeyaCB7j5YYlHkMcRShcsWk-Hg537BLaUCqw-DkPO5cepSrgvLcdB5SeAypQqy_HXEZN"
+  },
+  {
+    "position": 2,
+    "title": "SHAH DENTAL CLINIC",
+    "place_id": "ChIJF-Bz7ROFXjkR9BgGeGh5e2o",
+    "data_id": "0x395e8513ed73e017:0x6a7b7968780618f4",
+    "data_cid": "7672859879752997108",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8513ed73e017%3A0x6a7b7968780618f4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8513ed73e017%3A0x6a7b7968780618f4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.995554,
+      "longitude": 72.5997684
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF-Bz7ROFXjkR9BgGeGh5e2o",
+    "provider_id": "/g/11f62rwmj_",
+    "rating": 4.9,
+    "reviews": 1126,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Denture care center",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "denture_care_center",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist"
+    ],
+    "address": "Ff/7, Krishna Avenue, BRTS Stand, Gopal Chowk Cross Road, Bhairavnath Rd, Rambagh, Maninagar, Ahmedabad, Gujarat 380008, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM",
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 90164 47332",
+    "website": "http://www.shahdentalclinic.co.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=079PXX79.XX79.150727200619.Q5A2&rwg_token=AFd1xnED0sNkEt8sqji4mteK_Fl1xTVebvj8Sy0t2anXCeFH0oUsnS0zgEyoZ6P0T-dsrQ_RW6Fn9OdHtr_OmJkp_qFIJ5kntw%3D%3D",
+    "user_review": "\"The clinic is clean and well-equipped, and the staff is friendly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqtbX8ZMxERmmi7JojaVyaK0XiYTfdlitbZ3g2bSH8B9f67ldFMTgdXMm2wyILJVxKSu9xGfdkYW485CLliV8GkRgC4WBK3Ce45ewjKBtaua91u3wxoPEe5WatrkyJCQBFvHFk=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lKQVmnicBcH_EkIwAADgJ1rKCN31By6J3PXrUP8NM9pY2TTer5fobfq-37eR8iU2msYauCCcE4ZHgYeS9xL3clHyTiMvAUoBhOaGqavwWxa5_Uim3aXrWiviT5TOKF7m7f1WV6yVxQMSvbiGtufUa4tVQXIjVZ50upoPxyid4uvoTPu6ovfMsE3_yNrU3tML8Y3Mi6GPDROrZ-xJNCJnNUI18dMOmxmSA50j_-wFnzCgW7WCFmgcHVDQ8z_SgESg"
+  },
+  {
+    "position": 3,
+    "title": "iDent - Dental Clinic",
+    "place_id": "ChIJa2mYXNqaXjkRgxkhnffsAuA",
+    "data_id": "0x395e9ada5c98696b:0xe002ecf79d211983",
+    "data_cid": "16141724562686548355",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e9ada5c98696b%3A0xe002ecf79d211983&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e9ada5c98696b%3A0xe002ecf79d211983&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.000647,
+      "longitude": 72.5060692
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa2mYXNqaXjkRgxkhnffsAuA",
+    "provider_id": "/g/11dfh5fwc6",
+    "rating": 5,
+    "reviews": 923,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "212, Second Floor, SPG Echelon, Prahladnagar Extension, opposite to AMC Garden, Makarba, Ahmedabad, Gujarat 380051, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "10 AM–1 PM, 2–9 PM",
+      "sunday": "10 AM–1 PM, 2–9 PM",
+      "monday": "10 AM–1 PM, 2–9 PM",
+      "tuesday": "10 AM–1 PM, 2–9 PM",
+      "wednesday": "10 AM–1 PM, 2–9 PM",
+      "thursday": "10 AM–1 PM, 2–9 PM",
+      "friday": "10 AM–1 PM, 2–9 PM"
+    },
+    "phone": "+91 90332 22210",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"The clinic is clean, well-equipped, and the staff is very friendly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoVNCJckY0RHVh3_kUSh2xL2WMVtIk2cfaqUj-oZqBsGJXHJP_LRxpx2yb6D4sHRNABy8ZDwbk_WbHdW8PY1AzwrQYf-CGhrLK9HUsPXHrS531akVsXsS0Pa_62vbAAPAW8KwM=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YKj9PXicBcFBjoIwFADQE1WkqEETFxUTK6LpQCjghkBFGqsU-R2Lc765hLfxvc-_NKaHlePcpTdptW7vzS80g9CdaTozEfrhtD0gAQgcQjmxjeanIBSqmMaUS69UaSLxGOHsyM1eYXGtnukN6fNzA7swpyEro3jsR_yuF9sZ0PhENm__vLW1KrOaXjKfFS75s8NPcUXBTg7RYUlTYDkdkrnnVopDDsmUVeUCv2pCGMn8gz2urYsxkkuMFOr0F4WdQ5o"
+  },
+  {
+    "position": 4,
+    "title": "Vedant Dental Clinics SINCE 2013 DR PANDYA AAKASH B [MDS] DR TITHI A PANDYA [ MDS ] IMPLANTOLOGIST",
+    "place_id": "ChIJQa7cPiqbXjkRQOn2ApvRjF0",
+    "data_id": "0x395e9b2a3edcae41:0x5d8cd19b02f6e940",
+    "data_cid": "6740993205966661952",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e9b2a3edcae41%3A0x5d8cd19b02f6e940&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e9b2a3edcae41%3A0x5d8cd19b02f6e940&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0118019,
+      "longitude": 72.5156404
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQa7cPiqbXjkRQOn2ApvRjF0",
+    "provider_id": "/g/11b6gr0fg3",
+    "rating": 5,
+    "reviews": 1544,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "EARTH EVENUE, Deer circle, F103 EARTH EVENUE, F103, 100 Feet Rd, opposite to Dev Aurum Commercial Complex, Anand Nagar, Prahlad Nagar, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Closed · Opens 5 PM",
+    "hours": "Closed · Opens 5 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–1 PM, 5–10 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1 PM, 5–9:30 PM",
+      "tuesday": "9:30 AM–1 PM, 5–9:30 PM",
+      "wednesday": "9:30 AM–1 PM, 5–9:30 PM",
+      "thursday": "9:30 AM–1 PM, 5–9:30 PM",
+      "friday": "9:30 AM–1 PM, 5–9:30 PM"
+    },
+    "phone": "+91 88661 07588",
+    "website": "https://ahmedabadvedantdentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Expert advice and treatment available and Very friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweplvPlpyaeYiD2R3YEFU-0JIwpZhdAyhrzpc2ZFjvFqueDJuVtLu0WDyiRGuPegkC-WqW7nkM-UxEANRoMPQMutVTzbpudMB9-46cY2DLRhFc0cunuGTYIW1yfqJGqHVf7R1fba=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Wg0g7HicBcHdEoFAGADQJ_r0ZxhmXESKRiY71NQda2spu5vdT_J-HsLbOOf35cYoPbeslnujWsq6ZajZk0phmDAjKh9WrTRQDdryN5nfM9W-0lYNZ1bcApd4xTo8gR1ve1Xyqz_w50dRtwzvr7BDFsSYmR3aeTDcSIQpq5sV5F0-FU0Cp_fa3xOZpIcETXb8XBRek-UMxhNauMGO8JDaFAVGx2KbO0PVxVG3yaopcarLedE7Ew_4zIUGhPwDblBFtQ"
+  },
+  {
+    "position": 5,
+    "title": "Arham Dental Clinic Vasna",
+    "place_id": "ChIJFxHb-waFXjkR4VwvSwGu0EM",
+    "data_id": "0x395e8506fbdb1117:0x43d0ae014b2f5ce1",
+    "data_cid": "4886596916276583649",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8506fbdb1117%3A0x43d0ae014b2f5ce1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8506fbdb1117%3A0x43d0ae014b2f5ce1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0101582,
+      "longitude": 72.5464291
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFxHb-waFXjkR4VwvSwGu0EM",
+    "provider_id": "/g/1q6j5sg9r",
+    "rating": 4.9,
+    "reviews": 546,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Dharnidhar Derasar, FF1,2,3 Jaydeep Tower, nr. Fly Over, Shreyas Tekra, Vasna, Ahmedabad, Gujarat 382460, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "saturday": "8:30 AM–10 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "8:30 AM–10 PM",
+      "tuesday": "8:30 AM–10 PM",
+      "wednesday": "8:30 AM–10 PM",
+      "thursday": "8:30 AM–10 PM",
+      "friday": "8:30 AM–10 PM"
+    },
+    "phone": "+91 90335 65729",
+    "website": "http://www.arhamdentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=079PXX79.XX79.120118113202.R9C1&rwg_token=AFd1xnF51v59ZU06eMLcCJSbqRJAEuG1i_KF1uNFMiRZNeFbJsKno5tjI2UaV5wm53W-UnvKA-By3qw6x65ALdG0PHWy93Cseg%3D%3D",
+    "user_review": "\"Got my cavity filling done—completely painless and very smooth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoatnfiEpyLhvBvKjahdXnAlJHJa5CyT4tyBgl_kBde1lfcQtivjQ2C4HmzGt3oHKBJubHk0HZWBZp0yAphnDKjff3-jdnJ9cbKaFjlTTFDU6ze3zlV7ckR-RC4hcmTPdNkb2fs=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RJdFuXicBcHbDoIgAADQLyJL7Lr1IHZh2lo1u6yXpggSILAgm_5fH9HfdM7vy723bhEEisNBbUyt6NvRFzHaU-0HxDRBbR0gDrggxpf4Q03hNXuubbfjLWozUfDqpmOV4rQYJ10e-Q7V6iFRRUeKkaN_tuIYJhFu-q2HBmcofZdYDvH9iu522MWW61UmGINAVDqdkzIrNkLl-WZ1nvQU9uoyJfIETknESZMfqr0sQ-aWnxGcAT4PgQTa_AGfBkYm"
+  },
+  {
+    "position": 6,
+    "title": "Clove Dental Clinic - Prahlad Nagar, Ahmedabad",
+    "place_id": "ChIJA9XYvyCbXjkROT2HbPmxPXo",
+    "data_id": "0x395e9b20bfd8d503:0x7a3db1f96c873d39",
+    "data_cid": "8808392131032333625",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e9b20bfd8d503%3A0x7a3db1f96c873d39&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e9b20bfd8d503%3A0x7a3db1f96c873d39&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.01894,
+      "longitude": 72.5155679
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA9XYvyCbXjkROT2HbPmxPXo",
+    "provider_id": "/g/11h2njqqq4",
+    "rating": 4.8,
+    "reviews": 547,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Ratnaakar Atelier, Prernatirth Derasar Rd, Chotila, Jodhpur Village, Ahmedabad, Gujarat 380015, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "10:30 AM–7:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 40 3824 5727",
+    "website": "https://clovedental.in/dentist-near-me/ahmedabad/bodakdev?utm_source=website&utm_medium=gmb&utm_campaign=Prahlad_Nagar_GMB_Ahmedabad",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They provide excellent dental care and have a team of skilled professionals.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepxITKeuKVe88ysArZJ8gsXuCnIAo2rF1S28i1yADySzfh7uIAsu-j4Z47J_RCebPJHneH-6oB4dpFnbm7DAH6r3OrE-pyqt1zewZRgtKRWCf0u2KnTTSKNMVHxPiO3icom0GptbHmAZTrB=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8l1Re3icDc5tboIwGADgE1WkEEETf1TUFZpNA4Qt_DGBvRZU2tqPIN7RA3ib7TnB83511iqz8rxbF8y4lPwGzoBupbAg7KyVg8eVQa1BxiO0IiOoR1oycKyCOJ4M0XUWc_PjEpESifXeL3Dc-xPZTsXz3EUuJcahS1iHUXbKE2iOGRVA0UJuwl-1F80QbQld6OCgd0hNd-s_Yaxzbln-nZznDjNRlgX7-qzo49gfgv5_NP9QtqEDqUu9WY8-xqhbYnRFQv4BFIRHRg"
+  },
+  {
+    "position": 7,
+    "title": "Aarsh Dental Clinic",
+    "place_id": "ChIJgRNYje2EXjkRlWyDqcBstT0",
+    "data_id": "0x395e84ed8d581381:0x3db56cc0a9836c95",
+    "data_cid": "4446579781831715989",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84ed8d581381%3A0x3db56cc0a9836c95&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84ed8d581381%3A0x3db56cc0a9836c95&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0332896,
+      "longitude": 72.5552422
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgRNYje2EXjkRlWyDqcBstT0",
+    "provider_id": "/g/11g6r1wkfq",
+    "rating": 5,
+    "reviews": 287,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "10, Aaryan Workspaces St. Xavier's Corner, Navrangpura, Ahmedabad, Gujarat 380006, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 99986 40444",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"They explained the whole procedure and care routine very carefully.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerr_XR6zESvCas47X13l8cM-2nvss47QHq5osCYeAGMlwH0VnemvNE4HKMfhbUlOv6Id5Uq1Gpw8skv3gOhX26cmLq_KYPSrNw_84XHfadFI8XPDFvt2Mh7FW9NA9eJxBQAiqprzg=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1lgdKHicDcdLcsIgAADQE2Gaj5F0pguqRtQm_kbFVcYigiOBBCh0vKBn6G3s272_p3Cus-9RJEU64FpzyX4sM1Qrx5QbUN1GvLOAWmAjhA8oMGMass0f050fn202InEqIa1Aorz97wb3Q23HJ4ZmlQz47aBY6-tphpfVVXzv5crn88tw38ezLkB79ylfCZLktP3qm-VpvTN1aGBG8PV8KeeQrCeld0klRuWxqFHBFr-fG3TrO_PgHyFOIRBFAu5A6RdVHUUb"
+  },
+  {
+    "position": 8,
+    "title": "Sheth Dental Clinic",
+    "place_id": "ChIJ____P_WEXjkRyotbjRcvz8o",
+    "data_id": "0x395e84f53fffffff:0xcacf2f178d5b8bca",
+    "data_cid": "14613951094042889162",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84f53fffffff%3A0xcacf2f178d5b8bca&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84f53fffffff%3A0xcacf2f178d5b8bca&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.045917499999998,
+      "longitude": 72.5548041
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ____P_WEXjkRyotbjRcvz8o",
+    "provider_id": "/g/1wtbs8x4",
+    "rating": 4.9,
+    "reviews": 668,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist"
+    ],
+    "address": "1st Floor, 4,5,6, Sharanya Avenvue, Above HDFC Bank, Swati Five Roads, Near Darpan Six Roads, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Closed · Opens 5 PM",
+    "hours": "Closed · Opens 5 PM",
+    "operating_hours": {
+      "saturday": "9 AM–1 PM, 5–9 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–1 PM, 5–9 PM",
+      "tuesday": "9 AM–1 PM, 5–9 PM",
+      "wednesday": "9 AM–1 PM, 5–9 PM",
+      "thursday": "9 AM–1 PM, 5–9 PM",
+      "friday": "9 AM–1 PM, 5–9 PM"
+    },
+    "phone": "+91 98255 98120",
+    "website": "http://www.dentalclinicahmedabad.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.practo.com/ahmedabad/clinic/sheth-dental-clinic-and-implant-centre-navrangpura/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AFd1xnGxPb-y0TYZ4kaQ8NyYnQFgU9gHIbeiPfCSHXwCSQCdUzOs0w6m6rUVryAlcoeCw6uuiKpve-7w8zE8-cASgPvd9vm3ig%3D%3D",
+    "user_review": "\"The level of professionalism, kindness, and efficiency here is unmatched.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweovgBc8v3kXlSg6jbxSPfmGFmcOFoYS156eSwJyyty2lgf87OBND0CfGlB1oDGsd4_E3ZP39Sz8PIDhzvTRqhLVsHcZS8-brzBynjop9s96XTmeSPwKuilKHnbSLV8wGsyB9vIgEw=w164-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ti_VNHicBcHRTsIwFADQLypzDGdr4gN1sCFEFksW5MVktWuFrndyy2r3g36Df-M5f7_G-wEfk8SabKYBtFU3VFcJzivnZxL6RA9IJBJMllWzDApGzSUds8vRCp2f2x9Rd3257uV-De8ivc-VCC8x-ji3uqMPe_5a3D13peUpFCV-Lj5W2anOmJhovSnMNB7evs2uwUqeBCXtdeLRnWFgyPLjoVeiDtvbl91WrhW7hoYSI2fjRq_CU0jzBTFsTi7EwT-sI0ZB"
+  },
+  {
+    "position": 9,
+    "title": "PERFECT SMILE DENTAL CARE , NAVRANGPURA, AHMEDABAD- DR MONISH KOHLI",
+    "place_id": "ChIJrfr9OpGEXjkRtSLl2m1zaEw",
+    "data_id": "0x395e84913afdfaad:0x4c68736ddae522b5",
+    "data_cid": "5505777460121510581",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84913afdfaad%3A0x4c68736ddae522b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84913afdfaad%3A0x4c68736ddae522b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.044554899999998,
+      "longitude": 72.5513446
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrfr9OpGEXjkRtSLl2m1zaEw",
+    "provider_id": "/g/1hc4wpxfh",
+    "rating": 4.7,
+    "reviews": 239,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "Pallavi Row House, Fire Station, 15, opp. Memnagar, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM",
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM"
+    },
+    "phone": "+91 99241 88814",
+    "website": "http://www.website.monishkohli.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The treatment was effective, painless, and tailored to my needs.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweozZOmGVXw-9xZeXBc6ha2H4suxDQKKqdjV_Ym7xrSt69ACPKjn7I2pbKoknQZmjNwlMM9QaJN5nT0sQmCsFLfBzqWsUro7ynGO54DwLHJktDQbkh3J3fmgKFX94v1WQcx8iP0gYw=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9oCb53icBcFbcoIwFADQFUUUEJrO9ANllBJfGSsiPx1NY1IgCXJjg26wa-hues7fr7S2g1fPa2UwEsaIlt-B98xoy7UdMaM80QFigMBLsiJx3DyrrVoWpUN4qHg5Y5E8-1kI9yGlhNy-6uLzpOKh39sIJ_MdqXX87ncXYhpNK1VvXLteY3rON1P9MQaq5rBYXWfP2xEOvYkfermdhqlbZXljU3ppZJAHVyXIosThz-RI2fDyvRuLk3tzkyhAEvuoQdr8A8HMRfw"
+  },
+  {
+    "position": 10,
+    "title": "32 Pearls Multispeciality Dental Clinic",
+    "place_id": "ChIJz51nxPCDXjkRBrn_KGMrx_Q",
+    "data_id": "0x395e83f0c4679dcf:0xf4c72b6328ffb906",
+    "data_cid": "17638114170509441286",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e83f0c4679dcf%3A0xf4c72b6328ffb906&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e83f0c4679dcf%3A0xf4c72b6328ffb906&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.104512699999997,
+      "longitude": 72.59723749999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz51nxPCDXjkRBrn_KGMrx_Q",
+    "provider_id": "/g/11jp208skd",
+    "rating": 4.9,
+    "reviews": 360,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "2nd Floor, Sangath Mall-1, 215, Visat to Gandhinagar road, opp. Vishwakarma Government Engineering College, Motera, Ahmedabad, Gujarat 380005, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8:30 PM",
+      "tuesday": "9:30 AM–8:30 PM",
+      "wednesday": "9:30 AM–8:30 PM",
+      "thursday": "9:30 AM–8:30 PM",
+      "friday": "9:30 AM–8:30 PM"
+    },
+    "phone": "+91 90544 96813",
+    "website": "https://www.32pearlsdental.com/motera-clinic.html",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is clean and modern, and the treatment was smooth and pain-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo60eSrrvU_3_Kd4dpk7WK4lc1HvkUagT_FC4CbpUlE0Nrhj7OmKSX53k1Ikyl9cuAYfOLzFhkSmlvLn_4DYLEjJfv4XMBP3-X76AG1Uh6ahiPvXcALOMCxxEcf3GBi7XS-Fmc_=w147-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Rwg4BHicBcFdkoIgAADgE5G5kEw70wOZ1q6WzZgbPTGGKAWKI0Y_9-sQ3Wa_7_OW49jbb8_TEk4aYxotblYM3HSj6MYJN63X9BZwC6xHNn_kLkwwFfkwuIJBllSo6hU-Jkhzf-NUUTYHFocoPPeFjqa7QV5x1iY5nUHl_6innvMbOdVZ-oqlylvt0o6h1SmNrr-1Q3S73ENAcUDWfiGDUl72jnKSZtvw8Yh4DdfLC6Y5iFvOFncfYSDnX0CBzvwDxwFD3w"
+  },
+  {
+    "position": 11,
+    "title": "VIVIFY care hospital - Best Dentist and Dental Clinic in Ahmedabad",
+    "place_id": "ChIJzSIl0CCFXjkRpdTDgyMrDKo",
+    "data_id": "0x395e8520d02522cd:0xaa0c2b2383c3d4a5",
+    "data_cid": "12253216117702775973",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8520d02522cd%3A0xaa0c2b2383c3d4a5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8520d02522cd%3A0xaa0c2b2383c3d4a5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0442012,
+      "longitude": 72.5497951
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzSIl0CCFXjkRpdTDgyMrDKo",
+    "provider_id": "/g/11qzc805kr",
+    "rating": 4.9,
+    "reviews": 97,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dental radiology",
+      "Dentist",
+      "Emergency dental service",
+      "Oral and maxillofacial surgeon",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dental_radiology",
+      "dentist",
+      "emergency_dental_service",
+      "oral_maxillofacial_surgeon",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "Child Care Hospital, 120 feet ring road, near LIC advisory office NearVijay Cross Road, and memnagar fire station, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM"
+    },
+    "phone": "+91 75671 56555",
+    "website": "https://vivifycare.in/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Very nice experience got my zirconia caps done absolutely amazing\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqDX-YxGGibBh39JiazdV5fCwupufJJH_GtBGzeQhTBWC-dIuSyXLXMG8zrPg_N5gG-fHhkqEqRNGRnU1yWRzOpi1UBPBKMYiZOx0qTFNSpavtEaLw5O7vsdlBo6fTw7BvM1C1x=w344-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tFT8GXicBcHtFoEwAADQJ5ok-TrHDwtLVCTEHye1to60Zaul9_MQ3sa9vy-VkouZphXU6BHGSIFrgd8JKyUuZS9hL41wARIBhLawzwuFq2UEri1C-QNSY-rkcZeezcxSNa8zx7HvSELU4QMN4cUC6aY-fqJd5KJJ996Tu2cSBDKbPqtVFXgoKE_65xJ0Ps_1E9zDrXvNb37br8K1d-RxI1fxTpn-uBFpAdkoC9UYNq5u6e1cGcMhoNMBeIKS_QEYNEUv"
+  },
+  {
+    "position": 12,
+    "title": "Darshan Dental Clinic - Best Dental Clinic in Sola Ahmedabad",
+    "place_id": "ChIJLwJqExOdXjkRabD4J67GTvg",
+    "data_id": "0x395e9d13136a022f:0xf84ec6ae27f8b069",
+    "data_cid": "17892456820886777961",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e9d13136a022f%3A0xf84ec6ae27f8b069&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e9d13136a022f%3A0xf84ec6ae27f8b069&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0761888,
+      "longitude": 72.5087648
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLwJqExOdXjkRabD4J67GTvg",
+    "provider_id": "/g/1yfh_jzgb",
+    "rating": 5,
+    "reviews": 535,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "pediatric_dentist"
+    ],
+    "address": "C 108 , ozone solitaire, Science City Rd, opposite Hetarth Party Plot, Sola, Ahmedabad, Gujarat 380060, India",
+    "open_state": "Closed · Opens 4:30 PM",
+    "hours": "Closed · Opens 4:30 PM",
+    "operating_hours": {
+      "saturday": "10 AM–1 PM, 4:30–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4:30–8:30 PM",
+      "tuesday": "10 AM–1 PM, 4:30–8:30 PM",
+      "wednesday": "10 AM–1 PM, 4:30–8:30 PM",
+      "thursday": "10 AM–1 PM, 4:30–8:30 PM",
+      "friday": "10 AM–1 PM, 4:30–8:30 PM"
+    },
+    "phone": "+91 87581 17244",
+    "website": "http://darshandentalclinic.net/",
+    "extensions": [
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Satisfying results, painless procedures, dynamic appointment timings.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq6y5qSAOalW3tFmn3RSO_6t74gS2dLU4viEuEwTxNIU0E65SsMHpTfIGiIlHJklrAhNC8c5D1fHcPc582YVmz-34FuYjKi7HB9RP_iClCJconBUs4OKakeariTZMGBQW0dtEg=w124-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BXGlrHicDc5bEoIgAADAE5GlaI-ZPtQs7GWl5thP4xAhiWKCWZ2vS3Sb2hPs95MrVcuJpvHc6FEhKCetJA0WlSKV6mFRarSWAEsgNRsd7Y7crZd5D-0g44mh5mVlHMLgbKkhpKF-WcfwwbzW66Ln1o_7nmWGcoPq6OovmM_RsuCNnW_dETZngyvCO2yO9PRYvoEB5216W7EhcsaH3Zm53F3-E04sYbDKCpI1LDptFs4-6V-UR6fdQIcgH-ugAJX4ATEeQwk"
+  },
+  {
+    "position": 13,
+    "title": "HD Dental Clinic and Maxillofacial Center",
+    "place_id": "ChIJ38RSL5CEXjkR2o0mo-hVMXo",
+    "data_id": "0x395e84902f52c4df:0x7a3155e8a3268dda",
+    "data_cid": "8804913204144016858",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84902f52c4df%3A0x7a3155e8a3268dda&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84902f52c4df%3A0x7a3155e8a3268dda&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0469948,
+      "longitude": 72.5556012
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ38RSL5CEXjkR2o0mo-hVMXo",
+    "provider_id": "/g/11f405grv2",
+    "rating": 5,
+    "reviews": 300,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist"
+    ],
+    "address": "301, Soham 1 Complex, Opp. Karnavati Pagarkha Bazar, Darpan Six Road, Nr, Navrang Cir, Roads, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Closed · Opens 4:30 PM",
+    "hours": "Closed · Opens 4:30 PM",
+    "operating_hours": {
+      "saturday": "10 AM–1:30 PM, 4:30–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1:30 PM, 4:30–8:30 PM",
+      "tuesday": "10 AM–1:30 PM, 4:30–8:30 PM",
+      "wednesday": "10 AM–1:30 PM, 4:30–8:30 PM",
+      "thursday": "10 AM–1:30 PM, 4:30–8:30 PM",
+      "friday": "10 AM–1:30 PM, 4:30–8:30 PM"
+    },
+    "phone": "+91 94282 38558",
+    "website": "https://www.hddental.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Both doctors are exceptional, very kind, highly skilled and knowledgeable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep6MCt0IRp_8jNEp-1LfA8fxloLRDmtK_C1sODAyrD3hpal5dJ3TV98EVhcJIT26uYlw7MB6-W0Wl4QIkkjUU1vTtsUKeX02VQJe4h2osZX25yO3JzqRq_p83TN6Djt5cRMGls=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6TIA7nicBcFvE4EwHADgTzSrrRJ3XkSOIk7XH7zp3Ey7mjZ-I3w-X8K38Ty_rzBGwxhjKeigVqqW_AH8zlRneGcGTF1xrQExQICDZRH0XHvJzFhRqiu_2cw1steXwL-8pFqn4dWsqpkN2zB430Mq9Em655hmxcifF4LFUUa8x0H2w2TqodIqpbOL2rbJc_uZGchXfG-RYhdzRxAFxz1x31saf27prdI-zTZe2BiXpclCwqS3CUFiRFCLOvUHGQlC1A"
+  },
+  {
+    "position": 14,
+    "title": "Clove Dental Clinic - South Bopal, Ahmedabad",
+    "place_id": "ChIJrZpkmnObXjkRKku9sihd4rk",
+    "data_id": "0x395e9b739a649aad:0xb9e25d28b2bd4b2a",
+    "data_cid": "13394370671132101418",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e9b739a649aad%3A0xb9e25d28b2bd4b2a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e9b739a649aad%3A0xb9e25d28b2bd4b2a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.016824699999997,
+      "longitude": 72.4703427
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrZpkmnObXjkRKku9sihd4rk",
+    "provider_id": "/g/11h89gbfd_",
+    "rating": 4.8,
+    "reviews": 487,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "Orchid Center, Safal Parisar Rd, above Kalupur Bank, South Bopal, Bopal, Ahmedabad, Gujarat 380057, India",
+    "open_state": "Open · Closes 7:30 PM",
+    "hours": "Open · Closes 7:30 PM",
+    "operating_hours": {
+      "saturday": "10:30 AM–7:30 PM",
+      "sunday": "10:30 AM–7:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–7:30 PM",
+      "wednesday": "10:30 AM–7:30 PM",
+      "thursday": "10:30 AM–7:30 PM",
+      "friday": "10:30 AM–7:30 PM"
+    },
+    "phone": "+91 40 3824 5727",
+    "website": "https://clovedental.in/dentist-near-me/ahmedabad/south-bopal?utm_source=website&utm_medium=gmb&utm_campaign=South_Bopal_GMB_Ahmedabad",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is clean and modern, and the staff is friendly and efficient.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepXbPfG80MN-mR0RNghtkT6qEFofbQLk0Gp5vX4LfaZdirwaK0ut1g-GuiMUm7PQM9jFm9INJzqqTCaM-xz6R2efWsZHv1cnwvzqqshNwtaKMlxNQ9tCETC7lIbJoVngKj8hUk=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JZHH2XicDclJDoIwAADAF1UWFcHEgyGAim2A4BJugKVVoAVaKPF9fsLf6Fzn-6FSdmKraQ1dLgjnpMGjwEPJmcRMLkreaqQToBRAaPvDda9wdy-iKrB1iECb6AkiVNap1Xs-r4r4XOtBt57uq3OVZ4_noPJQH6VBQDA-4aXdRDF0Xn7rHNHp3fepm0Mwv63ExNVNZIfJKJma_iEoUjIPYTOj2JGul7qb5lic-JWR8GXTS71ThmkC6pigBoz_AMcIRXY"
+  },
+  {
+    "position": 15,
+    "title": "Tuskers Multispeciality Dental Care - NABH Accredited Dental Clinic",
+    "place_id": "ChIJ4wcfQASFXjkRVvKfiTn4xrY",
+    "data_id": "0x395e8504401f07e3:0xb6c6f839899ff256",
+    "data_cid": "13170487086297379414",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8504401f07e3%3A0xb6c6f839899ff256&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8504401f07e3%3A0xb6c6f839899ff256&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.007939099999998,
+      "longitude": 72.56038149999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4wcfQASFXjkRVvKfiTn4xrY",
+    "provider_id": "/g/11ggmhwf9s",
+    "rating": 4.9,
+    "reviews": 302,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Orthodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "orthodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "315, Scarlet Business Hub, opposite Ankur School, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "12–3 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 80000 97970",
+    "website": "https://www.tuskersdental.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJ4wcfQASFXjkRVvKfiTn4xrY/mid/%2Fg%2F11ggmhwf9s?sourceurl=https://www.google.com/search?tbm%3Dmap%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!8i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sVk-RwQyEZ83tyeU7Xmv6m_FtiwmR5_s:2!2s1i:0,t:11886,p:Vk-RwQyEZ83tyeU7Xmv6m_FtiwmR5_s:2!7e81!12e5!17sVk-RwQyEZ83tyeU7Xmv6m_FtiwmR5_s:85!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26hl%3Den%26q%3Ddental%2Bclinic%2BAhmedabad",
+    "user_review": "\"The staff was very competent and pleasant, and the service was excellent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq2hYhZJShlVx7xn-RcZeea1MuFgCYp8O96LwhLFoUXL-NTkmG31VinaOPe9LmY-PdtBNItFXlCNMsapU_xZP64C0jMxoq5k73VD_kkECagYRPOXpU0SgsnHfTAaf9-5JA5tdk=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RheginicBcFLDoIwFADAEz0BERQTF4jiJ_wiQoCNaaC2WmirrYEDeglv48zvS7WWam0YPbVnRAjS44_C71ZwjbmetWIwiFTQKlCGfyz9Eb_mtKbNOad9OS0nDpe2wRhZ8SckQS1XqedGI41CUVQRJFc2HGyrfHCUZtiLhhqyTm-Tkw6rPkhihWRxm5rMXQTmM57Ey2FLu9zdGNsHiNSXLK1kYeZE8eP96qO7B87Zd3THNqPl2kC9OTDg4g-ZnEPr"
+  },
+  {
+    "position": 16,
+    "title": "Diwasha Dental Clinic and Implant Centre",
+    "place_id": "ChIJqwcMuFiFXjkRA4XMlu4yiG8",
+    "data_id": "0x395e8558b80c07ab:0x6f8832ee96cc8503",
+    "data_cid": "8036729535356241155",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e8558b80c07ab%3A0x6f8832ee96cc8503&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e8558b80c07ab%3A0x6f8832ee96cc8503&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0435846,
+      "longitude": 72.5500094
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqwcMuFiFXjkRA4XMlu4yiG8",
+    "provider_id": "/g/11rnhtp09n",
+    "rating": 4.9,
+    "reviews": 82,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "3rd Floor, Dynamic House, 120 Feet Ring Rd, above HDFC Bank, nr. Vijay Cross Roads, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "saturday": "9:30 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–7 PM",
+      "tuesday": "9:30 AM–7 PM",
+      "wednesday": "9:30 AM–7 PM",
+      "thursday": "9:30 AM–7 PM",
+      "friday": "9:30 AM–7 PM"
+    },
+    "phone": "+91 91041 31888",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=079PXX79.XX79.181212124720.A6Z7&rwg_token=AFd1xnGODNuRP7oueTzr_cGuIap0mX2e7nMHzty58f3qoydXu4uvcJPTeF0aiMLRcH31NpO5Bm5s_OA05cBPx6VNDTQdkIyO5Q%3D%3D",
+    "user_review": "\"From injection to tooth removal, whole procedure was so smooth and gentle.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoTsjB1Kf6FyMpyTZ6FfeYYEHLIvwZSjdPowD0hvpHRp8SNylnUlP4raYXlUNl_SqbF8LKA2BTqOlLU9usYpxFSPIL9NOdqhaAQOl7ZQBnrPqbFlcFRg_PgXrFmRmBcjEkdoF9Y=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/70-T-nicDcrbboIwGADgJ6p4isKSXUCkwYhQOSyWG4OltsGftlCU8YB7iL3N9l1_vz9yHI39cByQm4XQWgB_WT4wrUauxgXTnSOMRcwi6_jRlz9xXdg2WJ0eOzyfzVxUO_zglIZRfHxPVd42RE-HpXybKDNunsygSiDboaZXKBO45f0du_HJXwdFn0Jcei9LzTfOyTH2krTpZe1fUthXl0AN5P8Cw5m4EXEdcJd1AWvDZ6OxRz-n1cZF0lujJ1L6D1mdRhY"
+  },
+  {
+    "position": 17,
+    "title": "MyDent Multispeciality Dental Clinic / Best Dental Clinic in ahmedabad",
+    "place_id": "ChIJdYgVPLKDXjkRcHa070H5nec",
+    "data_id": "0x395e83b23c158875:0xe79df941efb47670",
+    "data_cid": "16689769855694698096",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e83b23c158875%3A0xe79df941efb47670&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e83b23c158875%3A0xe79df941efb47670&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0632798,
+      "longitude": 72.5561792
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdYgVPLKDXjkRcHa070H5nec",
+    "provider_id": "/g/11shn9fnnt",
+    "rating": 5,
+    "reviews": 123,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "anand flat, 3/14, near pragatinagar garden, Gujarat Housing Board, Pragatinagar, Naranpura, Ahmedabad, Gujarat 380013, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–5 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM"
+    },
+    "phone": "+91 94849 88939",
+    "extensions": [
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"They cleaned my teeth with out any sensitivity and pain so kindly visit.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoscWaxNdG8IBtxO2WX9lG7MHDwxfoi42G9I5kFVOQA3X9OsvwYxPCp72NJ-yvQyne7NgoI-c98HUHKGJlXMX6BozwNR1qefspGFdhwycsTcLh5LSLK7gcYZ8_-NqZwGvntOUxuSs6sAI0=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RXHELHicBcFbcoIwFADQFUUQlUdn-oE6BhRDfaM_jhNj0pHmYm8kwTV2A92N5_z_KWMa_PC8Wg16EkDW4onil4M2Qpsehx9PNkg4EvTSbJ9aAcgPF8euNM7HxpXBoUpqGi2zqXU3-B4GNMlH99m-XKWDKimxtUf3NWmigM1J1646LSImISc8ibNdtqDzulpW4Rhelq37D3HDhs6uynYct7xQo2JTLCLJj6f4TNjjZGmrTblzzw2GmOb-p419ovp-SO5EwxvD4Ecr"
+  },
+  {
+    "position": 18,
+    "title": "Moha Dental Care",
+    "place_id": "ChIJX1yc1vWEXjkRj8V68A9xZDQ",
+    "data_id": "0x395e84f5d69c5c5f:0x3464710ff07ac58f",
+    "data_cid": "3775266700916344207",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84f5d69c5c5f%3A0x3464710ff07ac58f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84f5d69c5c5f%3A0x3464710ff07ac58f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.033879199999998,
+      "longitude": 72.5520969
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX1yc1vWEXjkRj8V68A9xZDQ",
+    "provider_id": "/g/1ptw4yc9r",
+    "rating": 4.8,
+    "reviews": 45,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Medical clinic",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "medical_clinic",
+      "orthodontist"
+    ],
+    "address": "12-B Gyan Kunj Society, opp. St Xaviers Collage, Navrangpura, Ahmedabad, Gujarat 380009, India",
+    "open_state": "Open · Closes 6 PM",
+    "hours": "Open · Closes 6 PM",
+    "operating_hours": {
+      "saturday": "11 AM–6 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–6 PM",
+      "tuesday": "11 AM–6 PM",
+      "wednesday": "11 AM–6 PM",
+      "thursday": "11 AM–6 PM",
+      "friday": "11 AM–6 PM"
+    },
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Dr Sonali is very knowledgeable, thorough and kind.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweosw3xHeuhz3JZXdqaPrPKcQqJNx27T5qUtiw82dTgt6JAJ8rxfTsaNXE81bLtT9UTJnmcqRMnqGkVgA0A4yahnyFuD-5R0I52tC5-qAEkQ0TnwL9J61VzwqGUOemLQ_B7r7cUz=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rdrJMnicBcFdkoIgAADgE5GKmdrMPtB_rLXZoNP00hgRNCaE4GDebw_Rbfq-z7-w9mWmnvcU4YgrxZ-sM6ylSlom7YiqxuMvA6gBxkObEjmmjAv7DevEEOLz6aarQ3v4pbnG-x7GJNKFfbgE3gi3E4xw0vZ3Yqr9aZkE18yStCBYNlQfd1Kv65IjH43flZDvVbcA0dHfRtDOI6DRss59Il2W4klQDk6viz_WZPllFrcxLYYfF0AIRApBDaT6AiT3RJw"
+  },
+  {
+    "position": 19,
+    "title": "PANACEA-THE DENTAL STUDIO | Best Dental Clinic in Ahmedabad",
+    "place_id": "ChIJw3Yvw8aFXjkRpmmoBrQpcIw",
+    "data_id": "0x395e85c6c32f76c3:0x8c7029b406a869a6",
+    "data_cid": "10119634215884056998",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85c6c32f76c3%3A0x8c7029b406a869a6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85c6c32f76c3%3A0x8c7029b406a869a6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.052027199999998,
+      "longitude": 72.56441219999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw3Yvw8aFXjkRpmmoBrQpcIw",
+    "provider_id": "/g/11tjf7hbqy",
+    "rating": 5,
+    "reviews": 102,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "7, Nandini complex, Naranpura Railway Crossing Rd, Shanti Nagar, Naranpura, Ahmedabad, Gujarat 380013, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM"
+    },
+    "phone": "+91 6355 647 432",
+    "website": "http://www.panaceadentalstudio.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Treatment was smooth, painless, and the results are amazing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoXo9F4BWyDS1saeyqd74jaN2uUpgfy6fNwV48Y3uRxw9JD1D1WnEMYBUNrKGRVD1eOYzmnbM_RXszch3e_WuZNd2Uh66eneG1s_UCVVrlebn3ccVD40Bvu_JOh8vnaf6qj-n_vORHVWVnU=w93-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/0Mi7-XicBcHRboIwFADQL6qslDBZsgdZN42LkLC0yF4arBcah7dIKQy_cT-wv_Gc_z8zjr17CYLOsFVrbduBdzBoiyPguNL2GrS9I9oRF2x2cjODPdrkI0rLhX9RV8NyOz9HlzoLvejbZombbJbRumK--J2TPaeclvh-qFKRDZ_bQnIKeXW_4umgiqO7a8NAlf47O4fCxDEgbKlT4k3KoYMTMq0lj57Syat9btYT1k18uxBUU17sZClRvM4JIyYJyQ9B-wDzH0fH"
+  },
+  {
+    "position": 20,
+    "title": "Ved Dental Clinic and Facio-Maxillary Centre",
+    "place_id": "ChIJHbEK-uWFXjkRJNRqflrtV_w",
+    "data_id": "0x395e85e5fa0ab11d:0xfc57ed5a7e6ad424",
+    "data_cid": "18183262993455436836",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e85e5fa0ab11d%3A0xfc57ed5a7e6ad424&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e85e5fa0ab11d%3A0xfc57ed5a7e6ad424&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.9903135,
+      "longitude": 72.6036994
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHbEK-uWFXjkRJNRqflrtV_w",
+    "provider_id": "/g/11b6v540hs",
+    "rating": 5,
+    "reviews": 64,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "204, 2nd Floor, Radhekrishna Arista, opp. TOWER-2, nr. Divine Buds School, Chandranagar Society, Basant Nagar, Maninagar, Ahmedabad, Gujarat 380008, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "11 AM–1 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM",
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 99259 16270",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The office is modern, very clean, and the staff are warm and professional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoIWbjWU747eWlmSyp_QcaD706eCXY1-ItlNOsyFKH_XAklJCR4fOwOSX1ui-cN9KmEMGKx7ifvZpFrGOplbYyOs3l0fgfipCqfnIbL2rlaFeUYonB-ifSSwgGnrwKV1eGeaQQF=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hJnBnXicBcFRboIwGADgE1VEiMwlPjAUZEwbJAr4YqD5W5ilrbRaOeAO4W32fe-_zhilPx2Hd96MSck4PDSMRAoDwsyIHBymNCIaaSfcnUMLMi3b3_IU-AGUfCgmdc1JswnmS4iq2kWp4QespzjbXavwxr-jo0-xxUXlPnpEDqts2O6T7BX09HlR8Zhgxdt6wtrjc8por6I7FWn7sxh5E8OpluIL9bQoLEvEaLOzCwk0eR6vret9oG61QDck5D_7LkWC"
+  },
+  {
+    "position": 14,
+    "title": "Vasupujya Dental",
+    "place_id": "ChIJEfTHGr2EXjkR9GftPoBAWaQ",
+    "data_id": "0x395e84bd1ac7f411:0xa45940803eed67f4",
+    "data_cid": "11842567614703167476",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395e84bd1ac7f411%3A0xa45940803eed67f4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395e84bd1ac7f411%3A0xa45940803eed67f4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 23.0455585,
+      "longitude": 72.5419474
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEfTHGr2EXjkR9GftPoBAWaQ",
+    "provider_id": "/g/1pp2vc3yb",
+    "rating": 5,
+    "reviews": 4069,
+    "type": "Pediatric dentist",
+    "types": [
+      "Pediatric dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist"
+    ],
+    "type_id": "pediatric_dentist",
+    "type_ids": [
+      "pediatric_dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist"
+    ],
+    "address": "Rudra Arcade, B-206, Drive In Rd, Next to Mayflower Women's Hospital, Memnagar, Ahmedabad, Gujarat 380052, India",
+    "open_state": "Open · Closes 7 PM",
+    "hours": "Open · Closes 7 PM",
+    "operating_hours": {
+      "saturday": "11 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–7 PM",
+      "tuesday": "11 AM–7 PM",
+      "wednesday": "11 AM–7 PM",
+      "thursday": "11 AM–7 PM",
+      "friday": "11 AM–7 PM"
+    },
+    "phone": "+91 99248 21999",
+    "website": "http://www.pediatricdentalclinic.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerbAXP6PTGT8y0e08FfpPN_udKVQqmbJ7XB5a8s_mFfCIdEoEqKWaZGH-yWQvO2lnYPAxFeuUuBuAIxItheRS3NgWkBgfAA_EYaY0UxvFxRDzcLabndCxz3D0zd9fU6CrNwRetx=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/I2J55nicBcFJDoIwAADAF1VQoqKJh7IpahBRNi-EpZREaJG2Uvmfj_A3zvy-Dec92ypK22gzTClukWBoKCnhiPBZSTsF9wyUDDAFHiI4oqGAib_y7_u7_lGRqjt173uZqE7R9dUVx3ViLHOdZZ1Tm25lU_t1ivPH_gA-8fV9WbQk9aF0kAiFIaArXd6g4KZ5OH4auIYws9M8VUP5dmRgTeU5L0hlykmz1Kna1OHKHLwxQFzuxrm2Bs1mAZ6A0D_kykVk"
+  }
+]

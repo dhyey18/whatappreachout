@@ -1,0 +1,5032 @@
+[
+  {
+    "position": 1,
+    "title": "Vivaan Dental Care",
+    "place_id": "ChIJPesjixzGXzkRr53ZjMR0sgk",
+    "data_id": "0x395fc61c8b23eb3d:0x9b274c48cd99daf",
+    "data_cid": "698749279721332143",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61c8b23eb3d%3A0x9b274c48cd99daf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61c8b23eb3d%3A0x9b274c48cd99daf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.293135,
+      "longitude": 73.1675096
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPesjixzGXzkRr53ZjMR0sgk",
+    "provider_id": "/g/12hl55jqn",
+    "rating": 4.7,
+    "reviews": 1078,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Purusharth Avenue, 204, Nr Radhakrishna char rasta, Jalaram Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390020, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10 AM–9 PM",
+      "friday": "10 AM–9 PM",
+      "saturday": "10 AM–9 PM",
+      "sunday": "10 AM–9 PM",
+      "monday": "10 AM–9 PM",
+      "tuesday": "10 AM–9 PM",
+      "wednesday": "10 AM–9 PM"
+    },
+    "phone": "+91 85115 80198",
+    "website": "https://www.vivaandentalcare.in/clinic-location-akota",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They were able to accommodate my treatment on an extremely short notice.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2JlHPGU0uRf-3GCCvZPPfvuyYFToo33j2BJ85D7y9rMlWnT-0nbXW0Ln3skRJXI8kBI8uzMNmwJaKiUPU1bl8sukHk9P6ZD5dG-jdq3GL_lRjSK3-NQu3P_7X40U4wk3XyFCVdQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aYgb-HicHcTdEoFAGADQJ1otn5-YcZGMkjRbRNwYKqXddtO2mryhR_A2ZpyL8_3kTVPJmaaxHHqZEBlLlUzrWPAm5U0vFqWWVRLFEknNIJ5PDXvgMJtYIVbBHYFlmq8zIfeX6k6rvRAAxWDh6KPlpJvWW3bke4T5LTpil4OkgROtdbpY6-q99crWuW4eIQn7N6ZLRW06JePzcpRYqEieYLkXFhS7DSDPV0Auk2iIw2FLIepW5iHx520fY4zy_zHiPznIQyc"
+  },
+  {
+    "position": 2,
+    "title": "Dantalaya Cosmetic Dental Clinic & Implant Centre, Vadodara",
+    "place_id": "ChIJGW2j1xvGXzkR2yabv2YCZsE",
+    "data_id": "0x395fc61bd7a36d19:0xc1660266bf9b26db",
+    "data_cid": "13935828737269114587",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61bd7a36d19%3A0xc1660266bf9b26db&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61bd7a36d19%3A0xc1660266bf9b26db&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3039652,
+      "longitude": 73.16596129999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGW2j1xvGXzkR2yabv2YCZsE",
+    "provider_id": "/g/1trxc2tv",
+    "rating": 4.8,
+    "reviews": 1133,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "S.Patel Square, Malhar Point, F-1, Old Padra Rd, above Panasonic Show Room, Turning Point, Near ABS Tower, Bhakti Nagar, Akota, Vadodara, Gujarat 390015, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 98242 52667",
+    "website": "http://www.dantalaya.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dentists are skilled, patient, and explain procedures clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMEvKWcN9KAKX2ph0xDvcLKoAA-NXEOcv1bpSUDmXPs920jKl3j-O_LXRJuFZ94VEyQhJK9kbZgR1ykfH4-52nztoQAza_lQchwacHW-YbDlu58MV1WdeFDEB71gb9dlVA4PfOZg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/W86yvnicHcRbjoIwFADQFVVaxMzUxI9OgBirPDQCww-RK7aRSokt-NihS3A3Jp6P835Ja3szdxwlpxOhtVDNYJor6M42nZ2AvjiiNwgMMg5LorRl4SYYeQ4R5YwXbi_x3R9hzTVjKCqCGEZS97u9fykSQ1185mp6RnG1LrarISyplwWPVK44betSbMmjPS09NHO7p9Upex4qlYK8HWCZo__aV8Psd5OR_NiEfvD3Q0RNjypjXnKKS7G4EYwxkt8BdR9czUO6"
+  },
+  {
+    "position": 3,
+    "title": "Aura Dental Care - Best Dental Clinic / Best Dentist in Vadodara",
+    "place_id": "ChIJbS83IT_PXzkRy4le-ppLZKI",
+    "data_id": "0x395fcf3f21372f6d:0xa2644b9afa5e89cb",
+    "data_cid": "11701560860812937675",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf3f21372f6d%3A0xa2644b9afa5e89cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf3f21372f6d%3A0xa2644b9afa5e89cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3265156,
+      "longitude": 73.20211499999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbS83IT_PXzkRy4le-ppLZKI",
+    "provider_id": "/g/1tkjjljx",
+    "rating": 4.9,
+    "reviews": 348,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider"
+    ],
+    "address": "102/B, VIP Complex, VIP Rd, opp. Reliance digital, Amit Nagar, Padmavati Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–2 PM, 5–8 PM",
+      "friday": "10 AM–2 PM, 5–8 PM",
+      "saturday": "10 AM–2 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–2 PM, 5–8 PM",
+      "tuesday": "10 AM–2 PM, 5–8 PM",
+      "wednesday": "10 AM–2 PM, 5–8 PM"
+    },
+    "phone": "+91 6355 542 372",
+    "website": "https://auradental.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"the dentist did an exceptional job, and my implant look and feel great.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGb3YJ7hve5SSc-_3Nx8zvMIgBHtiNUrtgsKyx2qCymAsMHq3l0TatQWajDEFzrXjqTN_iZMb1C0mF7cwTtgjipnoOJozFcK0US-B0u1heJQrxWxgCyAeODuigM-VGRo7SxeGvxgHgEIOk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/53CsT3icHcRLDoIwFADAE1WKxGBMXCAKiAFE8Lsx2jSvIFCgBQuHdO9tTJzFfD9MylosNK1gxgQ4h4J2graEV5JWckJ4qUEtEBFIaNY-jF-W-zSuvsl6OksSgu5GqOZjH2xh5cksPLYSxG5Q08YeSksEXmMUOH3I-PzI1xtnbC95k4b37BY8dRuXjkneqYQ8qyse-Xx0yA4fE7TCnc6oH7fqrMAeLBqtuwwCdHIP3EwUdXsFHmy20Wv51jHGiP0nqPoBysxIgA"
+  },
+  {
+    "position": 4,
+    "title": "Vadodara Dental Care",
+    "place_id": "ChIJ88KZp9LIXzkRjM1raS3b8Oo",
+    "data_id": "0x395fc8d2a799c2f3:0xeaf0db2d696bcd8c",
+    "data_cid": "16929271987374378380",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8d2a799c2f3%3A0xeaf0db2d696bcd8c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8d2a799c2f3%3A0xeaf0db2d696bcd8c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.333714699999998,
+      "longitude": 73.18161909999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ88KZp9LIXzkRjM1raS3b8Oo",
+    "provider_id": "/g/11b66dl52k",
+    "rating": 4.9,
+    "reviews": 177,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "206, Aditviya Complex, Above Passport Office,Behind Arpan Complex, Bhakti Nagar, Pensionpura, Nizampura, Vadodara, Gujarat 390002, India",
+    "open_state": "Open · Closes 8:45 PM",
+    "hours": "Open · Closes 8:45 PM",
+    "operating_hours": {
+      "thursday": "5–8:45 PM",
+      "friday": "5–8:45 PM",
+      "saturday": "5–8:45 PM",
+      "sunday": "Closed",
+      "monday": "5–8:45 PM",
+      "tuesday": "5–8:45 PM",
+      "wednesday": "5–8:45 PM"
+    },
+    "phone": "+91 265 278 6040",
+    "website": "http://vadodaradentalcare.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Took time to rebuild a broken tooth beautifully and patiently 😊\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2QB4IkQif_0snh5n51_doOW5-BBxHeEjbpJJ_Z9Pn0Ri9wf8Gt8oN3QwwOQTew9IROUBQWEgAi-Di7TMoBJtkYRvdp_F220dpteW3NCO2aK0CxD0HsoMBFo1TWRtMUEkwd7FJ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/S7kWKXicHcRRCoIwGADgEy2nJmnQgytNDbWJIfUipUtN2z_aat2wM3SboO_h-356pYRcGsbU27MOoJvYU7JHA1wxrmYN3I1OSNRIJA1_n9HRDy1K5vFIh2uNJe8d7ph1C3nlIELeEQtuF5Ek9cnbc1wMnr66W-VCZlOtc1oy7cVFfiC0Cjp_QJthUaZAEjUei1cr6tCycCsUq-xsnVvnHV6_NziSkJIQzLIqVHoIRt0uwmSlTYwx6v83iP8A0LlC8w"
+  },
+  {
+    "position": 5,
+    "title": "Orthodontics Orthosquare",
+    "place_id": "ChIJhc8MC67IXzkRGFvWpkjn-wY",
+    "data_id": "0x395fc8ae0b0ccf85:0x6fbe748a6d65b18",
+    "data_cid": "503250082604669720",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ae0b0ccf85%3A0x6fbe748a6d65b18&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ae0b0ccf85%3A0x6fbe748a6d65b18&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3084529,
+      "longitude": 73.17606289999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhc8MC67IXzkRGFvWpkjn-wY",
+    "provider_id": "/g/1tjdv9cg",
+    "rating": 4.7,
+    "reviews": 360,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Doctor",
+      "Emergency dental service",
+      "Medical clinic",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "doctor",
+      "emergency_dental_service",
+      "medical_clinic",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "48, RC Dutt Rd, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 94263 30762",
+    "website": "https://www.chandanorthodontics.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJhc8MC67IXzkRGFvWpkjn-wY/mid/%2Fg%2F1tjdv9cg?sourceurl=https://www.google.com/search?q%3Ddental%2Bclinic%2BVadodara%26pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sbCMlLqyQCIh1kGLxuDug-Dnd9OxjHiQ:2!2s1i:0,t:11886,p:bCMlLqyQCIh1kGLxuDug-Dnd9OxjHiQ:2!7e81!12e5!17sbCMlLqyQCIh1kGLxuDug-Dnd9OxjHiQ:68!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap%26hl%3Den",
+    "user_review": "\"The dentist was gentle, professional, and explained everything clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHwJ1EYM1cGaln21MZIPlhbgD5CFdu9R137Inp5t7GUuEZV2xhh1_QM_z2LnQi36JCWZL5X7ZFuAJmgGest1kJEfyODavhsYnqYbUQ7tnYnWpLj8YX4_X32PEcRZO978vHqup9EA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lJ2n2HicHcRRboIwGADgEyEUxiomeyBaQQIKJgrtC9GOtSr-1LVV5w09wm5j4vfw_T-lMUpPXLeXwUgMg-g7q7tfPoDpwIz4cHaF0g7Xjnbjclmd4jS9ZYjQAvFk14OPCrYoe7kXs3A6_7bRGgV4ASo0ONlYwrb-XUrUVkX78HOoDsFnNq1ZHjaYzW2cnUXSaYNOGfn5W812V6kpXOh-U2EDFGqVH8e0-WibwC8JX7NVhMfX9GJVROKvG_I8z5HvuQMvWpZEBg"
+  },
+  {
+    "position": 6,
+    "title": "Sanjeevani Dental Clinic and Implant Centre",
+    "place_id": "ChIJ2e0gcufFXzkRTGm6rJTUtYs",
+    "data_id": "0x395fc5e77220edd9:0x8bb5d494acba694c",
+    "data_cid": "10067186277074757964",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5e77220edd9%3A0x8bb5d494acba694c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5e77220edd9%3A0x8bb5d494acba694c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.277686,
+      "longitude": 73.19024879999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2e0gcufFXzkRTGm6rJTUtYs",
+    "provider_id": "/g/11g6mpdsym",
+    "rating": 5,
+    "reviews": 721,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Kashi Vishwanath Complex, opp. Bhathiji Mandir, Shivam Society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM",
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 94274 09241",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Professional, kind, and made my teeth treatment comfortable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7wx4ZxTzVR8J4ISfpLlSL1sg-WYP0johSBvd1Rg8Lw8H-yyykVLra5iQydtLBs_OnwixAOUW7fdIfj38wB7hxxl-XZKbm77OwtcQOnfsZdFtFQyPA4Y795MLC1nH5SLzFh9dQFyz2Ux3k=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HVPNLXicHcTNboMgAADgJ8KfqcEu2UGXGNuxKXVtVy9NCwpWC6awAb7kzn2bJfsO3-OXaz2rZ9-feOQxKdnUfavuTqTQndAekTefzQoQBZSf1R94zEpobNzaz2W_TTfxuulnNDUoVAwcjnVwlbzJf2i4ZSkyaQmcc-Me3c_JgB3VKFenSpjBZtXuAHu67q9RanLIrZ3AV_t2uUFYGU1wJXrV0kIX2NVZfISr5B29hqJMGrQUfEVx4ZannY3GFxMGQQD4_wSIP9VeR6s"
+  },
+  {
+    "position": 7,
+    "title": "Vasudha Hospital and Dental Clinic in Vadodara",
+    "place_id": "ChIJWSCtinnPXzkRoyslXYHWgXU",
+    "data_id": "0x395fcf798aad2059:0x7581d6815d252ba3",
+    "data_cid": "8467284625535085475",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf798aad2059%3A0x7581d6815d252ba3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf798aad2059%3A0x7581d6815d252ba3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3501794,
+      "longitude": 73.18652449999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWSCtinnPXzkRoyslXYHWgXU",
+    "provider_id": "/g/11js3x9yt4",
+    "rating": 4.9,
+    "reviews": 223,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "S-5, Pramukh Square, Abhilasha canal road, road, New Sama, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 73834 75241",
+    "website": "https://www.vasudhaclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Consultation was quick  and the procedure was painless and very fast .\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE3ukCXQWAj2I6wjT-pibH2aIhLNMqVEKDXQs6w0C1sGc0i5hRRbVCu9yzq7znxxGn_kM7eEqwzLmOCsuXZKc3OMKgYCkk4EgjBJ2NNbPKA28iVf0djHTXZIkjuVW1Dla_hsE8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/s9phC3icHcTdboIwGADQJ6oUUPxJdoG1QURQjEH0xkjHWlos4EeD4wH3DnubJTsX5_dH9H0LK8uqhTvhTcPr0kD5Yo3uS91PWPO0eAuIAQLLPyap8qlrFMnTiy-d0BvkGbVVsXUeodgncZfRaJOn4A2Y2BAwXM3E6VRkxCy_x24-6vc70HcVz0vaDeP-eSBg8lvE3EMc8StRakq5XO-cJCmOke8squwLf8rtOb-FSprsYm_qx10AXXwMNsYYif8Z0n_2kkQO"
+  },
+  {
+    "position": 8,
+    "title": "Mangalam Multispeciality Dental Clinic",
+    "place_id": "ChIJZ2NGT8bFXzkRwrWIQMBPOk8",
+    "data_id": "0x395fc5c64f466367:0x4f3a4fc04088b5c2",
+    "data_cid": "5708963164780541378",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5c64f466367%3A0x4f3a4fc04088b5c2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5c64f466367%3A0x4f3a4fc04088b5c2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2670566,
+      "longitude": 73.20191129999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ2NGT8bFXzkRwrWIQMBPOk8",
+    "provider_id": "/g/11hbgb_7nr",
+    "rating": 4.9,
+    "reviews": 247,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Orthodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "orthodontist",
+      "prosthodontist"
+    ],
+    "address": "FF 4/5/6, Rutushree complex, Makarpura Rd, opp. IDBI Bank, near Kabir Complex, Manjalpur, Vadodara, Gujarat 390010, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4:30–8 PM",
+      "friday": "10 AM–1 PM, 4:30–8 PM",
+      "saturday": "10 AM–1 PM, 4:30–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4:30–8 PM",
+      "tuesday": "10 AM–1 PM, 4:30–8 PM",
+      "wednesday": "10 AM–1 PM, 4:30–8 PM"
+    },
+    "phone": "+91 63542 55717",
+    "website": "http://www.mangalamdentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"She thoroughly examined my teeth and gums with care and precision.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy5YdLW2QcYMHSaBLqVG0nVoE35sAAJo0RM7gbiHxAt_9ymIekeT7cQOKGYgMMF0pF3V1VqGmbZCUHXOjE5tCqggBSXiPJoX7N_re2v_MTk7OXg8--gzULkp7I60wl9HX404QNIFarbDRM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DnJn5nicHcTLcoIwFADQL4pEkaZ2poto5WEJiA8M3TCSZi7KI0DSWvuTrv0bZzyLc7-VxnT6zbLq0h6BUlDLHy0HoVojWzMSqrGg00hopC26jpKKulcn-w4Pk0RkzN8e52GferhN1dJ2NKUrhTeMQHHy_6jJZ9cmkJXcEZHEn14GjLm4c-10nPZeU3wt9j6Pz0vHLHqA-Zaf1ivFSZQPcvKbs11FYg6vCMH_Pqw6ErzgSz3z-RRPkyhwj0PxsWHvlzHGGJXPBWofETJFeg"
+  },
+  {
+    "position": 9,
+    "title": "OrthoSquare Dental Clinic - Subhanpura, Vadodara",
+    "place_id": "ChIJqbq1C_fJXzkREIdq3XGgkpY",
+    "data_id": "0x395fc9f70bb5baa9:0x9692a071dd6a8710",
+    "data_cid": "10849910863195440912",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9f70bb5baa9%3A0x9692a071dd6a8710&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9f70bb5baa9%3A0x9692a071dd6a8710&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3211609,
+      "longitude": 73.1590341
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqbq1C_fJXzkREIdq3XGgkpY",
+    "provider_id": "/g/11m9xv0ys3",
+    "rating": 4.8,
+    "reviews": 434,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "CT Complex, 102, Subhanpura Rd, near Pujer Complex, Opposite Golden Silver Apartment, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 8071 820 863",
+    "website": "https://dental-clinics.orthosquare.com/near-me/vadodara/Subhanpura/orthosquare-dental-clinic-in-Subhanpura-vadodara--7R54o4/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The treatment was painless, and the pricing was transparent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFNply3b5ibEe42Ec_YvJFemW0ZjKWSLFJWtZc40Y6p7rVgpPxM-UK-gh7hlBBF8E41oFQ3QXY_NcfjgkliF3bnS0uf49EtF2eYOlLHKnC4AAw2DNPj__KHxKCQag1p6qfZep4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/eC0UcHicHcTbDoIgAADQLyJR6br1oCVrUaZrZfrikiFkBBR0-8H-ob9p6zyc70c4Z-zE86QIe1xrLtndshvVyjHlelRfPG4soBZYL8rS_Bzh1Mh32PRPTcJQkNC6fCwxuxSw6kixXeFl4SqKYDkww9uem-y1BjsCuBgKGcd4lCBf4zzMD2Wd0rbjZ3nCYaO28N6iceJwwMqNXC2ImqEoegbzNOvqmixeZJYfuW8G17ZiBk2fPoQQiP8UqB-hcULV"
+  },
+  {
+    "position": 10,
+    "title": "Uvaa Smile Dental Clinic, Root Canal & Implant Centre",
+    "place_id": "ChIJDXQ2r0TFXzkR9j2_HgPXqmY",
+    "data_id": "0x395fc544af36740d:0x66aad7031ebf3df6",
+    "data_cid": "7397961746310184438",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc544af36740d%3A0x66aad7031ebf3df6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc544af36740d%3A0x66aad7031ebf3df6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3178643,
+      "longitude": 73.22063349999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDXQ2r0TFXzkR9j2_HgPXqmY",
+    "provider_id": "/g/11h0sptlxh",
+    "rating": 5,
+    "reviews": 801,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist"
+    ],
+    "address": "FF 101-102, Shree Balaji Wind B Wing, Harni - Warasiya Ring Rd, near Bankers Hospital, next to Panchsheel Appartment, Arvind Park Society, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 4:30–8 PM",
+      "friday": "9:30 AM–1 PM, 4:30–8 PM",
+      "saturday": "9:30 AM–1 PM, 4:30–8 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "9:30 AM–1 PM, 4:30–8 PM",
+      "tuesday": "9:30 AM–1 PM, 4:30–8 PM",
+      "wednesday": "9:30 AM–1 PM, 4:30–8 PM"
+    },
+    "phone": "+91 75750 71175",
+    "website": "http://uvaasmiledental.clinic.net.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Highly knowledgeable and skilled dentist providing Excellent service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGX6vAMRXGmgDeTS3xxzcMV6SrIOwEPj9FUjArzkWM8LPRQ_2mXz0g9BcS347hkCHIADpt5HnM3Nzi_SaOAsKvXqck5BvcWbwTuoELMbM5CMHZFrwEaZyrywrIoCvpNdANah32x=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pIhIt3icHcRdDoIgAADgE5kW2d_WA5mmK8y00vnSlByUKQYk5gU7Q7dp63v4vh8qZSMWuv6gYEAYI4_iJQqOWS2LWg4wq3TSCA0LTegw8A8l3CSTFqIw2VRkXRwj0HU9RudJxL29soP73DndIe_LGM12QXi4jKqkN8h8hSMwntLScj24bqTp1gj4_e0SZXsotm3yxKW5anGcq-OL2TuUI9NCbupwZWfpm78V95jVNv4V-hkFo26phoZhaPQ_1uofXldFLQ"
+  },
+  {
+    "position": 11,
+    "title": "Swastik Dental And Face Hospital",
+    "place_id": "ChIJS6Eoi4rPXzkRGjm0N4_k0sI",
+    "data_id": "0x395fcf8a8b28a14b:0xc2d2e48f37b4391a",
+    "data_cid": "14038534292233271578",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf8a8b28a14b%3A0xc2d2e48f37b4391a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf8a8b28a14b%3A0xc2d2e48f37b4391a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.322239699999997,
+      "longitude": 73.2129748
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS6Eoi4rPXzkRGjm0N4_k0sI",
+    "provider_id": "/g/11f661n2yg",
+    "rating": 5,
+    "reviews": 235,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist"
+    ],
+    "address": "besides basundi restaurant, doshi hospital, F/202, narayan elegance, above ujjivan bank Besides, Harni Rd, sangam society, Outside, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 91068 55351",
+    "website": "https://www.swastikdentalhospital.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Cash-only",
+          "Google Pay",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The clinic is clean, staff is polite, and appointments run on time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLxtRvNpRO0zwoVadGL5UOQoSMHaCQUJrBuVyFD8jttFT9EFSXL-lJmPeUdZTAIgKJQV1tnzd5OXuEnxBAMBcDDwGIkx3k_gKE6n6KAdIop2get2H6AOk-Vf52sUVUpB0pfQGQL9nIErai=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/erD7iHicHcTbboIwGADgJ6pUDGQu2UUZBzkoVm1jdrOQUssGtg39GcyX3PXeZsm-i-_3pwOw7tnzhm6zUsaoQU5OjsJokBpWwtw9ZR0SDjmPHA-0J1m1wOnrYE81fsyGN21WBaym5rzfNa-UFWM08e80fvoESC_bJD1fKzQU96Nk7duF5KosKF-DfrRBfZ0SvURkH4k4nrO8Xzb9uyqTUIclaXNjfSXB34Wk7hG_Bb5jnNkI2xvNaLXVeTI2Hy_zGmOMuv8F0n-hAUbV"
+  },
+  {
+    "position": 12,
+    "title": "Vraj Group of Dental Clinics Sama Savli",
+    "place_id": "ChIJf-WiJt_OXzkREWz7jQ-G_10",
+    "data_id": "0x395fcedf26a2e57f:0x5dff860f8dfb6c11",
+    "data_cid": "6773279765953211409",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcedf26a2e57f%3A0x5dff860f8dfb6c11&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcedf26a2e57f%3A0x5dff860f8dfb6c11&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.349642499999998,
+      "longitude": 73.200868
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf-WiJt_OXzkREWz7jQ-G_10",
+    "provider_id": "/g/11df6rbgjp",
+    "rating": 4.9,
+    "reviews": 685,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "orthodontist",
+      "pediatric_dentist"
+    ],
+    "address": "2nd Floor, Shukan Hub, Sama-Savli Rd, above Jagdish farshan, Kasturba Nagar, New Sama, Vadodara, Gujarat 390008, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4–8:30 PM",
+      "friday": "10 AM–1 PM, 4–8:30 PM",
+      "saturday": "10 AM–1 PM, 4–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4–8:30 PM",
+      "tuesday": "10 AM–1 PM, 4–8:30 PM",
+      "wednesday": "10 AM–1 PM, 4–8:30 PM"
+    },
+    "phone": "+91 94277 84433",
+    "website": "https://vrajdentalclinic.com/dentist-in-sama-savli-vadodara",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Excellent and very quickly resolution for problems with dental issues.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFktribhZjBeF7NLGTPeUhGDMw6U4_WHXYLFEcHMadPqaprkxzH14Ll_yPfN9VK6fjtgSjwm5ScBi_XXyLzFlqf0d0TqoWqHGTpCM2s2P4tW0rY7e_k7sht1RqeaUzxGdT0rWcxg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Cr-LDXicHcRJDoIwAADAFyFFUaKJBzcgEUhVEPBCsJRWQEoXA_JDn-BvTJzDfD9UqU6udL2hswlhjDT4JbFArFW4VRPEnjrppIakJvUNDE715mDXSjzu9FZtsW0FnhNCHFFn7_eLyMxiN0k9-4BcPy8gzztRD6NrmF6TvWEZLK_HRVkpcqn65_yCto8sSd7eaDe8BAUIOYu564Tdzp_KKTRVDERq4ay2JFXGmeM8GgenCIGI0UDWvQEA0Oh_pLU_QC1GqQ"
+  },
+  {
+    "position": 13,
+    "title": "Vraj Dental Clinic",
+    "place_id": "ChIJP7YdZnzFXzkRsfi-iLmKuOQ",
+    "data_id": "0x395fc57c661db63f:0xe4b88ab988bef8b1",
+    "data_cid": "16481075365830129841",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc57c661db63f%3A0xe4b88ab988bef8b1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc57c661db63f%3A0xe4b88ab988bef8b1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3000822,
+      "longitude": 73.2374849
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP7YdZnzFXzkRsfi-iLmKuOQ",
+    "provider_id": "/g/11dxlbtbh7",
+    "rating": 4.8,
+    "reviews": 223,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "FF-101,Vrundavan Resi Plaza, Near Vrundavan Char Rasta, Waghodia Road, near SBI Bank, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "9 AM–8 PM",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "website": "https://apnabusinesscard.com/Vraj-Dental-Care",
+    "user_review": "\"Got my tooth extracted here, totally painless experience, highly recommend\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkeDgLcMbyp4PYqA6Qwf6fMaBAGvephfakYhBIuXVA3arzJncZFU-RAH2_EK3THl7A09q6dwvc1207jT5gtdpoPmokTjOibfUCpyCHjkTaDuvth1LK_mbYR5VVlePWvfHUi38o=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GU49AHicHcRLcoIwAADQEwWCCGpnXERtm_qp6ACKGwdiPhIg0QQYvaBn8Dad6Vu890tYq82H61bCd7hSvKKtoXeiGksb6xBVu1wbQAwwLop-dxJhSRd8TTbFQw-j7IbCXc9Ctsln6LujWrBcZmL20x5T5Of357Ihp68E7BEenD9XfoyrEYKTW3jpO-IN4KiMA24vWkW1knG5vRYsmevHHJcyzhdtZ4W3Xp3rItsHaVrR6NAxnFz9sZr2HoQQiP8JaP4Agq5FPw"
+  },
+  {
+    "position": 14,
+    "title": "Tooth Clinic",
+    "place_id": "ChIJ3Vd25K7IXzkRLRorV-eoMq4",
+    "data_id": "0x395fc8aee47657dd:0xae32a8e7572b1a2d",
+    "data_cid": "12552280822988347949",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8aee47657dd%3A0xae32a8e7572b1a2d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8aee47657dd%3A0xae32a8e7572b1a2d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3054155,
+      "longitude": 73.173717
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3Vd25K7IXzkRLRorV-eoMq4",
+    "provider_id": "/g/1yg4tsfb6",
+    "rating": 4.9,
+    "reviews": 579,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "pediatric_dentist"
+    ],
+    "address": "First floor, shaswat complex, Above Reflection lights Opp. navjeen hospital, nr. Haveli, BPC Rd, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "phone": "+91 98980 33171",
+    "website": "https://thetoothclinicbaroda.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assisted listening devices",
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Got my wisdom tooth extraction done and it was such a smooth process!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUTSXQKi1xTz08LXsXBynpmc6XwaFjKi0PjEqhOQZEvNLYncUpZYDafilyq8wUww5P3EYAYhu7JUSRLN-4efKGEmPrvDdKr-Bnha2YQBkGmZk8ZAfOK5_vzUZBxWbcSUbYLKQEbz9rDMcw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DstVy3icHcTBboIwAADQL6rUOScu8QChmlhEKjajvRjogCJQkCJVfnLn_Y2J7_D-_-QwdPrbsmq5mBVtW9TZXWe9aNWQqWEm2sYqOg2EBtpywoBUDqLnKCa4nD_OE7T9WMfuU3WN-IpNsr3iEoZXdJNHwtEY-EwJ2nHmJXlZP2-2ocYswwViDpP31Z5GJz8An1mOd6gJ-9H7xT1wlUw-GHGrXcMrmzv5ES8v40S5-_hJRURT5mOC0mndewdhNmYOIQTyvQDqBfHcSDM"
+  },
+  {
+    "position": 15,
+    "title": "Stellar Dental Clinic",
+    "place_id": "ChIJfXYa4oPPXzkRD1P8S7a9swU",
+    "data_id": "0x395fcf83e21a767d:0x5b3bdb64bfc530f",
+    "data_cid": "410880581677372175",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf83e21a767d%3A0x5b3bdb64bfc530f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf83e21a767d%3A0x5b3bdb64bfc530f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3375696,
+      "longitude": 73.1868404
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfXYa4oPPXzkRD1P8S7a9swU",
+    "provider_id": "/g/11mnln3vf6",
+    "rating": 4.6,
+    "reviews": 500,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "prosthodontist"
+    ],
+    "address": "First Floor, Shrinath Square, Sama Rd, opposite Reliance Fresh, near Navrachna School, Shukla Nagar, Bhadran Nagar, Nizampura, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1:30 PM, 4:30–8 PM",
+      "friday": "9:30 AM–1:30 PM, 4:30–8 PM",
+      "saturday": "9 AM–1:30 PM, 4:30–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1:30 PM, 4:30–8 PM",
+      "tuesday": "9:30 AM–1:30 PM, 4:30–8 PM",
+      "wednesday": "9:30 AM–1:30 PM, 4:30–8 PM"
+    },
+    "phone": "+91 88669 84984",
+    "website": "http://www.stellardentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"She did a beautiful job on my teeth, amazing staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQmBzB4qjLLt-zuv-ayR073Se3nCSzmxWcs9LdnJDDgcWcI-Zcm90p3FPoJNcET_xJG-banfbkywgU-bbI0WofmTzzMeMBG-aiCcWKYOQNje4fM2GmCRMjV2oSqOcZ_aScwbo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xTGSTnicHcTRboIwFADQL7rSCYnRZA-AijJAESfRF0OvpQxti2sd2g_0H_ybJZ6H83o2xnR64jiXxh1wpfiF3TT7RSUNk2aASji804AatOOvs_zsL3IR2MC7tkliwN7-oHpsyMgtmCvDwop7iXqcnGQ8nXIscQkHFGPSufO1ijOcbY_3OAJayZqeHz3_BkqXpFS12FqbsjSIoPoJsfzar_KsZV6dDiMRbtJ2N1TFdYWHY1VgT9Vn_0EIgeY9gvwHNR1E3Q"
+  },
+  {
+    "position": 16,
+    "title": "Dental Spa",
+    "place_id": "ChIJfVRtRrHIXzkRyM5yQxxG5yY",
+    "data_id": "0x395fc8b1466d547d:0x26e7461c4372cec8",
+    "data_cid": "2803286380266049224",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b1466d547d%3A0x26e7461c4372cec8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b1466d547d%3A0x26e7461c4372cec8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3151022,
+      "longitude": 73.1751628
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfVRtRrHIXzkRyM5yQxxG5yY",
+    "provider_id": "/g/12ll5dhr6",
+    "rating": 4.9,
+    "reviews": 249,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Ground Floor, Vaibhav Realty, 39/1, near Crossword, Arunoday Society, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "10 AM–2 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 95379 73737",
+    "website": "https://www.drpreays.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"He gave me the confidence and restored all my Teeth with Dental Implants.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFkS-EwGdOk0Nj0mlh-fCeBFswNu1C0bban5dXIGvpysh9OdPXKrDcYkJV_y2jUK3G_-_PgHvSysOKqvQR5MPN5f_aYq0qJjScYU1g3nA0BHtqPKcZwkPf06exrJnzCN6IdIv-=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sWLxwnicHcTdboIwGADQJyp8SDDRZBfIJgJZqRIX2Q3RUtpQKD-tIL7gnsG3WeK5OK8_YUyvt7bdCNfiXccbdtdspJ0yTBmLdq3Ne42oRtr2CT5KP9zLDH3NYZlKwDW0jUBVwHZ7PeO7E8DtdlVeeYnCqV-02KQluSTjJ81l_FMsq_qcuGGBCsIPU7boNBmm48n7Jtirims-wBDXGc3PDneVD7uDGUhCf2dJKlizxxirZ4DXURlN6GN2AACJ9xSpf178RLE"
+  },
+  {
+    "position": 17,
+    "title": "Parekh's Dental Care Multi Speciality Dental Clinic & Implant Centre – Akota Vadodara",
+    "place_id": "ChIJz2Iz7RzGXzkRYP5DrQCO8cY",
+    "data_id": "0x395fc61ced3362cf:0xc6f18e00ad43fe60",
+    "data_cid": "14335395222455058016",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61ced3362cf%3A0xc6f18e00ad43fe60&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61ced3362cf%3A0xc6f18e00ad43fe60&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2930963,
+      "longitude": 73.16849959999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz2Iz7RzGXzkRYP5DrQCO8cY",
+    "provider_id": "/g/11b6gntl4t",
+    "rating": 4.9,
+    "reviews": 214,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Emergency dental service",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "emergency_dental_service",
+      "pediatric_dentist"
+    ],
+    "address": "204-205/ B, Radhakrishna Flats, Near, Akota Garden Main Rd, Sheetal Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4:30–8:30 PM",
+      "friday": "10 AM–1 PM, 4:30–8:30 PM",
+      "saturday": "10 AM–1 PM, 4:30–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4:30–8:30 PM",
+      "tuesday": "10 AM–1 PM, 4:30–8:30 PM",
+      "wednesday": "10 AM–1 PM, 4:30–8:30 PM"
+    },
+    "phone": "+91 98255 90265",
+    "website": "http://parekhsdentalcare.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "user_review": "\"Dr. Parekh worked with my teeth without giving me any sensation and pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGA_DnYsoMYmEavBSmuWlJAsrQ8lXrPplWuen5xRfM4jETuYNKMeft-XwZb8TWenycQqC1mnxXRPV-kFl5grvzwiRE3j6QWq1YGwO82FyDcGkGXm3rG9P54aqCYrOFVRmD4Dhs=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F5mj8nicHcRJDoIwAADAF5VFwKCJBxRookEBjVAvRpsCShdoi6gP9A_-xsQ5zPfTaN2puWnSxjFqIWpKBkUkFlwTrg0smFl3CmAFlBmk26wNYHAOOVIiQSy6PJZ7NhR0HSiZ-bSUaUeLgXDvmVeJe48OA9puElJpUI6nq38oCH_hrF_ZjD_LPD2CNqZeLR_v8ZZHzn2aFb2N4LjzJ_ErxLCFJXMknKWee-lXSO7iY85CN2zUYrQtywLNfwz4D7pyRWY"
+  },
+  {
+    "position": 18,
+    "title": "Dr Ashu's Dental clinic",
+    "place_id": "ChIJ_-xAbkjPXzkReAlu0PyLGo0",
+    "data_id": "0x395fcf486e40ecff:0x8d1a8bfcd06e0978",
+    "data_cid": "10167593026687207800",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf486e40ecff%3A0x8d1a8bfcd06e0978&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf486e40ecff%3A0x8d1a8bfcd06e0978&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3392607,
+      "longitude": 73.1928859
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_-xAbkjPXzkReAlu0PyLGo0",
+    "provider_id": "/g/11flby24lx",
+    "rating": 4.9,
+    "reviews": 724,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "Manorath Flats, F/103, Road, near Gujarat Surgical Hospital, Chanakyapuri Society, New Sama, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 4–8:30 PM",
+      "friday": "9:30 AM–1 PM, 4–8:30 PM",
+      "saturday": "9:30 AM–1 PM, 4–8:30 PM",
+      "sunday": "11 AM–1 PM",
+      "monday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "tuesday": "9:30 AM–1 PM, 4–8:30 PM",
+      "wednesday": "9:30 AM–1 PM, 4–8:30 PM"
+    },
+    "phone": "+91 94274 32174",
+    "website": "https://barodadentist.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.docindia.org/clinics/gj/vadodara/dr-ashus-dental-clinic?rwg_token=AFd1xnF07m4mDTz3I1l-GYowkOB01gNC9nCyl44NW_uGUvbp1n-gtpxm3mEO5Qv-E7hYgz78yZrjV6AQVJdX6Q_ecbZLwT8fkQ%3D%3D",
+    "user_review": "\"truly cares about patient comfort and provides exceptional dental care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKCxOGaQlSKoF7aKkzCeZ0WT0AoYQmRohwse5TT4dDHt4XYwcGOsTsEtPZTImnL3BznexcqtOkEq2joVv3zs5dZnGfRZPHKLk4pGJu4mQHmNQJfEwXv_1AKG7ju1f_Opttz3Bn=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VOmJFXicHcTdCoIwGADQJzJnGkHQhZXNWqSr0Y83EWsq6Tbr-8zwBXuG3iboXJzvp0RsYOK6dekPCmuLWrWgntIaVAYH0mq3aMCR4IAbpltehTGbvxN65fWe2eX4yqp-rjJyFCS0Z653tuxAjYQIbosYg9O5kzQBARGmmVhps_FnvVFv-cCkih7Duz28_B5Gt8zQfJelMdtUQUPXbaB5rLd8nUfd6XXxQkbH99bLL0mD2PszM-08QohT_peO-QGzNEXQ"
+  },
+  {
+    "position": 19,
+    "title": "Orazone Dental Clinic & Implant Center in Gotri,Vadodara | Dr. Rajan Trambadiya",
+    "place_id": "ChIJj1reI8DIXzkRccuK2SqVyCQ",
+    "data_id": "0x395fc8c023de5a8f:0x24c8952ad98acb71",
+    "data_cid": "2650532391978453873",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8c023de5a8f%3A0x24c8952ad98acb71&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8c023de5a8f%3A0x24c8952ad98acb71&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.298922899999997,
+      "longitude": 73.1303384
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj1reI8DIXzkRccuK2SqVyCQ",
+    "provider_id": "/g/12hkt8p3s",
+    "rating": 5,
+    "reviews": 161,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral surgeon",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_surgeon",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "SF - 07/08, Akshar Pavilion, A1, above ARC Diagnostics, opp. Rosedale Heights, Gotri, Vadodara, Gujarat 391410, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 76240 11886",
+    "website": "https://orazonedentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Excellent treatment and very much equipped dental clinic.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVf3Oazp0uspMNOdjjJckdHDcRoSn8C4V2hQ_s3b2a_JrFHSkxLFt855zxfBz5JHpvTdbXoBE5zZrihrlGNEA-mruMChz2KBX5aS8SOPPzZBPONE6HpCDi2k5yjyrwWUhr-oA5=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oGxy6nicHcRJDoIwAADAFxUQrCEmHtiUoAKKIuFCsCCVrU1bXPpB3-BvTJzDfD9YCMqXqtpjQ2kIafp64jVDZBT1KBREBrWhHCAOuGrF4aGzvPRmRKWk2sTpPoyqtg1QV_kuOpJkNJ15quNDwY2rXhYBW_tJ99qthQmhfN1sCQOfPk7VNSO2B2XO7pj1m9CzwMCmvYOlvrUzWCZmEsWxzO04Cr2FTx33rnfw3b7Z83LGDBALrp4zTdMA_o_A-AOMh0To"
+  },
+  {
+    "position": 20,
+    "title": "OM DENTAL CLINIC, IMPLANT LASER & ORAL CANCER CHECKUP CENTRE",
+    "place_id": "ChIJkZFwvgrFXzkRIVz5nSYuSfo",
+    "data_id": "0x395fc50abe709191:0xfa492e269df95c21",
+    "data_cid": "18034996926175861793",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc50abe709191%3A0xfa492e269df95c21&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc50abe709191%3A0xfa492e269df95c21&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.278872,
+      "longitude": 73.2305245
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkZFwvgrFXzkRIVz5nSYuSfo",
+    "provider_id": "/g/11g8cxck0p",
+    "rating": 4.9,
+    "reviews": 466,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Laser tag center"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "laser_tag_center"
+    ],
+    "address": "Cross Road, 1st floor, 35no.shop,Arom Complex,Above Union bank, Dabhoi Rd, Soma Talav, Vadodara, Gujarat 390025, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9 AM–2:30 PM, 4–8:30 PM",
+      "friday": "9 AM–2:30 PM, 4–8:30 PM",
+      "saturday": "9 AM–2:30 PM, 4–8:30 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–2:30 PM, 4–8:30 PM",
+      "tuesday": "9 AM–2:30 PM, 4–8:30 PM",
+      "wednesday": "9 AM–2:30 PM, 4–8:30 PM"
+    },
+    "phone": "+91 94080 35045",
+    "website": "http://om.dental-studio.co.in/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"The procedure was almost painless—I was amazed at how easily they worked.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhWdXA_fSYJRfjVTPK2Ozeg74ZjpOyDNLM4ZTR2Z9G2vrLR-UiQxcwYbByeZ9w10ICgG0AQSRfxhZujrW11ca67Q62WbTbnxDE1Z7v6vjIKt0NqAsXHDCAHe0wBxv6YFvgQScB=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/G0mRFXicHcxLcoIwAADQEwUCdWDoTBdB_FULBFAkG0fSkIgWKIkBvaBn6G3quHnL9_cQSnXy3TQv4s3gbcsv7CpZT9tGsUYZtP0xeScBlUCaKA7xGc1F_r1HhyotPpOq3mXx2o7ujLsTUnfRLQg3XxOSJTbxFrbuNwnYnvBIh6L0b4x4gwVXU76ACKdJNQpyrfvcsujRcbFj52VWNmMws4irHV2v1gqGv0jul8EULRkc_FE7xVxznFL_4zlBCMRLCpp_EzBDng"
+  },
+  {
+    "position": 2,
+    "title": "Darsh Superspeciality Dental Clinic",
+    "place_id": "ChIJLdsCSZzPXzkRHvE51GoTYg4",
+    "data_id": "0x395fcf9c4902db2d:0xe62136ad439f11e",
+    "data_cid": "1036412213796663582",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf9c4902db2d%3A0xe62136ad439f11e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf9c4902db2d%3A0xe62136ad439f11e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3211634,
+      "longitude": 73.1973265
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLdsCSZzPXzkRHvE51GoTYg4",
+    "provider_id": "/g/11gy3llr1r",
+    "rating": 4.9,
+    "reviews": 315,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Chitra Complex, 302, Muktanand Cir, Kalyan Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 4:30–8 PM",
+      "friday": "9:30 AM–1 PM, 4:30–8 PM",
+      "saturday": "9:30 AM–1 PM, 4:30–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1 PM, 4:30–8 PM",
+      "tuesday": "9:30 AM–1 PM, 4:30–8 PM",
+      "wednesday": "9:30 AM–1 PM, 4:30–8 PM"
+    },
+    "phone": "+91 99254 65919",
+    "website": "https://darshdentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The modern equipment and painless treatment made my visit stress-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2VFzekOZ3Yg2hJWr6a09LEQHZgl3p1OpCgzFJLOqjZh5B9Tx-SXSoO7i60pkhhx8QEUs49IS7d0LCwMcXs3ZEaEMispyFf2rzAJPxmJY1K3bBFA7DfOFVJNsKKMb3-fYddKcq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Yzrp8HicHcRBcoIwFADQE0UCUSmd6QKVtA1gZGgV2GGAxIIk8umIXLBn6G0607d4vz9qHA08W1anyEJqLbv6G-pB6H6s-3Eh9NWSBpAABJZ_2Cet_-oc6Vy3vCC5dBQ7DesSe1GQvBWyI8bmZitnyiJ--yrUauN9TCjNUs3dyxqbVqnpKQk-Yem9p26Fo-09FhmQIiiD-ALmQRtnmH12mK4st0Ny3lDf3TWcHtkewjA-E9TkVRWK28vdxhgj9b9A_R_U4kMM"
+  },
+  {
+    "position": 3,
+    "title": "PDC DENTAL CLINIC - Pediatric, Orthodontic & Family Dental Care",
+    "place_id": "ChIJGRCjHnTFXzkRkvp2ewCd_Ig",
+    "data_id": "0x395fc5741ea31019:0x88fc9d007b76fa92",
+    "data_cid": "9870937108686240402",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5741ea31019%3A0x88fc9d007b76fa92&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5741ea31019%3A0x88fc9d007b76fa92&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2867465,
+      "longitude": 73.2344481
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGRCjHnTFXzkRkvp2ewCd_Ig",
+    "provider_id": "/g/11csr74f1_",
+    "rating": 4.9,
+    "reviews": 648,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dental radiology",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dental_radiology",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "FF - 15, 16, 17, 18, 19 TOWER -B VRAJ VENU COMPLEX ABOVE HDFC BANK ATM GURUKUL CROSS ROAD, Dabhoi - Waghodia Ring Rd, nr. Dhaboi, Waghodia, Vadodara, Gujarat 390025, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8 PM",
+      "friday": "9:30 AM–8 PM",
+      "saturday": "9:30 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8 PM",
+      "tuesday": "9:30 AM–8 PM",
+      "wednesday": "9:30 AM–8 PM"
+    },
+    "phone": "+91 77779 10029",
+    "website": "https://pdcdentalclinic.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"I had my milk teeth removed and it was painless\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjjsJysj6c1Yk2NHOMJwgMmQOeV7j0DfELeiy911Ow4AHAYe1B5LeLI_ldU3lxPmjc9lqAVcsDBsH5ZPB8B-3YkZNmgq4f915WKJvtfZOGq1AgYW8rabJzM7ROywN_g_NMZnMFQw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xn9gIHicHcRRToMwGADgE3XQMdww2UPJ3BBpCyZugRfiaimWAmN_tcMb7gjexsTv4fu9t9Ze4NHzTBss1DgqI79AXsU4WDnYhRh7T10ACUDgkZwVHTloDekM-kHgsluyhNPUKdoXXB7X2t81T5n8nCOMuVuRhJQSx2Ems-fafLwF5pb3WkRmIkcBuxiSsMrjTYyCsqtYr6ZVE-Hw9JJ-26bihwkTVZ421_dz-kPXr3x2rFY1o9VA94XbOuz7Pmr_F2j4A5ysRIo"
+  },
+  {
+    "position": 4,
+    "title": "Om Narayan Dental Clinic",
+    "place_id": "ChIJ2d9rMuHIXzkReylB3OGnVSg",
+    "data_id": "0x395fc8e1326bdfd9:0x2855a7e1dc41297b",
+    "data_cid": "2906413723042261371",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8e1326bdfd9%3A0x2855a7e1dc41297b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8e1326bdfd9%3A0x2855a7e1dc41297b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3379256,
+      "longitude": 73.15446659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2d9rMuHIXzkReylB3OGnVSg",
+    "provider_id": "/g/11b6b5gxk1",
+    "rating": 4.9,
+    "reviews": 262,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dental laboratory",
+      "Dental radiology",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dental_lab",
+      "dental_radiology",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "teeth_whitening_service"
+    ],
+    "address": "4/ Gokul dham soci, Gorwa Rd, Nilesh Nagar, Gorwa, Vadodara, Gujarat 390016, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "7:30 AM–9 PM",
+      "friday": "9 AM–8:30 PM",
+      "saturday": "7:30 AM–9 PM",
+      "sunday": "9 AM–5 PM",
+      "monday": "7:30 AM–9 PM",
+      "tuesday": "7:30 AM–9 PM",
+      "wednesday": "7:30 AM–9 PM"
+    },
+    "phone": "+91 94281 68997",
+    "website": "https://omnarayandentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Dr ila parmar is a good dentist got my teeth cleaning and root canal done.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgVqj9zbDJgp8ynSn8Pu4Mur91paljQjCimoB9pAa4GJViaET-XguX52VpnCYgrb9cdmjRB8j1dNXj_o8OV2AEuAZIEzMprLO7A8YJ6Lum52W6qXDoMhM0MKjhvRJWwQgAlECFLw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bRK4unicHcTbDoIgAADQLyIv3bCtBzS7mFRWM-ulGTmIFEgkV3_YJ_Q3bZ2H8_2wplF6ZFkl63aolLQsjC5qIkVTiKZDZGVRpQHRQFtos0ruaE7TB_fel0lEFXyJnYAb08Om9hyVlzzhwa2SvqdQ3ptF6S0P9yCjJuu7qRLBkdYXj1wrvvUhd66rjJ8lXKcuCg06LcI3VnW8HiJ4jAaxqfruYfDIJhIzbOMlZ89tdGgTisowmMbtuHVs2wbsPwHiBwydRR0"
+  },
+  {
+    "position": 5,
+    "title": "Rameshwaram Dental Clinic | Dental implant Center, Vadodara",
+    "place_id": "ChIJmRprvI_PXzkRALrOF6X8s3A",
+    "data_id": "0x395fcf8fbc6b1a99:0x70b3fca517ceba00",
+    "data_cid": "8121112339078363648",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf8fbc6b1a99%3A0x70b3fca517ceba00&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf8fbc6b1a99%3A0x70b3fca517ceba00&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3249577,
+      "longitude": 73.20739979999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmRprvI_PXzkRALrOF6X8s3A",
+    "provider_id": "/g/11fj82shfl",
+    "rating": 4.9,
+    "reviews": 115,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Dentist",
+      "Denture care center",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "dentist",
+      "denture_care_center",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "periodontist"
+    ],
+    "address": "F/6 Indraprastha Apt, opp. Anandnagar, nr. Amit Nagar, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–12:30 PM, 5–8 PM",
+      "friday": "9:30 AM–12:30 PM, 5–8 PM",
+      "saturday": "9:30 AM–12:30 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–12:30 PM, 5–8 PM",
+      "tuesday": "9:30 AM–12:30 PM, 5–8 PM",
+      "wednesday": "9:30 AM–12:30 PM, 5–8 PM"
+    },
+    "phone": "+91 81411 67015",
+    "website": "https://rameshwaram-dental-f6.grexa.site/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The doctor was professional & explained the dental treatment clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZlKIsHLtA6aavhSzkvZQbgmGYNvKpV_tvoW0XOmIkKTTVnIJw9MviXzU43zcT4ZZikDXTPXIMIq7F76_R00hhws-9ki65EFXj3M8GicT-Tl1bEv1bEI7lBiSKI5BVzomYa6xD=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/e4pMQXicHcTbDoIgAADQLyJpplZbD7ZuZHYlI1-aMScEigVh8wf7hv6m1sM5nzczptZDx5HM7RRKFTJ_6vxBVWXyynSoKp2i1oBqoJ1wu96JcJHKCOnFyoR-lll2aIVNd9einJ_XNqqTi7HqBMmmRCLCOKnQshnElpP22HNbintpysWE4C1BMboHs8C_7CFkrNFgILjvTWfk5sb9OacYYNm9Tu0PCuSYHyLkjZNWlefMf01GTRdCCNh_CqovmjdEUA"
+  },
+  {
+    "position": 6,
+    "title": "Trinity Smiles Dental Clinic",
+    "place_id": "ChIJIU_IgerIXzkRKiQeneGMtqk",
+    "data_id": "0x395fc8ea81c84f21:0xa9b68ce19d1e242a",
+    "data_cid": "12229116738802689066",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ea81c84f21%3A0xa9b68ce19d1e242a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ea81c84f21%3A0xa9b68ce19d1e242a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.330270499999997,
+      "longitude": 73.15383779999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIU_IgerIXzkRKiQeneGMtqk",
+    "provider_id": "/g/11g6hr_vnb",
+    "rating": 4.9,
+    "reviews": 304,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency care service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "emergency_care_service",
+      "oral_surgeon",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "SF-206, Second Floor, Dashama Chokdi, Trinity Complex, Subhanpura Rd, above Manav Hospital, Ashok Vatika Society, Gorwa, Vadodara, Gujarat 390016, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 5–8 PM",
+      "friday": "10 AM–1 PM, 5–8 PM",
+      "saturday": "10 AM–1 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 5–8 PM",
+      "tuesday": "10 AM–1 PM, 5–8 PM",
+      "wednesday": "10 AM–1 PM, 5–8 PM"
+    },
+    "phone": "+91 70464 00031",
+    "website": "https://trinitysmiles.in/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0265PX265.X265.170123200253.Q2S8&rwg_token=AFd1xnEwYg0Rc_4YJ6EMsmuJVKzsuxv4HorGtlh1hy_wvYnAhaJhgfyNwl2aAnO9znE1XgkBIGTPc5_KeOqEEE2JPqshB5_gKg%3D%3D",
+    "user_review": "\"Everything was explained properly and the results exceeded my expectations.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdevj-WIT2FYeBOfyAV4pFz6Co8EOE8Du_M9fkzsLWBk_zd04YDRvVgvnAarUswOA6sXuNuh79N5R1Vohm5dZRMt3NEEma0ovy3PlpPtvjQ6XGLfwCB-EkYL868UV6KtjmPcA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VAYAmHicHcTbDoIgAADQLyIpjaytBzS6LFNzZdpLa4gyb7hAXH5g_9DftHUezvfDlerkyjBqbk4KIYqa9ZK9qGgVa9WEisYoOgmoBNLAoX-u8D5jugS3w2W2TZkT5G8cW912RK6wSUDsTf84LfNqlN7NqR5jBq10E-m40C1-vq5yCDCSSe_3fLH059E0FryZZ_fopEyfkOYJhX6bYd2FSpdnlOy8fHAdQKrUs5F9jdFRlU1I8XqYQggB_09B-wMK3EQD"
+  },
+  {
+    "position": 7,
+    "title": "Vraj Group of Dental Clinics -Harni",
+    "place_id": "ChIJo09isUvPXzkRE9YHErkE3_A",
+    "data_id": "0x395fcf4bb1624fa3:0xf0df04b91207d613",
+    "data_cid": "17356596681827145235",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf4bb1624fa3%3A0xf0df04b91207d613&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf4bb1624fa3%3A0xf0df04b91207d613&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.341376,
+      "longitude": 73.218829
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo09isUvPXzkRE9YHErkE3_A",
+    "provider_id": "/g/11fk1k0cnb",
+    "rating": 4.9,
+    "reviews": 293,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Denture care center",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "denture_care_center",
+      "pediatric_dentist"
+    ],
+    "address": "Red Coral Complex, 18/GF, Harni Rd, opp. Gada Circle, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 4–8:30 PM",
+      "friday": "10 AM–1 PM, 4–8:30 PM",
+      "saturday": "10 AM–1 PM, 4–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 4–8:30 PM",
+      "tuesday": "10 AM–1 PM, 4–8:30 PM",
+      "wednesday": "10 AM–1 PM, 4–8:30 PM"
+    },
+    "phone": "+91 94277 84433",
+    "extensions": [
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Underwent tooth extraction procedure it was painless experience\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHNpvy6VhfFzhSFAtgnrp49Li8IG_jyRqTDmI1SSX-x4HUX1m-YkFw2jkBCr6LEQT0sJx9SyY7HTje5w7EYv3gh_HZzz1eHi5PgDxEy8QBZNI4tH5QZzZtC5aJljMllIQgvkdV-=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9ILfUHicHcRJDoIwAADAF1VAWcTEAwpYDBIraIQLMVhboSzSyvZB3-BvTJzDfD9UiIavJInRxYzUNWH4zXGb1ZXAlZhldSmRhoOMAy5ZxwAVFgyabtQv9OFONHQtQaq2UU3_ufR2aT6eXpFdekoYXsGgwvNVKUFcuP08LzbbVvcdFMl8P5jhGBswyrHWG07cLQhNYTJNCoZP7UjswRmXaJMEniqghpIpEVvttmf5gTEPka64X8C6V2RZBvR_BqofXpBEiQ"
+  },
+  {
+    "position": 8,
+    "title": "Vraj Group of Dental Clinics Raopura",
+    "place_id": "ChIJQ7egfcjPXzkRxFubAO3pKXQ",
+    "data_id": "0x395fcfc87da0b743:0x7429e9ed009b5bc4",
+    "data_cid": "8370478586571480004",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcfc87da0b743%3A0x7429e9ed009b5bc4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcfc87da0b743%3A0x7429e9ed009b5bc4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.302402999999998,
+      "longitude": 73.1995724
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7egfcjPXzkRxFubAO3pKXQ",
+    "provider_id": "/g/11h07y7vtp",
+    "rating": 4.9,
+    "reviews": 412,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center"
+    ],
+    "address": "1st Floor, Ashok House 2, Gate, inside Sanstha Vasahat, Siyapura, Raopura, Vadodara, Gujarat 390001, India",
+    "open_state": "Closes soon · 7 PM · Opens 9:30 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 9:30 AM Fri",
+    "operating_hours": {
+      "thursday": "9:30 AM–7 PM",
+      "friday": "9:30 AM–7 PM",
+      "saturday": "9:30 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–7 PM",
+      "tuesday": "9:30 AM–7 PM",
+      "wednesday": "9:30 AM–7 PM"
+    },
+    "phone": "+91 94277 84433",
+    "website": "https://www.vrajdentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Her pulpectomy/root canal was done in single appointment without any pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF83r6DEdYRkvgkCmVBf9c_mlIpu7hOkA-dHN2zBwEfSTdgKCJ9FsqUJtxXeW1iY5zuljcad0_PUHuM7-mzUehLuTiC7cXxMVjgoUBuJVD6VygPFvDiRS_bBg-MjkeVsYK48TRYFw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FU0EF3icHcTdFoEwAADgJ5ryG85x0Y8OEUmNrjqs2WrVYpvoDT2Ct3GO7-L7fqiUjZhrWkmHPcI5KbES-IF4LXEte4hXGmkEQAIIzQx2B2a60-Fj4iyzJGRPwuwKWrcZSqty3SiD7pkJstVu0Fnt8naMMrKxvZkr7rEnX2d86ufJuFNlgS6ZngbxSvkGqLoY062KcttA55cPC8JjS3nQmcA3Cdynk4fH9GoR4BcMQ5FsRtMoTNx20fZ1XQf0PwL1DyNcRhA"
+  },
+  {
+    "position": 9,
+    "title": "Shree Hari DENTAL Care",
+    "place_id": "ChIJhX5uALLIXzkRPXXTiRzQbfU",
+    "data_id": "0x395fc8b2006e7e85:0xf56dd01c89d3753d",
+    "data_cid": "17685020132743804221",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b2006e7e85%3A0xf56dd01c89d3753d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b2006e7e85%3A0xf56dd01c89d3753d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.315660899999997,
+      "longitude": 73.1706854
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhX5uALLIXzkRPXXTiRzQbfU",
+    "provider_id": "/g/11dymr8lyl",
+    "rating": 4.9,
+    "reviews": 238,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Sarthi Complex II, 201-202, Concord Lane, opp. Nutan Bharat Club, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 5–8 PM",
+      "friday": "10 AM–1 PM, 5–8 PM",
+      "saturday": "10 AM–1 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 5–8 PM",
+      "tuesday": "10 AM–1 PM, 5–8 PM",
+      "wednesday": "10 AM–1 PM, 5–8 PM"
+    },
+    "phone": "+91 97374 63508",
+    "website": "http://shreeharidentalcare.co.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They are incredibly thorough, and my teeth have never felt better.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGthPdLdrBZ2MJzirDX5e6DF3ZK1117sR7755pstisnelp0lo9DmLrMG7rGC4CrvDmoGsXRHzYxzGs709oEaPzJWqPfl0KHdYIX3GTWNAQqX3rFVew4oJ9PrtcRLTq-Xrr8slNo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/40cLdXicHcTRboIwFADQL6qUIXYs2QOTWYdIKjFafVtKB8bChXu7ufCD-4b9jYnn4fz_td4P9BIEro1mDUDj7DdZNNB72_uZgS5oBmKGGAWpKnfXVPpW1UWNb-enbT5dMNOxXWSr6LwJw1BQJUQcD-Qv1Fs3cAdJ1hW4lQLlcr7En6wDSbpaT6ffSZLgCbx_qik_jurL8c26Pn3oSO6PZbobdYSrg73NIU8UelMV-5FpxGdyJbzeQs45ax8b1t8BJzpEbg"
+  },
+  {
+    "position": 10,
+    "title": "Keona Dental Clinic",
+    "place_id": "ChIJgZG9KoDIXzkRtjQ0Ag7mtic",
+    "data_id": "0x395fc8802abd9181:0x27b6e60e023434b6",
+    "data_cid": "2861727561081435318",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8802abd9181%3A0x27b6e60e023434b6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8802abd9181%3A0x27b6e60e023434b6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2942151,
+      "longitude": 73.137811
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgZG9KoDIXzkRtjQ0Ag7mtic",
+    "provider_id": "/g/1s049m67f",
+    "rating": 5,
+    "reviews": 312,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist"
+    ],
+    "address": "First floor, Oxydarshanam Tower A, B 104, Vasna - Bhayli Main Rd, above Purohit khaman, near Panchmukhi Hanuman temple, Bhayli, Vadodara, Gujarat 391410, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "friday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "saturday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "tuesday": "9:30 AM–1 PM, 4:30–8:30 PM",
+      "wednesday": "9:30 AM–1 PM, 4:30–8:30 PM"
+    },
+    "phone": "+91 98249 62964",
+    "website": "https://keonadentalclinic.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0265PX265.X265.120807112849.L8I1&rwg_token=AFd1xnG9sKvpxPWD7Agg0MVSAKnertBchL1JtyQP1CiBl7LI5k-3u7yC5J3eptSy9wlVcc9eu9MkpDy76f7Ei48cK3C8CgXg9g%3D%3D",
+    "user_review": "\"Dr. Tirath Bhatt was calm, skilled, and made the whole process comfortable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZiffPGfPQI4YVbaNHGjb7TYYAUoUf4DMutUoGdi-Y62MtBkU4G8_WkAmT4qPp8nkerrl7VKepsTk5B9zExpN7Y8ZuMfndXrE5KlOYa4TmFVvVhERKoRMvl0iepuY_XrEnNvPelw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3pQiDXicHclRE4EwAADgXzSFUdx5yElcV8ZVzIsjW2Vrm7bi_EM_wb_hvHwv3-ddGqP01LJ4OewVUhactJo0uRSGCNPLZW0VSoNcA215KN4yzz9WlKKAou0a4uxyjlfB7eIkGHupTClcRK1JZXCtAB4PIjNnKQzc0555dQLvSLmCkabhThYSpRM2mk9e_lPFDnaPbUTF9dD4o5Bv8Bkm9TLrstLfhXIXddyuiGrx6fci7hDhj9mjb9s2KP_mQHwB-29GUg"
+  },
+  {
+    "position": 11,
+    "title": "Dr. Purani's Dental Solutions",
+    "place_id": "ChIJgWc8cRXPXzkRzfJtCpqwsJo",
+    "data_id": "0x395fcf15713c6781:0x9ab0b09a0a6df2cd",
+    "data_cid": "11146603253388407501",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf15713c6781%3A0x9ab0b09a0a6df2cd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf15713c6781%3A0x9ab0b09a0a6df2cd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3269864,
+      "longitude": 73.2066737
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgWc8cRXPXzkRzfJtCpqwsJo",
+    "provider_id": "/g/11dxkxltd2",
+    "rating": 4.9,
+    "reviews": 226,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "FF 1,5,6, Kalind Complex, nr. Amit Nagar Circle, Amit Nagar, Balaji Nagar, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–1 PM, 5–8 PM",
+      "friday": "10 AM–1 PM, 5–8 PM",
+      "saturday": "10 AM–1 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–1 PM, 5–8 PM",
+      "tuesday": "10 AM–1 PM, 5–8 PM",
+      "wednesday": "10 AM–1 PM, 5–8 PM"
+    },
+    "phone": "+91 98793 46171",
+    "website": "https://drpurani.com/index.php",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My wisdom tooth removal was handled expertly with great care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFE0kK-SVVyKtnnXx97nECD7eIOTSqsDqoXresAdEeIoAVTmRMooxjLCUc2j1RbIMv9f5NeubZiN1kzOY0r2mBi7ntUVOI7rrEa_dvuddtdBN48poMNvON6sTxtDpp7YqDG4YPZ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mScFV3icHcRRboIwGADgE1WK4qomPqCgIUpxikR8WbTtQJH-pS0MvaBn2G2W7Hv4ft-ltcrMHOdRjgYFQPEQrRGagbRC2gGD2imUQcwg4_g7-ln5qxBXG3TIsufGSnnqp0SGy4CIKEkPjQkaOGlhfB6KCPwsrfcxQH_fLo9seHf31yjupt9jKtrr-Ubd6pXkWA_rxY1Ie8ySiGgdXr5413Ju-YJ6EwUx7RL6YdLeBkqRvAnWXr47z39cjDEq_2dI_gGW9UWB"
+  },
+  {
+    "position": 12,
+    "title": "Noble Care Dental Clinic | Dental Clinic In Karelibaug | Dentist In Karelibaug",
+    "place_id": "ChIJ-7blOz_PXzkRy9VGBEE6JoA",
+    "data_id": "0x395fcf3f3be5b6fb:0x80263a410446d5cb",
+    "data_cid": "9234132136888817099",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf3f3be5b6fb%3A0x80263a410446d5cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf3f3be5b6fb%3A0x80263a410446d5cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3255904,
+      "longitude": 73.20042339999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-7blOz_PXzkRy9VGBEE6JoA",
+    "provider_id": "/g/11f122yz_c",
+    "rating": 5,
+    "reviews": 207,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental radiology",
+      "Dentist",
+      "Denture care center",
+      "Endodontist",
+      "Oral surgeon",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_radiology",
+      "dentist",
+      "denture_care_center",
+      "endodontist",
+      "oral_surgeon",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "B/s, SBI Bank, 3rd Floor 7/A, Wageshwari Society, VIP Rd, above Endospine Clinic, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 94275 06033",
+    "website": "http://noblecaredentalclinic.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJ-7blOz_PXzkRy9VGBEE6JoA/mid/%2Fg%2F11f122yz_c?sourceurl=https://www.google.com/search?pb%3D!4m8!1m3!1d0!2d0!3d0!3m2!1i1920!2i1080!4f13.1!7i20!8i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1saAroUaUDv5VybcPJqXWGbck3kugCxfg:2!2s1i:0,t:11886,p:aAroUaUDv5VybcPJqXWGbck3kugCxfg:2!7e81!12e5!17saAroUaUDv5VybcPJqXWGbck3kugCxfg:88!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3Ddental%2Bclinic%2BVadodara%26tbm%3Dmap%26hl%3Den",
+    "user_review": "\"My root canal was done painlessly and I am able to chew without any pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1alhNZJy31kTAkF0pWNhC_8AfXLDYzL5zunp7CtneGWttxbIJzoiXz75dgxsRClua1vChp6eVKP6-oRk9qzcAJSMqRW3oa3dqouvS7yZVot2bVpz2gY4mty4JrkGU8aCAWaI=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vuoxE3icHcTRTsIwFADQLyrbGDAk8aGpShi4wMANeDGl1JZ09Hb0Dlk_0H_wb0w8D-f3RyM6P4uiRqcDBaAa2Xl5E2BRWhwIuEbKeSI88RFdFxtDXxPe6OKY92lidtS8xa4uNPuc0q_96uUQVuPQWZcxtHJeIz5OizzAZR-y8Vk9fMmajid3pt1EVsv1hEBpntogaL59b8s6BZ6eW-ju26w_VoDDU-XCUB1GV-xH-c3MP6ac0Zovnr-TOI6J_l8Q-wd3n0Wh"
+  },
+  {
+    "position": 13,
+    "title": "Ocean Dental clinic",
+    "place_id": "ChIJla-LAkfPXzkR-cQNjZQbCKA",
+    "data_id": "0x395fcf47028baf95:0xa0081b948d0dc4f9",
+    "data_cid": "11531497170717754617",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf47028baf95%3A0xa0081b948d0dc4f9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf47028baf95%3A0xa0081b948d0dc4f9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3215744,
+      "longitude": 73.1976924
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJla-LAkfPXzkR-cQNjZQbCKA",
+    "provider_id": "/g/11sf2c4v46",
+    "rating": 4.9,
+    "reviews": 161,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Dental implants provider"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "dental_implants_provider"
+    ],
+    "address": "SF, 219-220, Shukan Ananta Complex, Muktanand Cir, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 95123 47726",
+    "website": "https://oceandental.co.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"He treated my upside frontal teeth and corrected and designed my smile .\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTISo0gVO4t3G-piK0vaMrrDTOpHoB0PnnAe12wcpktDF1bEozjardFw4fxDpC81ie39wRWkNoWNfyUcXvbOl3-96Xxhh4axsoy-o7kSOGt01eIEmDPj6wJO9zzixkF5iErDTSIQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jOLGv3icHc1LcoIwGADgE0WSglY60wXKo7RTguJrizESDObPkNQgN-wRvI2dbr7t9_gV1mrz5nmd8CcNQNPxH8N7BspyZScMrl6jDWIGGS8qi5WMsk1eAW52NLB-hnT7hW_1d9_HG6o_YIFLpSJOXhzT0sYpOSYwXur-lLrgPMR6OSct90O33ssC9sX5vmWH25F2Pgpnh0GIoB4M3BG8yopmFhOeJ9e4vMzcJw3HsR1kOm2Tv6vKV--OYIyR-Jch9QT4T0Wj"
+  },
+  {
+    "position": 14,
+    "title": "Shrey Dental Associates And Implant Centre Dr Malhar Maniar (SDAIC)",
+    "place_id": "ChIJD7VyMfTFXzkRa9TJPjMNtDI",
+    "data_id": "0x395fc5f43172b50f:0x32b40d333ec9d46b",
+    "data_cid": "3653559711452222571",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5f43172b50f%3A0x32b40d333ec9d46b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5f43172b50f%3A0x32b40d333ec9d46b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2975296,
+      "longitude": 73.2009233
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD7VyMfTFXzkRa9TJPjMNtDI",
+    "provider_id": "/g/11f4qx8jmz",
+    "rating": 5,
+    "reviews": 181,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "2nd floor, Shrey Nursing Home, Nairuti Appartment, Opp. Khanderao Market, Raopura, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 96243 61188",
+    "website": "http://www.drmalharmaniar.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"A calm environment made me at ease on my tooth extraction day.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxkFfxUeQzhqmhvL9nX4vxvzLnBImKo15tQ-XCT_fs0ttaf8uPCOiACMM9H_SiGzEV5VNpzsimdW9rDckFN-4-X-G90dq9z8WZevzApcpEb1iRQall4k3rVlOJ__eEFzu_GJgg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/EiL1mnicHcRdboIwAADgE1VKxMSa7IExYPMHRR2QvTSulpZQ2koLkl7QM3gbE7-H7_ng1mqz8jzB5zOmFBN0MLQnSloq7YyozmPaAGKA8cJDlrdhMrVJPf3S3PFbx8ctklUwTqPbys-fbqP8hc1BFZ1xbaC1l3o5HKJ9E0a7HfrGpyZ1cbEoMu1M011L1H-RNslAACqQIni9Ibcs_-joQk10_O83x_wiRNDO-0Ls1xjTOHEDTteMfdx9CCHg7wmQL-YJRck"
+  },
+  {
+    "position": 15,
+    "title": "Dr. Hada dental and orthodontic clinic",
+    "place_id": "ChIJ-YwQ0X_JXzkRV8sImpAZgY8",
+    "data_id": "0x395fc97fd1108cf9:0x8f8119909a08cb57",
+    "data_cid": "10340574328269622103",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc97fd1108cf9%3A0x8f8119909a08cb57&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc97fd1108cf9%3A0x8f8119909a08cb57&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3073959,
+      "longitude": 73.174874
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-YwQ0X_JXzkRV8sImpAZgY8",
+    "provider_id": "/g/11q7g688rh",
+    "rating": 5,
+    "reviews": 319,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants provider",
+      "Doctor",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_provider",
+      "doctor",
+      "orthodontist"
+    ],
+    "address": "375, Third Floor, Emerald One, Jetalpur Rd, near Gujarat Kidney Hospital, Anand Nagar, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–2 PM, 4–8 PM",
+      "friday": "10 AM–2 PM, 4–8 PM",
+      "saturday": "10 AM–2 PM, 4–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–2 PM, 4–8 PM",
+      "tuesday": "10 AM–2 PM, 4–8 PM",
+      "wednesday": "10 AM–2 PM, 4–8 PM"
+    },
+    "phone": "+91 94295 59687",
+    "website": "https://drhadadental.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Fatima for saving our teeth and bringing Healthy smile back\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv5b81MpBpzPn3x3IGqt88YjcWt09_DTspOCCJOoAy8nYgenf_KK_kYo6VcBJ2RYaOvfkUyyLGDHobsuxGIT3Ga2l_8zpA-TZtWHfSE6Ftat71zGUHiWaNH80axGSTP8jtDskx=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F0WKl3icHcTdEoFAGADQJ1ptGiwzLiI2v4XS5KZZO_1Qdpf9UL2gZ_A2ZpyL8_0UAEqPDKMqrE4uZV6lT50-uBSQCuhweTNypRHXSBu2v92V9uzVOxNzoyaq9YVVWwt6B0LiK48ADxMn0MqbTpeetBsi4jwVWbJaJWUs-0c-WXb3MfNeWRk2zZo6rjzrZ00XgUVZt0pIq2wUnCBys8OsPwcGA7OloXuJ2NYlmNX0EPjkCo4u6_HbxBij4j9H4gdnP0Ta"
+  },
+  {
+    "position": 16,
+    "title": "Dr Monali Shah, Shree Rang Dental Clinic & Implant Center",
+    "place_id": "ChIJEUauhnnPXzkRj5_8qc1nwRc",
+    "data_id": "0x395fcf7986ae4611:0x17c167cda9fc9f8f",
+    "data_cid": "1711763466395361167",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf7986ae4611%3A0x17c167cda9fc9f8f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf7986ae4611%3A0x17c167cda9fc9f8f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3127399,
+      "longitude": 73.22337
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUauhnnPXzkRj5_8qc1nwRc",
+    "provider_id": "/g/1w0j2lrm",
+    "rating": 4.9,
+    "reviews": 60,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "1st Floor, Rudraksh Complex, Swami Premdas Chawk, Harni-warasia Ring Road, Warasiya Ring Rd, Harni, Vadodara, Gujarat 390006, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–12:30 PM, 5:30–8 PM",
+      "friday": "10 AM–12:30 PM, 5:30–8 PM",
+      "saturday": "10 AM–12:30 PM, 5:30–8 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–12:30 PM, 5:30–8 PM",
+      "tuesday": "10 AM–12:30 PM, 5:30–8 PM",
+      "wednesday": "10 AM–12:30 PM, 5:30–8 PM"
+    },
+    "phone": "+91 94081 81891",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Cash-only",
+          "Google Pay"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "user_review": "\"The appointment scheduling was smooth, and the wait time was minimal.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOzwcJs4ubP3Y_KTmcQ-9r13Lf-N76NXlFcW0PcC4icDzGYZ15jV0TSTZjKIooM5x3DHdOrQ6dlRtJ-jcMVFoFgc7cFSpk-K69Oz8adPO29IDIKD9P5EQFMmHfORvL8sZeSPIX=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BmMqX3icHcRLDoIwFADAExWKfBQTF0asIkKLEBU2Rh8IIlBC6ydc0DN4GxNnMd9PKWUnpqpal7pScF7U-UPkPfBW5q1UgDdq0QkEAgl1zoLwPl_R4QUbYTwuTE9OXtxAiOxe07dXFIyt4FgTOGAGC-MGzrBKUs2s9jiO4rTyXM59860764z2oZXVO7lBFfh7wkkBYyBRd0eeZdNhcs4YHdmu43qOzcxlSPxmfaW753Yi0jxi7nH20jDGqPwPqP0BqoNCQA"
+  },
+  {
+    "position": 17,
+    "title": "International Dental Clinic",
+    "place_id": "ChIJ51NaC77IXzkR5xnSPdlQP8s",
+    "data_id": "0x395fc8be0b5a53e7:0xcb3f50d93dd219e7",
+    "data_cid": "14645513407207447015",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8be0b5a53e7%3A0xcb3f50d93dd219e7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8be0b5a53e7%3A0xcb3f50d93dd219e7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3122226,
+      "longitude": 73.1590554
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ51NaC77IXzkR5xnSPdlQP8s",
+    "provider_id": "/g/1tdc3mj1",
+    "rating": 4.8,
+    "reviews": 81,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "102, Duttkutir, Besides, TBZ Jewellery Shop, Inox Rd, near Sterling Hospital, opp. to Westside, Race Course, Vadiwadi, Vadodara, Gujarat 390021, India",
+    "open_state": "Open now",
+    "phone": "+91 265 232 0174",
+    "website": "http://idccare.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0265PX265.X265.110313202707.A4B5&rwg_token=AFd1xnFyJUNORCY-ifqyI0pvca8ocgG62BqiQmfxz9uLkoK7OeLQtEXfMdgRU7pQ78RVSudfnJrwDQrLFhf4zKtDmYvlWUBQAw%3D%3D",
+    "user_review": "\"Dr. Nirali has extensive knowledge and is both kind and considerate.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOxxIRQKr8drHKgJnYedFmvPmhJd-FNzmydV5CLDgMQl9w4kv11pqrKHtVOj0m1iXWRa4hDHNLn26pHL-Xhv-0VakpWLL37JDRTYL6O2oYmc4Rpv1bivAwR5A2ZBBYumq2LkSe=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/faay03icHcRdboIwAADgE1VaRDdNfMAxw6CCdAvK3lxpWgf9kdaiu6Bn8DYm-x6-x104Z-wyCHoxnXCtec8ulg1UK8eUm1AtA24soBbYIN4VVRe_l9frB6ny4bUd0pxnqmHtRvqdFFkLNsWfvLX17A0nfFv1izHqPELmPOSpq8tfKNHpsCfHSCRpgVU4NykGB-EBrI-d2WM8fckS8tXgeRnqRtKIGI9-Tj4eySwOv9fr5iLPIe4-2WpEEEIg_qdAPQFgkkQU"
+  },
+  {
+    "position": 18,
+    "title": "Kiansh Dental Clinic",
+    "place_id": "ChIJEV_iYHjGXzkRmu4vix1wI_I",
+    "data_id": "0x395fc67860e25f11:0xf223701d8b2fee9a",
+    "data_cid": "17447912653554970266",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc67860e25f11%3A0xf223701d8b2fee9a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc67860e25f11%3A0xf223701d8b2fee9a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2614707,
+      "longitude": 73.18119589999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEV_iYHjGXzkRmu4vix1wI_I",
+    "provider_id": "/g/11g6xrw5t5",
+    "rating": 4.9,
+    "reviews": 326,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Oral surgeon"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "oral_surgeon"
+    ],
+    "address": "GF-3, Vanessa Plaza Near Ambe Vidhyalay, Darbar Chokdi to Vadsar bridge Road, Manjalpur Road, opp. Vrajbhoomi flats, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 5–8 PM",
+      "friday": "9:30 AM–1 PM, 5–8 PM",
+      "saturday": "9:30 AM–1 PM, 5–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–1 PM, 5–8 PM",
+      "tuesday": "9:30 AM–1 PM, 5–8 PM",
+      "wednesday": "9:30 AM–1 PM, 5–8 PM"
+    },
+    "phone": "+91 84015 36606",
+    "website": "https://kianshdental.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The doctor carefully examined my tooth and provided a proper solution.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvdXF7b_U_W6VYEq1DSBYPiAD0Ln7sFBqqJJfmtZ73PTk-2vk-pVJlhqOrwH1lTOjxWTXBUwomEOsgo5Qdf_aDuBLLcg2Wnm3PbI5pxBVpOmSHzvDliLgQPhkbqXQzuCYmcO7R=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4i1EO3icHcTbboIwAADQL6qAxJGY-EAHxhFiy0QueyGjYqv0agsYf3DfsL9ZsvNwfn-Yc9puPY-zcEWVonyY7PAgSrpBuhVRwqPaAmKB9WJ8LMY4nS_NPuq7c1e_VW1qguQEW3yLEz-Xkd1DY7LsKtxXFOJyBOt5BLrKODPosRwCXqL7sy4beF6USJGlalNcrt13MsE8J3RdSxHi_mOjn7DSSJwOrznht5wWmI29aYrX9N4KgqLP3RL4vg_Y_wTIP2mxRZI"
+  },
+  {
+    "position": 19,
+    "title": "Vraj Dental Clinic | Dentist| Dental Surgeon| Dental Implantology| Cosmetic Dentist",
+    "place_id": "ChIJJdO3GIfFXzkRzrrTU3CQ5XU",
+    "data_id": "0x395fc58718b7d325:0x75e5907053d3bace",
+    "data_cid": "8495355084221430478",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc58718b7d325%3A0x75e5907053d3bace&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc58718b7d325%3A0x75e5907053d3bace&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3008399,
+      "longitude": 73.2217737
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJdO3GIfFXzkRzrrTU3CQ5XU",
+    "provider_id": "/g/11b6c9fvz_",
+    "rating": 4.9,
+    "reviews": 164,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Dental laboratory",
+      "Dentist",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "dental_lab",
+      "dentist",
+      "emergency_dental_service"
+    ],
+    "address": "20, Gayakwad Complex Panigate Rd, Society, Ayurvedic Cross Rd, near Govindrao Park, Panigate, Kotyark Nagar, Fatepura, Vadodara, Gujarat 390017, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–1 PM, 4–8 PM",
+      "friday": "9:30 AM–1 PM, 4–8 PM",
+      "saturday": "9:30 AM–1 PM, 4–8 PM",
+      "sunday": "9:30 AM–1 PM, 4–8 PM",
+      "monday": "9:30 AM–1 PM, 4–8 PM",
+      "tuesday": "9:30 AM–1 PM, 4–8 PM",
+      "wednesday": "9:30 AM–1 PM, 4–8 PM"
+    },
+    "phone": "+91 94283 01739",
+    "website": "http://www.vrajdentalclinic.info/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assisted listening devices",
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"I recently underwent teeth extraction and it was quick and painless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFEV7MkR9Hex7pML74qa0RuHExX8HvxwoIB1kRRg2M32xzoEw4WskQqg22oEg3EF4LgCk_e5qUmCnpITl_SQQ5SX06KT05Fym69jU1Ipd953-EAMhMoILUZBWP4-GAfWygtkn9tePdBV5fE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/K160zXicHcRLjoIwAADQE1XKpyImLsCUgUgNoIiZjZlgLbHQFlsFvaRrb2Myb_E-79YYpZeW1bXujEnJOnrX9NZIYagws0b2FlMaNBpoK8y3BQ9jfPAJL4OETr4ime8Nf7C8J3g6LpLHNMo0snlZMoe4zvSSePRqzYuBOY7EzMWxl7E1P1E0VP1aqHTfnXZFgXZHON_sIYqf_Ty4VnaqzgFyAQ5JS2SaVb9RnXvgJ7zUT2a4CAzNz9EBXfBqtCGEoP2_AeIL-nhFRQ"
+  },
+  {
+    "position": 20,
+    "title": "City Smile Superspeciality Dental Clinic",
+    "place_id": "ChIJF_90ojLPXzkRcPABloXWj1g",
+    "data_id": "0x395fcf32a274ff17:0x588fd6859601f070",
+    "data_cid": "6381555066242986096",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf32a274ff17%3A0x588fd6859601f070&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf32a274ff17%3A0x588fd6859601f070&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3060957,
+      "longitude": 73.1960943
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF_90ojLPXzkRcPABloXWj1g",
+    "provider_id": "/g/11t314ccrr",
+    "rating": 4.9,
+    "reviews": 84,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "101, Plus One Business Hub, Salatwada Main Rd, opposite M.C. High School, Salatwada, Karelibagh, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–8 PM",
+      "friday": "9:30 AM–8 PM",
+      "saturday": "9:30 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–8 PM",
+      "tuesday": "9:30 AM–8 PM",
+      "wednesday": "9:30 AM–8 PM"
+    },
+    "phone": "+91 81401 24812",
+    "extensions": [
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Fantastic treatments by doctors and the amazing staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFmKqzM8f9QSixDLXDQuo5FzWnRBbgaukJCYvWkFnYEYeDYxYrstwBjTEoXo8bXyXI1CHT6Ie85EdhA2bwVpQhzdyKCfLAA98ZBrEBRpqihoGGDYDXL_lHAUQbB7in-iXob1Ak=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rgAHhnicHcRbcoIwFADQFUXAji12ph8JAV_UMdZH4k-nwUgQzEUSirLA7sHddMbzcR5_2rnavntepV8GOUBeqdaqJgPjlHGDDC5eXluUWWQ9vFqyEieXxbX_DE9j9lXcaMopa2GU9HuzJjL_act5JH73ZWJELBQVN9FY15HzJgYOoeR3Pgui6eZ1psJRfNR4KLtdzXR_vC-iU4rxODyQJibr-lpomEyooDz9rqZ4yyR5KwwqOMgAlx9d4Ps-0s8zZP4BcmJEyQ"
+  },
+  {
+    "position": 7,
+    "title": "Happy Kids And Family Dental Clinic",
+    "place_id": "ChIJD7m5y53IXzkRoNlGLmW5YZ8",
+    "data_id": "0x395fc89dcbb9b90f:0x9f61b9652e46d9a0",
+    "data_cid": "11484664368990706080",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc89dcbb9b90f%3A0x9f61b9652e46d9a0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc89dcbb9b90f%3A0x9f61b9652e46d9a0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.303201599999998,
+      "longitude": 73.1529046
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD7m5y53IXzkRoNlGLmW5YZ8",
+    "provider_id": "/g/11b8t6psn2",
+    "rating": 4.9,
+    "reviews": 980,
+    "type": "Pediatric dentist",
+    "types": [
+      "Pediatric dentist",
+      "Children Policlinic",
+      "Children's home",
+      "Children's hospital",
+      "Day care center",
+      "Dental clinic",
+      "Emergency care physician",
+      "Private hospital",
+      "Sports medicine physician",
+      "Surgical center"
+    ],
+    "type_id": "pediatric_dentist",
+    "type_ids": [
+      "pediatric_dentist",
+      "children_policlinic",
+      "childrens_home",
+      "childrens_hospital",
+      "day_care_center",
+      "dental_clinic",
+      "emergency_care_physician",
+      "private_hospital",
+      "sports_medicine_physician",
+      "surgical_center"
+    ],
+    "address": "Shop 8 Ground Floor, Sainath Rd, opposite Urocare Hospital, near Iskon Circle, Manisha Park, Meera Society, Diwalipura, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 pm",
+    "hours": "Open · Closes 8 pm",
+    "operating_hours": {
+      "thursday": "10 am–1 pm, 5–8 pm",
+      "friday": "10 am–1 pm, 5–8 pm",
+      "saturday": "10 am–1 pm, 5–8 pm",
+      "sunday": "Closed",
+      "monday": "10 am–1 pm, 5–8 pm",
+      "tuesday": "10 am–1 pm, 5–8 pm",
+      "wednesday": "10 am–1 pm, 5–8 pm"
+    },
+    "phone": "+91 97277 20774",
+    "website": "https://vadodarakidsdentist.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Toilet"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free of charge street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"She treated our child's root canal so patiently making us so  relieved\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEn-8Mj-p8FejNOPWq1SpNvqrKF36VatefSYJJnD7qQbDAtotOb8BQnha3X_uF0Sp6OhJi7SpiNZ38yCtSCRPM4iF8No5GxRNbfhmFijg5m9IE02Nlhnz5_6iX3vNfOiTyE9Fc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xtIy6XicHcRdboIwAADgE1XqKliX7AGVGlksYI1_L0aaQovQFlvd9IDeYbcx2ffw_b2k99Z9BkEr0aA2pm7FzYkrN9oL7QfcdEFtHeAOuCDOaXGJEw3wqgEWE9HQLN_1Q2bpvb9-ExRtz15U7JCmej7ui3Iee-OzEk8LLc9of7oRyGyUyVSNmVX0iPBj5tlsna9GimBqwsXvmpaV7Ihq6rCbLBP4QVupn-EpUnt0p1WmNo9kQvjXzxBCCOT_HOg31ZpDiw"
+  },
+  {
+    "position": 8,
+    "title": "Shubham Dental clinic, implant and cosmetic centre",
+    "place_id": "ChIJ9SZwoejIXzkRdSLA0Gbs37k",
+    "data_id": "0x395fc8e8a17026f5:0xb9dfec66d0c02275",
+    "data_cid": "13393683743156216437",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8e8a17026f5%3A0xb9dfec66d0c02275&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8e8a17026f5%3A0xb9dfec66d0c02275&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3301716,
+      "longitude": 73.1538301
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9SZwoejIXzkRdSLA0Gbs37k",
+    "provider_id": "/g/11b6d9g91w",
+    "rating": 4.9,
+    "reviews": 550,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Laser tag center",
+      "Oral surgeon",
+      "Orthodontist",
+      "Orthotics & prosthetics service",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "laser_tag_center",
+      "oral_surgeon",
+      "orthodontist",
+      "orthotics_and_prosthetics_service",
+      "pediatric_dentist"
+    ],
+    "address": "FF-16, first floor, Trinity Complex, Dashama Char Rasta, New IPCL Rd, Ashok Vatika Society, Subhanpura, Vadodara, Gujarat 390016, India",
+    "open_state": "Open · Closes 9 pm",
+    "hours": "Open · Closes 9 pm",
+    "operating_hours": {
+      "thursday": "9:30 am–1:30 pm, 5–9 pm",
+      "friday": "9:30 am–1:30 pm, 5–9 pm",
+      "saturday": "9:30 am–1:30 pm, 5–9 pm",
+      "sunday": "Closed",
+      "monday": "9:30 am–1:30 pm, 5–9 pm",
+      "tuesday": "9:30 am–1:30 pm, 5–9 pm",
+      "wednesday": "9:30 am–1:30 pm, 5–9 pm"
+    },
+    "phone": "+91 98247 16502",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral toilets",
+          "Toilet"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"He saved me from Nerve damage while surgical extraction of wisdome tooth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAcsSMDLX8j7Fu9967LAv5QuFi0VQBwAezgwwOHSYohXHiLI_qvwqUmkJ3RrFKcZIWIPFr1VICdGtdfI7JRSKCsJqalHF-zXUiT-vCY-9XLsgxWLqx821dgRM22fogamty3PgH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/P-tvWHicHcRLUoMwAADQE4XvtBRnXETaSGiqfGwBNw4TIGCBFBJIywU9g7dxxrd4vz-NlDfxpOtdY2uMc9ZVs6gmygdZDVKjvNfZTQAqgNBh-BZd4QFSkZz2JNt9O2h23a1D4LKJZtQal-hFwWplSr37Sc6bzG8J_hoXNZ77a2DHEzrST5ziEE3mBXvlqyxr7ARxcvREMBadj8CandsPsHg5cDMi2D0l431nmSWLT5ZVc1b08mGHzH9WpmEYoPmfguEPKnRESg"
+  },
+  {
+    "position": 10,
+    "title": "MGS Dental Care (SmyleXL Dental Clinic, Sun Pharma Road)",
+    "place_id": "ChIJzwowxmPHXzkRIg-tC1l1Pkk",
+    "data_id": "0x395fc763c6300acf:0x493e75590bad0f22",
+    "data_cid": "5277784838633230114",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc763c6300acf%3A0x493e75590bad0f22&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc763c6300acf%3A0x493e75590bad0f22&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2808156,
+      "longitude": 73.1515758
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzwowxmPHXzkRIg-tC1l1Pkk",
+    "provider_id": "/g/11gm7fc539",
+    "rating": 4.9,
+    "reviews": 856,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "1st Floor, Marvel Sqaure, 13-14, Sun Pharma Rd, Soudagar Park, Tandalja, Vododara, Vadodara, Gujarat 390012, India",
+    "open_state": "Open · Closes 8:30 pm",
+    "hours": "Open · Closes 8:30 pm",
+    "operating_hours": {
+      "thursday": "9 am–8:30 pm",
+      "friday": "9 am–8:30 pm",
+      "saturday": "9 am–8:30 pm",
+      "sunday": "11 am–7 pm",
+      "monday": "9 am–8:30 pm",
+      "tuesday": "9 am–8:30 pm",
+      "wednesday": "9 am–8:30 pm"
+    },
+    "phone": "+91 88559 15100",
+    "website": "https://smylexl.com/dental-clinic-in-sun-pharma-road-vadodara/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Toilet"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"My teeth feel incredibly clean and the service was top-notch.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGOcDX4ny7_HAsRCDPb6cal7LtXXJFEJw3XkZ94_PBHp_zC8N91dnsknoIbfGna53aQdD26bzKvWCtwQxOec1fa5dgKzEa17sYLsQqtTPRTiU9vbx6izTHotKZ2V9EVgo2x-rrXPXdvAZYa=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FPQgnHicHcTdboIwGADQJ6r8KQyTXSAwmRgtBl3lhpSCxcBaxtcB4yV37duYeC7O479WqoO1prW1teBS8rb6hapnUqhKqAWT3xrvADFAoHn4kDTe9sgCshR_Th55cPIDXNiMts5eEbL7CHejRZrMXeZ4E3X57L8dXKMU0Aj5Wdy2gq4smpSBaRdzPHz5akymY8WMG12VPJ5Dajhw3UPyo1J8Su9ndygm-z6nkVRxZl7c8MKlOaG-J5iUg5dd6fto6LqO6tcMiSd9a0ei"
+  },
+  {
+    "position": 18,
+    "title": "Shreeji Dental Care",
+    "place_id": "ChIJJRCBCinJXzkRrTyfeZFqOSA",
+    "data_id": "0x395fc9290a811025:0x20396a91799f3cad",
+    "data_cid": "2322004255929482413",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9290a811025%3A0x20396a91799f3cad&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9290a811025%3A0x20396a91799f3cad&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.347206399999997,
+      "longitude": 73.1745572
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJRCBCinJXzkRrTyfeZFqOSA",
+    "provider_id": "/g/11c1rgcr1t",
+    "rating": 4.9,
+    "reviews": 336,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "emergency_dental_service"
+    ],
+    "address": "GF/04, Yaksha Shree Complex, Guru Gobindsinhji Marg, below Vraj Hospital, TP 13, Chhani Jakatnaka, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 8 pm",
+    "hours": "Open · Closes 8 pm",
+    "operating_hours": {
+      "thursday": "9:30 am–1 pm, 4:30–8 pm",
+      "friday": "9:30 am–1 pm, 4:30–8 pm",
+      "saturday": "9:30 am–1 pm, 4:30–8 pm",
+      "sunday": "Closed",
+      "monday": "9:30 am–1 pm, 4:30–8 pm",
+      "tuesday": "9:30 am–1 pm, 4:30–8 pm",
+      "wednesday": "9:30 am–1 pm, 4:30–8 pm"
+    },
+    "phone": "+91 75673 68089",
+    "website": "https://wa.me/917567368089",
+    "extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park",
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral toilets",
+          "Toilet"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free multi-storey car park",
+          "Free of charge street parking",
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"The root canal was quick and almost painless, completed much faster.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZEL50ai_KV6o6Y-GQ61MLaPSA-9OG_vjcgFCMfUxVq3yqXIVbMSUZWByrQJJlicx4fhOQjDrZyJfgMBb7Z2g9sK5r9xQ3R2dQJEAvsr0S0CFhC-nVnpEjh38rP7HLjTn4x-W729uiPKzY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lqWVDnicHcTdFoEwAADgJ5qmKDnHRZKffmgidOMwtZVs2UJ5Sdfexjm-i-_7oXVdyaGilFTrEM5JmT5kKjBndcrqDuY3hVQSYAmkYoVLdLWcxPH78JQfvVjn-gHMkN4N_FMYWcBczY7PApOpHWTbJr5r7X2_iM9BtE1241Yg1y1z3PQyukLFRCStm5FgfDYSlZjS6wuzQdpavSDXsZ5SwAjaU2oDFrPKKag2EKEx94sN6zVgZ6jmIw-992H06kIIAf2PAfsBAIdFxw"
+  },
+  {
+    "position": 19,
+    "title": "Dr. Apoorva & Dr. Chintan - Dental Clinic & Dentist in Nizampura Vadodara | Krishna Smile Align",
+    "place_id": "ChIJ5a85J83IXzkR0gJxcCFJYGY",
+    "data_id": "0x395fc8cd2739afe5:0x66604921707102d2",
+    "data_cid": "7376976597602075346",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8cd2739afe5%3A0x66604921707102d2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8cd2739afe5%3A0x66604921707102d2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.331538899999998,
+      "longitude": 73.1806182
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5a85J83IXzkR0gJxcCFJYGY",
+    "provider_id": "/g/1trcdtzj",
+    "rating": 4.9,
+    "reviews": 44,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "orthodontist",
+      "pediatric_dentist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "1st floor, Nizampura Char Rasta, Sardar Nagar, Nizampura, Vadodara, Gujarat 390002, India",
+    "open_state": "Open · Closes 8 pm",
+    "hours": "Open · Closes 8 pm",
+    "operating_hours": {
+      "thursday": "10 am–1:30 pm, 5–8 pm",
+      "friday": "10 am–1:30 pm, 5–8 pm",
+      "saturday": "10 am–1:30 pm, 5–8 pm",
+      "sunday": "Closed",
+      "monday": "10 am–1:30 pm, 5–8 pm",
+      "tuesday": "10 am–1:30 pm, 5–8 pm",
+      "wednesday": "10 am–1:30 pm, 5–8 pm"
+    },
+    "phone": "+91 97227 62520",
+    "website": "https://krishnasmilealign.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible seating",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Toilet"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"Dr. Apoorva handled my wisdom tooth extraction with precision and care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFabxZZRVZiO9SGnKr9IlTWzvHwO27E9-c4YkpLA-gAEPCZeTJYCDPl0_QlZydFkM1HiNuLD8P6aQJD8EDJ6ZxXbOFCOOsOUw3UWf20fRTe2hHtPlWurO59Yowp4mgqElH6qPOCMA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7UGh7XicHcRdksEwAADgE0WjKN2Zfcj0R3WRlFLNiyEiNY2mmnSLGzqC25jxPXzvV2FMrX8sSxaDnlBKSN5q3jBVGV6ZHlNXS9QaMA20hcgyKVF4ON4pXW3pBbvrafXXuDOZZs__qMP2OHABG-ZlPUdAoIB4lKdx7vlEwn0i6eMUlot-dFm2c39CnEMS-5PAjx163x1x6GGs8aYbbLKzDc-rlNtFZIjM2gaP3Fx19fAqboGMnBvB3gL9dn0IISi-M1B9AG-GQ9w"
+  },
+  {
+    "position": 3,
+    "title": "Subhadra Dental Clinic & Implant Centre",
+    "place_id": "ChIJ68NGYRDGXzkRbmaBFOdpzTA",
+    "data_id": "0x395fc6106146c3eb:0x30cd69e71481666e",
+    "data_cid": "3516583325248611950",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc6106146c3eb%3A0x30cd69e71481666e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc6106146c3eb%3A0x30cd69e71481666e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2857108,
+      "longitude": 73.16902979999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ68NGYRDGXzkRbmaBFOdpzTA",
+    "provider_id": "/g/11b6d02m86",
+    "rating": 4.8,
+    "reviews": 430,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "Shilp Apartment, Pratabaug society, 2, next to ramdev provision store, near shivaji circle, Bhairav Nagar, Muj Mahuda, Vadodara, Gujarat 390020, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–1 PM, 4–9 PM",
+      "friday": "9 AM–1 PM, 4–9 PM",
+      "saturday": "9 AM–1 PM, 4–9 PM",
+      "sunday": "9 AM–1 PM",
+      "monday": "9 AM–1 PM, 4–9 PM",
+      "tuesday": "9 AM–1 PM, 4–9 PM",
+      "wednesday": "9 AM–1 PM, 4–9 PM"
+    },
+    "phone": "+91 97259 29645",
+    "website": "http://www.subhadradentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"😊 Painless procedure, caring staff, and explained everything clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7Cl3YvkaU8aXjT2GMB9uSGrUyhJ1gOX5Qe1DBDNr8feilYNw5RlDh-tM1HESIwXoOZK9yhdrZ2v0S7Qxx9gTNyBEkdjqIGcnpL5jawO8dhqgeLe5rVw-L4CpYPKuAOw0KewzSVUiNLsc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YzaY_3icHcTBboIwAADQL6oUHRGW7ABi0IFFRAx4I6VrhY5iW6z4kd79GxPf4b2eTOtBfVsWZ4sZFYJyMioiseg16fUMi3-LDgpgBZTl71HW-dFyxRfVrasLty7b4zzaBd6YR7KY2K9N09LJiB0GIZLuH7nwChnnwEMG9M7erPOtKUV6jr2JNfI8v8F8md3vHj2iKVh3TXvdRrgfEqetTeo27EpJQhx5MiD5Wg3VPh791MCYmEd-Ki4oUfjH2BBCwD5j0L8BKbVHOA"
+  },
+  {
+    "position": 6,
+    "title": "iSmile Teeth Care Centre",
+    "place_id": "ChIJp4mRPEHPXzkRarGqSNIXrGI",
+    "data_id": "0x395fcf413c9189a7:0x62ac17d248aab16a",
+    "data_cid": "7110084103640887658",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf413c9189a7%3A0x62ac17d248aab16a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf413c9189a7%3A0x62ac17d248aab16a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3203949,
+      "longitude": 73.20061
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp4mRPEHPXzkRarGqSNIXrGI",
+    "provider_id": "/g/119x3pcdh",
+    "rating": 4.9,
+    "reviews": 398,
+    "type": "Orthodontist",
+    "types": [
+      "Orthodontist",
+      "Dental implants provider",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "orthodontist",
+    "type_ids": [
+      "orthodontist",
+      "dental_implants_provider",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "Besides Bansal store, Pani Tanki Rd, near Amrapali complex, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Closes soon · 7:30 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7:30 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7:30 PM",
+      "friday": "10 AM–7:30 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7:30 PM",
+      "tuesday": "10 AM–7:30 PM",
+      "wednesday": "10 AM–7:30 PM"
+    },
+    "phone": "+91 94286 94535",
+    "website": "https://ismileteethcarecentre.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"The dentist was professional, gentle, and explained every step clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvmqVN5dvRZo6RycT6so6QSe1cKyL2mTs0k17wojwpOVqmtHEf3fFAl9m-D5IysETbXML-n9GFTxi6679_EXrX6QjuXYc7R0WWoKuckDVq_m_kyuqYU5LuTHbz-nxNBJjhXIqO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XBoh2HicHcRdboIwAADgE1XKDCUs8YFFxB-Gg1WoeyGhIgi0pbYV8YKewduY7Hv4Xs9G60F9WlbfzGe1EHVfGVVdqeC64npGBbPqQQGqgLL8nzjp_PDGZBY7p1v6J1A6UYyUQMlvZdPdFH0wrGBnu6Nox2GfSabXwXl-Xvm9x8DS2UwqwCX5jgD3whW-XxByvSIgV4KS1pAjdVOY52JnaLfMZMGKbjLyeHAig9flA_B7_LVtG7KR-8VoQwhB8z8F_A2NdEVT"
+  },
+  {
+    "position": 7,
+    "title": "Aries Oro-facial Dental Clinic - Dr Tushar MDS ( Prostho )",
+    "place_id": "ChIJH38qMmPHXzkRlGZVk6R8SaY",
+    "data_id": "0x395fc763322a7f1f:0xa6497ca493556694",
+    "data_cid": "11982245329884243604",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc763322a7f1f%3A0xa6497ca493556694&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc763322a7f1f%3A0xa6497ca493556694&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2918433,
+      "longitude": 73.1351036
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH38qMmPHXzkRlGZVk6R8SaY",
+    "provider_id": "/g/11h00p8058",
+    "rating": 5,
+    "reviews": 365,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Vihav Excelus, 332-A, Vasna - Bhayli Main Rd, opp. Aroma Avenue, nr. Bright Day School, Bhayli, Vadodara, Gujarat 390015, India",
+    "open_state": "Open · Closes 8:15 PM",
+    "hours": "Open · Closes 8:15 PM",
+    "operating_hours": {
+      "thursday": "9:15 AM–8:15 PM",
+      "friday": "9:15 AM–8:15 PM",
+      "saturday": "9:15 AM–8:15 PM",
+      "sunday": "9:30 AM–2:30 PM",
+      "monday": "9:15 AM–8:15 PM",
+      "tuesday": "9:15 AM–8:15 PM",
+      "wednesday": "9:15 AM–8:15 PM"
+    },
+    "phone": "+91 97842 98907",
+    "website": "https://ariesorofacial.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dentist explained my treatment clearly and handled everything smoothly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEIcw9sGqPW7Oi_U9XMkPJsRVgPvVv2YINveLX7IBNx9z8LfrpyPF1gSyW4SLlyExLAgEW20UX-xjRy3oCFnt2Ac0h-AofDJEEx3GjteFlyhkN6YuxIxtjnVOnnQD8ao73kD4_j=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/czZnjnicHcRRDoIgAADQE5GkLbOtD0psNjOqpfbVGiNIDSzIoAt2hm7T1vt4348wptNTz2tFMOBK8ZY9NXtQJQ2TZkDVzeOdBlQD7SGSbxuEU_qK9PJOynBzPR2iat2Qld4VnPRF7x_TvGdZFabz3EbvSXZ5dI4kQ7535WiftQ7bDHFc-vBQAVvvXKAWiTQ-olAApC7xCmMbLGvDktaJJh8fnza1ppbFRsptPDmrMGji0amevYYQQiD-UyB_ahFE4w"
+  },
+  {
+    "position": 9,
+    "title": "Sabka Dentist - Karelibaug",
+    "place_id": "ChIJgTM_If7PXzkRg_KwsTEAuJU",
+    "data_id": "0x395fcffe213f3381:0x95b80031b1b0f283",
+    "data_cid": "10788373120800584323",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcffe213f3381%3A0x95b80031b1b0f283&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcffe213f3381%3A0x95b80031b1b0f283&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3273665,
+      "longitude": 73.2056734
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgTM_If7PXzkRg_KwsTEAuJU",
+    "provider_id": "/g/11yq62xjnx",
+    "rating": 4.8,
+    "reviews": 213,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "FF/8, Shantikunj, opp. Navrang Hospital, near Amit Nagar Circle, Amit Nagar, Padmavati Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 86557 70763",
+    "website": "https://sabkadentist.com/dental-clinics-in-vadodara/vadodara-karelibaug/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Friendly, professional, and pain-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUg3vRSDaxLg7YXKFTvFxeNkYeGzlbdEeqY4octnwlQoZXavdCIvkhia6mgLNrmnAWpyhF7Zuv4qcol37RJzv0aoLExEm1NP8STKbGRGHhHyppJ_4I3xg5pzCneeUkbsS6EQOn=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kropu3icHcRRCoIwAADQE5mKphH0ITUtE0styn5C59jCuU23lnnBztBtgt7H-36IUkIuTZMSZ4Y5xxQ9JRogZwoxNYO8M7GQBpSGNINjmrUBOGNH58WmGhPsl9d9eNLhiNK2RNFE6wagvnQ5VOxFM367VrpZ73RLHpXX4SQdOhZcxJuE_u2p3R5y6vh5PGmr4gkYQWenx0Vx2tdRHm3J9i1EfHd3zojnYlozhM5tLQsPZAe2etmWZRnkPzTYDzjXRts"
+  },
+  {
+    "position": 13,
+    "title": "Dr Bhumi's Dental Clinic & implant centre",
+    "place_id": "ChIJdUTcM9vFXzkRjxBjR7LXFzg",
+    "data_id": "0x395fc5db33dc4475:0x3817d7b24763108f",
+    "data_cid": "4041936351290134671",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5db33dc4475%3A0x3817d7b24763108f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5db33dc4475%3A0x3817d7b24763108f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.298315,
+      "longitude": 73.24911279999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdUTcM9vFXzkRjxBjR7LXFzg",
+    "provider_id": "/g/11rqg_jxjl",
+    "rating": 5,
+    "reviews": 75,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist"
+    ],
+    "address": "Char Rasta, Vaikunth, 31, First floor, Phoenix Resicom, Waghodia Rd, opposite Sun Rise Complex, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 87348 24599",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"He was very professional, gentle, and explained the procedure clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2ZTMYocWbV1HymOHjEWWPrXv2lhSmOURHS7VIAhh3-I67Eg6kP4BPvzUEkTT2PGMkpVb6SzXx57DxAhNoLGG_MQs3i51LQZhzrMMCUFDIPIqBRqk3SiXTDT4dLpRH2E-0XP0v=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rzxao3icHcRdDoIgAADgE5GopVtbD5YmblKo-FMvbZGTQsXErLxgZ-g2bX0P3_fDh6FTS02ruTmrpKzq8qHKnsl2KNthxmSjVZ0CTAGlOWQXCQcZR4oPkuXnTEfvZo9uXp6TvhiNmifNPo1RYmeBw7kJAsv2KkuQ-ZqMU-oJSg3iY9FlZyuZitfCdl8O38nQ9084UuZ1oYfRkU89xpt06wYkuK_juzCTa0FdOr-EXYwMD8CCwHH11CGEgP9noP0B4HhCqw"
+  },
+  {
+    "position": 15,
+    "title": "Dental Clinic - Bright Smile Dental Care | Dental Aligners, Implant Center Vadodara",
+    "place_id": "ChIJo10OgI3PXzkRFugB2vYX0QQ",
+    "data_id": "0x395fcf8d800e5da3:0x4d117f6da01e816",
+    "data_cid": "347084995271190550",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf8d800e5da3%3A0x4d117f6da01e816&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf8d800e5da3%3A0x4d117f6da01e816&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3040034,
+      "longitude": 73.1935191
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo10OgI3PXzkRFugB2vYX0QQ",
+    "provider_id": "/g/11hyd4pbwv",
+    "rating": 5,
+    "reviews": 162,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants provider",
+      "Emergency dental service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "dental_clinic",
+      "dental_implants_provider",
+      "emergency_dental_service"
+    ],
+    "address": "Gf- 5,Vinraj Plaza, Opp. Govt. Press, Kothi Rd, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 84605 96959",
+    "website": "http://www.brightsmiledentalcare.co.in/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "user_review": "\"Sir was experienced and well managed my tooth problems instantly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcKH88S3SMmx-eKP6OC3kB79ne3hk-i1i4pYuWU9fr3ngqGKwrAhX-e-yHQe8nCJbo2IZnAH5-6YewKNp4d3pwoNDyYd9btMIUasA4WSZ2H3nKIQKqjsLFT4Xt2sDMNgTB-1w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/73kfRHicHcRdssEwGADQFX36k6I1cx-CIZXbXp0y1BsRCSWJJiZs8O7Bbsw4D-f9L50zdhQEV4l6Qmtx5Q_LO6aV48r1mL4FwlhgFmyAl2XVYsIoSdMa1cXtCZwuB38T1I6HmeJItnCOzolpHpt1duqQEvc59R2WW-DwIhVP1WRx0HG-U5j0YdBwT0uTHJHxupy-mmN2cEW-3lucbOpdTJCieUXvF_s7WyVbF9tpUYrVGCL_46MwDEF-Z6A-aiVCbQ"
+  },
+  {
+    "position": 16,
+    "title": "Tiny Mouths- Pediatric Dental Clinic Vadodara",
+    "place_id": "ChIJL3ALkr_IXzkRd4PMrHyvj10",
+    "data_id": "0x395fc8bf920b702f:0x5d8faf7caccc8377",
+    "data_cid": "6741800117206811511",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bf920b702f%3A0x5d8faf7caccc8377&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bf920b702f%3A0x5d8faf7caccc8377&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3194701,
+      "longitude": 73.1601123
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL3ALkr_IXzkRd4PMrHyvj10",
+    "provider_id": "/g/11dxd4nd2k",
+    "rating": 4.9,
+    "reviews": 170,
+    "type": "Pediatric dentist",
+    "types": [
+      "Pediatric dentist",
+      "Dental clinic"
+    ],
+    "type_id": "pediatric_dentist",
+    "type_ids": [
+      "pediatric_dentist",
+      "dental_clinic"
+    ],
+    "address": "Sheetal apartment, 102 A1, Subhanpura Rd, above milan's live dhokla, opp. Pancharatna Apartment, Ellora Park, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM"
+    },
+    "phone": "+91 99248 28467",
+    "extensions": [
+      {
+        "offerings": [
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "user_review": "\"Dr. Kuntal handled my daughter's lip issue perfectly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFBBCJLh4i5Oh8ywwfI_xgUWD-kcVdH8JCvDbvNVp8qbQxZcyI4bOpa23YGUr6eqCeiGOgXbY_FMkAdZdSJEBJDZsCASJmkzesFGva7K9v-gMVE8bUA7l-AP0fpzyqwkvZx4c7M=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/w-Mw53icHcRRboIwAADQE1Vw4sAl-yggzCoiMTDlh9BSW1OEYlkBL-gZvI3J3sd7PXnfS_VlGDVfzFjbspr-KXonbdPTpp-R9mYwqQBRQBnwsE8EDFzXQztuXZcxd6ZhuGyKkaW_PhAkq34c5Gkf630mnQ4nY06mjYVjWX4szmF6_6SdR69hzE74XASRgFVeHdHaRX6uPHhEN_GgKgh1aW9XGrAoWzs4hXYN4MG8yMfUDULno0Xs6HuYm6YJ-P8ENG9aj0S3"
+  },
+  {
+    "position": 19,
+    "title": "DESAI DENTAL CLINIC & IMPLANT CENTER",
+    "place_id": "ChIJvXBFDXvPXzkR4B8GFwl6N9k",
+    "data_id": "0x395fcf7b0d4570bd:0xd9377a0917061fe0",
+    "data_cid": "15652113209409019872",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf7b0d4570bd%3A0xd9377a0917061fe0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf7b0d4570bd%3A0xd9377a0917061fe0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3228966,
+      "longitude": 73.2306614
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvXBFDXvPXzkR4B8GFwl6N9k",
+    "provider_id": "/g/11k8dgyth4",
+    "rating": 5,
+    "reviews": 556,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "oral_maxillofacial_surgeon",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "FF-07, Tower B, Pancham Elite, 30 metre, TP Road, above Bombay Sale, opp. The Prime, Khodiyar Nagar, New VIP Road, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM",
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "10 AM–1 PM",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 97274 76767",
+    "website": "https://thedesaidentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://rtr.whizzq.app/5153940162?rwg_token=AFd1xnEsxOpwAk5vRl9AcfTanGQ-Ugi3sfRkK9VKa6RwryVV8QHvDEluEb8xUQBTLTiIAzqBp_eVjUxIZrRgN2arQNKf82bBPw%3D%3D",
+    "user_review": "\"Implant surgery was  painless and immediately fixed my teeth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLugvZAQQo1AnOWIi2FHD6gJ7vOx1vJOcOAetjpw0BpKHKY21sVYk5r7yPHN_e3-S9jSVkdYbrY_7EPrvmFO3ix-DPhSsA5qlNeqYqTUfqDxmEgrUzppat68DFLLXq9XOLiwL46A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SafbZnicHcTbboIwAADQL6qAKMwle6hBZNpQCN7qi3G1K8ilVwH3h37C_mbJzsP5fZXWSvPuOE3pT7gQvGEPwzQVnWWdnVDROlwaQA0wDszSvIZr9OD9Gea58GCHj5_VNE6igG_CHo9ev8EUQ2bvcnCXcptsydQzB1LPdfjMkvTCfFAs7sWhvpEvTS7hKtN9G2O_GkGUlYWBc9WkTBG123-raGxXXO9_pLza4C2KETqpxQmjakCzAH4Mnuu6oPyfgu4P01FFRw"
+  }
+]

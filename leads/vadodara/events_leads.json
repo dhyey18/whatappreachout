@@ -1,0 +1,3750 @@
+[
+  {
+    "position": 1,
+    "title": "BGC Event",
+    "place_id": "ChIJi45ic3TJXzkRC3BkjYVD838",
+    "data_id": "0x395fc97473628e8b:0x7ff343858d64700b",
+    "data_cid": "9219787103039418379",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc97473628e8b%3A0x7ff343858d64700b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc97473628e8b%3A0x7ff343858d64700b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3196424,
+      "longitude": 73.1523085
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi45ic3TJXzkRC3BkjYVD838",
+    "provider_id": "/g/11jzsbwlbz",
+    "rating": 5,
+    "reviews": 201,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner"
+    ],
+    "address": "Samir Park Society, 59/60, High Tension Rd, Subhanpura, Vadodara, Gujarat 390021, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "9 AM–5 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 97262 32314",
+    "website": "https://linktr.ee/bgc_events",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Exceptional wedding planning service from start to finish.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcUZqQyA0BMNHkucCE8CeJn0qeyQVheXXLgabtALzK5qXDcx9uwBmk5QstVjpo7b5eR8c918sJaSKFrpH3ipqoOUBL9VE_h924dmfNrua3p6PRmQlodPVoFrpBUXI5dgKnTJ_t=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/g0dghXicHcrLDYIwAADQiZAqomDiAVCDgEhVCPFisNRWgbbQEj8LOoPbaLy80_u8qVJCznS9psaAcE5q3EvcIc4UZmqAeKMTITUkNak7SQwrx0fpsYVPB7ib2K965C0tDwcMtPgJM4rzPCLFWTnRKzTbfIEedn93m8qEUmU3wadnE-8sZA8tGRT7cNUJ37iKlm9TN7Kz5Ynao3HZXOKuLwwxSXYNrHmZZPwX3TRfmyUJ2SE4qfl9CADQ6F-ksS-VwEVh"
+  },
+  {
+    "position": 2,
+    "title": "Shubharambh Entertainment | Event Management",
+    "place_id": "ChIJs9NCUb_IXzkRI9syIy3qqjg",
+    "data_id": "0x395fc8bf5142d3b3:0x38aaea2d2332db23",
+    "data_cid": "4083333491749739299",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bf5142d3b3%3A0x38aaea2d2332db23&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bf5142d3b3%3A0x38aaea2d2332db23&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.319612,
+      "longitude": 73.164047
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs9NCUb_IXzkRI9syIy3qqjg",
+    "provider_id": "/g/11hd4yx9d9",
+    "rating": 4.9,
+    "reviews": 115,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Audio visual consultant",
+      "Event planner",
+      "Orchestra",
+      "Photographer",
+      "Stage lighting equipment supplier"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "audio_visual_consultant",
+      "event_planner",
+      "orchestra",
+      "photographer",
+      "stage_lighting_equipment_supplier"
+    ],
+    "address": "7, Everest Society, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 99747 36284",
+    "website": "http://shubharambhentertainment.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Their creativity and dedication made our event seamless and stress-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxxiiz1ic02iQybdY-8AV9Y2l5H8UiKr2dHnyrQNK2dRYWhVoqeKkUxklMJcrak7wZKFWlQ8mUjG-3LQ-A9qedxozJ7xlvzk26b1rvJqKxWw-yj5RR8F4_slHzQu8GtWPa2ErY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fZf473icHcRdDoIgAADgE5FKf9TWgw-Zk2rhZs5emiFTgiSBEr1gZ-g2bX0P3_fTWPs0a8-TzXRSK1VL9jJMU9Va1toJVQ-vfhpADTBeeDoSEUbOcT4GnPqQk-FWFQCF51UB5TxGGccaVnE7aHLEsEqLvDmrjmGROSEPCdWlWPYXHOWSoEd234HpnoBw1bHKqTFZOvkeBVzcAv1OOuzyHgz3eZqiaHY1Mh7JC-1sfirhVhebPvB9HzT_KWh_l-JFYw"
+  },
+  {
+    "position": 3,
+    "title": "Parikrama Weddings and Events",
+    "place_id": "ChIJmxAZG6zIXzkRrtoyEYYND_g",
+    "data_id": "0x395fc8ac1b19109b:0xf80f0d861132daae",
+    "data_cid": "17874520315522112174",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ac1b19109b%3A0xf80f0d861132daae&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ac1b19109b%3A0xf80f0d861132daae&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.306323499999998,
+      "longitude": 73.1746895
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmxAZG6zIXzkRrtoyEYYND_g",
+    "provider_id": "/g/11c7t0w5z5",
+    "rating": 4.9,
+    "reviews": 91,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "Anand Nagar Society, 15, Jetalpur Rd, Anand Nagar, Haripura, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM"
+    },
+    "phone": "+91 90999 03852",
+    "website": "http://www.parikramaweddings.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"They truly understood our vision and executed it flawlessly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAnSE0nsYt0vD--d0ca4b7KBViYtW_ZwLHmLTceREhytRfg7GHskLuRLaK4Y1u21gmpbvnrF_ZTo35ZPn_NZ7oseGn6yQ8e1lvlJX0a5-PkuqRzi8oVRrTLtgLFGhukb_vZxkJ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oMfoPnicHcRdDoIgAADgE5FYlq2tB1tpK9aMXCUvTomgoWAC9nPBztBt2voevu9HWNuamefVYjTgWvOaOcM6qpVlyg6objzeGkANMF6U7vYyiiN1WEFlcgv7JQAXSMugCreL4y23p4I80LpBGWV4JV4WX3mYrI1EDqNyG-S-G_q8aatedXFBMj0ak1QVOxJqwxI1ee2nzK_7enOG5Rik0t3x-zbVR9xlyHIUJ8LJqujJU27mDx9CCMR_CtQPcgdFqQ"
+  },
+  {
+    "position": 4,
+    "title": "Tulsi Event And Decor - Wedding Planner",
+    "place_id": "ChIJ_cfqjhHPXzkRPCH3KNHR9zM",
+    "data_id": "0x395fcf118eeac7fd:0x33f7d1d128f7213c",
+    "data_cid": "3744692311447511356",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf118eeac7fd%3A0x33f7d1d128f7213c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf118eeac7fd%3A0x33f7d1d128f7213c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.32265,
+      "longitude": 73.19762519999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_cfqjhHPXzkRPCH3KNHR9zM",
+    "provider_id": "/g/11j017tpr7",
+    "rating": 4.9,
+    "reviews": 38,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event planner",
+      "Event venue",
+      "Event management company",
+      "Wedding service",
+      "Wedding venue"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_planner",
+      "event_venue",
+      "event_management_company",
+      "wedding_service",
+      "wedding_venue"
+    ],
+    "address": "3/2-A, L&T Cir, Near Utkarsh Petrol Pump, Jay Santhoshi Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 99095 18911",
+    "website": "https://www.tulsieventanddecor.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"... they created elevated the entire experience of the wedding.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGutxfksqFvnuoCeZT4Hoz7Q5PMQwGNZvo_MG69Z4V26w5_7Ku3i67MK0abZM7lpNZ-sv023wXPvZKY_lvE9NXAqoVV9wAgifvKHXHC_Px0mKbW7SXdaa9pt9dBDB2rUP2QPyzH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lVEuvHicHcRRDoIgAADQExGkJaOtD7XSjelwlRk_zsy0ZWKBUF6wM3Sbtt7H-34apXq5gLBt7EktRN1Wg6yepehU1alJKe6w7iUoJZDQZXFyc4NBvS43-djobhB-xXezUIw4mbMoMUHMtcijwCF8llqOmeeYDvbVwRFFxYlHuO1jDqRGlm0ypjk95q1ekzhzHyJNiXHr60XTMAv9nL3QnZ4OeJudi4L0ipy9lWc998xK2HsMl2aKEALN_xJ0P2nqRFA"
+  },
+  {
+    "position": 5,
+    "title": "Golden Petal Weddings",
+    "place_id": "ChIJKyHy1KvJXzkRC6eBcjlw5Uc",
+    "data_id": "0x395fc9abd4f2212b:0x47e570397281a70b",
+    "data_cid": "5180670338396169995",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9abd4f2212b%3A0x47e570397281a70b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9abd4f2212b%3A0x47e570397281a70b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.310471,
+      "longitude": 73.172304
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKyHy1KvJXzkRC6eBcjlw5Uc",
+    "provider_id": "/g/11f65hnl8_",
+    "rating": 5,
+    "reviews": 109,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner",
+      "Wedding service"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner",
+      "wedding_service"
+    ],
+    "address": "National Plaza, S17 (A, RC Dutt Rd, opp. Bank of Baroda, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "phone": "+91 95101 92334",
+    "website": "http://www.goldenpetal.co.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"They were so organized, creative, and professional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHua23QQ7ht_fyy-xPWJtWCaKDD06q3c-1YjYHOlyWW4QGeIb2ttvWEYoKmKg3CTnyWgoV2Lqpgcdk6Nuku2H7Wnj1ITYDfvmJDn6zmM0zpCICxtD9U1Qw-0bCP0F-aWmKKjPFCoQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UP7Fq3icHcTdDoIgGADQJyJRm622LhpUGv3IVjGvmpHhVMDis7I37BF6m7bOxfl-SoDWTTyvKcOBslY1ReeKu7QGCgMDabWnWoekQ86bpVtez-IuD0LORyWcrn2PXqlYgSA5oxRHt1AiP6uyeNf0Qgz5skjOAcBDzDPLNFMh2ZteKHsM1rdWyUsdbbu6C-KRMJWf7DN6fegVNdFbb_C7JQl5AR0ffP5E-ExSvEC50IxV6YJYPn36GGNU_pfI_ADYgUTI"
+  },
+  {
+    "position": 6,
+    "title": "Sattva Weddings",
+    "place_id": "ChIJZ-4TbdLHXzkR97GcB_-snaA",
+    "data_id": "0x395fc7d26d13ee67:0xa09dacff079cb1f7",
+    "data_cid": "11573596828756390391",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7d26d13ee67%3A0xa09dacff079cb1f7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7d26d13ee67%3A0xa09dacff079cb1f7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2862755,
+      "longitude": 73.1690869
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ-4TbdLHXzkR97GcB_-snaA",
+    "provider_id": "/g/11h0vsyrpj",
+    "rating": 5,
+    "reviews": 29,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "804 Samanvay Silver Mujmahuda, Vadodara, Gujarat 390021, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 11 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 11 AM Fri",
+    "operating_hours": {
+      "thursday": "11 AM–7 PM",
+      "friday": "11 AM–7 PM",
+      "saturday": "11 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–7 PM",
+      "tuesday": "11 AM–7 PM",
+      "wednesday": "11 AM–7 PM"
+    },
+    "phone": "+91 96240 77377",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Sattva Weddings has an incredible eye for design.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfS8SHnOHeqENMPRfwq4ryi3TocKh7izr7NQp793jW6MERO4G-xVvadtSWw1Am0vEns925SqcadeqIaPztKmpX66I8kDHXpWzxc61BQglFW9lKhS08w21vTHQdVZb3bxVXaAlLjQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ynjm7nicHcRdboIwAADgE1WKKD9L9sAiDsNEag2QvWGpVC1toR0wbugRvI2J38P3fDBjlP6wLM6cRSNlw-mfpj2RwlBhFkS2VqM0IBpoK8xSdA-jC_ZxLA4x7aJ0nx0vY7fq_6_OSZKEede591KkvMC5Fe4-Oh5W32DKh6o2uBjtsIVDJHSwXOOOVDXtdlU2m6RVpevu_PsmLlUxT8S1v1DDt0XAE4ahPy7t4RSjOv89O-cpL6uQ_9zQ52hDCAF7T4B4AeUURSY"
+  },
+  {
+    "position": 7,
+    "title": "Heritage Weddings & Events",
+    "place_id": "ChIJ_ZJcI8rFXzkRVdKiH-pa8Ws",
+    "data_id": "0x395fc5ca235c92fd:0x6bf15aea1fa2d255",
+    "data_cid": "7778097993045168725",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5ca235c92fd%3A0x6bf15aea1fa2d255&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5ca235c92fd%3A0x6bf15aea1fa2d255&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2749812,
+      "longitude": 73.232672
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_ZJcI8rFXzkRVdKiH-pa8Ws",
+    "provider_id": "/g/11rr1zxq61",
+    "rating": 4.7,
+    "reviews": 23,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Exhibition planner",
+      "Party planner",
+      "Event planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "exhibition_planner",
+      "party_planner",
+      "event_planner"
+    ],
+    "address": "Om Residency, C-1/403, Dabhoi Rd, behind Vaishnav Park, Soma Talav, Vadodara, Gujarat 390025, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 84607 71476",
+    "website": "https://www.instagram.com/heritageweddings.events",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Their professionalism and creativity made the day truly special.\""
+  },
+  {
+    "position": 8,
+    "title": "The Tulip Touch Event Management",
+    "place_id": "ChIJ-4Tq1RrGXzkRb_k8WTVQxjE",
+    "data_id": "0x395fc61ad5ea84fb:0x31c65035593cf96f",
+    "data_cid": "3586642343307835759",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61ad5ea84fb%3A0x31c65035593cf96f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61ad5ea84fb%3A0x31c65035593cf96f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.289082099999998,
+      "longitude": 73.1700765
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-4Tq1RrGXzkRb_k8WTVQxjE",
+    "provider_id": "/g/12cnpz__8",
+    "rating": 4.8,
+    "reviews": 104,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Wedding service"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "wedding_service"
+    ],
+    "address": "204, Jai Kishan Avenue, one main gate, beside Samrajya 1, Pratham Avenue, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 12 PM Fri",
+    "hours": "Closes soon · 7 PM · Opens 12 PM Fri",
+    "operating_hours": {
+      "thursday": "12–7 PM",
+      "friday": "12–7 PM",
+      "saturday": "12–7 PM",
+      "sunday": "Closed",
+      "monday": "12–7 PM",
+      "tuesday": "12–7 PM",
+      "wednesday": "12–7 PM"
+    },
+    "phone": "+91 98791 44352",
+    "website": "http://www.thetuliptouch.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXZDq7eYmGJipdiUmPzvyGEO94cHRVtWmXkpCSz_h_AwShhHDhW0erfnkeMJcv9b4g2XTaTUFeZ4AhtlpYReywVnDCjpj4jbZRL4PEOHH25SMXXcQVESR-KsVFnsEUmBQOEg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/BZ4g-HicHcTbDoIgAADQLyKtaK22HixR181bGvniighSQQrK1f_1Ef1NW-fhfD_cGKWnltXwYY-1LWvoQ9M7aaWh0vRIKyymNCAaaMuJtnHteLhwb2N6EP7yqs7XTETv58tH4QSSIMnNXuBaLdJ3yUunSzkPXL636f0ia7pZkufkBNkA7467zKMFdLhp1CGhry6X7qJSFaxORbKGEQqDYDBKNxiTOEdpAlY696RGmZjHIWKzrm_bNuD_CZA_UMFExQ"
+  },
+  {
+    "position": 9,
+    "title": "Sagun Events",
+    "place_id": "ChIJMZkBVZHFXzkRRINSwWePBL0",
+    "data_id": "0x395fc59155019931:0xbd048f67c1528344",
+    "data_cid": "13620168848863036228",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc59155019931%3A0xbd048f67c1528344&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc59155019931%3A0xbd048f67c1528344&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2867492,
+      "longitude": 73.2343096
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMZkBVZHFXzkRRINSwWePBL0",
+    "provider_id": "/g/11rc8pnh7b",
+    "rating": 4.7,
+    "reviews": 128,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_planner"
+    ],
+    "address": "FF 25 Vrajrenu, Gurukul Circal Dabhoi - Waghodia Ring Road, Gurukul Cir, near Gurukul Circle, Vadodara, Gujarat 390025, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "10 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–10 PM",
+      "monday": "10 AM–10 PM",
+      "tuesday": "10 AM–10 PM",
+      "wednesday": "10 AM–10 PM"
+    },
+    "phone": "+91 97264 69515",
+    "website": "https://www.sagunevents.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"They handled our event very smoothly and with perfection.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFm8I8dK5ad_2V0YbwKgfIIuOLZIMC6gvUdYt_7WrNtdryNii8Z9FZWhQ_6OPRyDCbcNAJZ02SXVdm7tp5CDFqCKDoa8g23IFSOL82PLg2hlCz4XMF3-yttLSNnBIKQ8tqB3LdFfg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/gy6Pn3icHcTdboIwGADQJ6pUmNot2QWWNOmoBUbmDzdEW2yNQJF-zrA33CPsbUx2Ls7frwUY_FsQtDaaGedM29x9MyrXQ9PDTLkuMINHyiMfxLksrjHrCCc6XRx1HW7x4fRIzZnzeyYqvqFL8_2lD1CvdqMEPU7yciHVK6t2tqiXWf45JfSkZPxR4bDcb3W3gmFBE3ajaeKOxIQRZ2UmSJgLE9qW_rzsNyxCE4AoZb_maUHgto6EZmfz_phjjJH9X6H-CXmvQ50"
+  },
+  {
+    "position": 10,
+    "title": "Laksh Events - Destination Wedding Planner in Vadodara",
+    "place_id": "ChIJAZBjZb3IXzkRExc-KheziOI",
+    "data_id": "0x395fc8bd65639001:0xe288b3172a3e1713",
+    "data_cid": "16323493761478694675",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bd65639001%3A0xe288b3172a3e1713&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bd65639001%3A0xe288b3172a3e1713&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3100372,
+      "longitude": 73.1592797
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAZBjZb3IXzkRExc-KheziOI",
+    "provider_id": "/g/11c6r33jxy",
+    "rating": 4.5,
+    "reviews": 11,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "414, Trivia Complex, Natubhai Cir, Race Course, Vadiwadi, Vadodara, Gujarat 390007, India",
+    "phone": "+91 75671 89000",
+    "website": "https://www.instagram.com/laksh_events/?hl=en",
+    "user_review": "\"Very professional event organisers with utmost dedication\"",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wj5fD0uVzhsvxj3lfhxlhA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=81.78577&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ez3EX3icHc1BDsIgEEDR27ATqKZpNSHGxDO4NZRShoaWSYdC9TKey9vYuPur978fSAnpIgSlxdqUvS3oNxvogJq7GF2wGj1xEyeRK5FgnbpZ-3BFPUffqzLWw12ujzdQ3sZTGGALcGOme5rg7ZwUWb0Y4K7s4hJ77pBYUa1koM5H9tJ7V7xp66Zh6JMBJdl_MsSsKil_jcI6RA"
+  },
+  {
+    "position": 11,
+    "title": "Shivam Events",
+    "place_id": "ChIJTXsSPBzGXzkRbYEwG0G9MnE",
+    "data_id": "0x395fc61c3c127b4d:0x7132bd411b30816d",
+    "data_cid": "8156789962448077165",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61c3c127b4d%3A0x7132bd411b30816d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61c3c127b4d%3A0x7132bd411b30816d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2933619,
+      "longitude": 73.17076399999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTXsSPBzGXzkRbYEwG0G9MnE",
+    "provider_id": "/g/1tdq4dnn",
+    "rating": 5,
+    "reviews": 87,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "B-44, BPC Rd, opp. Akota - Mujmahuda Road, Anurag Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 12 AM",
+    "hours": "Open · Closes 12 AM",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "10 AM–1 PM, 6–9 PM",
+      "saturday": "10 AM–1 PM, 6–9 PM",
+      "sunday": "9 AM–5 PM",
+      "monday": "10 AM–1 PM, 6–9 PM",
+      "tuesday": "10 AM–1 PM, 6–9 PM",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 98252 69069",
+    "website": "http://www.shivamevents.com/",
+    "user_review": "\"had a wonderful experience with the sir and his team🤗🤗🤗highly recommended\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAElz_kt-ur6hwogRmUzNN8sEV-WyBAMBh-INNYmSCWh6TCQF8n_rOssafTJqeICKGfsO4k5RXpCUd4KINvka6voGLFiecd8io4aFn5s5ui9Bd9KsGXRJ21JqjTjt8qOnEDFaTg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/erra8HicHcRBjoIwFADQE1XQAYImLoABAmhRBoVZGVJqi0AL_KIZD-gdvM0kvsV7v7hSA2w0reNfCyYl6-gMdCJSKCrUgsheYwMgAgg054CPreN3z0ur0DxZ_CFZ1p-eGNvgn1Hx5zp7l6MI49_-xyu4lXvHwBaXKQWornk80shLwiukRmtm5eCdaiOJ8L2trLsMd0FDSW030qgCYYI5N2u3XicQllm8WsbjLb8pe0yF_x1UOds-lrquI_6ZIPEPRGREaQ"
+  },
+  {
+    "position": 12,
+    "title": "Glamour events 6 | Best event planner | wedding planner",
+    "place_id": "ChIJ50849vOoYKsRSLowrQ4ffCU",
+    "data_id": "0xab60a8f3f6384fe7:0x257c1f0ead30ba48",
+    "data_cid": "2701068024411109960",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xab60a8f3f6384fe7%3A0x257c1f0ead30ba48&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xab60a8f3f6384fe7%3A0x257c1f0ead30ba48&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.294562499999998,
+      "longitude": 73.1540625
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ50849vOoYKsRSLowrQ4ffCU",
+    "provider_id": "/g/11w8s6ntwp",
+    "rating": 4.9,
+    "reviews": 39,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner"
+    ],
+    "address": "75V3+RJ7, Siddharth Excellence, New, Vasna Rd, Saraswati Society, Tandalja, Vadodara, Gujarat 390012, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "user_review": "\"Their dedication and passion truly made our special day unforgettable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqUrv37hyRelTlcS8PjrjB182X2muq-COMnNgNLfAqEUW5oem87bY1N03oyQ_IrFMytaxZUF-fU7eVHx0B8x6Jzkc2P8TZ5e6PHmF9GzK0CWxGlzt5sUwI7d6VMxp7is38D3Zf-kVeAw5M=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OR77bHicHcRLcoIwAADQE0UCGUjqTBf4Qa0F0RpUNp02DVAJBEgsgUu67m2c8S3e_73QulFTyxIFmuRS5oLfFO-YrDWv9YTJysobBZgCyvLjaF_6QUu7P4SL4cDFUbAPEl-768wmztmpbi2Y78I6yqP3zG-X9ORKXhH8fbEjiOSw_9x0QTjoL5PSAGQU82Rt4IwY720smROTY-pyL15Xwctq3ML5yazEqF1F-w3-8ZLQNPhXIbJAaQbKhPu9G772NoQQFM8ZqB9oTEZJ"
+  },
+  {
+    "position": 13,
+    "title": "Ananta events vadodara",
+    "place_id": "ChIJp_egAQzFXzkRsjFpuiq3Fhw",
+    "data_id": "0x395fc50c01a0f7a7:0x1c16b72aba6931b2",
+    "data_cid": "2024006476693582258",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc50c01a0f7a7%3A0x1c16b72aba6931b2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc50c01a0f7a7%3A0x1c16b72aba6931b2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.296307499999998,
+      "longitude": 73.2193218
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp_egAQzFXzkRsjFpuiq3Fhw",
+    "provider_id": "/g/11rcqs18vl",
+    "rating": 4.9,
+    "reviews": 156,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "F-4, Kotyark Nagar Rd, Bawamanpura, society, Shashtri baug, Wadi, Vadodara, Gujarat 390017, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "6 AM–11 PM",
+      "friday": "6 AM–11 PM",
+      "saturday": "6 AM–11 PM",
+      "sunday": "6 AM–11 PM",
+      "monday": "6 AM–11 PM",
+      "tuesday": "6 AM–11 PM",
+      "wednesday": "6 AM–11 PM"
+    },
+    "phone": "+91 90991 91427",
+    "website": "https://www.instagram.com/ananta.events.vadodara?igsh=MW5scGhwdXd5MnhjMQ==",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Ananta Events truly brought our vision to life with incredible creativity.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnW9YQ3dkAANcr0vo1UK5MxrRTwykNoJRCcQ5CXK7J7BfH8LRbZe-hHqdwN32J7UBCtRlPGDnuyUI2Bwm6D_vgH9tSO232Q73qfOQa-XgXUrcy2kGv-IRjVyP-VSXJdP18ITIg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/B12TzXicHcTvEoEwAADwJ5pquyR3PlSO_pA2SnxxrKxTNtqUntAzeBt3fh9-30-l1ENONa2p0IgJwZryJcuWCq5KrkZU3DX2kIBKIDUniXHtLPjePmBU1I4T01bvhJFG5vrdkl0_1LEIiUex6eWRFVru1Z-syOVYgsp_Fn2MYGilrqdIkyzn_DWkAXT7-3h-6phvq-0GIogt9Lxu8BnkLE9bOsB62YGA3LIhAdk2D4vEmAS7gM16Q9d1UP2ngP8A13ZC1Q"
+  },
+  {
+    "position": 14,
+    "title": "The Event Wale",
+    "place_id": "ChIJEXElaaHlZzkRV7xcaAtaSRA",
+    "data_id": "0x3967e5a169257111:0x10495a0b685cbc57",
+    "data_cid": "1173568182948772951",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3967e5a169257111%3A0x10495a0b685cbc57&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3967e5a169257111%3A0x10495a0b685cbc57&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3178531,
+      "longitude": 73.1398701
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEXElaaHlZzkRV7xcaAtaSRA",
+    "provider_id": "/g/11kbkt50bb",
+    "rating": 4.9,
+    "reviews": 15,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "B6, Vamil Park, Gotri Rd, opposite Axis Bank, Gotri, Vadodara, Gujarat 390021, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 96623 31060",
+    "website": "http://theeventwale.co.in/",
+    "user_review": "\"Well done Event wale team.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsZCpOIk6XIMcCHk5NGgCVQKmCbpbUtywTpHY04IrGCBb3ZH-LP1cWUXW4VZEyRH82kLzXpva6rczxuygil1Z02woqBO0qjJ8o95aEMKnE47KExVJ9AGxlihhSM7XjiWD9Ib5bcW__OT8I=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kDhIXHicHcTNboIwAADgJ6oUBYUlHrAjUBFRp8C4GNuQFkFaaZWfl9x5b7Nk3-H7_eFaS_VhGA1fzJgQrClfquyoaHXZ6hkVD4NJBagCyvAO-2PtBapAMsH1MscxRWFt7wOG0mP0QESSix77swy_oYW7AG3IogjB7mDS7JJnVlr44yl05vVuyuX7tuzoNLxGVjVmAee9eG4S-LxvHeHaNz-OWt9aRf6Qbl0vGJqK8694ld-r7NPFxCY0u16Ts4PXvQkhBPx_Cto_VsxGZQ"
+  },
+  {
+    "position": 15,
+    "title": "Eventeds- Event Management- Wedding Planner- Destination weddings- Corporate Events",
+    "place_id": "ChIJka9OrEvFXzkRLRdyC4ZnnKI",
+    "data_id": "0x395fc54bac4eaf91:0xa29c67860b72172d",
+    "data_cid": "11717354155926492973",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc54bac4eaf91%3A0xa29c67860b72172d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc54bac4eaf91%3A0xa29c67860b72172d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.307344399999998,
+      "longitude": 73.1752516
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJka9OrEvFXzkRLRdyC4ZnnKI",
+    "provider_id": "/g/11hycb31gg",
+    "rating": 5,
+    "reviews": 81,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "287-288, Emerald One, Jetalpur Rd, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9:30 AM–9 PM",
+      "friday": "9:30 AM–9 PM",
+      "saturday": "9:30 AM–9 PM",
+      "sunday": "9:30 AM–9 PM",
+      "monday": "9:30 AM–9 PM",
+      "tuesday": "9:30 AM–9 PM",
+      "wednesday": "9:30 AM–9 PM"
+    },
+    "phone": "+91 75738 15838",
+    "website": "http://www.eventeds.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Received great service during our wedding from planning to execution.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEa5VcXmHVAz_vQL5TLW4UmG3cCYT2T6E07Sr6dx7oMZMSUMJ0G4OFLQicDYRzDBtdGh5ZVBKWRFmi9W95LvX_F5th0UynM2Eo-GOZySghZDamt_GV52i0ZV0Pvdnq-CMl0gCsA63Eeu8Mk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Eso-e3icHcTNboIwAADgJ6pUsDiX7ID8dHF0ikDRXogppCXS1tnKpi_peW-zZN_h-31K5y721fNGGcyEMWLsb7a_cqNdr92MG-WJiwXcAutFu8_iHKUnRPlBvdPo0U5Fjqq8WdQKBzw-Vn4VpnBZXsPuZ2kII2VNNhAvtlleDDw57h_J2nVYIkbXH80-U8OqWaF8OrQZchLWd0381AC8ZfdSSJaclGsxRf4AGYW7qdNfICYjFLGNwiDtby_k_PY9hxAC-T8H-g_BDEUE"
+  },
+  {
+    "position": 16,
+    "title": "Blue Events Pvt Ltd",
+    "place_id": "ChIJ_1RVlTbPXzkR9HsiOv7Er8g",
+    "data_id": "0x395fcf36955554ff:0xc8afc4fe3a227bf4",
+    "data_cid": "14460993524686027764",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf36955554ff%3A0xc8afc4fe3a227bf4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf36955554ff%3A0xc8afc4fe3a227bf4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.310471,
+      "longitude": 73.172304
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_1RVlTbPXzkR9HsiOv7Er8g",
+    "provider_id": "/g/1thmjdb5",
+    "rating": 4.7,
+    "reviews": 307,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event planner",
+      "Exhibition planner",
+      "Party planner",
+      "Stall installation service",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_planner",
+      "exhibition_planner",
+      "party_planner",
+      "stall_installation_service",
+      "event_management_company"
+    ],
+    "address": "S-17, National Plaza, RC Dutt Rd, opp. Bank of, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 99987 67980",
+    "website": "http://www.blueevents.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The event I attended was well executed and beautiful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHsjHX1OWQsVLZXP8Z3IptOqU5IghGTdCYnz2-EhIrtuAWOY15QSutk7fDJYIXEuwo1nd7682GtDoyfKblJPDQiMrwaH-eutcCCNbhYzSbddo-VZdP_Lf1WKRI7SGbpyhr9hO5c=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-8CBx3icHcRbjoIwFADQFVWoBtFJ_CBAoPgAZEYeP0ZaoCq2DL0N0Q26BnczyZyP83lzgEF9GUbPF7NOyq5vtGpGKgU0AmZUPoxuUIgqpAwnOaR3J1S3sMBxnqrTriqSVbUgA8S_PxbpePDN3FK85sjnZATt5HGJrTTTcLdbLypJ4etJYsHs5WoegCef7bbuo8RLr_txuoSo0UBd91Dz8pXVjEl0qlhy3rU43x6JnQX18OTjmscW3UzYNE3E_6dI_AFY7kTQ"
+  },
+  {
+    "position": 17,
+    "title": "HR CREATION DIWALIPURA",
+    "place_id": "ChIJny-iPlTJXzkRmiVNEs51Od4",
+    "data_id": "0x395fc9543ea22f9f:0xde3975ce124d259a",
+    "data_cid": "16012959478023267738",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9543ea22f9f%3A0xde3975ce124d259a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9543ea22f9f%3A0xde3975ce124d259a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.299339699999997,
+      "longitude": 73.15532019999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJny-iPlTJXzkRmiVNEs51Od4",
+    "provider_id": "/g/11qwrcy7mz",
+    "rating": 4.9,
+    "reviews": 128,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Balloon artist",
+      "Event management company",
+      "Event planner",
+      "Event venue",
+      "Party planner",
+      "Sailing event area"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "balloon_artist",
+      "event_management_company",
+      "event_planner",
+      "event_venue",
+      "party_planner",
+      "sailing_event_area"
+    ],
+    "address": "SHANKAR BAUG SOCIETY, 24, Sainath Rd, opposite JAYNIDHI TOWNSHIP, Shankarbaug Society, Rangavdhutpura, Diwalipura, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–8 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 6355 202 987",
+    "website": "https://instagram.com/hr_decorations_craft",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Professional team, on-time service and beautiful decoration.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhfX063in4KwmSLTnX3NDInQ__q3tcz2dzIgsZtzTE-zgboWJLwVMwP46WLs5ozt33qHaBuEXmt3DonQHT2xIoKMrTRaDxzwEmgpfMc4IQVglMy1I4xj0iyc-Iyy_K9NC9wRnGvxWLk4x1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vajw5nicHcTNDsEwAADgJ6p1WhISB2yx2k-MxRaXhZoOWzta2vUlnb2NxHf4vp9aqU5OHaep0YAJwZrqJasnFVxVXA2oaB3WSUAlkM58k6T3eVBfCjhGV45D3e6ijBco8QhPy_KBFLXDsyVMHpTNfGDZSeTrSO9jvcHjPJIjYRVCj-C4ePlFq5AneBpkQ0NEGD-z7dEzVvst6y4xxSTdsybuXYLNDV57Ckjfl-EkWU70lq_eJo_u2Lgz7UIIQf2fAv4DBjJImg"
+  },
+  {
+    "position": 18,
+    "title": "The Shaadi Planners",
+    "place_id": "ChIJT2qo_iLJXzkRdFuEivUK1RQ",
+    "data_id": "0x395fc922fea86a4f:0x14d50af58a845b74",
+    "data_cid": "1501118100505123700",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc922fea86a4f%3A0x14d50af58a845b74&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc922fea86a4f%3A0x14d50af58a845b74&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.315222499999997,
+      "longitude": 73.1790137
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT2qo_iLJXzkRdFuEivUK1RQ",
+    "provider_id": "/g/11lfzs1x44",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "13 Nakshatra Enclave Near Spun Ville Bunglows, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "10 AM–5 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM"
+    },
+    "phone": "+91 80809 05003",
+    "website": "https://www.wedmegood.com/profile/the-shaadi-planners-1467645",
+    "extensions": [
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "user_review": "\"Anand was very thorough in planning and coordinating our events.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGTJxj3ZHH6-haBQbKiXruBnC_ihBZqF0K7vPfOT8N5FD30d28agTKLrhMeb2BOl-ysLNWaK_FAHRFv5NsBg4YpeTYU-bDRzKYrXECExnulUGaNNIax3dRZ36q2wJmtLgQ8Y0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/o6CvvHicHcTvEoEwAADwJ5qm-dO586EhsYy6HPXFrcyGrLRFPKB38Dbu_D78vh9pTKVHllVI1BFlKQreaF7npTJcmU5e3ixRaZBroC13Q8Or68_jZXtBqe8PgGQ4zMh5XzdYTQ5nidO7B8nwsTmtY4f2vSmCR9thIiZBLVc8s_G6AC8d0B0jB8_1I-_RpxqLXlLxONmCbBq9SVLvZ5NZq5piO2eULliLjlGKBnf7ubyZQIROAsfPLoQQyP85UD-Ma0Ll"
+  },
+  {
+    "position": 19,
+    "title": "Shree Rangsai Events & Decor(Best Event planner Vadodra)",
+    "place_id": "ChIJU0LME9vFXzkRGt2KrBy2yeg",
+    "data_id": "0x395fc5db13cc4253:0xe8c9b61cac8add1a",
+    "data_cid": "16774138521388244250",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5db13cc4253%3A0xe8c9b61cac8add1a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5db13cc4253%3A0xe8c9b61cac8add1a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2945711,
+      "longitude": 73.2077348
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU0LME9vFXzkRGt2KrBy2yeg",
+    "provider_id": "/g/11t0ps8bx1",
+    "rating": 5,
+    "reviews": 151,
+    "type": "Event planner",
+    "types": [
+      "Event planner",
+      "Event management company"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner",
+      "event_management_company"
+    ],
+    "address": "Baranpura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 90812 15352",
+    "website": "https://instagram.com/shree_rangsai_events?utm_medium=copy_link",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Had the beautiful wedding stage done by them and it was stunning and elegant\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFw_YaoQOO3zgizJVdXy2OmJL07SyTg0Lc1rlE-BrTq-oYpBXedxxI5UXaKtYCbZMsYzFIk5tdaMdts5NkY4iqA2SAO8c0R1gtEvRpCLpay0pXMgUW10ICxkte8V0c85snK6ETn=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/AndQdnicHcRLroIwFADQFVUuKkpe4gAJJiiIH1TqxGBpigHbSq8KbNA1vN2YeAbn_1MiavNnWXU5GgilRM2fhjdMSeQSB0zdLaENYYYYy9ust5W3eF9orrZJMurFrV8ei6wbJvdlBNN9lwqImN3UAZk36YMoqucZL9o2dA5ZvkLqX8-xof0irBws8rhA46wrOr49vOHeS1wGO1tg8NppP9J5BzqLxeFkQ-i3FXL3CMx1jFxNglTO3jYAkPI3I_ILkHVEvQ"
+  },
+  {
+    "position": 20,
+    "title": "Promobiz Entertainment",
+    "place_id": "ChIJp6ajZ9_OXzkRY6w5g5FiuMg",
+    "data_id": "0x395fcedf67a3a6a7:0xc8b862918339ac63",
+    "data_cid": "14463418580411722851",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcedf67a3a6a7%3A0xc8b862918339ac63&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcedf67a3a6a7%3A0xc8b862918339ac63&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2916618,
+      "longitude": 73.1351772
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp6ajZ9_OXzkRY6w5g5FiuMg",
+    "provider_id": "/g/1tjmc1k8",
+    "rating": 4.7,
+    "reviews": 51,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Entertainment agency",
+      "Event planner",
+      "Exhibition and trade center",
+      "Exhibition planner",
+      "Stall installation service",
+      "Travel agency",
+      "Event management company",
+      "Wedding venue"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "entertainment_agency",
+      "event_planner",
+      "exhibition_and_trade_center",
+      "exhibition_planner",
+      "stall_installation_service",
+      "travel_agency",
+      "event_management_company",
+      "wedding_venue"
+    ],
+    "address": "320, Vihav Excelus, Nr. Shakti Green Party Plot, Vasna - Bhayli Main Rd, Vadodara, Gujarat 391410, India",
+    "open_state": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "10 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM"
+    },
+    "phone": "+91 98253 51246",
+    "website": "http://www.promobiz.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The team is professional, creative, and truly understood the vision.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgTnU0XArBBImNdv2kn_gexCVCkBaEWHdEsvuH9l6M7r5dyrZkmavFfxcSbWhhQCyT2iJ0b84enUVIECbMxW-fB_wMhq7OHR-ECysqqN3eahaUrdevGWG6ULxrNlSDpnS8JIjT=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ob-jDnicHcRJDoIwAADAF1WquCceoCJgBBc248VAqa0CBVpAeKFv8DcmzmG-H9Y0lVwrSs7UES1LmpNWEoFL3hDejHBZKLSSAEsgFe3knjPNpD4P4FUTum4XbtpNMn6npEchyvTYiKzUkF1rrfK5sxCzdBC3rIi73aPHXhIxdkaDP3nuYbKcEh6EtoESp4_AQ7-_HVYvjtYFGGiQde2qJGZxIFLSmZE5Dw69cHNvW3Fvubdf_uY9hhAC9h8D_gOyxEWc"
+  },
+  {
+    "position": 2,
+    "title": "VibeCrafters Entertainment",
+    "place_id": "ChIJl-X4Mkttk0URnORM2u5KKm0",
+    "data_id": "0x45936d4b32f8e597:0x6d2a4aeeda4ce49c",
+    "data_cid": "7866182088881136796",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x45936d4b32f8e597%3A0x6d2a4aeeda4ce49c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x45936d4b32f8e597%3A0x6d2a4aeeda4ce49c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2962188,
+      "longitude": 73.25128649999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl-X4Mkttk0URnORM2u5KKm0",
+    "provider_id": "/g/11mspp21d3",
+    "rating": 4.9,
+    "reviews": 42,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company"
+    ],
+    "address": "Vaikunth Township - 1, Waghodia Rd, near Shree Ambe Vidyalaya, Vaikunth Society 1, Kendranagar, Vadodara, Gujarat 390025, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 98982 18561",
+    "website": "https://vibecraftersentertainment.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"They managed my brother's wedding, and every detail was flawless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6Re6duvHeySkTKHOHr6GaiBkRLs20UptzGz9dRLSypgfV9XEXNnkOQovIrGgn0ijOl0w9Px0dLpSTtvDcSZXCy869XokNBPnwcRLc0T-6HQjk7Z2QdQAL_HCdBPzowfugB8AvjPTrwA8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/A56mS3icHcTNTsMgAADgJ2LFmWBr4oFOU4ykpT8uzS7GAKMrFUihxfYhvfs2Jn6H7_dnCMH5xySZhvuDslZNcvFy5tYEacKB269EOQ-4Bz7BrKw1LlAjkVhWIrdWd2-kIjMqPm-5bqg_wncX9mLPREPbzanrOetf-tLoqrbr61woA29jNcGYsW8oqGu7sD7z9tKfthRlvdVlzkzkDeWwA4jUo364HGtRY_pBTiJnu43XReUpXkfWzRGnT_EOQgiG_zkwf5_wR5s"
+  },
+  {
+    "position": 3,
+    "title": "PARADISE EVENT & decoration",
+    "place_id": "ChIJs9pCs8THXzkRKYDb1NAW9hs",
+    "data_id": "0x395fc7c4b342dab3:0x1bf616d0d4db8029",
+    "data_cid": "2014822969475039273",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7c4b342dab3%3A0x1bf616d0d4db8029&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7c4b342dab3%3A0x1bf616d0d4db8029&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.281164699999998,
+      "longitude": 73.1515405
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs9pCs8THXzkRKYDb1NAW9hs",
+    "provider_id": "/g/11vq2x9ykj",
+    "rating": 4.9,
+    "reviews": 72,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "Abvaa avenue, Sun Pharma Rd, beside sun pharma company, Soudagar Park, Tandalja, Vadodara, Gujarat 390012, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 90238 45527",
+    "website": "https://www.instagram.com/paradise_event7?igsh=MXBoa24yaXJxOWl3Zw==",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"They turned our event into a magical and unforgettable experience.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnBkNymQTvft_anBNSbylOYVpHbN1VrMWBUoS5bktFYmpqShxyDfM9Zt-Q0guL_K3Kszu48foOd_rJmGejOoZM6FQXs9zKKaMbJ2GTdiEWZQ0nC7UmHaORmw02WU7dgKj3FKW2OBbY-0Tl=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/iItmi3icHcRLUoMwAADQEwUCVGudcVFaKdMIMQKlsGEIn2AhCZJgSy_p2ts441u8359O61E9m-bQOQaTkg3NrJqpkkI3QhuV5CYbFagUUOb2PST91hduHy6cxN-tLkrhhhFdBpydRp-G1mkKUjeR0QPttZfx8Svqbsu-DTa5BgSy-a1ADlL3efXUSlwX05EfmguWefDokbPa3BEqA3q0D3H9-ZrmBIrdOuF-iT_4Fdppsq4ZujgeSm3s0gzAeHi5WhBC0P1fAfEHNFxHrQ"
+  },
+  {
+    "position": 4,
+    "title": "Shyam Faraskhana - Trusted Event Planners & Decorators Since 1981",
+    "place_id": "ChIJJbGx82LPXzkRHKuDAi6wbXM",
+    "data_id": "0x395fcf62f3b1b125:0x736db02e0283ab1c",
+    "data_cid": "8317497798480341788",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf62f3b1b125%3A0x736db02e0283ab1c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf62f3b1b125%3A0x736db02e0283ab1c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.291955599999998,
+      "longitude": 73.1403356
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJbGx82LPXzkRHKuDAi6wbXM",
+    "provider_id": "/g/1v8g9d_y",
+    "rating": 4.8,
+    "reviews": 78,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Entertainment agency",
+      "Event planner",
+      "Event technology service",
+      "Exhibition planner",
+      "Party equipment rental service",
+      "Party planner",
+      "Tent rental service",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "entertainment_agency",
+      "event_planner",
+      "event_technology_service",
+      "exhibition_planner",
+      "party_equipment_rental_service",
+      "party_planner",
+      "tent_rental_service",
+      "event_management_company"
+    ],
+    "address": "30mt, Vasna Bhayli Link Rd, behind Times Square, near Earth Artica, Ashwamegh Nagar, Tandalja, Vadodara, Gujarat 390020, India",
+    "open_state": "Open now",
+    "phone": "+91 98980 62727",
+    "website": "http://www.sfevents.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Wonderful event planner and Executer\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAEfhf0MeFjzVhghDRQIOHoUC7upul6KImfyyhQKLTjaR0Dx1gBuHe7u5molPptBpeFbPGLJ3hB6XGiKsBVYBs14X1gWoTclfMeqBDQCbzddZ8glcOlwb1ST1FAfXjczN-XQJW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JOS653icHcRdboIwAADgE1XaOGFZsgcqAgIqdai4t1H6M1Zot7ZxcsGdYbdZsu_h-_2Rzhn7FARKLhdCa6GYt-yL6smxyS2oHgNhLKAW2CCu9-QjzuMNlxzuWDrMZylkciTbQ65P68gbr8JyO_L7XZKyaoa3I0y-kcA-Z5FfjVrVxmHD0q7OqmIpcdhm76XF5yu26KFF4qIbqviOfeKErLu5718fhaIHdevQS4PSmLcDnfegJcXl-YYghED-T8H0B4-QRQM"
+  },
+  {
+    "position": 5,
+    "title": "RANGMANCH EVENTS AND WEDDINGS",
+    "place_id": "ChIJtYvtZu_JXzkR-p8VMKj-ICE",
+    "data_id": "0x395fc9ef66ed8bb5:0x2120fea830159ffa",
+    "data_cid": "2387187800821047290",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9ef66ed8bb5%3A0x2120fea830159ffa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9ef66ed8bb5%3A0x2120fea830159ffa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3141312,
+      "longitude": 73.1700347
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtYvtZu_JXzkR-p8VMKj-ICE",
+    "provider_id": "/g/11vdknyx5q",
+    "rating": 3.9,
+    "reviews": 22,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner",
+      "Wedding service"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner",
+      "wedding_service"
+    ],
+    "address": "Meera apartments, 80B, beside M.K high School, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Closed · Opens 12 PM Fri",
+    "hours": "Closed · Opens 12 PM Fri",
+    "operating_hours": {
+      "thursday": "12–6 PM",
+      "friday": "12–6 PM",
+      "saturday": "12–6 PM",
+      "sunday": "12–6 PM",
+      "monday": "12–6 PM",
+      "tuesday": "12–6 PM",
+      "wednesday": "12–6 PM"
+    },
+    "phone": "+91 99981 02045",
+    "website": "http://rangmancheventsandweddings.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Best event planners with good ideas and quality of work.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHP3YChqq8TinAUruuvk9iZdI0xNkp7niY3rmXWaanbgCPcH9om865x7ohdgxCTpBj6ID0_tuKzDKFect2uWH7MUiARzn7UmgcWRdAHAXVW0okj7UtOUGJsU27mgPnqFvHe0Ojygk_mRJr=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/m8k__HicHcTRrsEwAADQL5qVhXITDzWZIphFDS9C17Rbtd3W1h0_eZ_9zU2ch_P5E87V9icMHyLqcWP4g3nLWmq0Y9r1qFEhr21AbWBDlG73EiU4jc6xaJrxodSItN4_5aS8FEvQbWUNdXmOWnXKbzd953FK8cSo8WjYQSMK3sWHelaNlnNwdX79nq8TRt3A5xhuSImyt4ZEcZpnBcLodMyBkRUkbkcWK0sGUPFUN8kTM7CrXlxeVbZqp799AEAgvtNA_wMVwUir"
+  },
+  {
+    "position": 6,
+    "title": "Eventeria",
+    "place_id": "ChIJ1W4E93nPXzkRfmKKzpQsMmI",
+    "data_id": "0x395fcf79f7046ed5:0x62322c94ce8a627e",
+    "data_cid": "7075766982184428158",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf79f7046ed5%3A0x62322c94ce8a627e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf79f7046ed5%3A0x62322c94ce8a627e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3179481,
+      "longitude": 73.24709659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1W4E93nPXzkRfmKKzpQsMmI",
+    "provider_id": "/g/11f5gm251r",
+    "rating": 4.9,
+    "reviews": 102,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event planner",
+      "Tent rental service",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_planner",
+      "tent_rental_service",
+      "event_management_company"
+    ],
+    "address": "Chamunda nagar, 23, 1, Ajwa Rd, Vadodara, Gujarat 390019, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 87587 39269",
+    "user_review": "\"We had an event organized by them and the service was amazing!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJObgSYDNclWZ1Tmb7W__mK059m_Q6O5nDj-cVjVXOsCkJaj_9LWSh5WwioVDaA9arSSfBuGDxg0kikPpx71BuCMPksoH0q4883d6GK-OlIEAbmhZ6nFtE8j8oVSJDlCRZRQr2=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/I9yIf3icHcRdboIwAADgE1XKFIQle0DK3HAK2AUcLwQ61kr_kJboDT2DtzHZ9_A97sza0bw6jmDLBdWain42_US0sr2yC6KlQ0cDiAHGifJDwaMkzTqKf9CBiKp2v2W3rppG7qAXyqbwM0-hAZByKE-ZiXnaDk34VWHmVdezLlEbhe2E8d9m3qIbhfzM8_G2djdzvM-50R_wsgqC5a-_3YFMfCZRJ1ntq3ebBEOgS5wiER_rYzG9vF1dCCFg_xOgngs2Q2U"
+  },
+  {
+    "position": 7,
+    "title": "Whitelilyevents",
+    "place_id": "ChIJw-2JFUMP22ERSzZ2i67jxbA",
+    "data_id": "0x61db0f431589edc3:0xb0c5e3ae8b76364b",
+    "data_cid": "12737837459890910795",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x61db0f431589edc3%3A0xb0c5e3ae8b76364b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x61db0f431589edc3%3A0xb0c5e3ae8b76364b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.315207299999997,
+      "longitude": 73.1443105
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw-2JFUMP22ERSzZ2i67jxbA",
+    "provider_id": "/g/11tnyh_7dz",
+    "rating": 5,
+    "reviews": 9,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "10th floor 1009, Vihav Supremus, near Iscon Heights, Gotri, Vadodara, Gujarat 390021, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "10 AM–10 PM",
+      "friday": "10 AM–10 PM",
+      "saturday": "10 AM–10 PM",
+      "sunday": "10 AM–5 PM",
+      "monday": "10 AM–10 PM",
+      "tuesday": "10 AM–10 PM",
+      "wednesday": "10 AM–10 PM"
+    },
+    "website": "http://www.whitelilyevents.com/",
+    "user_review": "\"Every detail, every moment, was flawlessly crafted to perfection.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpHtORQqCpNEXsud2cdrS_DuVZkzgbJUxD0ZZb_auUzkAe83u9VzhpxLFWKNE5dYKgYrbpOZq1Ue1jfcSSIMNJBkX5ceV8STBosA8f5ivXu70mavVV5WTI0k3Tj0tIrNcvP2R4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qsDHgnicHcTbDoIgAADQLzIxc1lbD1a27EIXldSXlkhYlJCAOX-wb-hv2joP5_splRJybJqP0u5RzumDaElqzCtFKtXD_GlSIQ0sDWl6e3hg3lIs1e54eM0E9BOpiz4u6vA81yhjHc1XcTsHWZafLzrumEdcW49QV4p2szitoe8U6ZqmdS522cuKiXW_4jAMtnA1ZYmDCXLDaMql516dW5PoIXheGoScUxQAZkd3oIIa4mbfPw4mbwsAYJT_sVH9ANueRUA"
+  },
+  {
+    "position": 8,
+    "title": "Anubhuti Events & Weddings",
+    "place_id": "ChIJA5Jk8lfIXzkRLoBN_7pIpd8",
+    "data_id": "0x395fc857f2649203:0xdfa548baff4d802e",
+    "data_cid": "16115366809599574062",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc857f2649203%3A0xdfa548baff4d802e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc857f2649203%3A0xdfa548baff4d802e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.327664799999997,
+      "longitude": 73.134081
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA5Jk8lfIXzkRLoBN_7pIpd8",
+    "provider_id": "/g/11c5xswj5_",
+    "rating": 4.6,
+    "reviews": 36,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner",
+      "Wedding service",
+      "Wedding venue"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner",
+      "wedding_service",
+      "wedding_venue"
+    ],
+    "address": "Everest Hub, 310, Gotri Road, opp. Narayan Garden Road, New Alkapuri, Gulmohar West, Vadodara, Gujarat 390023, India",
+    "open_state": "Closed · Opens 10 AM Fri",
+    "hours": "Closed · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–6 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM"
+    },
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"It was 5 days wedding ceremony and each event planned was outstanding.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEPF3BZttn7uCdl1dAW-_PSKMX3omkv3v8WS-DVZNOtvKiqNaA81hlKny0Vd2dE7h2UjDg8R4YnPO3FCCB3ixd97q4D8EPFrhGjYxUXLkCyk6kcAGu1TlyAUmmI4o8lbXQZjB50iJ5NKgyR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/n_r59XicHczBboIwAADQL6oUi1JNdiigZmND1KHIZZktaaGlVVuYfOXO-5stu7zj-_kWzl3t0vOUQBNuDFd1b-s7NdrV2k2o6Tx-tYBaYD2SZztJVvkaRZVzOuxjpnxGTuAjP6RvJTKdHNCATweQHKts64a0uWWfBPtCpXqERzZlq1BMizbheB-cdb5F6ziOUPNgi_AWJPivvotNe34U5auMRzmXlGx6_12NpOi658BgdSl3VRvNYPMyy1I-7p--fAghEP9SoH8BFZRF4A"
+  },
+  {
+    "position": 9,
+    "title": "Trendy Decor ( Event Planner and Decoration)",
+    "place_id": "ChIJbxUFNf_0r6wR8Ff3IMxeYvU",
+    "data_id": "0xacaff4ff3505156f:0xf5625ecc20f757f0",
+    "data_cid": "17681799317829408752",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xacaff4ff3505156f%3A0xf5625ecc20f757f0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xacaff4ff3505156f%3A0xf5625ecc20f757f0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2621406,
+      "longitude": 73.20064599999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbxUFNf_0r6wR8Ff3IMxeYvU",
+    "provider_id": "/g/11lf44ldwv",
+    "rating": 5,
+    "reviews": 119,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Makarpura, Vadodara, Gujarat 390009, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "7 AM–11 PM",
+      "friday": "7 AM–11 PM",
+      "saturday": "7 AM–11 PM",
+      "sunday": "7 AM–11 PM",
+      "monday": "7 AM–11 PM",
+      "tuesday": "7 AM–11 PM",
+      "wednesday": "7 AM–11 PM"
+    },
+    "phone": "+91 83208 71579",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"The team was professional, creative, and attentive to our theme and needs.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFafay2uHyrynHtQVs-Y-x_lyX5lBAE9iDb31IhndhfpC-SgbmYqzjBc0Ekm4dKPhGRrlAmjXPTmgWldv4HrCKJoTW_Pdia3NUPv4TvzYAwU1jxQz2n7G4AMg4-M_NZTCXGEzkrqM-MvB8c=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IwwQ2HicHcTbboIwAADQL6qAdNkl2UNBBpuBlA0V9kKwYCv0gm1F4Sf3vL9ZsvNwfn-YtaN5cRzO_BVVivLuajpNlLSdtCuihENHA4gBxkE4ywf01pyaeX1NZj3LxOZ7Aypwr_lcPvAARc_nzdH33pls2WkMwRc9iuqy9AFxo0HAdotZ_Kk5En2JC0EPvJ1gosPthyoONW7PjZ_t8ASLaanQbef193xZy8cYopRCkNbZdxGWcbQM-pKCdAqeyOvNc10XsP8JkH8iJkgj"
+  },
+  {
+    "position": 10,
+    "title": "HATTKE WORLD",
+    "place_id": "ChIJ-V0D89HIXzkRbqnoGn39GLk",
+    "data_id": "0x395fc8d1f3035df9:0xb918fd7d1ae8a96e",
+    "data_cid": "13337689010221918574",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8d1f3035df9%3A0xb918fd7d1ae8a96e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8d1f3035df9%3A0xb918fd7d1ae8a96e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3375156,
+      "longitude": 73.18442069999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-V0D89HIXzkRbqnoGn39GLk",
+    "provider_id": "/g/1hm30f_bl",
+    "rating": 4.8,
+    "reviews": 6,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "18, Nanubhai Tower, nr. Mehsana Ground, Mahesana Nagar, Nizampura, Vadodara, Gujarat 390024, India",
+    "phone": "+91 92274 83456",
+    "extensions": [
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "user_review": "\"Such a beautiful making my event thank u hattkeworld\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ8z81qu9i7n5bzbyqNojillCzQhiEMJ63T4y3Z2HpAGkWvWzgHLNa8lCvRbRG5ANC4ouo83Vs7BSvk2f8tj2iT4-Otd95SB2QVn0iWi3oiW2AsiMnKRRxf-KjnkGViJdv1J4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sJDyyXicHcRLDoIwFADAE1WgBa0mLgoxGFQUNJC4k4_woLZoCyoH9A7exsRZzPdTa92phWHwmkwqKSte9qp85FLoUuhJLm9G1SmUK6QMdgijlq3OdKTWvZ_DTDjZmL3voWyAc2-Maljtgik52W9yxuuO-W06pGO13oYXyr0hzmLfYaFny15SkqiZexxafKW6wXCy0V4Xc-fo4igRJqRAJKSYKdiJTRy_rmjTiNZPICgGK7CXT8s0TVT_z5H4AfkaQ5I"
+  },
+  {
+    "position": 11,
+    "title": "Peach petal events",
+    "place_id": "ChIJ7bEKvOXPXzkRBeyOv3vAJ4E",
+    "data_id": "0x395fcfe5bc0ab1ed:0x8127c07bbf8eec05",
+    "data_cid": "9306618792711744517",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcfe5bc0ab1ed%3A0x8127c07bbf8eec05&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcfe5bc0ab1ed%3A0x8127c07bbf8eec05&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3123286,
+      "longitude": 73.2316987
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7bEKvOXPXzkRBeyOv3vAJ4E",
+    "provider_id": "/g/11jtdsv3r8",
+    "rating": 4.8,
+    "reviews": 33,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "4th floor, 37, Siddheshwar plaza 1, New VIP Rd, near Super Bakers, Jay Ambe Nagar, Kishanwadi, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "5–9 PM",
+      "friday": "5–9 PM",
+      "saturday": "Closed",
+      "sunday": "Open 24 hours",
+      "monday": "5:30–9 PM",
+      "tuesday": "5–9 PM",
+      "wednesday": "5–9 PM"
+    },
+    "phone": "+91 63511 17881",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"It was great experience with heena and her team.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_kP1QL_qh-kyy-mSuYtYnPU884--TaPaejosSvWcdHHcwfk-nSKIg36BM59_C5iy-1eSBE9FvH3xPGS46Ahft5xn-TSVcjV3KNozu6_L-nkix0wkSoZcuxEc38X8J6LPpCuXq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WAFXzXicHcTdDsEwGADQJ_psS20ZiYsRDCOV-r9Z5FMrpR1tbfOCnsHbSJyL8_0Ia0vT9bybIK1C6-LGneFP1MpyZVuo715RGkADxkvoYimTcS5psMzyhwDZNHBnbm_3iq7juA2wOtIjv2rDXls8pSlWZwmKzSYFifrzsJMPwksDAWf9YWf0SklNx6wdJeJsw1rBim3wuiGzhX67KM9AyUvtV5LpA7p6iCTexdMoo-XA7R69KvB9H8R_BPUDLNREEQ"
+  },
+  {
+    "position": 12,
+    "title": "Hemangi Events",
+    "place_id": "ChIJ0xt_5dTIXzkRJhwRvTwkjDM",
+    "data_id": "0x395fc8d4e57f1bd3:0x338c243cbd111c26",
+    "data_cid": "3714383635962469414",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8d4e57f1bd3%3A0x338c243cbd111c26&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8d4e57f1bd3%3A0x338c243cbd111c26&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.341221599999997,
+      "longitude": 73.1801287
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0xt_5dTIXzkRJhwRvTwkjDM",
+    "provider_id": "/g/11b6c686xk",
+    "rating": 5,
+    "reviews": 102,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Caterer",
+      "Event planner",
+      "Pagoda",
+      "Party planner",
+      "Restaurant supply store",
+      "Tent rental service",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "catering_service",
+      "event_planner",
+      "pagoda",
+      "party_planner",
+      "restaurant_supply_store",
+      "tent_rental_service",
+      "event_management_company"
+    ],
+    "address": "E/10, New Sama Rd, behind s.t.depo terminal, Aradhana Society, Rukshmani Nagar, Nizampura, Vadodara, Gujarat 390024, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 94275 91243",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Their punctuality and attention to detail made the event seamless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFy_M1hUWyznUTNkRVlwLVUzxWs1xIvQR-31M0SuMpRoO0iLGAAo42e-H4H3pMP_Tqs7kSD9EAzSBuGq9vT-5Vpugs3m_pf5SdT4HYYrG7Q_9PVbD9XfnOw71Ff8DevmyWHDaw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qTHX_XicHcRJDoIwAADAF1Vai0FMPNSgYCLKjp6IYgEDtJWyP9A_-BsT5zDfT9G2Qm4UpSrwIuc8r2gnaZNy1lLWLlJeK7mQIJVAKsQ5uyU5TImNijCeZhYG59KLquEUhfMYSzQee9cDGNnQ72zh8Qt8nUxCuLqkwFItLGwnCd5SK31D35PZ33XmW-8DsIpEl0tcJyJb-c9AtW63xtTcRHeih6FfM3YZNHTI1gbt6ym2jPuwHRCEEBT_U8B-_rVDvQ"
+  },
+  {
+    "position": 13,
+    "title": "Evento Express-Birthday Party,Ballon decoration,Theme Decoration,Anchor,Games,Magicshow,Babyshower,Wedding,Corporate events",
+    "place_id": "ChIJEbSOIRfFXzkRO2u_60tz-iU",
+    "data_id": "0x395fc517218eb411:0x25fa734bebbf6b3b",
+    "data_cid": "2736626493495929659",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc517218eb411%3A0x25fa734bebbf6b3b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc517218eb411%3A0x25fa734bebbf6b3b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.300869799999997,
+      "longitude": 73.2203408
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEbSOIRfFXzkRO2u_60tz-iU",
+    "provider_id": "/g/11gy2htqqy",
+    "rating": 4.8,
+    "reviews": 77,
+    "type": "Event planner",
+    "types": [
+      "Event planner",
+      "Event management company",
+      "Party planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner",
+      "event_management_company",
+      "party_planner"
+    ],
+    "address": "7, Shree Hari society, opp.Panigate petrol pump, o.s. Panigate, Ajwa Rd, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "10 AM–10 PM",
+      "friday": "10 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "10 AM–10 PM",
+      "monday": "10 AM–10 PM",
+      "tuesday": "10 AM–10 PM",
+      "wednesday": "10 AM–10 PM"
+    },
+    "phone": "+91 92655 68229",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The event was exceptionally planned and well executed by the organiser.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_PhoSaaAMnvnyO9HDXMun9bOsFfd4uvWx2tSwj4C11NvIipqMmba5aim_fhReM2TRcnzeU_bfKTdTKurFdDqJPpEVDIjpfwaBdMZ9kqA3Q2oCmBUUheiUpjrF_evwoDSoFuYwUQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lZJ-hXicHcRLcoIwAADQEyEfcUFnXKCItU4UhLTVDRNCIKAkgSREvaFH6G0641u8vxdVSsgP277R-azhvLkRLcmIOVOEqRnmvd0IaWFpSTtMDuk13BYJ5RlCIWATexyDz-gXaBaURxnXla-nn7unMtP5a9c9TLtWDKAv0QK1fVHTEwFefsLsSWBR1vu8yvd6jKto-ErE5jvadaI2aFWBS3Adwnnq8XW_gpCSFopujAsyGR5lPNZnA9OlcR3Hseh7bLF_rS5HyA"
+  },
+  {
+    "position": 14,
+    "title": "AK CREATION EVENTS & DECORATIONS - Best decoration in Vadodara",
+    "place_id": "ChIJm5oQShrJXzkR9RumtC2tB2s",
+    "data_id": "0x395fc91a4a109a9b:0x6b07ad2db4a61bf5",
+    "data_cid": "7712323298711182325",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc91a4a109a9b%3A0x6b07ad2db4a61bf5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc91a4a109a9b%3A0x6b07ad2db4a61bf5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3205106,
+      "longitude": 73.1448535
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm5oQShrJXzkR9RumtC2tB2s",
+    "provider_id": "/g/11wnfch9qr",
+    "rating": 5,
+    "reviews": 14,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner",
+      "Event venue",
+      "Wedding service",
+      "Wedding venue"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner",
+      "event_venue",
+      "wedding_service",
+      "wedding_venue"
+    ],
+    "address": "Gotri Rd, Gotri, Vadodara, Gujarat 390021, India",
+    "open_state": "Closes soon · 7 PM · Opens 9 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 9 AM Fri",
+    "operating_hours": {
+      "thursday": "9 AM–7 PM",
+      "friday": "9 AM–7 PM",
+      "saturday": "9 AM–7 PM",
+      "sunday": "9 AM–7 PM",
+      "monday": "9 AM–7 PM",
+      "tuesday": "9 AM–7 PM",
+      "wednesday": "9 AM–7 PM"
+    },
+    "phone": "+91 73836 47140",
+    "website": "https://www.indiamart.com/ak-decoration-vadodara/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The decor AK EVENTS did for our wedding was absolutely breath-taking.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3fnC6UGTN9uDHWWUHQG4g66zrAjMWOr3dI9_OTUFhdX6SGIPA0V8WphXjf45LmCLILWKjXqNcgL4mjAiHiyld_QEOUiDsMQBSIWRWE0bACuTuRjEiSwTnMLpm8tcrzcRpJvxKLnt0HGp3=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-7Y4M3icHcRLjoIwAADQEyGdgERNXFREYCwgP8vOZAq2dKBUWvxd0rW3MfEt3vvFtJZqZZods2Z0GGjXTKoZySB0I_SMDL1JpTKIMpQJD3H6D3fWWbhO6RfxctoGGJdB6tvUcZ4j5BFORqsOl6ekKHesrpzcDw8QHBdYsoqf7TnqXRQivOfVJSYU2T2HbdA-uvqUeknZblWUbvIQZ9gDf9CdiinjXpvfChEh2S80GZ8kk7_X-x4JDQJfWuvbDwDAYN-JIT4KXEbC"
+  },
+  {
+    "position": 15,
+    "title": "Folk Finds - Wedding and Event Designers",
+    "place_id": "ChIJS1VCsYLDkSERrDUeQaAPQ7U",
+    "data_id": "0x2191c382b142554b:0xb5430fa0411e35ac",
+    "data_cid": "13061300525266253228",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x2191c382b142554b%3A0xb5430fa0411e35ac&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x2191c382b142554b%3A0xb5430fa0411e35ac&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3016136,
+      "longitude": 73.1507898
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS1VCsYLDkSERrDUeQaAPQ7U",
+    "provider_id": "/g/11khhj7gpz",
+    "rating": 5,
+    "reviews": 38,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "Saguna Tenaments, B-16, Makrand Desai Rd, behind Swaminarayan Temple, Abhishek Society, Dev Nagar, Saiyed Vasna, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM"
+    },
+    "phone": "+91 87582 68458",
+    "website": "https://instagram.com/folkfindscurates?igshid=YmMyMTA2M2Y=",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"Their professionalism and creativity made our special day even more magical.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQQOrOKFKyKds-WGP4NqI-6tHvFbd7dfgk0BAGdhIF70VgElCSwp22wziPPiDGCx_jYOngml3RS1IZfIAyFsBISqCZ9agFu0tI0rbGjRyOcwhHVUazjTBF9UUuuMqFqPrkj1Xh7tLaBeA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/U4Inf3icHcRJDoIwAADAF1WKGokmHgpabFApIm4XgwVbAdlaRHikd39j4hzm-xFKlXKmaZkYDXhR8CxuZFyzIldxrgaseGq8lIBJIDVEt16Klp7n1q6Dnc6JJDjadLytCJio1QvfIiO68xSayI4EwQY88GVm-W05HLb9g9LHwrbe1-Ts5vyZjXa-Ti53gjosTeJX1mUactxARWB9s5Nd57JWrA5B2Cd7E0-DoGk2Fa5onSb6SRhqHZoxmrc6hBCI_wzkPx6vRwc"
+  },
+  {
+    "position": 16,
+    "title": "Jp's Decoration & Craft",
+    "place_id": "ChIJZVkXVzTPXzkRpJeUrNG9C8I",
+    "data_id": "0x395fcf3457175965:0xc20bbdd1ac9497a4",
+    "data_cid": "13982478176343070628",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf3457175965%3A0xc20bbdd1ac9497a4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf3457175965%3A0xc20bbdd1ac9497a4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.303618399999998,
+      "longitude": 73.2258883
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZVkXVzTPXzkRpJeUrNG9C8I",
+    "provider_id": "/g/11p5j65ttk",
+    "rating": 4.8,
+    "reviews": 267,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event planner",
+      "Event management company",
+      "Wedding service"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_planner",
+      "event_management_company",
+      "wedding_service"
+    ],
+    "address": "Dudheshwar Society, Ajwa Rd, Yakutpura, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "10 AM–10 PM",
+      "friday": "10 AM–10 PM",
+      "saturday": "10 AM–10 PM",
+      "sunday": "10 AM–10 PM",
+      "monday": "10 AM–10 PM",
+      "tuesday": "10 AM–10 PM",
+      "wednesday": "10 AM–10 PM"
+    },
+    "phone": "+91 90160 51261",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"They brought our vision to life, and every detail was perfectly executed.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6bPyIIFE_L148x_pzmy5YYUPQpPq5sXhbneEWOaD_du-lyETsdQ7hK_qEEdZt8m-wvwePadz94LG9tR8-H--eT-1EX0FPHyjE8j3nFSHSP_a78UzAyZPeXf4PRLhVDwuxiJTZ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UaDtJHicHcTRboIwFADQL7oCEbWa-EBiESeZF8UNeWkQOqqDgraI5Qf9Bv9myc7Deb-E1q1aWFYlxqOyacqKd4rf80ZqLvUob2qrbBXkCpTl4Wf06wXTM5rNxqcsdFzyZO1Qm8npdMSoxdtEJeIsOf3eZStWdFAZGqsimoktu1FapJrU0D96jlkxzN1wPdd7AgEAj8Ghie1jYK6UXMfSPwQHZNmMHAfPpMiTHxf3ofha9d3z8hGny96xbRvE_znIP0Y5RCI"
+  },
+  {
+    "position": 17,
+    "title": "Naad Events & Entertainment",
+    "place_id": "ChIJo6Fld4_PXzkRRsRJ6ziXuUA",
+    "data_id": "0x395fcf8f7765a1a3:0x40b99738eb49c446",
+    "data_cid": "4663925159840302150",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf8f7765a1a3%3A0x40b99738eb49c446&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf8f7765a1a3%3A0x40b99738eb49c446&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2834047,
+      "longitude": 73.1278202
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo6Fld4_PXzkRRsRJ6ziXuUA",
+    "provider_id": "/g/11gj19mjs2",
+    "rating": 4.9,
+    "reviews": 129,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Corporate office",
+      "Dance company",
+      "Entertainer",
+      "Entertainment agency",
+      "Event planner",
+      "Event management company"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "corporate_office",
+      "dance_company",
+      "entertainer",
+      "entertainment_agency",
+      "event_planner",
+      "event_management_company"
+    ],
+    "address": "Nilamber Circle, Bhayli, Vadodara, Gujarat 391410, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9 PM",
+      "friday": "11 AM–9 PM",
+      "saturday": "11 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–9 PM",
+      "tuesday": "11 AM–9 PM",
+      "wednesday": "11 AM–9 PM"
+    },
+    "phone": "+91 84696 80084",
+    "website": "https://www.naadevents.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"Their customer service was outstanding, making event planning stress-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHxsYWG5WrfrxoIu-ZQG1msEKBH8ZcsvkfScNhI0SKnd7Vpt0v26_3xm_BM-8XPKAPg1I9fXjztSSXVU25XtKEYkyKZzz342QxStj8_87ykNr9XIufYgHvjVrw8OivHfQRQWVkFpw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZYilB3icHcTNboMgAADgJ6Kiri1dsoNN2mrInIxM0YsHJjipYgB_6hvuEfY2S_odvr_f1rnRvnrevQ13Umt5bybbGK4H1wxux3XvydECboH1oiwlKopXWxa3fWGEWXUygYrc_N5e8DlGFbezEpSnbQIpHr6P-ejgHBzqcO3r8ztALMNRJv3kJFi3OUpZ_hXsmcOXUj1wtW3hS0BW6jpUo-NDpebEkkmUMp673Czo42eOBfkkRa6u4_K2-BBC0D7nYPgHCy1F_A"
+  },
+  {
+    "position": 18,
+    "title": "Krishiv Events",
+    "place_id": "ChIJ3WYq1i_FXzkRGz912thq54E",
+    "data_id": "0x395fc52fd62a66dd:0x81e76ad8da753f1b",
+    "data_cid": "9360567830123462427",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc52fd62a66dd%3A0x81e76ad8da753f1b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc52fd62a66dd%3A0x81e76ad8da753f1b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2766041,
+      "longitude": 73.1855255
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3WYq1i_FXzkRGz912thq54E",
+    "provider_id": "/g/11trv5sk25",
+    "rating": 4.8,
+    "reviews": 59,
+    "type": "Event planner",
+    "types": [
+      "Event planner",
+      "Corporate gift supplier",
+      "Entertainment agency",
+      "Event management company",
+      "Gift shop"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner",
+      "corporate_gift_supplier",
+      "entertainment_agency",
+      "event_management_company",
+      "gift_shop"
+    ],
+    "address": "3, Ambika Niketan Flat, near mangleshwar mahadev temple, Aasopalav Park Society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 90167 17045",
+    "website": "https://www.instagram.com/krishiv_events?igsh=anVnOXMxa3FtdDF4",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      }
+    ],
+    "user_review": "\"The service was exceptional, and the decorations were absolutely stunning.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHgG_E6d4dNT6l6F4Y6E0qCFBg65WmLZ2vjTJRIfyVLpPlShyswcvuoQfH1hMM2UU6b59wUm91ONw3b_b8dPaHAq-3NIEbGVjOu_6LS52iL6bAzsiIrZxBcakvvyByuhCB0Jozd=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3pYIRHicHcRJDoIwAADAF1UKSKMmHsCwGUQQ0eiF0AKtChQti_BB3-BvTJzDfD-sbRuxkqSSqTPKOS3zTuQvwus2r9sZ4ZVEGwGIAELSAz986A61ExNl88w_ohJZ8wsy4XNjGRRp58q7Kv39uD24xXjymqCM2CgG0nc8LByZ7XZKHCOsLYe4Wsp7f1BxghdZkDr6E6i-a2L7dN93CfIiTbl5COuTuLmv69sg6aPvR2Ps2MaAWz5l60GGEAL2n4D6B978RAg"
+  },
+  {
+    "position": 19,
+    "title": "WedCompass : Destination Weddings Artistry!",
+    "place_id": "ChIJHxSD41LJXzkRzUxcaydseco",
+    "data_id": "0x395fc952e383141f:0xca796c276b5c4ccd",
+    "data_cid": "14589811384404167885",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc952e383141f%3A0xca796c276b5c4ccd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc952e383141f%3A0xca796c276b5c4ccd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3141209,
+      "longitude": 73.1695025
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHxSD41LJXzkRzUxcaydseco",
+    "provider_id": "/g/11wxt44dn2",
+    "rating": 4.9,
+    "reviews": 12,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner"
+    ],
+    "address": "Matruashish Apartment, 82A, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 12 AM",
+    "hours": "Open · Closes 12 AM",
+    "operating_hours": {
+      "thursday": "9 AM–12 AM",
+      "friday": "9 AM–12 AM",
+      "saturday": "9 AM–12 AM",
+      "sunday": "9 AM–12 AM",
+      "monday": "9 AM–12 AM",
+      "tuesday": "9 AM–12 AM",
+      "wednesday": "9 AM–12 AM"
+    },
+    "phone": "+91 78610 67913",
+    "website": "https://www.wedcompass.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Heartfelt thanks to Naynesh Chainani and the WedCompass team.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExhOdC93HgnGZIEWpcJMs5HnNnRXjtZZ-J8RCNgGHMid-d8rl3lOfN1sFRWCFV7_7VnxHRcB-XTVqf7a40xeLVhZMglcEtw-4066HtSXXt4rkrYPlycW-aUI196h6MdpIzd7prxUKPcmg8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NxsnFHicHcTRboIwFADQL7pSAgNc4oMjaHEDGU5gvCzmFtvNWmrbRbaf9Nm_WbLzcO434Zy2j54nRTDj48jl8G0Hg6Nyg3IzHM8e1xbQgvWWVfl6WmaT2LJ0HlCu1n2etRo3hX2gqlR19-X6HjZJnZZ8TYtPBiwxMpDbY-nbVd2mqyb-iBs10RqfoHtrLsf4EJJpeGlEX3CJmbtCSKKIul3XudCczHslf7CFwz7355GICqbzXxZrM-2fKzzzZHH1CSEg_kdQfz2zRow"
+  },
+  {
+    "position": 20,
+    "title": "Sajawat by Genda Phool",
+    "place_id": "ChIJjS4b5SLFXzkRfYDuLZHsly0",
+    "data_id": "0x395fc522e51b2e8d:0x2d97ec912dee807d",
+    "data_cid": "3285354561475084413",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc522e51b2e8d%3A0x2d97ec912dee807d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc522e51b2e8d%3A0x2d97ec912dee807d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2815057,
+      "longitude": 73.16514099999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjS4b5SLFXzkRfYDuLZHsly0",
+    "provider_id": "/g/11wv4mj__j",
+    "rating": 5,
+    "reviews": 51,
+    "type": "Wedding planner",
+    "types": [
+      "Wedding planner",
+      "Event management company",
+      "Event planner",
+      "Wedding photographer",
+      "Wedding venue"
+    ],
+    "type_id": "wedding_planner",
+    "type_ids": [
+      "wedding_planner",
+      "event_management_company",
+      "event_planner",
+      "wedding_photographer",
+      "wedding_venue"
+    ],
+    "address": "Earth Complex, 301, Akshar Chowk, Vadodara, Gujarat 390007, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 98752 00194",
+    "website": "https://www.mygendaphool.com/sajawat",
+    "user_review": "\"You made the whole wedding feel so warm and natural- just the way we wanted.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF0bI_ztCmXhwbor0V34OyDwBW2FkqhGRSkNKewVLKZ1aWcav7y2H--jMu-ce2QZ2llk7z1lrV4bGVjL8p-V2_EaM_iLk3FdSpqGzKASFunPpbIEZUZrawAlCuiLhg8_njgvW9P=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nxho2nicHcRRboIwAADQE1VKMVGX7IM5QQM6HLEYfgh0TSutbaXFRi7oGXYbE9_H-39y54z9CALJoxnTmkk6WjoQrRxVbkb0NWDGAmKBDeLicBRxArtdM7n19cx9pweIo_nP49t_VSgRN57-luKQUY_zrA7birT3xQNtAej3IyAUHWskpVhMoRzwvEtxny8NwKjZtPvmkoso-SvNLZ2yuExGVZhut6lP9dD6WK7HS87ZslE9u1er4tOHEELA3xOgXmUARQs"
+  },
+  {
+    "position": 17,
+    "title": "Meera Mandap Decorators & Event Management",
+    "place_id": "ChIJUU32QLDHXzkRPihagdhVCs4",
+    "data_id": "0x395fc7b040f64d51:0xce0a55d8815a283e",
+    "data_cid": "14846773509951727678",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7b040f64d51%3A0xce0a55d8815a283e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7b040f64d51%3A0xce0a55d8815a283e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.290585,
+      "longitude": 73.142361
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUU32QLDHXzkRPihagdhVCs4",
+    "provider_id": "/g/11gl20rd9g",
+    "rating": 4.9,
+    "reviews": 44,
+    "type": "Event management company",
+    "types": [
+      "Event management company",
+      "Event planner"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company",
+      "event_planner"
+    ],
+    "address": "Vasna - Tandalja Rd, opp. Vadiwala School, opp. Vadivala School, Kismat Chokdi, Tandalja, Vadodara, Gujarat 390020, India",
+    "open_state": "Open now",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Excellent  service by you and nice creative decoration.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHN58U8XR-eDhlAcIEj_U4ZSSCqyqd4OFv_eAIf2G9cKHfDq6XaAZMpoLCIAcbqynfOfh7QTqt9bhFLL9ujJjFLxJl5X_ha9oQWUol62yzzownuzAJy0xPmRQvw5Xb4RzzIw7VoNA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HEwoRnicHcRRboIwGADgE1WYA5Ule2hUJogoKEp8IdIVGlb707WI9IYewduY-D18zwfTulVflsXZ56gGqDntFP0nIDQVekTgatWtQkQhZeFdnPzhVezOslmeIrpgHJNg2RSZc97v53KQv87WvxUUB9X4xyPrVbWQk_yCz5sWonmASSkHUW0rNk0OUnsl86PI65qw8aN7yN28YBcPklMGfDIejIFedAaHg33fXdPk1rt56aTGBP30CDH-7j9s20bsPUHiBdYqRhs"
+  },
+  {
+    "position": 19,
+    "title": "KANHA EVENT MANJALPUR VADODARA",
+    "place_id": "ChIJi4PIF1bFXzkRy3NTWcYHgbg",
+    "data_id": "0x395fc55617c8838b:0xb88107c6595373cb",
+    "data_cid": "13294916123457975243",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc55617c8838b%3A0xb88107c6595373cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc55617c8838b%3A0xb88107c6595373cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2626533,
+      "longitude": 73.1831641
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi4PIF1bFXzkRy3NTWcYHgbg",
+    "provider_id": "/g/11yrsyc_jy",
+    "rating": 5,
+    "reviews": 35,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Viralpark3 kotar talavdi road b/h Ambe school, road, Vadsar, Manjalpur, Vadodara, Gujarat 390010, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "website": "http://www.kanhaevent.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Assisted listening devices",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "user_review": "\"The decoration setup was absolutely beautiful and exceeded our expectations.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF65_wIwrdFtuWK_tUA9JpNr25Xma6q15bU-9ZyFO6nVYuuJ3rNmCoH1Es-idcOKHQZhvqMivTTNhNuKGoZ5iOtuG8W5OhNrLzzhyuZtV1wc8S9vi4KaTPvh6-is2inVpV8fZ4wovF0Xztk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F91PQXicHcTdboIwGADQJ6qAWgJLdkGW4Q-uaER0vTFakTZKi-3XNvKSXu9tTHYuzt-LA_TmIwjufDJqlWrvjTWNZkpCI2HEVBe0vUHMIBNka7K5ZXmMj37h9SUHuy-OsMvSZU_0GB-6U_yI8HmHUvrMy1jWv9YuJ5p0X2oefRskLqws5hvK3eNHuKoinNhipigWJdhZssclJ3o1DPxpKdSRZ8k2dWJanKq14zESZixk3dfJlU69cnl4GOD26aMwDBH_nyH5Bs2uSHM"
+  },
+  {
+    "position": 20,
+    "title": "Night & day Events vadodara",
+    "place_id": "ChIJ3Z6xHYXFXzkRK7opQKtzTCY",
+    "data_id": "0x395fc5851db19edd:0x264c73ab4029ba2b",
+    "data_cid": "2759707851024349739",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5851db19edd%3A0x264c73ab4029ba2b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5851db19edd%3A0x264c73ab4029ba2b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.293484499999998,
+      "longitude": 73.2522754
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3Z6xHYXFXzkRK7opQKtzTCY",
+    "provider_id": "/g/11jsxsvn64",
+    "rating": 5,
+    "reviews": 124,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "B-5,104 khatamba urban residency-1, Waghodia Rd, near vaikunth soc.-1, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "7 AM–11 PM",
+      "friday": "7 AM–11 PM",
+      "saturday": "7 AM–11 PM",
+      "sunday": "7 AM–11 PM",
+      "monday": "7 AM–11 PM",
+      "tuesday": "7 AM–11 PM",
+      "wednesday": "7 AM–11 PM"
+    },
+    "phone": "+91 70486 64850",
+    "extensions": [
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "user_review": "\"Best event management service, great services at reasonable price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkrzDQBspoO6rJLkj9NTsMhDhETuDBbdCm03IRarMeAjE7TL4_aCe3DarEoTceUzCzHEyX_MvxGacf0YbAxqsCMeQCx-jpZ_fj87jyMbQms-sAZ52qrEgBFRuHa-NUKl0tClhC=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2ElA_nicHc1LcoIwAADQE0WiaP3MuAghaqtBcXBG3TAhjWTCJ5gERS7oGXqbdrp52_fzls41duF5pfQHudZ5KVorDNe1E7UbcF15eWMBt8B66BDFBVoVpg_jwDZ6_2G-doWaR4mlMpQkacMg-8YV9D-PzFCBFJkmu3HKsPBDZohOuDj1uN-Q1zmlj27N-A1eMtTdLaYixh1QzTW9qdlUvWgWV38nuk5Gd0PyYHVsNwxEp20JHS4lXj6HEEIg_-Wg_gWauUUx"
+  },
+  {
+    "position": 2,
+    "title": "TARA EVENTS VADODARA",
+    "place_id": "ChIJk67xfGvFXzkRL73Tk9Ii8rA",
+    "data_id": "0x395fc56b7cf1ae93:0xb0f222d293d3bd2f",
+    "data_cid": "12750291782857899311",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc56b7cf1ae93%3A0xb0f222d293d3bd2f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc56b7cf1ae93%3A0xb0f222d293d3bd2f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.247749499999998,
+      "longitude": 73.21094409999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk67xfGvFXzkRL73Tk9Ii8rA",
+    "provider_id": "/g/11stprtykm",
+    "rating": 4.8,
+    "reviews": 26,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "kuber life style residency, B 401, bypass, near Tarshali, Ayodhya Twp, Tarsali, Vadodara, Gujarat 390009, India",
+    "open_state": "Open · Closes 11:30 PM",
+    "hours": "Open · Closes 11:30 PM",
+    "operating_hours": {
+      "thursday": "8 AM–11:30 PM",
+      "friday": "8 AM–11:30 PM",
+      "saturday": "8 AM–11:30 PM",
+      "sunday": "8 AM–11:30 PM",
+      "monday": "8 AM–11:30 PM",
+      "tuesday": "8 AM–11:30 PM",
+      "wednesday": "8 AM–11:30 PM"
+    },
+    "phone": "+91 88664 83669",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The event went off without a hitch, thanks to their attention to detail,\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGBA2QRj87EFQSplOA3BzgDdEpEq6dQjsE-9evyBr8vTzRRfP2YzAFb3_AQiQDnz2o-I-cSvA_ZdYqU-FavzutimrIBuDiemlUMU6tgW-MVpmgRjPExNrp7mCvro3Y48EicxgDfDg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oeL7L3icHcTBToMwGADgJ_oHgtmYiYdii9lhG2WyBS-Llq6AlHZtqbNv6CP4Nib7Dt_fb-ectk9RNHbpQiglRj5bbpiaHJ_cgikZCW2BWbARKnf0C73mKKHVkK1IQQ963KM0DwK3RJPrsqWDJbDm_ic3mX8LVXUpkyag4jM9I9pTPIVEwQbYwaPze9tcayg-fJhdL80mn3HP5Vhv66UTJ9getRTVUJLbzuiVfPFGpc1jRnp2E_iCxfP3QxzH0N1nMP0Dzv5F3Q"
+  },
+  {
+    "position": 3,
+    "title": "Aashu Event Management",
+    "place_id": "ChIJ8xu7w0HPXzkR75-1Pw6IJM0",
+    "data_id": "0x395fcf41c3bb1bf3:0xcd24880e3fb59fef",
+    "data_cid": "14782089471716597743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf41c3bb1bf3%3A0xcd24880e3fb59fef&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf41c3bb1bf3%3A0xcd24880e3fb59fef&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.354486899999998,
+      "longitude": 73.20028669999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8xu7w0HPXzkR75-1Pw6IJM0",
+    "provider_id": "/g/11hf65m8v2",
+    "rating": 4.2,
+    "reviews": 50,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "GF 08, Lotus Aura, Sama-Savli Rd, Vemali, Vadodara, Gujarat 390006, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–9 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 99047 20203",
+    "website": "http://www.aashuevents.com/",
+    "user_review": "\"Fantastic team very ably lead by surbhi\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7ZjB0jUBM1ycb46u3yZfMzJKitW05iK8elhCZYd_1wydJyK3Tio1LrqWMDJNpOMIcrHDcyHrHBki2X9KBw_eCHN80O7n8ihDqLB-i01mboGUY6X6D24I2KFOTDhJyJBv4pwnC=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oX85p3icHcRRboIwAADQE1VaQGRL_KA0iq3ATDQqPybWSqvYIq0j3QV3ht1mie_j_f1K53r7GQSdjCatMW0nXlYM3GgntJtw8wja3gJugQ2yr2pzzxaz5obhbYdL5Pk5Tl6Rb67lD2XK7eFUsVR0Mm-OlxMa_YV6Fm2VQevhuS8Jrfq6XPGhINwXQ4HvKjx8MDyeRF5UKaxnOlWSPNcYKIgeZ7PcHZNDQsJ4FbJFvSWSeoq_437U-XxEEEIg33Og_wH6CEL8"
+  },
+  {
+    "position": 6,
+    "title": "Shah Events Decorations Vadodara",
+    "place_id": "ChIJRbrPnivPXzkRfjmZKFHBeEU",
+    "data_id": "0x395fcf2b9ecfba45:0x4578c1512899397e",
+    "data_cid": "5005963540139948414",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf2b9ecfba45%3A0x4578c1512899397e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf2b9ecfba45%3A0x4578c1512899397e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3074589,
+      "longitude": 73.2536336
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRbrPnivPXzkRfjmZKFHBeEU",
+    "provider_id": "/g/11y1wwpvyt",
+    "rating": 4.9,
+    "reviews": 26,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "Shivay Sky, B-303, nr. Shree Siddheswar Heritage, opp. L&T knowledge city, Madhavpura, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "6 AM–11 PM",
+      "friday": "6 AM–11 PM",
+      "saturday": "6 AM–11 PM",
+      "sunday": "6 AM–11 PM",
+      "monday": "6 AM–11 PM",
+      "tuesday": "6 AM–11 PM",
+      "wednesday": "6 AM–11 PM"
+    },
+    "phone": "+91 79901 18086",
+    "website": "https://instagram.com/shah.events.vadodara",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Guests were impressed by the attention to detail and personalized touches.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoFumcFGHCzTzEpG64m0gAEzhppV12cgxFmYf2jRhkTBthfTH37dQwKX0l7-RPF8tUJfFibaZSm0jRU1USTKb5M-Kdu3w34alxKfNjdW6u7o152wyTHRTFqIO-OEnYz18GOqHmq4ZtR8E=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Goxgg3icHcTBboIwAADQL6q0gEJMdmBLC5MoWss2vWmBdkhpWUtwfKR3_2bJ3uE9H9I5Y9ee18lgIbQWXT3a-ofr3tW9W3CtPGEs4BZYL9nvDrcEazIqTtLsbWYzNukqVFAkeJbGfCCfiztRp8ZvqbyxVycblgVRdZjyL9hFgO5J7MpNQ76vl_NRwZaWqDyy_LrcgrwagykIL909b3Zt9bkaI42W_vTLMsrI8F6AAvenGcVpMWRqCM-OxvhlQhBCIP_noP8DJQhF9Q"
+  },
+  {
+    "position": 7,
+    "title": "Gajanand event",
+    "place_id": "ChIJh91Xti7FXzkRuiZEkkMgmZ0",
+    "data_id": "0x395fc52eb657dd87:0x9d992043924426ba",
+    "data_cid": "11356143409980253882",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc52eb657dd87%3A0x9d992043924426ba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc52eb657dd87%3A0x9d992043924426ba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2986571,
+      "longitude": 73.2011496
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh91Xti7FXzkRuiZEkkMgmZ0",
+    "provider_id": "/g/11n9ybj1x9",
+    "rating": 5,
+    "reviews": 21,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "M Corp. + OG, M Corp. + OG) 24, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "10 AM–10 PM",
+      "friday": "10 AM–10 PM",
+      "saturday": "10 AM–10 PM",
+      "sunday": "10 AM–12 PM",
+      "monday": "10 AM–10 PM",
+      "tuesday": "10 AM–10 PM",
+      "wednesday": "10 AM–10 PM"
+    },
+    "phone": "+91 84013 51928",
+    "user_review": "\"The team was professional, well-organized, and handled everything smoothly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVpk4tIVa-EjNZ7Ciit79bItBHR4QCTdNwnaj-60LA708UKhUT1JgL6VM_C99upwiCaeRAItekfFXo043hJ97pYwew6OVzJiVVwMi_9BJEF64hbqYepGjqZc2TmO9SjtlshN1moMD390CY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aFQRJnicHcTdboIwGADQJ6qUQcAu2QVWdDDB6bAZ3hjsKi1_retnmuwld-3bmHguzv1fAhj76nmDDGat1u0gblb8cj2BmGDG9ei1xiJukfWSz3LXJykzfQgZa1DalceYKgUxOWeweN-HO1r9lG5qOhThTRLj-eFDHio_bzcRK06UkJtxijZin2Qg-svqW-MwkDmJTe2Ei7bsL1eMuUKdyCJPV1Eoz9damHV3PfKXatySrw4GK0t_1MUyIJjWb87HGCP5nKPpAfkDRc8"
+  },
+  {
+    "position": 8,
+    "title": "Ashish Event Planner",
+    "place_id": "ChIJN_H7EwvFXzkR2l8qTCqb9vg",
+    "data_id": "0x395fc50b13fbf137:0xf8f69b2a4c2a5fda",
+    "data_cid": "17939696771645726682",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc50b13fbf137%3A0xf8f69b2a4c2a5fda&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc50b13fbf137%3A0xf8f69b2a4c2a5fda&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.292958799999997,
+      "longitude": 73.2375522
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN_H7EwvFXzkR2l8qTCqb9vg",
+    "provider_id": "/g/11ybk__cqz",
+    "rating": 4.9,
+    "reviews": 16,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "Rudra complex, 116, Parivar Chowkdi, opp. Sai Baba temple, roosd, Waghodia, Vadodara, Gujarat 390019, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 92656 13020",
+    "website": "https://ashisheventplanner.bytecard.in/",
+    "user_review": "\"From planning to execution, everything ran smoothly and stress-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEdH-wLT03EpQsNHOWWZNbx636ib495-hYB94G8eDxuIxXeQwP6xPs8rWEFpirSVaO_04w28hgO13upVUwrgH2kaQyLD6bqcGtFe8ukXnB5q5qLqqwEPnlJ7qPvojUlyXdxcjvMpyhmj196=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hZeiRnicHcTBboMgAADQL6JiVaZLdmhTW7c4xaytbpelUgJViyBY8Ct33t8s2Tu83x9ujNTPnjfwYMXGkQ101nQiozBUmBUZ7x6TGhANtLfBRdVv0msGbH6EQSorXWRlXX8VrUMBurVhEgH-uU3CQ0x3bn51Da0sRg7reKrTvbxNH-dL-Q1Du445K_1glueTnVi27i_Vku9Qq8jB7Gk8943YRipSuVI2xWJ4e1L4MXanYWmujnSPd7nwe-cn6MX6EELA_ydA_AFLEUfU"
+  },
+  {
+    "position": 9,
+    "title": "Cherish Events by Meghna",
+    "place_id": "ChIJ3wxBXQDJXzkR2mAjSL4mgyk",
+    "data_id": "0x395fc9005d410cdf:0x298326be482360da",
+    "data_cid": "2991277176200061146",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9005d410cdf%3A0x298326be482360da&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9005d410cdf%3A0x298326be482360da&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3005745,
+      "longitude": 73.1359887
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3wxBXQDJXzkR2mAjSL4mgyk",
+    "provider_id": "/g/11x7qf_csf",
+    "rating": 4.9,
+    "reviews": 58,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "1st Floor, Nilamber Bellisimo 3, Vasna Bhayli Main Rd, above Naturals ice cream, Bhayli, Vadodara, Gujarat 391410, India",
+    "open_state": "Closed · Opens 10 AM Fri",
+    "hours": "Closed · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–6 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM"
+    },
+    "website": "https://www.instagram.com/cherisheventsbymeghna?igsh=MXF2bHU2YXhkeDU3dg==",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      }
+    ],
+    "user_review": "\"The theme execution was spot on, and the setup was flawless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHyoyxpECviYqCSepsBls_F-mClntR5qfqnQG3YSJffsH3AKZo5FojbnbWpAHBZa8OKxJiSGmLmmNqDGe-aoSeMS49cdvz8fpARxIK6OrOEAlrSdTYXr-jUEwbvLWMdT5X0_N6HAqmoibxJ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XfIGe3icHcTdboIwGADQJ6qwIMaZ7KIyhIHCtC6KN0ZK-dG2X0sr4l5y13ubJTsX5_entVaZhePw1ps0AA1nd8N6CtIyaScUhNMog6hBxsGf2faG4yc8RxUGQ1fogDBlltycV0gEXNqdr2stt5FXkKSuTezh9AT-Cq6lLA8Kx8vTZZ6nY9KRSKyFyPR7xNAFCNuQ6Suthu95rfBu_EhneZ-HmPek2hfHHl2_wkc5rA-bau8f3XM2i7EW0JVj8vZ4cV0Xtf9TJP8AWsRI3Q"
+  },
+  {
+    "position": 12,
+    "title": "Rajshri Dance Event management ( in all over India)",
+    "place_id": "ChIJ8SSHTMHFXzkRHKHpl_iRg2g",
+    "data_id": "0x395fc5c14c8724f1:0x688391f897e9a11c",
+    "data_cid": "7531023498780188956",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5c14c8724f1%3A0x688391f897e9a11c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5c14c8724f1%3A0x688391f897e9a11c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.299456,
+      "longitude": 73.2302502
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8SSHTMHFXzkRHKHpl_iRg2g",
+    "provider_id": "/g/11gy3hcz8r",
+    "rating": 4.9,
+    "reviews": 429,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "shukhadham haweli char rastah jugaadi samosa nearby, 29.B, Uma Char Rasta, Uma Colony, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "6 AM–9 PM",
+      "friday": "6 AM–9 PM",
+      "saturday": "6 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "6 AM–9 PM",
+      "tuesday": "6 AM–9 PM",
+      "wednesday": "6 AM–9 PM"
+    },
+    "phone": "+91 97127 73555",
+    "website": "https://youtube.com/channel/UC_M96LUkKLgZyJdOOW_rWHQ",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Easy to learn, energetic atmosphere, and a true festive feel every time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEOKjYDWcZhFPHHrjUomUY4eDnD67385-6azG7vgnKIZOYOsHOL_9GzMOpeAqyn949lOdcFq4f9ENM2wMAKnFv1IvorP6FtnuJLiLY93O1sy2jG7UIBFNh8d05jsNem-bSqdlK9oQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bNZ1j3icHcRdDoIgAADgE5GaptHWg81Q8wdbc01fWiFJpqBCtrphR-g2bX0P3_fDlOrlStNaZs5qIeqWPiQdieCKcjUjotPqXgIigdTcLN3f3S2OmsI7kpKhLAjGJhddXljU457tmMsFsM9v35lqHoUlLrAMcHyC_jvBPXWHF4cWbHFF0GBd4TZN5s_EjTiajHASY2YjxR-7-BYX0MSGfM0b38nDDUrZstIXjUxpBy6HoWojKPbrp6HrOmD_CeA_cd1D8Q"
+  },
+  {
+    "position": 13,
+    "title": "BoyZone Events Private Limited",
+    "place_id": "ChIJ7c-zh9LIXzkRupClsKOq-3g",
+    "data_id": "0x395fc8d287b3cfed:0x78fbaaa3b0a590ba",
+    "data_cid": "8717749123725758650",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8d287b3cfed%3A0x78fbaaa3b0a590ba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8d287b3cfed%3A0x78fbaaa3b0a590ba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3274883,
+      "longitude": 73.1824158
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7c-zh9LIXzkRupClsKOq-3g",
+    "provider_id": "/g/11cm025c4s",
+    "rating": 4.8,
+    "reviews": 53,
+    "type": "Event management company",
+    "types": [
+      "Event management company",
+      "Event planner",
+      "Event technology service",
+      "Event venue",
+      "Wedding planner"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company",
+      "event_planner",
+      "event_technology_service",
+      "event_venue",
+      "wedding_planner"
+    ],
+    "address": "near Jigbhav Complex, near CENTURY BIKE SHOWROOM, Nizampura, Vadodara, Gujarat 390002, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–8 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 94284 23810",
+    "website": "https://boyzoneevent.com/",
+    "user_review": "\"He converted on paper ideas into reality to give feelb good effects.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG2CFfTGDQK_294yE-UfyTebKiCmzEp0_vgV8AdhqGw0RxsY0sz3TinJpPf0hBZTz3Fvg7oLGAplo0Q6a2alZjRKd1JhwDW9zjvu3TdVmvFanTmtdu7nL-wxSk92qsrLaL8cdVvOg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QtNYmnicHcRRDoIgAADQE5GkrbKtD7N0S1dZZMsfZ6BQKVAgljfsCN2mrffxvh-mtVQzy6qZM6BC0LpsVfnEguuS6wEWjUWlAlgBZXm7TXL3QtsPKhQukyi33dF7BY7VG5WX6Oo3_UrC3NB06hH2CDu4f6kzVL2DrnwtdxVkiwz1TmDoRMShJ2sBk3FhF3V220dkuGbd8uT2N9M6iKSNCQqOGk3aCY9B9zrcXfuhnnERTzFJzZbOuyGEELD_GPAf8QFGPA"
+  },
+  {
+    "position": 14,
+    "title": "Mann Events Private Limited",
+    "place_id": "ChIJ__-_tFPPXzkR1SVPRLkCxlg",
+    "data_id": "0x395fcf53b4bfffff:0x58c602b9444f25d5",
+    "data_cid": "6396803315464611285",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf53b4bfffff%3A0x58c602b9444f25d5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf53b4bfffff%3A0x58c602b9444f25d5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.320956799999998,
+      "longitude": 73.19916239999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ__-_tFPPXzkR1SVPRLkCxlg",
+    "provider_id": "/g/11n6f0g8rq",
+    "rating": 4.8,
+    "reviews": 40,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "304, Anand Arcade, above Toprani Lab, Opp. Amrapali Complex, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Closed · Opens 10 AM Fri",
+    "hours": "Closed · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–6 PM",
+      "sunday": "11 AM–4 PM",
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM"
+    },
+    "phone": "+91 96012 98299",
+    "user_review": "\"They pulled off a spectacular show that left our guests speechless.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7ULMA1W5ls4G3f1L7jQeW_UvRRbppyuLDKq4A-qtAmxVX4NVf5jVT3waA_RvRJ0_E_TK8LRPgNOPdj3Y1DhPWP6gOluUNLRfpH5v4dhd2GjQ9OxuxNibfbiX_VJQzTWeEuUBO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QUQF-HicHcRdboIwAADgE1VAQOeSPdRoMNqV0vCjT41AaUWEurbIdsGdwduY-D18z39pjNKfjtNJfyaGQXTcav5TDb3hvZlVw80RSoNKA-1AgpMrjJYZ-oZeEXY6iPzGQ8s24QXLRkpLpX4t2hzuAQR3A29Tfgxw3oRtnvqPM2R0pHuXbVl6-ECUCByTuvVP3kaSgixE3NkMI9qoXTgGtaznUZus4slO-FI25eXI8n3ylxZ8a7N1_PXwXNcF8n0F-hf1hkQX"
+  },
+  {
+    "position": 17,
+    "title": "Leaf Entertainment",
+    "place_id": "ChIJ5_wUwYjHXzkRS30cHQX8Da4",
+    "data_id": "0x395fc788c114fce7:0xae0dfc051d1c7d4b",
+    "data_cid": "12541957636190141771",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc788c114fce7%3A0xae0dfc051d1c7d4b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc788c114fce7%3A0xae0dfc051d1c7d4b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.303016,
+      "longitude": 73.1828669
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5_wUwYjHXzkRS30cHQX8Da4",
+    "provider_id": "/g/11h5d6g1xt",
+    "rating": 4.5,
+    "reviews": 32,
+    "type": "Event management company",
+    "types": [
+      "Event management company",
+      "Wedding planner",
+      "Event planner",
+      "Event venue"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company",
+      "wedding_planner",
+      "event_planner",
+      "event_venue"
+    ],
+    "address": "4 Floor 11, Darshanam Trade Centre II, near Natraj Township, near Surya palace, Parshuram Nagar, Sayajiganj, Vadodara, Gujarat 390007, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 95589 20146",
+    "user_review": "\"He was always very helpful and ready for quick changes and suggestions.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_DYTXxAeNL3Gt-7bhLItlywrWH0f_D9GSf9BOMKQzb4ftWsGpyE1rxaZOhM8DJHigD0-s3vA0r0iIn6qAAJPte0D64IlL7iumqouuewnw0HZzYKXMJqOjlwjS40lImcEfGIkA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/p48RdnicHcRRboIwGADgE1V-A9G5ZA81JaUIonGJ6IsZTaFoaYGWVb3gzrDbmPg9fP9_0rnefgaBkuGsMaZRYrJi5EY7od2Mmy5oeou4RTbAu-3-humFnL7LOxbbLKQOLSuZMacefjwmUF_Iih7q1brIN_tnFdXuaGn_iOfj_edcyPyDpEnbEEA2_MUwQsv0YsA43TkBZBExlS3bqRvMNAmvPSTn52lT5ulQXJW_HiJQrONxTdkNf_k5ACD5niP9AjvnRJI"
+  },
+  {
+    "position": 18,
+    "title": "Brite Entertainments",
+    "place_id": "ChIJTxbUzLHIXzkRFuBgJTQbJ0k",
+    "data_id": "0x395fc8b1ccd4164f:0x49271b342560e016",
+    "data_cid": "5271211799639810070",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b1ccd4164f%3A0x49271b342560e016&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b1ccd4164f%3A0x49271b342560e016&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2933167,
+      "longitude": 73.172985
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTxbUzLHIXzkRFuBgJTQbJ0k",
+    "provider_id": "/g/11b66fjrt2",
+    "rating": 4.7,
+    "reviews": 69,
+    "type": "Event management company",
+    "types": [
+      "Event management company",
+      "Event planner",
+      "Party planner",
+      "Wedding planner"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company",
+      "event_planner",
+      "party_planner",
+      "wedding_planner"
+    ],
+    "address": "Amrakunj Society, B-4, near Urmi Society, nr. Gail India Office, Shushil Park Society, Nehru Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7 PM · Opens 11 AM Fri",
+    "hours": "Closes soon · 7 PM · Opens 11 AM Fri",
+    "operating_hours": {
+      "thursday": "11 AM–7 PM",
+      "friday": "11 AM–7 PM",
+      "saturday": "11 AM–7 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–7 PM",
+      "tuesday": "11 AM–7 PM",
+      "wednesday": "11 AM–7 PM"
+    },
+    "phone": "+91 98250 42445",
+    "website": "http://www.briteentertainments.com/",
+    "user_review": "\"They managed our recent event nicely and execution was hassle free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGuFOJNXzNWbQG7KtXlNYoQtWgZfTxvj_LR8C1SBSAnKtXa8rNTcWcIIx8ElNYcKEQ0oQMgCFng-KHwBSkRrIFyu_0CNJyUKxzYCyv4wvOMui0-p9i5G6KWRuqngGXoHZoalU24c4BzyAw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oNjpdHicHcrLcoIwAEDRL4oES1vsTBfA8DISG8AB2Tg2Q4OVJkgSXh_pvn9Tp5u7Off33ijVyTfDaJunFROCtbWWdU8FVzVXKyp-DNZJQCWQhvOBydUJdbDf4nLBxScJX5EqW3wURBWs-sqn4fu0S23PzNzM4Q872z3OaUHjeLL9x0iRT6AgCfMCzgCKRje7pn0czPoEPbydD2hajt48WOOwT_QFgm5zeQ5fUJHqG2dhKaJKnNvD2qKWu8zO-D6aEELQ_JcC_geB7keR"
+  },
+  {
+    "position": 19,
+    "title": "NR Events & Decoration",
+    "place_id": "ChIJN5ghlmTPXzkRkpciMg3RTO0",
+    "data_id": "0x395fcf6496219837:0xed4cd10d32229792",
+    "data_cid": "17099271739824838546",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf6496219837%3A0xed4cd10d32229792&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf6496219837%3A0xed4cd10d32229792&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.305376799999998,
+      "longitude": 73.1947418
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN5ghlmTPXzkRkpciMg3RTO0",
+    "provider_id": "/g/11vwd8v0s7",
+    "rating": 4.8,
+    "reviews": 78,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Hasmukh bhai baggi vala ni baju ma NR Event, Kothi Char Rasta, Raopura, Anandpura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 99743 63790",
+    "user_review": "\"Made my daughter‘a birthday extra special with their decorations.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF93ppdxXKx63HBdBoPkST2St8TEGkGDdNB2uTSFNQi9hWy0T7eW-6B2-OhaMMJ2hv9Uj11tvD-XViRjYp29Z3w3dj7Uuobk-8HP7QTura0M84FB7IoYTdY9JHGyPXfWsTlK-lMlL1A7SY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-mk-rnicHcTNboMgAADgJ6IiLEWW7CDp1LbT6aRTd-vESZUJKdifl-y9b9Ok3-G736Rzxr56npJ40Wvdq2623bHVk-smt2j1v9cbC1oLrBfmWTGGEcXGiEu9vSxxwgTT-VhyVLqAv8djvBIZQzMvo6w4UFldISddBZYMgU-5T9MNkie6G3zfnVag_j58DY1B9AefsRjIbta_IwiSnBR8Pu5hGrxEjKx1w0VDN0l8zeu_ynK1BSpVH35Iyubt7EMIgXzegukBZ0NENQ"
+  },
+  {
+    "position": 20,
+    "title": "Maddy Events Planner (Creating Your Memories)",
+    "place_id": "ChIJmx8ViC3FXzkRtqe51JxE6Nc",
+    "data_id": "0x395fc52d88151f9b:0xd7e8449cd4b9a7b6",
+    "data_cid": "15557760353125902262",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc52d88151f9b%3A0xd7e8449cd4b9a7b6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc52d88151f9b%3A0xd7e8449cd4b9a7b6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.256295599999998,
+      "longitude": 73.2069569
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmx8ViC3FXzkRtqe51JxE6Nc",
+    "provider_id": "/g/11vwdscvc_",
+    "rating": 4.9,
+    "reviews": 39,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Anand Baug Society, Tarsali, Vadodara, Gujarat 390009, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 83474 09529",
+    "user_review": "\"Their attention to detail and personalized approach truly set them apart.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHnouRrUS_nLAd_SRgiCtlYp25kNMFZO7DTX6ipeKphGMgfZ3a-8iFjLOjnDu7stahl4HboMCQ30q67C4erO6Tgfil-e41rM1CKU243BYf5YTV-57GBChx-pgLdRw019Ih9jr9=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZBiFkXicHcRdDoIgAADgE5GYf9nWg9HKlmaZtfTFlSFoBAS4umFn6DZtfQ_f90ONkXpqWYw6IyIEYXjQWDWCG8zNqBEPi0gNGg20Fe22-3sUx1wMuToeap5Et_qQkw4ZVsqxd9-myyoLFsXZ7yTeSLpKSVs5FzDpln2S9XwxBNpcKHPjq0jR3oFPP0AuVplfkLZjALu2Sm20OY5dZ162XlmcgBes5oi-gSTJLX9BO1zTsFfh7GVDCAH93wD-AyLUQsM"
+  },
+  {
+    "position": 14,
+    "title": "Palak balloon decoration and events management",
+    "place_id": "ChIJNfTRpN3HXzkROxytuUE1iXA",
+    "data_id": "0x395fc7dda4d1f435:0x70893541b9ad1c3b",
+    "data_cid": "8109071160461564987",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7dda4d1f435%3A0x70893541b9ad1c3b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7dda4d1f435%3A0x70893541b9ad1c3b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.293533699999998,
+      "longitude": 73.1391246
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNfTRpN3HXzkROxytuUE1iXA",
+    "provider_id": "/g/11v3kjw6d5",
+    "rating": 4.9,
+    "reviews": 120,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "panchmukhi hausing, 21/23, Vasna - Bhayli Main Rd, Ashwamegh Nagar, Tandalja, Vadodara, Gujarat 390020, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 70695 03024",
+    "user_review": "\"The setup was done exactly as promised—neat, timely, and beautiful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFPGuRf7G8TZAudY1OmzsiLKn3ZlxX_IGad8Dpul-6HT5PCYPpEZUZ4PCJ1gg-_ZEtLg_2S_Ue0h265Gexi4P9yr9RKQRB0yEgHmtrkIYazDMcnMXIGeBytAEJIhG6ziVCIvHuTiWqhLemS=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IU_6HnicHcTNboIwAADgJ6oUf1CX7IDIShVnRdykF2Jq1xKhIG2d8JKefRsTv8P3fEhjGv3hOKUcDURdi5JbzVtWK8OVGbC6ckSjAdNAOz753l38L4Js8jdFs5T69py526rXRbxWI1rejzlGp_Ns2dgSeFE6IUFGmpAe6JgEK1cIkNPQxCIf7vMDh3LoTRC_F2My79p5st4lC9iFIqpMe8HZqV9umNocMeKLzvjhCkvk9cVPgG-RTYvfq4x5tf_8dyGEQL5nQL0ASpRG5g"
+  },
+  {
+    "position": 16,
+    "title": "Cb events baroda",
+    "place_id": "ChIJK68hivjFXzkRJ4LXzr8A7BM",
+    "data_id": "0x395fc5f88a21af2b:0x13ec00bfced78227",
+    "data_cid": "1435523205033329191",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5f88a21af2b%3A0x13ec00bfced78227&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5f88a21af2b%3A0x13ec00bfced78227&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2530643,
+      "longitude": 73.22392339999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK68hivjFXzkRJ4LXzr8A7BM",
+    "provider_id": "/g/11yw2n_kvb",
+    "rating": 4.7,
+    "reviews": 48,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Adarsh Nagar, Tarsali, Vadodara, Gujarat 390009, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 81539 72488",
+    "website": "https://www.instagram.com/cb_events_01?igsh=MXh1cWVqaXJ2NTQwaA==",
+    "user_review": "\"The decor was done with great precision and looked absolutely beautiful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsbw3m5hhS8gixEIh-BtHGGlpEzwuLl_mnP7wW7ePOK8qHyREEKQgB8MiDk9CvVoMstZEBowoZbLzFb3viQpJ-5RNtXYBqWCyaqM5FvFfbQb8AeHoGcotNZxX3T1NJH2FhJ79cSBh3DEjb=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mmXR9nicHcTBboIwGADgJ6rgGgIu2YFqAVEYqJnKxaxN16LAD2ul6kt63tuY7Dt8f09lTK_fHadReCIBZCOuWvxy6IzozIRD68heI66RdsIiLy9hrJnFrafUNpD1jS4VIiaJ46anD3tdN6e2K3y790XxuQqG5L6hdFVKEmT14jKbj1-QaVNRAhYqtn5EDI912afI2-TmcCTDfn7_HjIvGqMfVrIgFAnEHExe3Q54N83T5C1SqT_jW6Lwgp7Zh526rovU_xx1L-1lR3o"
+  },
+  {
+    "position": 12,
+    "title": "Shyamwala Decorators®",
+    "place_id": "ChIJVZ_QTyPGXzkR027E2D307w8",
+    "data_id": "0x395fc6234fd09f55:0xfeff43dd8c46ed3",
+    "data_cid": "1148404976469700307",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc6234fd09f55%3A0xfeff43dd8c46ed3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc6234fd09f55%3A0xfeff43dd8c46ed3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.284896399999997,
+      "longitude": 73.15352829999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVZ_QTyPGXzkR027E2D307w8",
+    "provider_id": "/g/11g86k2sc3",
+    "rating": 4.8,
+    "reviews": 34,
+    "type": "Event management company",
+    "types": [
+      "Event management company"
+    ],
+    "type_id": "event_management_company",
+    "type_ids": [
+      "event_management_company"
+    ],
+    "address": "A1 Shyamwala Decorators Opp Taif Nagar Garden, Vasna Rd, Tandalja, Vadodara, Gujarat 390012, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 98240 88507",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"They completed our designs in timely manner and used best products.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgcR1LQERtwCoP9RGoD_GOh3MpcLC7MM1KmpEMAT40bUDsPe626Q4jsx6bEXL7rcPjJyESWgVXOzNY_fnO0vlJ0k31Kc8KogNWahYRfDBsjUXLE4dFG4OunQHuKH7lVYzvTDsiUw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_4545nicHcTdEoFAGADQJ0qbmsKMi2jL6D-iroxWdiW7jW8T3tAjeBszzsX5fpiUHcxUtWX6iApB27qH-k4ElzWXIyJuKu1AIaCAaidRerVdSjItSHEmh6VIppknnIMXMz3sSLC0wlDzbx0O7a2BqtyBpDbHZmo08DQrXATWnSTN-oU3e7or4ndUHs48Ro92ja665pOJL2i0P7IyOzsLaPIiwMbJ9Yy45-mq91dWuyvfj60Dl3yYDxpCSGH_icJ_YkZEXA"
+  },
+  {
+    "position": 17,
+    "title": "My Decorationwala",
+    "place_id": "ChIJF1bLo0bFXzkRwqGsEP_DFz0",
+    "data_id": "0x395fc546a3cb5617:0x3d17c3ff10aca1c2",
+    "data_cid": "4402202661041775042",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc546a3cb5617%3A0x3d17c3ff10aca1c2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc546a3cb5617%3A0x3d17c3ff10aca1c2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.311178299999998,
+      "longitude": 73.2538363
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF1bLo0bFXzkRwqGsEP_DFz0",
+    "provider_id": "/g/11pr8_llt6",
+    "rating": 5,
+    "reviews": 187,
+    "type": "Event planner",
+    "types": [
+      "Event planner",
+      "Event management company",
+      "Balloon artist",
+      "Party planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner",
+      "event_management_company",
+      "balloon_artist",
+      "party_planner"
+    ],
+    "address": "heaven Society, 7, C-503, Wadhodiya Road, near Bhavans Party Plot, Vadodara, Gujarat 390019, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 94996 64446",
+    "website": "https://my-decorationwala.grexa.site/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Discounts for kids",
+          "Family discount"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Everything was beautifully arranged, elegant, and exactly what we wanted.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGHlx8LDSDOw4oSIhyVODilrSuuqu9mQzYfsnEd3cg5ZyUCmp-2ebiHmUqP78VcY472_sGpBMzjs3-ifMyJBX_heI5KyT3GqW0M0kFURYOO3ZyaEqN65vzOqNl-DBHuFLQY6VJ7jkCHrE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/c-W2RXicHcRLcoIwAADQE0VSI6Kd6UIEwQ9EpNDixmnTSJBACCG14ZDue5vO9C3e74MNQ6eeLYszNCmFKDnVivZEtANthwkRjVV2ChAFlLU6xkm98oOQ_ywOXurh-0ykW2Zy7FW8T7WWetkkY3FVrf-FSGmfTbZuOjCln1XYZPLoLHJSzJzpRQWdG403hUB1jczOfb8wurX35hUF8g1GsN5kpwJjdDYfvozn9veIZcyB54Z6c0iKeb5zbvU67P2X-xOEELD_CWj_AIMCRr0"
+  },
+  {
+    "position": 17,
+    "title": "Event Mania",
+    "place_id": "ChIJ-e9O4DzPXzkRhnazMSwcF-0",
+    "data_id": "0x395fcf3ce04eeff9:0xed171c2c31b37686",
+    "data_cid": "17084154687591249542",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf3ce04eeff9%3A0xed171c2c31b37686&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf3ce04eeff9%3A0xed171c2c31b37686&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.355068499999998,
+      "longitude": 73.19977759999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-e9O4DzPXzkRhnazMSwcF-0",
+    "provider_id": "/g/11n0djd66w",
+    "rating": 4.9,
+    "reviews": 173,
+    "type": "Party planner",
+    "types": [
+      "Party planner",
+      "Balloon store",
+      "Cake decorating equipment shop",
+      "Event management company",
+      "Event planner",
+      "Gift shop",
+      "Marriage celebrant",
+      "Party store",
+      "Wedding planner",
+      "Wedding store"
+    ],
+    "type_id": "party_planner",
+    "type_ids": [
+      "party_planner",
+      "balloon_store",
+      "cake_decorating_equipment_shop",
+      "event_management_company",
+      "event_planner",
+      "gift_shop",
+      "marriage_celebrant",
+      "party_store",
+      "wedding_planner",
+      "wedding_store"
+    ],
+    "address": "GF/4, Lotus Aura, Sama-Savli Rd, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 11:30 PM",
+    "hours": "Open · Closes 11:30 PM",
+    "operating_hours": {
+      "thursday": "12–11:30 PM",
+      "friday": "12–11:30 PM",
+      "saturday": "12–11:30 PM",
+      "sunday": "12–11:30 PM",
+      "monday": "12–11:30 PM",
+      "tuesday": "12–11:30 PM",
+      "wednesday": "12–11:30 PM"
+    },
+    "phone": "+91 97242 18720",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services",
+          "Same-day delivery"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"... arrangements were stunning and added so much fun to the party.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoEL5EdQTcA7n2aZkxX50ZoEZnWTaQKnTohH-KEFSy9Sdp2lRic4Rkf0pzd_x5Gr7TtbMCKmCpBDLPp85rL1n3pb1Sp6tQZpKfIRDoXraiLGOJ2CbBTmpd5hir_PtaaN3c8ogQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/znxvs3icHcTRToMwFADQL-ooYN008YExRAUnhSYuvCylMEqA3pu2xukP-g3-jYnn4fz-aO_R3QfBouPNCDAuw4cbrALjB-M3CtZgREeUIy5IqiOfkxyykmU9FyrZmki28_XEaAtZa96F5IURoJ9IkT02X3dNj9FST-qmni8Uv_vzleV2K3z3mhZrivtDWeGO2TI0MXZhg7eet1hcnusDnKycyvztJUq7vVixZ3qy58pLeYzVDkb-8BlSSon-XxHzBy9NRGk"
+  },
+  {
+    "position": 19,
+    "title": "EVENT PLANNER & DECOR",
+    "place_id": "ChIJ9WxbvuPHXzkRA4bgK_wKjpk",
+    "data_id": "0x395fc7e3be5b6cf5:0x998e0afc2be08603",
+    "data_cid": "11064793412680058371",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7e3be5b6cf5%3A0x998e0afc2be08603&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7e3be5b6cf5%3A0x998e0afc2be08603&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2927905,
+      "longitude": 73.211878
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9WxbvuPHXzkRA4bgK_wKjpk",
+    "provider_id": "/g/11svc9jqvq",
+    "rating": 5,
+    "reviews": 24,
+    "type": "Event planner",
+    "types": [
+      "Event planner"
+    ],
+    "type_id": "event_planner",
+    "type_ids": [
+      "event_planner"
+    ],
+    "address": "Jambudi Kui Rd, Baranpura Chokhandi, Moghul Wada, Vadodara, Gujarat 390017, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 84602 31244",
+    "website": "https://instagram.com/krn_soneji?igshid=OGQ5ZDc2ODk2ZA==",
+    "user_review": "\"Good service and excellent work team..\nEvent planner & Decor\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIL2ycn6nQz3aeiADli85RUgHGOS7O9K4G_Tw3Re0K-BCERSRox4TNgiiX05TvTJ0WiEG3eq9jjeMMlVsKlYvi7aGEHXebeiTfNeXbx34C6CrJiscHFLgOmuJSWEjmRCABQ8BedA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lUkzHXicHcRbcoIwFADQFUVig6_O9CNQhIJCCVHpl6PxGkJDYg2-usMuobvpTM_H-f1p-v7knj1PN2QgrZUaLg7OwpoeTD8QtvPkySHhkPPoe15-0vnb4ukhzNiU32QHir5qNR2xlUziopoUs8yPt_xGGOAMBWHEKmbvPs-lUjUe8StP8UZFMYGvWdvCcqnXLtMfVzXZxVFSwx4UP-ZQ7-_ED8fhOVVOJPOFLLpLWm2itmMhDcppAAf6chtijFHzv0DmD1jnQ-k"
+  }
+]

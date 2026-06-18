@@ -1,0 +1,3557 @@
+[
+  {
+    "position": 1,
+    "title": "Tanishq Jewellery - Vadodara - Race Course Road",
+    "place_id": "ChIJZ1cjcLzIXzkRMkW8UDMogt4",
+    "data_id": "0x395fc8bc70235767:0xde82283350bc4532",
+    "data_cid": "16033421824255345970",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bc70235767%3A0xde82283350bc4532&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bc70235767%3A0xde82283350bc4532&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3119534,
+      "longitude": 73.1645041
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ1cjcLzIXzkRMkW8UDMogt4",
+    "provider_id": "/g/1261dxjfg",
+    "rating": 4.8,
+    "reviews": 10899,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler",
+      "Jewelry designer",
+      "Jewelry manufacturer",
+      "Jewelry repair service"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler",
+      "jewelry_designer",
+      "jewelry_manufacturer",
+      "jewelry_repair_service"
+    ],
+    "address": "KP Platina, No 102/202, Race Course Rd, opposite Vanijya Bhavan, Race Course, Gautam Nagar, Vadiwadi, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 265 234 1989",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/gujarat/vadodhara-racecourseroad/BRD",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Latika ma'am helped us to choose unique yet stylish jewellery.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQy9Re9usoamQNGWGXLlZUc5Kc7uo64Z_U_1sytIq2VnaOiAI1itISr_zem6ddlmKVT_gcYOLClbu9EX-Q7PHvSecVUq8-9oi6-_aW5bqtg6t-_QRZwt4GLJKcXm_RXOz5xmSL=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fs2YenicHcTdboIwGADQJ6rAFBwmXhBjkEHEgvzITYOfTSFrqdgPnb6gz7C3WbJzcX7fHeLVrCxLdvOZ0FpIPhl-Az0gH3AGWlniaggYYqzgsKffQUiffsb9yehW0X1YhXUimwLcGJaT9hYNK5hjnhiNH-XQpn0QOT1G-Y29uPIuF6ni8sgEnNJkI8-Tv60JXR5295xDWYyfxNe9R1hbuecRhYeE0ax54CJMvmKoFcvq9OX-qDxZPxzbtkn3P5DhD5dQRSY"
+  },
+  {
+    "position": 2,
+    "title": "SARA GANDEVIKAR JEWELLERS - Gold Section",
+    "place_id": "ChIJ7aur3B7FXzkRMMLB30nJ0i4",
+    "data_id": "0x395fc51edcababed:0x2ed2c949dfc1c230",
+    "data_cid": "3373980389977735728",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc51edcababed%3A0x2ed2c949dfc1c230&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc51edcababed%3A0x2ed2c949dfc1c230&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.300403,
+      "longitude": 73.1993963
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7aur3B7FXzkRMMLB30nJ0i4",
+    "provider_id": "/g/1tgkfphd",
+    "rating": 4.8,
+    "reviews": 12978,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "SARA GANDEVIKAR JEWELLERS PRATAP ROAD, Pratap Rd, Dandia Bazar, Jambubet, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 265 243 7743",
+    "website": "http://www.saragandevikaronline.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"The quality and variety of jewelry on display were truly impressive.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHl7qGS6QveST0jjvG5OH92eobFb4FXA83FY84wgzJYuF7xEJMYMl1mtM_3EWGxkYkHuSUjed15hWKv-s-fe2JqU7FRtXUmgStBqyByeO40wDZmaqZp2FDPEdibCqG5mHqVni1kT0ybh0p4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/T1DfkHicHcRLjoIwAADQE1XKT5xJXKBSCAZ_iIobI1hbgVI6LSBe0vXcxsS3eP9vqlQjfzWtouaIcE4q3Er8l_Na4VqNcs400kiQSyA1d7Palm5QOcKPx9sOx3tYFJ1vr4MfA_MMZRY6uRMTpROrJ68wbZHz9MIojSqdqehiekf_WaZl0MZJgW-6TY_LDkhwx0YoEgft1ClhJFYzMcwGvLZgvzizqzg3BlpsvNsjmwvfZoE41A-93MMho7Cxpr0OIQT0ew7qD0SvRtA"
+  },
+  {
+    "position": 3,
+    "title": "N.K. Jewellers",
+    "place_id": "ChIJuUbP2KzIXzkRyHa8Cr7h5I0",
+    "data_id": "0x395fc8acd8cf46b9:0x8de4e1be0abc76c8",
+    "data_cid": "10224545260378027720",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8acd8cf46b9%3A0x8de4e1be0abc76c8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8acd8cf46b9%3A0x8de4e1be0abc76c8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.307402099999997,
+      "longitude": 73.1742799
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuUbP2KzIXzkRyHa8Cr7h5I0",
+    "provider_id": "/g/1tf5c479",
+    "rating": 4.9,
+    "reviews": 1102,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Anand Complex, 4-5, Jetalpur Rd, opposite Masonic Hall, Anand Nagar, Haripura, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "11 AM–8 PM",
+      "monday": "Closed",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 74900 24123",
+    "website": "http://nkjewellers.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"The jewellery collection is beautiful, and the service was excellent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHcOUM2657-esztXFB_k7JIOgtqHKOW_A6b02_1dPWglR_HNAE9aDWSsn8dUukU9pBs2QiP05ihe0f5TTczjIhu49BIjHmUjIeDA6LHWcKlxs-SuRrkVOSzB5LujTtNRFd7yjo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qccTSXicHcTdboIwGADQJ6oUHDCWeFHiSJkOkJ_hHXGlay1I0a_NNh7Qd_BtluxcnMddGjPDi-OMcr0SWouRW-A3pifDJ7Ni-uKIGRADBA4pssNAKMubdy_wQ8RhMcck7obwLc2FudJd3nYk-MRe5_ZFK8ayoxl5jU7btoLpuW_s0ERzDN7hXGD_LDn-8uuaLSqV9imKU0UvjUr5lgR72rLd-AOosuVt-MirJfb3VtUmK5M-_FV68-1ijJH8n6HpD5R-Q4c"
+  },
+  {
+    "position": 4,
+    "title": "Joyalukkas Jewellery - Vadodara",
+    "place_id": "ChIJfc7BmbrIXzkRQmboqxqElqA",
+    "data_id": "0x395fc8ba99c1ce7d:0xa096841aabe86642",
+    "data_cid": "11571581542663218754",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ba99c1ce7d%3A0xa096841aabe86642&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ba99c1ce7d%3A0xa096841aabe86642&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3116082,
+      "longitude": 73.1652474
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfc7BmbrIXzkRQmboqxqElqA",
+    "provider_id": "/g/11b6v0wsdl",
+    "rating": 4.8,
+    "reviews": 5177,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Ground Fortune complex, Race Course Rd, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8:30 PM",
+      "friday": "10:30 AM–8:30 PM",
+      "saturday": "10 AM–9 PM",
+      "sunday": "10 AM–9 PM",
+      "monday": "10:30 AM–8:30 PM",
+      "tuesday": "10:30 AM–8:30 PM",
+      "wednesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 265 234 5916",
+    "website": "https://www.joyalukkas.in/?utm_source=G_Maps&utm_medium=GBP&utm_campaign=Joyalukkas_Jewellery_Vadodara&utm_content=JLGJ01",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Amazing ambience , great designer gold products and superb staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHD91gTvK9CPXOQgAdaGmD0tuySogswb7MWtIysWXcfgqMsxzWYQwghqrv9wpA81_hqJJUhQbgGMTwtDSuDfTbyQPCwYG8L4nMWOLH22WEbPcJ7JNuI-SpJT5RIv2Voo0JGUn1UuA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XoDNB3icHcRRboIwGADgE1UKblGW7KGBBelEqcCqT8vo8G8ybcG2VLyhR_A2JvsevsddWtubtyA4yfkMtIZT50x3EVrZTtmZ0OcAeoOEQSYg5Yb9kVUah1CPn3FS7rcMyO9Pdk6xdVOlwfh2UXCbT4bvxRGGwlxv_MA8yOEyxr4ny_BbDpQ2krWQFbW3aeXSY91OrEz8IVuuX1TBt-tVFPGPthR0QTcuR1VP69ddPkZfWmOaNSpsHHn3IcYYyf8FUk9jyEXf"
+  },
+  {
+    "position": 5,
+    "title": "SARA GANDEVIKAR JEWELLERS - SILVER SECTION - Silver Jewellery In Vadodara",
+    "place_id": "ChIJwU5B1mbFXzkRrvHu3EGbGQE",
+    "data_id": "0x395fc566d6414ec1:0x1199b41dceef1ae",
+    "data_cid": "79265175637520814",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc566d6414ec1%3A0x1199b41dceef1ae&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc566d6414ec1%3A0x1199b41dceef1ae&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3000142,
+      "longitude": 73.1993683
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwU5B1mbFXzkRrvHu3EGbGQE",
+    "provider_id": "/g/11r0wvjxqg",
+    "rating": 4.9,
+    "reviews": 11312,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Mandar Square, Dandia Bazaar Rd, next to Siddivinayak Temple, Babajipura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 81410 71749",
+    "website": "http://www.saragandevikaronline.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Very wide range of jewellery available in budget.nice staff cooperation\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHAtIqpciRxxUEm8esbvrPKFzQx6sIW2vXIuGAOut3KRjxVt3o8rCZse3zVTbG8B6XYXkXEOzRuOxPmXx_z-_3eh8W53AS4Y8agOs46DFF95TRHJ2C9dq_TscXef69VFByki6c-DzxFD7xm=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/P12MV3icHcTBboIwGADgJ6qg1VqW7FDFKjMZiAzrLmR2FRShyF9c15fceW-zZN_h-_2pjOngyfNuFR6VWpc3NYDqpW6Nas1I6sYrO0ASEHgsed3VbMNMdO_kJbX2bdVQBadHn2y521kC0WHyENGwZvFg8Da92txgTfvlOyjs8uy0pgsijqIWq9ilQ2yTRtjCoQKrih5mmO2nR_pRxjAlIefBLEs3L5Nl8HkvMpBCnUmQ88V3fSEShc7ycG6b56-x7_uo-l-i9g_6mUdX"
+  },
+  {
+    "position": 6,
+    "title": "Gandevikar Jewellers Pvt. Ltd. - Chikuwadi",
+    "place_id": "ChIJc7Tx6q_IXzkRAn8rDn-ANgo",
+    "data_id": "0x395fc8afeaf1b473:0xa36807f0e2b7f02",
+    "data_cid": "735916872308588290",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8afeaf1b473%3A0xa36807f0e2b7f02&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8afeaf1b473%3A0xa36807f0e2b7f02&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3080307,
+      "longitude": 73.1688937
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc7Tx6q_IXzkRAn8rDn-ANgo",
+    "provider_id": "/g/1tp2yst5",
+    "rating": 4.7,
+    "reviews": 5190,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Jetalpur Rd, opp. Anjoy Restaurant, Chikuwadi, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 98240 25151",
+    "website": "https://www.gandevikarjewellersonline.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very nice service, co-operative staff, beautiful patterns of gold...\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEqsn4x3k9MjtKoIAw1MwMoE_wqIMTamltZpJ_cL59hucbaNe3z2DrfUMo2xqmVU-82wZbyEvr4CnmZSqtsX-s5tHJry0mi_NpyyH9KeC54Ze6YGcbHL4QTagQlqvFblNiZYfHP=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WrpoG3icHcRJDoIwAADAF1WQxYiJB6IoLiUSl0gvBJqyaBdKqxU_6Bv8jYlzmO-n0bpTM8uijTuqhagpeSjSY8E14XqEBbPqTgGsgLLCQ5Lew0gq7r3cewBveic2oRlDA0WUG7mBp4JRjbptjvd-0DxwWSTEfTvLvjpD4bwku5zB1DGoHKJn7y04Q0ep1RUoX8fbfrBZmyfdMMTBjix8D5FJtsZlvPfSU1GnVD5XJU1alFXxYW7Gtm2D5j8G_Af6pUZC"
+  },
+  {
+    "position": 7,
+    "title": "SARA GANDEVIKAR JEWELLERS- WAGHODIA ROAD",
+    "place_id": "ChIJT-20fz7FXzkRdC7bTBO-u2E",
+    "data_id": "0x395fc53e7fb4ed4f:0x61bbbe134cdb2e74",
+    "data_cid": "7042431432426991220",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc53e7fb4ed4f%3A0x61bbbe134cdb2e74&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc53e7fb4ed4f%3A0x61bbbe134cdb2e74&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3001465,
+      "longitude": 73.2378161
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT-20fz7FXzkRdC7bTBO-u2E",
+    "provider_id": "/g/11h717g2gy",
+    "rating": 4.9,
+    "reviews": 10021,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Diamond dealer",
+      "Jewelry appraiser",
+      "Lapidary"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "diamond_dealer",
+      "jewelry_appraiser",
+      "lapidary"
+    ],
+    "address": "Vrundavan Cross Road, Nr. SBI Bank, Waghodia Rd, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 265 256 7756",
+    "website": "http://www.saragandevikaronline.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Best collection of jewellery and Highly recommended for quality and service!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7kZY1saGmBzusrgduhh8xHnq35xzUsj3XGEBpDQq6oehwXZ5Tqomqetga8z7fSA6d0EPGOWF5caYpBFT3iPENhV0av00KmlsoRHKBckndahPqQdO-Y5_jeScevoHVK8rsxHWTaxuV3zE1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Hg2013icHcRBjoIwFADQE1VKGpSYuIAM0oREQRHFzaQpnVaBlvKLEi7pem4zybzF-_0o5wbYel6nyEoaIzsxgRi50U5ot-Km9-QAiAMCL8oPRRvRTXuvfWBpHy8TjLKZlApnqi0J5uUCT3JLk3j4KuzaCPW-3YPSmt4KJ1m4bH7O0brBSZ4er_uAs3qI9yV55MlBVZi9MM76DsyJZjFvdcNUbovmiOrg-ynOXLwMrbJwhJleSzZPFVkSf_f2McZI_c-R_gM7YEjO"
+  },
+  {
+    "position": 8,
+    "title": "Malabar Gold and Diamonds - Vadodara - Gujarat",
+    "place_id": "ChIJ0TFCKr3IXzkRPJV9eMqIfrE",
+    "data_id": "0x395fc8bd2a4231d1:0xb17e88ca787d953c",
+    "data_cid": "12789810394965054780",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bd2a4231d1%3A0xb17e88ca787d953c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bd2a4231d1%3A0xb17e88ca787d953c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3120855,
+      "longitude": 73.1645489
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0TFCKr3IXzkRPJV9eMqIfrE",
+    "provider_id": "/g/11bwqmykk4",
+    "rating": 4.7,
+    "reviews": 2200,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler"
+    ],
+    "address": "Platina Bulding, 101 K.P, Race Course Rd, opp. Vanijya Bhavan, Race Course, Gautam Nagar, Alkapuri, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8:30 PM",
+      "friday": "11 AM–8:30 PM",
+      "saturday": "11 AM–9 PM",
+      "sunday": "11 AM–9 PM",
+      "monday": "11 AM–8:30 PM",
+      "tuesday": "11 AM–8:30 PM",
+      "wednesday": "11 AM–8:30 PM"
+    },
+    "phone": "+91 265 232 6916",
+    "website": "http://www.malabargoldanddiamonds.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Wide range of jewellery, with exclusive design, polite staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHcNb8_u5EFyTGSs4HXy09TNxGtRegq1g0Kg3_S7bJn3Uf34Nx3a6nDYTjLXPI3HeSNyI2vbdl_azpM1AbpbH3MchcsIAIHf7fe4a3L_mioXMNN74m34lOhG-srELPRZphLhVO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3o9HMHicHcRRToMwGADgE3UU_ypqsgcSJ0Whw8EM2wuhtbQqtHXtdHhBz7DbmOx7-M5_OgTn76No1LBQ1qpRHr08CGuCNGEh7BQp55HwyEdpxV4-04wKxm-74_XqcW6y2hPazviuYacsbKT6ihV-VtDVCX8ysB2AsBP0N-Zh13wUbZUDlTWb86tv_jZ2_a8r45Q7TqEUWvg8zemQDJL0UHTTu21LxhIyARnXOkP-sCqqzd7pQr-ulz8xxhjpywKZf-zXQ3c"
+  },
+  {
+    "position": 9,
+    "title": "𝗔𝗿𝗯𝘂𝗱𝗮 𝗝𝗲𝘄𝗲𝗹𝗹𝗲𝗿𝘀 - Best Jewellery | 92.5 Sterling Silver | Exclusive Silver | Pure Silver Showroom in Vadodara",
+    "place_id": "ChIJz2g96VPJXzkR92rrp7kI2so",
+    "data_id": "0x395fc953e93d68cf:0xcada08b9a7eb6af7",
+    "data_cid": "14617005134063561463",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc953e93d68cf%3A0xcada08b9a7eb6af7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc953e93d68cf%3A0xcada08b9a7eb6af7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.327055299999998,
+      "longitude": 73.1552956
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz2g96VPJXzkR92rrp7kI2so",
+    "provider_id": "/g/11pcs9sk17",
+    "rating": 4.8,
+    "reviews": 2332,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Shop No. 5, Kirti Square Main, Road, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "10 AM–8:30 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 90900 70062",
+    "website": "https://www.arbudajewellers.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Nice jewellery collection,Valuable jewellery,\nFriendly nature staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAELbZCZSdc1iWGdL9nval6sGrlIka0WDvvH7EjRKGVKEiciqo-E4GrLCrIy07afhomdwFRHmijHoztMo_MOiFfizUq94VZHh8l05rW6yx8NtQWuG1LVYFRDDVCKWp2xAIjrDAVq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3sg873icHcRJboMwAADAFzmYNrvUA2IxiCUJVW2FS0QMwSYGg-2Q5YN9Q35TqXOY9y8zZtBbyxLsc9ZI2Yj6pmtFZW_q3syo7Kxm0IBqoC1nnx2ujp-cC7f4rqjNCaqSTT-VYqmREtG1hMSbpnDlt3mMcOxzykcJ_DlSiauiJ1yVFya76h7kYcfbUL5MKk_pjgcX_voZN3NchGwt4EKR5fOxzsyB3JCd4GOQex52YzJ8PJyoVZ6Dx6-7DSEE7H8K-j-OokT_"
+  },
+  {
+    "position": 10,
+    "title": "BlueStone Jewellery Centre Square Mall, Vadodara",
+    "place_id": "ChIJR4ReboPJXzkROMSah_HPICw",
+    "data_id": "0x395fc9836e5e8447:0x2c20cff1879ac438",
+    "data_cid": "3179769973192705080",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9836e5e8447%3A0x2c20cff1879ac438&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9836e5e8447%3A0x2c20cff1879ac438&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3180314,
+      "longitude": 73.16949869999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR4ReboPJXzkROMSah_HPICw",
+    "provider_id": "/g/11s9fcjy9p",
+    "rating": 4.8,
+    "reviews": 615,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Diamond dealer",
+      "Gold dealer",
+      "Goldsmith",
+      "Jeweler",
+      "Jewelry appraiser",
+      "Jewelry buyer",
+      "Jewelry repair service",
+      "Wholesale jeweler"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "diamond_dealer",
+      "gold_dealer",
+      "goldsmith",
+      "jeweler",
+      "jewelry_appraiser",
+      "jewelry_buyer",
+      "jewelry_repair_service",
+      "wholesale_jeweler"
+    ],
+    "address": "Shop No. G-1A,BLB Mall Management Co. Pvt. Ltd,Centre Square Mall Near Genda Circle, Sarabhai Rd, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9 PM",
+      "friday": "11 AM–9 PM",
+      "saturday": "11 AM–9 PM",
+      "sunday": "11 AM–9 PM",
+      "monday": "11 AM–9 PM",
+      "tuesday": "11 AM–9 PM",
+      "wednesday": "11 AM–9 PM"
+    },
+    "phone": "+91 86558 08324",
+    "website": "https://www.bluestone.com/stores/centre-square-mall-vadodara-reslnk-TVRNeg==/catalog.html?utm_source=Google_GMB&utm_medium=GMB_Organic_Store&utm_campaign=GMB_local",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Beautiful designs, extremely good customer hosting and polite members.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGST6NZxDYFcNcKv-qAY8VH56W7PfVuH_1Qx_3IhTL6LsoRim3fYBXaWVPreaej24IfKsaUW4mN-mT9FbnNKUpDnMaD60ickBn86YW8J0-CMiAHNimXCxCRmNvsBW4T6o0RQ8wQ7w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NNs5dXicHcRJDoIwAADAF1WKYEUTDyxBFG0AgYoXg01Z1LZoUfiiT_A3Js5hvp-m7zu11LR7Y0xqKes7eyn2pFL0TPQTKrlWdwpQBZRmRzi-2etDivBp9AqfYhq-wcMurDyYITKPqvwVnPV4PBubJt2hnZJJy42qcI4lyaMnK9l1am6qUJUZMTkGPF34F4HDrPPEvvQQbOnNERYqiLWFwN23doBbfnRHN-H4rRxipkjCJLaGeD6sBh1CCJr_FIgfV5pDeg"
+  },
+  {
+    "position": 11,
+    "title": "Kalyan Jewellers - Vadodara",
+    "place_id": "ChIJVW7WzKTIXzkRjLOGYa2n_54",
+    "data_id": "0x395fc8a4ccd66e55:0x9effa7ad6186b38c",
+    "data_cid": "11457060340161229708",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8a4ccd66e55%3A0x9effa7ad6186b38c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8a4ccd66e55%3A0x9effa7ad6186b38c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3087864,
+      "longitude": 73.166499
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVW7WzKTIXzkRjLOGYa2n_54",
+    "provider_id": "/g/1hg4y50pq",
+    "rating": 4.2,
+    "reviews": 2672,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Costume jewelry shop",
+      "Diamond dealer",
+      "Gold dealer",
+      "Jewelry engraver",
+      "Jewelry manufacturer",
+      "Jewelry repair service"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "costume_jewelry_shop",
+      "diamond_dealer",
+      "gold_dealer",
+      "jewelry_engraver",
+      "jewelry_manufacturer",
+      "jewelry_repair_service"
+    ],
+    "address": "No.2211/A, Dutt Vihar Society, Chakli Circle, Jetalpur Rd, near BSNL Bhavan, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9 PM",
+      "friday": "11 AM–9 PM",
+      "saturday": "11 AM–9 PM",
+      "sunday": "11 AM–9 PM",
+      "monday": "11 AM–9 PM",
+      "tuesday": "11 AM–9 PM",
+      "wednesday": "11 AM–9 PM"
+    },
+    "phone": "+91 79 4851 5764",
+    "website": "https://store.kalyanjewellers.net/kalyan-jewellers-store-jetalpur-road-vadodara/brd/overview",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Up to the mark for customer services and unmatched jewellery designs.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4a1YEFQbhV-og98ZPvgaSR6luF2J2VWjDRcYbJyj-KAHVStI2s7Juxsdao2d09WPfFp60fWO1UUDyjKiPUDxwgsTqsLN66O0-gKVO2LgQ7riIqSM0Jjj0kYtVU1KfPaGlC2wYFw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VCOZvnicHcTdEoFAGADQJ1pty-RnxkWjQqFN2iZ3WbVZaePbxCN6BG9jxrk430-ldQszw6ir4UAoJeqig-LBVaOLRg-4uhmiBcQBgWHTXXS13VFuZq4XnSqGlJhOjvQp8nhv1Z1HfMJS6ex5dvLfEgX2isV6TWDsdy8454qc8TSlpddauExDM0mctwwuNHFevYDDHTY7ywoxEgELyUZE48dlfY-32JcSXzPNEjMoab6sF6TPvH7emxhjVP3nqPkBbgBEEQ"
+  },
+  {
+    "position": 12,
+    "title": "Chakabhai Jewellers - Gold jewellery in Vadodara | Bridal jewellery Vadodara | Best Jewellery Showroom in Vadodara",
+    "place_id": "ChIJVVVVlV_PXzkRZ3C6_gjpdHU",
+    "data_id": "0x395fcf5f95555555:0x7574e908feba7067",
+    "data_cid": "8463645824578646119",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf5f95555555%3A0x7574e908feba7067&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf5f95555555%3A0x7574e908feba7067&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.300234099999997,
+      "longitude": 73.2092077
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVlV_PXzkRZ3C6_gjpdHU",
+    "provider_id": "/g/1thmctd2",
+    "rating": 4.7,
+    "reviews": 499,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Costume jewelry shop",
+      "Gold dealer",
+      "Jeweler",
+      "Jewelry manufacturer",
+      "Showroom"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "costume_jewelry_shop",
+      "gold_dealer",
+      "jeweler",
+      "jewelry_manufacturer",
+      "showroom"
+    ],
+    "address": "MG Rd, opp. Ghadiyali pole, Bajwada, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8:30 PM",
+      "friday": "10:30 AM–8:30 PM",
+      "saturday": "10:30 AM–8:30 PM",
+      "sunday": "10:30 AM–8:30 PM",
+      "monday": "10:30 AM–8:30 PM",
+      "tuesday": "10:30 AM–8:30 PM",
+      "wednesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 88491 72486",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Very nice customer services and also elegant design with reasonable price\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFa0qJbe_cJd3qJUSoG_E880sY08KEW9oS__Y8r9PSJ5O6qh5eX5Xo_mZdrJ6NsbS8ptsJ9J2e6l1j7hJaQYYJRab4DwsHm_51edt2eVueDcmacgYo1taLVKcqD0sziKBvxBgYpaQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/X5JUtHicHcTdToMwFADgJ2KUTbAs2QULU3Mwc0j2U2-aUk5aFShwOrf4hnsE38Zk38X3d7PeD7QMw9YuZsY50-KZcNKu99j7mXZdaAYKNAUUZrtt-Z09KTZCjVJDsxhhX7lnueGckWC82BxTV0kp-JTuKojfktHGeIpPTnYfzQTJluqKD54ghTkmbfT1aEGVQsC7qh_yC710Mo6w8XM8nDHXndJGuMir10Ohx5zR72ex_rmujRhUubpEjLHA3tdB_w-NfUUg"
+  },
+  {
+    "position": 13,
+    "title": "R Narayan Jewellers",
+    "place_id": "ChIJ-dlTyLrIXzkRcOrFTNSVrmQ",
+    "data_id": "0x395fc8bac853d9f9:0x64ae95d44cc5ea70",
+    "data_cid": "7254900788794092144",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bac853d9f9%3A0x64ae95d44cc5ea70&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bac853d9f9%3A0x64ae95d44cc5ea70&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.312413,
+      "longitude": 73.170638
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-dlTyLrIXzkRcOrFTNSVrmQ",
+    "provider_id": "/g/1tgdgd0b",
+    "rating": 4.9,
+    "reviews": 990,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Meraki One, 22, Concorde lane, RC Dutt Rd, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8 PM",
+      "friday": "11 AM–8 PM",
+      "saturday": "11 AM–8 PM",
+      "sunday": "11 AM–8 PM",
+      "monday": "11 AM–8 PM",
+      "tuesday": "11 AM–8 PM",
+      "wednesday": "11 AM–8 PM"
+    },
+    "phone": "+91 98796 18171",
+    "website": "http://www.rnarayanjewellers.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Excellent designs, varieties of jewelry and very good staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFylUtIFJkcbsotuyctCn1Q_bG8mi1sQJCtEVFRrYPkrY5fzAqFUTS1Bu7Va7oIukO2BVV4C3_mNQhmbpCafEj5NhK4CVqMJPL5G5w_2bJVpMMKH0kkg9S9VKO39dQEGEtvA4H=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Nah4bXicHcRLDoIwFADAEyEgEMTEBTYUBUHqp4krIhWoFijSh0Yv6Bm8jYmzmO-HA_RqrusNtya1lHVTjqocmOyg7GDCZKvXvdKY0pTuZykRPsav5ghrHAlWKAnjiwHqTJIX4ay9mopECAKKd8MpE8PJqd7-HR8Pe3M5uvTsyvUottMlpTay8jYlvC16dK6Cm5Py2Eb0nkTZxgmdZz4tItonSbwyhKi9vUfjreVdSBAG8PDt1eJpGoah8f9M636D4UPP"
+  },
+  {
+    "position": 14,
+    "title": "Tanishq Jewellery - Vadodara - VIP Road (Earlier VDT)",
+    "place_id": "ChIJ7WsS6LfPXzkRf4_eKxIUf3s",
+    "data_id": "0x395fcfb7e8126bed:0x7b7f14122bde8f7f",
+    "data_cid": "8898853456985362303",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcfb7e8126bed%3A0x7b7f14122bde8f7f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcfb7e8126bed%3A0x7b7f14122bde8f7f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3261605,
+      "longitude": 73.2022396
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7WsS6LfPXzkRf4_eKxIUf3s",
+    "provider_id": "/g/11rqg47mdn",
+    "rating": 4.9,
+    "reviews": 5973,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler",
+      "Jewelry designer",
+      "Jewelry manufacturer",
+      "Jewelry repair service"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler",
+      "jewelry_designer",
+      "jewelry_manufacturer",
+      "jewelry_repair_service"
+    ],
+    "address": "101/201, VIP Rd, opp. Bright School, Amit Nagar, Saibaba Nagar, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 265 299 1000",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/gujarat/vadodara-viproad/VAD",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Her service made the entire jewellery selection process smooth and pleasant.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExWzyXo0dIc4Wwu0XlJN_4TMUtFX-ZCmR9C_IPjKT1YzQzy2Fvcta72WnTt9CfZEbEBCt4CTrHTZehqkM_M4_sHF5IH2HkQx_16XCSJlnnExyTJDKOgcFr6VKG4ayuR6QHiDcf8Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4l4u5XicHcRRboIwAADQE1UKq6hL9qEVViA4q3UwfhrtEBRsHS0K3HBH8DYmvo_3-C-Nuep3y6rLt1GhVFHnrc4boaTJpRkJdbGKqwZCA23N1ytazb0uGfpUwd9AoOTewrQOVxyxeGf8FGT4splhHqzPEbN_Bjr0jn8TZj9xEsnMDB8z7-AtsEGYNYRleflXxTxGXBN_HBCHVLTjtpvibVhL6XU9C5fRVyH8xv2OPtG-bzcuJaelOE7px92GEILytQDyCdObRLM"
+  },
+  {
+    "position": 15,
+    "title": "PNG Sons Vadodara P N Gadgil And Sons Ltd",
+    "place_id": "ChIJxcTGXKXIXzkRxe_hsRWZtng",
+    "data_id": "0x395fc8a55cc6c4c5:0x78b69915b1e1efc5",
+    "data_cid": "8698308048770428869",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8a55cc6c4c5%3A0x78b69915b1e1efc5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8a55cc6c4c5%3A0x78b69915b1e1efc5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.307890699999998,
+      "longitude": 73.1697016
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxcTGXKXIXzkRxe_hsRWZtng",
+    "provider_id": "/g/11c6sm602k",
+    "rating": 4.5,
+    "reviews": 848,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler"
+    ],
+    "address": "Trisha Square, Jetalpur Rd, opp. Saraswat Bank, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8:30 PM",
+      "friday": "11 AM–8:30 PM",
+      "saturday": "11 AM–8:30 PM",
+      "sunday": "11 AM–8:30 PM",
+      "monday": "Closed",
+      "tuesday": "11 AM–8:30 PM",
+      "wednesday": "11 AM–8:30 PM"
+    },
+    "phone": "+91 77740 17868",
+    "website": "https://pngadgilandsons.com/our-showrooms/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Quality jewellery, great customer service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcNLc2vUXGH2CnTMcDID_YyRZQuT3Zb9zd-ihxgI6LvVUepVywElsCEdeZDEARd7Hd0JC0P0dB9cf4Txz5g8euYz7upH1nayOVnngpSjQ9UvQk6GSAAJtUeY4uLcx2aoOKI0Qk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lN7HV3icHcRNUoMwGADQE6Wk9E-ccREBCxXbpgWmsHHqlxgUTDImocAFPYO3cca3eL8_jbXa3Hte1yxmQinRcWf4NyhpubQzUF-e0AaBQcYjxz1tyRPsM_D74rJN_FDmLxCl0Ws1nmrq8kX9FkwMfTSDSNdZXxZcl-Mt7kwYM15HMTmxTcLwLsRHzB4DeF_mw7QSd9xV08bpZC6v46GUUujzJw2Knrbr7ZmQnS14tXQZDP5VHZ5TTNuH2xxjjJr_Ack_TAJEjg"
+  },
+  {
+    "position": 16,
+    "title": "Damodardas Jewellers",
+    "place_id": "ChIJmUsF4rrIXzkRcY8Lw96E_4A",
+    "data_id": "0x395fc8bae2054b99:0x80ff84dec30b8f71",
+    "data_cid": "9295294248205913969",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bae2054b99%3A0x80ff84dec30b8f71&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bae2054b99%3A0x80ff84dec30b8f71&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3106998,
+      "longitude": 73.1675398
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmUsF4rrIXzkRcY8Lw96E_4A",
+    "provider_id": "/g/1hm4ybvm1",
+    "rating": 4.6,
+    "reviews": 989,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Shop No- 25 & 26, Alkapuri Arcade, RC Dutt Rd, opp. Welcome Hotel, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "10 AM–8 PM",
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM"
+    },
+    "phone": "+91 265 233 4195",
+    "website": "https://damodardasjewellers.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"The staff were very helpful in my purchase of a silver bar and some earrings\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEElSVYFtVl9ONc7IKchIr85_DecPvbYPsthCGK-ffnATV4upHtnaAky4XLULIPc_a8Xk9AxBaXFPgtjQioWh3Np9JQaWIVu1JK3ztMi0wnAuJNSnCGhCcxs6Q1WhTlKnJWJGYeATaY5d6n=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JcauiHicHcRJboMwFADQEzmAyESkLlyaEExKjUIZVpH76-AU9xvFJkMv2XVuU6lv8R6_yrnBrjxPq3DSGdNpOVp5BoNOopuA-fa6wRKwxHqU50VP12u9r9qNq3T0lsMizUCl5-Xs8CKBXz5abp2Kk4wcj0jLajoOW4eC9vdps3vfpRwOYtn0Eb09i2bDO_dVnEytwnyIWCHqtBoDloU_7vXkX5GOLN9jnKgYbnZeBLUqdYasZkkraSna2eccn66B7_tE_Q8E_wCul0dx"
+  },
+  {
+    "position": 17,
+    "title": "Ashapuri Jewellers -Exclusive Gold Showroom",
+    "place_id": "ChIJvZ7pucDIXzkRYtspCvbnwpE",
+    "data_id": "0x395fc8c0b9e99ebd:0x91c2e7f60a29db62",
+    "data_cid": "10503212324899904354",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8c0b9e99ebd%3A0x91c2e7f60a29db62&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8c0b9e99ebd%3A0x91c2e7f60a29db62&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3208879,
+      "longitude": 73.159142
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvZ7pucDIXzkRYtspCvbnwpE",
+    "provider_id": "/g/1tdlfpm2",
+    "rating": 4.6,
+    "reviews": 609,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Gold dealer",
+      "Jewelry designer"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "gold_dealer",
+      "jewelry_designer"
+    ],
+    "address": "G-14, Pujer Complex,, Opposite Golden-Silver Apartment,, Subhanpura Main Road,, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "10 AM–8:30 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 88024 90000",
+    "website": "http://www.ashapurijewellers.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Best place to buy gold jewelry with beautiful design and great service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvxvzKQ-uB8ljxpjQPitaYwx9btrTCKTdrlGgnAPcxL4b0_S0jbEfTSGmCkVn2Lxttzj_1-qxH3qgVHCkg8cdDj6CrrJ2z1qYNa8EaSotCIzYgV6Al20c1VeQFVFR6VCvsf5EzfengnnE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6-bRw3icHcTBboIwAADQL6oUdASX7IAd6NQYGKQJJwO1lJXaQlux6Ufuvr9Z4ju8v9_B2sm8B4EY1iumFBP0YagmSloq7Yqoe8AmA4gBJkiLSzmm-eIWfyrBY5cI7iZeFj-2bZ5u21ldo1N902LPZFoQd9508FpB3mV9Xe3vaMQyOjtrPb-GYHaH9czwAY0sIbdPHiOtj5EP5-bSJllbKYu-fMNwnIoIkhDTMsf5d4zRYvq3zPdUMimzj2cIIQTDawLkPxrrSIE"
+  },
+  {
+    "position": 18,
+    "title": "Tribhovandas Bhimji Zaveri (TBZ - The Original), Vadodara",
+    "place_id": "ChIJ5ad1ir3IXzkRUAaRxnckIBc",
+    "data_id": "0x395fc8bd8a75a7e5:0x17202477c6910650",
+    "data_cid": "1666371958978184784",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bd8a75a7e5%3A0x17202477c6910650&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bd8a75a7e5%3A0x17202477c6910650&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3080164,
+      "longitude": 73.1688922
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5ad1ir3IXzkRUAaRxnckIBc",
+    "provider_id": "/g/11b63bd63t",
+    "rating": 4.6,
+    "reviews": 1628,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jewelry designer",
+      "Jewelry engraver",
+      "Jewelry manufacturer",
+      "Jewelry repair service"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jewelry_designer",
+      "jewelry_engraver",
+      "jewelry_manufacturer",
+      "jewelry_repair_service"
+    ],
+    "address": "Plot No. 9, Sudhanagar Co-op. Housing Society, besides Gandevikar, JwellersJetalpur Rd, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8:30 PM",
+      "friday": "10:30 AM–8:30 PM",
+      "saturday": "10:30 AM–8:30 PM",
+      "sunday": "10:30 AM–8:30 PM",
+      "monday": "10:30 AM–8:30 PM",
+      "tuesday": "10:30 AM–8:30 PM",
+      "wednesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 97250 81304",
+    "website": "https://www.tbztheoriginal.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very helpful staff, Exclusive designs & Very courteous staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsh_agsVF4EYuC4N43Hftu_GFMqy-XoYkpcoDBu4SLQsKGH-FhYKSOFmV2bWOajst7ZaZYWta5vuJF5wu_G9nB3ODpDGa61VVZZ-ye7RXjBhJKmn0E-XkR28GCs6Vy11Q0TryhtQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6bZodnicHcvdDsEwGADQJ6p1Nr-JCzOtGGZIbbuRamaNWTu-luwRPYK3IW7O3fm8pTENjB3nJr1OqXV5KywUD6GVKZTpCF07ZQNIAAJnut0k1ZSCPPESGPHnmZ35G99bXIw9UbK-tyjVWdUIHQbW368SiOgCEZlF-5jUrHs-xvwKZpDzPDsa3nvaJem9fnWkAi8Om5DyvstYnqO2GOzSayCXUa3wHKXVrjukM-iz1nUTfHi00iSTl4sxRvKvQOoLxqdEYQ"
+  },
+  {
+    "position": 19,
+    "title": "CaratLane Jewellery Centre Square Mall, Vadodara",
+    "place_id": "ChIJzXSMIsfIXzkRYbKCjPuYz1k",
+    "data_id": "0x395fc8c7228c74cd:0x59cf98fb8c82b261",
+    "data_cid": "6471559395716280929",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8c7228c74cd%3A0x59cf98fb8c82b261&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8c7228c74cd%3A0x59cf98fb8c82b261&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3183337,
+      "longitude": 73.16939239999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzXSMIsfIXzkRYbKCjPuYz1k",
+    "provider_id": "/g/11f1259vm9",
+    "rating": 4.8,
+    "reviews": 1451,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Diamond dealer",
+      "Jeweler"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "diamond_dealer",
+      "jeweler"
+    ],
+    "address": "Shop A1, Centre Square Mall, Dr VS Rd, near Genda Circle, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9 PM",
+      "friday": "11 AM–9 PM",
+      "saturday": "11 AM–9:30 PM",
+      "sunday": "11 AM–9:30 PM",
+      "monday": "11 AM–9 PM",
+      "tuesday": "11 AM–9 PM",
+      "wednesday": "11 AM–9 PM"
+    },
+    "phone": "+91 80 6920 0819",
+    "website": "https://www.caratlane.com/stores/stores/centre-square-mall-vadodara-76/catalog?utm_source=Google_GMB&utm_medium=GMB_Organic&utm_campaign=GMB",
+    "extensions": [
+      {
+        "service_options": [
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true
+    },
+    "user_review": "\"Great service provided by staff, specially jewelry expert Ms. Purnima.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGoge9FUlgHadxnfuIFjJrCdOWBUmlm9jS-LNDzEYBSymewfhdZf-FFCLZ1z9Tdsqpa7sZ_8qHckum06p--adUjLyGwYP3fE8lA8y-YXobDwZLlzz5osaS_sQIQzOPkH9Maqo5=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Grm7PXicHcTRboIwFADQL7qCMU5YsgdUEA1TCCMKL6ZrSwm0FLwQRn_Qb9jfmHgezv-zGoYOPy1LVquF0FpIPiJ_UN0OvB0WVCtLdAgUAS0vPieN5x-04G6QSRES9teW4zGoT48du1y3mZLKrVOIznvj59t0VnwqK1aUEAS7qFga94dh35ENFnenD2kzKvujAyAsq6P5MOXxqvQd6Tkz5Df9u5-KSBqz1kjSOybHxFziJnS_Sa_XX9PStm2o3lNoX87OReo"
+  },
+  {
+    "position": 20,
+    "title": "Prakash Jewellers",
+    "place_id": "ChIJDfs061jPXzkRbq3hR0nOtT0",
+    "data_id": "0x395fcf58eb34fb0d:0x3db5ce4947e1ad6e",
+    "data_cid": "4446687021232139630",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf58eb34fb0d%3A0x3db5ce4947e1ad6e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf58eb34fb0d%3A0x3db5ce4947e1ad6e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3009257,
+      "longitude": 73.1981945
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDfs061jPXzkRbq3hR0nOtT0",
+    "provider_id": "/g/1vhlwl34",
+    "rating": 4.8,
+    "reviews": 237,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Gold dealer",
+      "Goldsmith",
+      "Jewelry buyer",
+      "Jewelry designer",
+      "Jewelry repair service",
+      "Silversmith"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "gold_dealer",
+      "goldsmith",
+      "jewelry_buyer",
+      "jewelry_designer",
+      "jewelry_repair_service",
+      "silversmith"
+    ],
+    "address": "near Reva hospital, opposite Ramway Plaza, Dandia Bazar, Jambubet, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 99980 04213",
+    "website": "http://www.prakashjewellersindia.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"There are unique designs in reasonable prices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF34UGru31tVIvU_0eaQoZmjTVByBFmw76KygMtn0VzBfYuIXnZGVkXTbg-NdMBZPI1HWqkXPMuAHFyPE4ypDhbbX3Sq0Y4-WBLLFyvqi54zVz5v8xft3n0n04sFpr3AcQiCgM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XaIVP3icHcRRboMgAADQE1Ex0G1Zsg9ZS2tWjWYWqT9NZRY7K6igDg-4O_Q2S_Y-3uO3trYzr553r9FKai3v1WiqQWhlK2VXQree7AwQBhgvSOK0CSjCx90wIt-ycDqeYXVJddF-Z4w4Qtv5-enDycgqyBZyPY0hV8WONTwrJYi_IlIkob_P-4Yn0RjsqUu22HWbuiw5-uzhCYOcHA7UTf1tjRe2rKeXn6tFCiqIDe0GFIj09i6jt9mHEIL6fwHUHw4ARBU"
+  },
+  {
+    "position": 1,
+    "title": "CH Jewellers",
+    "place_id": "ChIJSSw7brDIXzkRb3fU-dOdAjU",
+    "data_id": "0x395fc8b06e3b2c49:0x35029dd3f9d4776f",
+    "data_cid": "3819788967718713199",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b06e3b2c49%3A0x35029dd3f9d4776f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b06e3b2c49%3A0x35029dd3f9d4776f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3119202,
+      "longitude": 73.1707429
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSSw7brDIXzkRb3fU-dOdAjU",
+    "provider_id": "/g/1thxtm83",
+    "rating": 4.2,
+    "reviews": 1087,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Diamond buyer",
+      "Jewelry designer"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "diamond_buyer",
+      "jewelry_designer"
+    ],
+    "address": "8, Alkapuri Society, Concord Lane, RC Dutt Rd, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "10 AM–8:30 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 265 350 5000",
+    "website": "http://www.chjewels.com/",
+    "description": "Spacious & elegant jewelry showroom. Expansive, posh multi-level jewelry showroom presenting gold, silver & precious-stone pieces.",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They custom made my engagement ring, and it turned out absolutely perfect.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnfyOZGJbxSDjKv2yurYjDmS1wbCn_m0HCsSjqjbm2LNNSfWCIj-Bmd9s9WuWsz20y6XcitOsL1Jog86CyhIxkmVz4pzEXf_mafRB_iRYFZXAS76Hjwey6pvoGilfWlAgowra2Sw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QO0e2nicHcTdboIwGADQJ6oUtqAu2QXiFH-Cm00GekOk0kKlLfIVa3nDPcLeZsnOxfn9qY3p4M3z2vplwrXmbTVA1VOtTKXMhGrp8Q4QBQRe9Jl-3aJEMXc4r7flkyzF7hG4oT-JpSS-LWNVSJzEQMRdlDLYpylhWbwRaCGvc5hnQwZjgF2Y08YcYO9vNZ-Fsas3z5v8Hl-78SNnhbyw46JojqfVOY_INEyErVzYPfS6aVnWRlzb_hIQ-259jDGq_6dI_QGTvEeE"
+  },
+  {
+    "position": 3,
+    "title": "BlueStone Jewellery VIP Road, Vadodara",
+    "place_id": "ChIJVYXuNVHPXzkR4zTq_DfnhRY",
+    "data_id": "0x395fcf5135ee8555:0x1685e737fcea34e3",
+    "data_cid": "1622957468389356771",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf5135ee8555%3A0x1685e737fcea34e3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf5135ee8555%3A0x1685e737fcea34e3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.326096,
+      "longitude": 73.1995543
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVYXuNVHPXzkR4zTq_DfnhRY",
+    "provider_id": "/g/11w7l5148c",
+    "rating": 4.9,
+    "reviews": 260,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Gemologist",
+      "Gold dealer",
+      "Jeweler",
+      "Jewelry buyer",
+      "Jewelry repair service"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "gemologist",
+      "gold_dealer",
+      "jeweler",
+      "jewelry_buyer",
+      "jewelry_repair_service"
+    ],
+    "address": "Unit no 9, GF AND FF, Earth Euphoria, VIP Rd, Amit Nagar, Veer Nagar 1, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9:30 PM",
+      "friday": "11 AM–9:30 PM",
+      "saturday": "11 AM–9:30 PM",
+      "sunday": "11 AM–9:30 PM",
+      "monday": "11 AM–9:30 PM",
+      "tuesday": "11 AM–9:30 PM",
+      "wednesday": "11 AM–9:30 PM"
+    },
+    "phone": "+91 86553 86184",
+    "website": "http://www.bluestone.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Beautiful modern designs, excellent quality, and very polite, helpful staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4ujGG3bidcOaeNfraNMLpxcJcqHUl07kskikT2nsdQ7J8sCiKsiSfFMY-ZfaiVbATqN10QkmhBABZzPUeSVc3q_K9J1XBsB2hzOk1ShnrLxXgT4qI2JzHUdCqDBDOHHGz8eZa=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ULYI0nicHcRLDoIwFADAE1UKmPhJXFCNICpI-ETZGCyF1mKhPIyGC3oGb2PiLOb74cPQwdIwGm5P6ratG_YE1tNWDUwNE9o-jLoDRAGB4ZyCSDru9Hl3XfsmShoWLKj6Ijgeujf1qfbSBs8kSCETS0EZzfw5rMUeRFxtjxeUV4XIbk6iAxNH8sGJQ_LxlLI4o7a-7he-eSZALD6G0oy56g_vc51M9c7yRy8t13pDNqHnueOc5cXqZWKMEf9PkfoBlGJEyQ"
+  },
+  {
+    "position": 4,
+    "title": "Reliance Jewels",
+    "place_id": "ChIJ0WjOVhfGXzkRTxr2fts8Ec8",
+    "data_id": "0x395fc61756ce68d1:0xcf113cdb7ef61a4f",
+    "data_cid": "14920773953880726095",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc61756ce68d1%3A0xcf113cdb7ef61a4f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc61756ce68d1%3A0xcf113cdb7ef61a4f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2852392,
+      "longitude": 73.1640336
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0WjOVhfGXzkRTxr2fts8Ec8",
+    "provider_id": "/g/11clzg_1__",
+    "rating": 4.7,
+    "reviews": 548,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler"
+    ],
+    "address": "Ground Floor, Reliance Mega Mall, Old Padra Rd, opposite Sterling Health Mall, Akshar Chowk, Dev Deep Nagar, Tandalja, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–9 PM",
+      "friday": "10:30 AM–9 PM",
+      "saturday": "10:30 AM–9 PM",
+      "sunday": "10:30 AM–9 PM",
+      "monday": "10:30 AM–9 PM",
+      "tuesday": "10:30 AM–9 PM",
+      "wednesday": "10:30 AM–9 PM"
+    },
+    "phone": "+91 82916 20730",
+    "website": "https://stores.reliancejewels.com/reliance-jewels-jewelry-store-akshar-chowk-vadodara-318817/Home?utm_source=locator&utm_medium=googleplaces",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Well maintained gold n diamond jewellery show room, good staff team\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEk4RpKNaGgC4sSyS3qFjCDYvLeDUebWg2QK_Ge4GyWatAn6gmStbKBMWa0mte5thF5grb_wxqr_1XEPCUK-x4--tjGYJ_iPVYzcx95byF0bB2FheCaXcgeXLARyRNJBhdlP5oBHyOezS1E=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mrFtJ3icHcTRboIwFADQL6oUBZMt8QEQMOIYQhzwRGi9aVWgSK-T-pN73t8s2Xk4vz8ScdTvltXJ1UIoJTp4aJi4GhAGXHDVW2LUhGuiLS9LjzcvvDn5mKRtLAJHF6ZY3aNrsK2_D7A9ASvF8pg0MTixKVv0hrXoC2SJ_1G2tEdwUUaumFjznO9TY1dhFpwSMjuE4DWu980l-6pffH5zmYko85eRhKCtuIDq4OUmT_e-PHeZq_yd-YRXYYebp00pJfJ_ToY_qJtHYQ"
+  },
+  {
+    "position": 5,
+    "title": "Exclusive Silver Store - R Narayan Jewellers",
+    "place_id": "ChIJYbzSHkTJXzkR5b1a5DI65R0",
+    "data_id": "0x395fc9441ed2bc61:0x1de53a32e45abde5",
+    "data_cid": "2154191987020578277",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9441ed2bc61%3A0x1de53a32e45abde5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9441ed2bc61%3A0x1de53a32e45abde5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3096949,
+      "longitude": 73.1686804
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYbzSHkTJXzkR5b1a5DI65R0",
+    "provider_id": "/g/11sqpg4j5v",
+    "rating": 4.9,
+    "reviews": 44,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Avanti Chambers, 15-16, RC Dutt Rd, behind Express Hotel, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 98796 18171",
+    "website": "https://rnarayanjewellers.com/products/nyra-silver-necklace-set",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Amazing variety of designs and super helpful staff!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHzkCoNsdTguuZJCv4gGpUNx1RiuQHJs1dPvE3ZrT8ehQirQ1UOYn2QAFNB8CfUlr2gli32KOw_WluF4-n7IYasUp-Pn8cZ-kNfEN8J9_HMR4ntZBg1dzG0WUFTNmNQt21-ZOI8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/w6gg63icHcRRCoIwAADQEy2dCq2gD5PUjKYLR7SfiKlTXJu4raILdoZuE_Q-3vfTWzuZtefJPlwIrYVsnWlnrpVtlV1wfffEZAA3wHhxhckY5-8x0dg0tXCOFckjEtlE8QueBkfywsCmeuxCNteo7ckwE0jLiwpInOItSjoq50DIIQwO5fN6li6NgFruLzdDJ1ApxBkYcbfDqFhd8-MpUpZtBWzemX-maY3vmNgAAlbu0eYJfd8H_X8O1A9cuUN6"
+  },
+  {
+    "position": 6,
+    "title": "Navin Mukt Jewellers",
+    "place_id": "ChIJWZTrmR7FXzkRl7ICibR8nJI",
+    "data_id": "0x395fc51e99eb9459:0x929c7cb48902b297",
+    "data_cid": "10564455940738953879",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc51e99eb9459%3A0x929c7cb48902b297&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc51e99eb9459%3A0x929c7cb48902b297&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.298358,
+      "longitude": 73.2105918
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWZTrmR7FXzkRl7ICibR8nJI",
+    "provider_id": "/g/11rtlrcfvm",
+    "rating": 4.9,
+    "reviews": 322,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "B/s Uco Bank, Ghantiyada Naka, Gendi Gate Rd, Mandvi, Vadodara, Gujarat 390017, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:15 AM–8:30 PM",
+      "friday": "10:15 AM–8:30 PM",
+      "saturday": "10:15 AM–8:30 PM",
+      "sunday": "10:15 AM–8:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:15 AM–8:30 PM",
+      "wednesday": "10:15 AM–8:30 PM"
+    },
+    "phone": "+91 98796 66109",
+    "website": "http://www.navinmuktjewellers.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"they transformed my old jewelry into a classy and elegant masterpiece.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECYhUWP5eC9wLC4banWQgOC82W3NwnecbUSN_GRGA_TPpP7wDFbF3CKs05FTGdBiUQbyRt5durpyw_vAdQ904resJenNCWSw37_jhQF7BIst2M7y3sOFY8UZ4FYzjYqguFY3M=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/egz3fHicHcRNjoIwGADQEyHVQlCTWWC1RB2RqoTUDZHStP5MQb4yDXPAuYO3MfEt3utfW9vC3PcfGo9U06iH7EF2ojFWGjsSzY-vWvAEeODHWcru8YpwnRdZKMnMfZOgupiCqT2ZTgqcOiNFlR_TMjkkcXnK2ixyS1pRTLaAQnpK6sU1Z9VwsGHdd-3gyt-4ZjMUdBI20qSkODoclTfNaLRYg53sogHDnvJpfg4o_7vxp-opx7svN0YIefqz8Mwbsn5DZA"
+  },
+  {
+    "position": 7,
+    "title": "Radhika Jewellers",
+    "place_id": "ChIJST83MyrPXzkRdd4S5OmBJoA",
+    "data_id": "0x395fcf2a33373f49:0x802681e9e412de75",
+    "data_cid": "9234210927523585653",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf2a33373f49%3A0x802681e9e412de75&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf2a33373f49%3A0x802681e9e412de75&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3425612,
+      "longitude": 73.18704149999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJST83MyrPXzkRdd4S5OmBJoA",
+    "provider_id": "/g/1tgplfc8",
+    "rating": 4.2,
+    "reviews": 418,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Indrapuri Society, 14, New Sama Rd, Shiv Shakti Society, Chanakyapuri Society, Raghukul Nagar, New Sama, Vadodara, Gujarat 391740, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 6355 436 791",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"So far they have excelled in craftmanship and prices.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCpzOMdbjwAwsSfzpW1rZ3LggvQmI6E-rRd0w5ofNNLhlyRDig7Hrg214kwqct67DDhoBLWNDqErLAqgHLk69c8EgCtWWasDOwKmDLTzJpgNC9-T6qj0zZYS-O-YVCVYW0MaFA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qRIPwXicHcRbcsIgFADQFWGI1lid6QcNabUiqY-RiX-K8aJ5QADLNBvsGrobZzwf5_9PeW_cLIpqNRqA1lCXd1daqVtftn4gdROBcUg65CLyzdcV-UxNn6_Op1sgwW0vvRGxPYwYwM-6WSQZspszDmN94Zyp-ndDrzCZWxjGL1XopE8mlCr9zgSnXWYZ6WDOqmQqXzNIvRBHR_OwbCjb9V8GeDpFu6S74f5QbFGOin26LwReHT_IW4gxxkg9l6h9AJl0REs"
+  },
+  {
+    "position": 8,
+    "title": "Siya Fine Silver Jewellery | Pure Silver & 925 Silver Jewellery | Manjalpur, Vadodara",
+    "place_id": "ChIJ1S1zSG3FXzkRJyn3zpM6H10",
+    "data_id": "0x395fc56d48732dd5:0x5d1f3a93cef72927",
+    "data_cid": "6710146376312236327",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc56d48732dd5%3A0x5d1f3a93cef72927&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc56d48732dd5%3A0x5d1f3a93cef72927&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2782721,
+      "longitude": 73.1953951
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1S1zSG3FXzkRJyn3zpM6H10",
+    "provider_id": "/g/11lp8hkyt0",
+    "rating": 4.9,
+    "reviews": 180,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Shop no. 2, Shree Kanha Laxminarayan Avenue, Manjalpur Main Rd, near Bank of Baroda, Giriraj Row House Society, Rajendra Society, ShreePalli society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 98792 59253",
+    "website": "https://www.siyasilver.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Courteous staff, good designs, variety of silver jewellery.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlhPcuUP3NErgKItWC2NYBJ72V2tSG7ymCF-2dNaD8MvFJI8fPFK6pS1-UAgMyFYS57VJmmaLddYlL-jc7RQcOJFmABPCvOZ1ZEwnU5IJQFIPd8tfalArirPDSJRBpHNtVKvL6XeJiD0w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6SrMzHicHcTNDoIgAADgJyJ_munaOqBGiUaY07KbQ8MK1AnpesnuvU1b3-H7flqtB7U2DNEuF7zvuWheqhlZ3-mm0wvWS4MPCjAFlAEpSZ9wJ1rKXjldku3I40ifA5uUPnbtwtbZzn3LAAG7JlXoHSaEI-9GUbwaMgvkkB_eqMwct8BSVkldlyIBD-aeUnbESEKfBtPxal23c5c7EU5RRGtP3yoBx_tIwwyf_GFPdBFPyerS4HtozpvZMk0TtP8Z6H5ySkTb"
+  },
+  {
+    "position": 9,
+    "title": "Madanji Meghraj Jewellers Vadodara | Gold, Silver and Diamond Jewellers | Custom Jewellery maker in Vadodara",
+    "place_id": "ChIJud17SrDIXzkR06dWhDt1MfM",
+    "data_id": "0x395fc8b04a7bddb9:0xf331753b8456a7d3",
+    "data_cid": "17523916523559102419",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b04a7bddb9%3A0xf331753b8456a7d3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b04a7bddb9%3A0xf331753b8456a7d3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.310938,
+      "longitude": 73.1668895
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJud17SrDIXzkR06dWhDt1MfM",
+    "provider_id": "/g/1tff1fk2",
+    "rating": 5,
+    "reviews": 90,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Gold dealer",
+      "Goldsmith",
+      "Jewelry designer",
+      "Lapidary",
+      "Silversmith"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "gold_dealer",
+      "goldsmith",
+      "jewelry_designer",
+      "lapidary",
+      "silversmith"
+    ],
+    "address": "Panorama complex, G/F 16-17, RC Dutt Rd, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 63511 41836",
+    "website": "http://madanjimeghraj.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Excellent quality, lovely designs and good pricing !\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf8wNYZFRQGMIXgMIAe8EVgJ3ABLdTY-GwWBXmyWeC8CSmJ8RZj1Yw0ROq4HgUTHYiHPm_IA1xQoKB0XNODXZ3ztDcifd85kwp66VygQe6PUgPyxD6ozxGjlMOTITl4UMycV0N=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/T3KygHicHcRJDoIwAADAF1VKUNKYeCiigMoq-8VDrUUFiram4Ad9g78xcQ7z_TRSDmKpaW1jzBjnrKUvQZ-E95L2ckZ4p7FBACKA0HAUxHe8vSAVVPU2iR3fK5nvYYo2OdsZ2Dqc0wo4qrDKbiroGq2P3Q4l9U2vFEzCx9xlWepWVzfqTh7Wx5jvLVgGoV3Wxlva5Ho5o8VdDaaZTyymZpSxaBptk79H59b6Yeql7TzzJ5LDYKV0CCFo_hPQ_wDNfUOO"
+  },
+  {
+    "position": 10,
+    "title": "GOLD POINT JEWELLERS | Exclusive Gold Jewellery |92.5 Silver Jewellery | Pearl Jewellery",
+    "place_id": "ChIJr0x7VF_PXzkRRpUVgXlrPxQ",
+    "data_id": "0x395fcf5f547b4caf:0x143f6b7981159546",
+    "data_cid": "1459002973892220230",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf5f547b4caf%3A0x143f6b7981159546&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf5f547b4caf%3A0x143f6b7981159546&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.301022,
+      "longitude": 73.20010049999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr0x7VF_PXzkRRpUVgXlrPxQ",
+    "provider_id": "/g/1yj4gytkm",
+    "rating": 4.9,
+    "reviews": 52,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Body piercing shop",
+      "Ear piercing service",
+      "Goldsmith",
+      "Jewelry appraiser",
+      "Jewelry designer",
+      "Jewelry manufacturer",
+      "Jewelry repair service",
+      "Lapidary",
+      "Silversmith"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "body_piercing_shop",
+      "ear_piercing_service",
+      "goldsmith",
+      "jewelry_appraiser",
+      "jewelry_designer",
+      "jewelry_manufacturer",
+      "jewelry_repair_service",
+      "lapidary",
+      "silversmith"
+    ],
+    "address": "Brahmapuri, Pratap Rd, opp. Maharashtra lodge, Dandia Bazar, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8:30 PM",
+      "friday": "10:30 AM–8:30 PM",
+      "saturday": "10:30 AM–8:30 PM",
+      "sunday": "10:30 AM–8:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–8:30 PM",
+      "wednesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 94091 11829",
+    "website": "https://goldpointjewellers.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"They had great designs and customized our product to our needs.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFKU2qF3HgwBQq7WnOTw7-2rk_ymhqprFinWwPO0e6v7f8mK-WzLtaixIxxOgK7OZxUXtbyfUSecYwlR_QxHJ8VV39XE6cBG36Bfa3Cf1AtpkzTREMe287U_ZtzC3iYIGKQ75G_=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ybDfV3icHcRdDoIgAADgE5EmS6ytB3VpZWVWZvXiiiE6FX-gIC_YGbpNW9_D9_3kQrR8pmlVDke0aWhFnpz0uGGCMDHCTa3RlgPMAdfs_S4qbS-Ijc6DSyqdqEMJC08SAaMv03edd23vFSyR-1An5gtlVh2AZNiIe6FWSoU0QOFNxRfxeGfxkeCrrA5ppJZr63yG08vCxI4PTSe7Qzcb26Ith9NhsSWGheL0JgYXFteVH0Ro4qdzOdZ1HeT_MWA_ioFEYw"
+  },
+  {
+    "position": 11,
+    "title": "Mia By Tanishq - Vadodara",
+    "place_id": "ChIJlQfzdnvJXzkRK7AzgCitlZ8",
+    "data_id": "0x395fc97b76f30795:0x9f95ad288033b02b",
+    "data_cid": "11499287613021597739",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc97b76f30795%3A0x9f95ad288033b02b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc97b76f30795%3A0x9f95ad288033b02b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.317653,
+      "longitude": 73.1689825
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlQfzdnvJXzkRK7AzgCitlZ8",
+    "provider_id": "/g/11x8hzhc2p",
+    "rating": 4.9,
+    "reviews": 209,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Jeweler",
+      "Jewelry designer",
+      "Jewelry engraver",
+      "Jewelry repair service",
+      "Lapidary",
+      "Silversmith"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "jeweler",
+      "jewelry_designer",
+      "jewelry_engraver",
+      "jewelry_repair_service",
+      "lapidary",
+      "silversmith"
+    ],
+    "address": "No : 2, Ocean Complex, Sarabhai Rd, opposite Vadodara Central Mall, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–9 PM",
+      "friday": "10:30 AM–9 PM",
+      "saturday": "10:30 AM–9:30 PM",
+      "sunday": "10:30 AM–9:30 PM",
+      "monday": "10:30 AM–9 PM",
+      "tuesday": "10:30 AM–9 PM",
+      "wednesday": "10:30 AM–9 PM"
+    },
+    "phone": "+91 70435 34567",
+    "website": "https://www.miabytanishq.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"The collection at Mia@Tanishq is modern and beautiful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-O11ikuJcbL6XMKAxmnjozLn-wK-kI3KRe7qo4kytS8jtbtLcNgpRRTQWpOZvnmfLTOUdIoiJYL2GMT3vLssKjhLmzUt-rn5_fe4Wd747AHhQqEqdS9m4dBx0wx2oyF9ss_ywoki32TuT=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/l2GTwnicHcTdboIwGADQJ6r8TnTJLlgyp1JFsMZtNyaWSqG2H_gVAV_S673Nkp2L8_uU1jb46jhXGUxKgPIqOhQ3DsYKYycctFM2SDgSdOLdNlPxgqSeV6luzc90-rVJ4kGbGh7UkD4hahUkuYhaCNVo97Pani3l27LJc5Ydm_TnbvSFsvRQrKBaf1P_c8OCO0VMakn142DJzbycLiI8FlEYxUuZtR9tsZ_rsHgf3H7wYVzMEU9jD6oKfNaxt95zXZfI_zkxf_jDSLE"
+  },
+  {
+    "position": 12,
+    "title": "Vivaah Bridal Jewellery",
+    "place_id": "ChIJq6qqarHIXzkRNQoQsxxDBWI",
+    "data_id": "0x395fc8b16aaaaaab:0x6205431cb3100a35",
+    "data_cid": "7063125381142809141",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b16aaaaaab%3A0x6205431cb3100a35&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b16aaaaaab%3A0x6205431cb3100a35&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.310471,
+      "longitude": 73.172304
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqarHIXzkRNQoQsxxDBWI",
+    "provider_id": "/g/1trc3c02",
+    "rating": 4.9,
+    "reviews": 56,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Bridal shop",
+      "Jewelry designer"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "bridal_shop",
+      "jewelry_designer"
+    ],
+    "address": "National Plaza, SB- 22, RC Dutt Rd, Aradhana Society, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "11:30 AM–8 PM",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"... customer service, a lot of nice options, and high quality jewelry\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbnm864k1RYuzTa659o9FXpJAZGyl0bmOtPW89X4RY3PWC9D3K32ExkK6h64M0cR63yA1QruNRkCg3dUErebP_0-qUoXhF6ybMKTMeYi9uPl6zlmcKiiCkVdDl_Zo36Wbddu-q0Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qmkFSnicHcRRboIwAADQE1XKio1dsg-CYiJBC9EB_hhbGkpaKNI2ijfcEXabJXsf7_dHOjfZzyDQEq06YzotvBUzN6MTo1txMwTdZAG3wAYxPRYqTtk4bHCkwrLx7_Mdr4khaT0d4ut-0ZANJ0erDamjskG0SsgWZehj91IZljjKIS8xWuKwmP2xVEmH2stuFozeIHhcTC1TvLA8O-ei6YmnGr_1wLO-T9R3u9W3q0G4Ym3rwQMWX88QQgjk_xyMfyCZQ64"
+  },
+  {
+    "position": 13,
+    "title": "𝗡𝗘𝗪 𝗟𝗔𝗗𝗟𝗔 𝗝𝗘𝗪𝗘𝗟𝗟𝗘𝗥𝗦 - Best jeweller in Baroda | Diamond Jewellery | Rose Gold Jewellery",
+    "place_id": "ChIJfyN2a4rFXzkRDMDQ2xawsso",
+    "data_id": "0x395fc58a6b76237f:0xcab2b016dbd0c00c",
+    "data_cid": "14605930153739599884",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc58a6b76237f%3A0xcab2b016dbd0c00c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc58a6b76237f%3A0xcab2b016dbd0c00c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3006977,
+      "longitude": 73.210017
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfyN2a4rFXzkRDMDQ2xawsso",
+    "provider_id": "/g/11tt6gfvts",
+    "rating": 4.8,
+    "reviews": 69,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Costume jewelry shop",
+      "Diamond buyer",
+      "Gold dealer",
+      "Jeweler",
+      "Jewelry designer",
+      "Jewelry manufacturer"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "costume_jewelry_shop",
+      "diamond_buyer",
+      "gold_dealer",
+      "jeweler",
+      "jewelry_designer",
+      "jewelry_manufacturer"
+    ],
+    "address": "New Ladla Jewellers, Bajwada, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "11:30 AM–8:30 PM",
+      "friday": "11:30 AM–8:30 PM",
+      "saturday": "11:30 AM–8:30 PM",
+      "sunday": "11:30 AM–8:30 PM",
+      "monday": "Closed",
+      "tuesday": "11:30 AM–8:30 PM",
+      "wednesday": "9 AM–5 PM"
+    },
+    "phone": "+91 96879 99799",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Extensive Varities, Best Rate and service..\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT-J7qKBWJSyzhEEyq9SBBb_u1kNHk7wXtYKl8vpLPzlETDxj_Q71XpzYT_Vtxd_TPjBow_-PBjCL1gHtswfWdQUM-ImThZzcvKG9oboonbdu6czso4PzHGxBfPSwxWfPbYxvuvsN6-sFl=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wiXLYnicHcTdboIwGADQJ6pAtogu2YXdUBRHSqhDdtOE8tNA5cO10NqX3PXeZsnOxfn9EVpP6sXzpHhadQCdbGbVfHMYdTPqFYeb100KcYWUtyNpNuz2FJ3Ce4KLU_5wIooe922OccXmYEjjITRXXSZys0xn4mRE323PsjC4Tq6k7FPbmlHSYzAMEdy_nYMu1sq0RZ1dPtDxRsWX40ty2EIFMFb1vOZOwTNx8cHiluTGFi2pSrvMi0rXSO3lqwl830fif47GPy8wSdY"
+  },
+  {
+    "position": 14,
+    "title": "Baroda Jewellers",
+    "place_id": "ChIJN5CfBKbIXzkREtJuqeG4UM8",
+    "data_id": "0x395fc8a6049f9037:0xcf50b8e1a96ed212",
+    "data_cid": "14938643243337699858",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8a6049f9037%3A0xcf50b8e1a96ed212&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8a6049f9037%3A0xcf50b8e1a96ed212&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3027534,
+      "longitude": 73.16997289999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN5CfBKbIXzkREtJuqeG4UM8",
+    "provider_id": "/g/12hyxb72v",
+    "rating": 4.8,
+    "reviews": 17,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "Shantinagar Society, 9, Urmi Cross Rd, opposite GAIL, Shati Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Closes soon · 7:30 PM · Opens 11 AM Fri",
+    "hours": "Closes soon · 7:30 PM · Opens 11 AM Fri",
+    "operating_hours": {
+      "thursday": "11 AM–7:30 PM",
+      "friday": "11 AM–7:30 PM",
+      "saturday": "11 AM–7:30 PM",
+      "sunday": "11 AM–6:30 PM",
+      "monday": "11 AM–7:30 PM",
+      "tuesday": "11 AM–7:30 PM",
+      "wednesday": "11 AM–7:30 PM"
+    },
+    "phone": "+91 98259 59262",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"good diamond dealing expertise  should buy from their.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYI-AzbImLr32egTl1n-cg5hlzQDk2BwBd89fKsh8DrojbmIKgtccGxaBZ3F4T4phB3Rwr8-PtR1CPDeRrCt9RtLOQXIUPtmrtYYhfCE7vRGkEbgMgB_MJhwg_gfUwDAWJu9QO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/otiWKHicHcRbjoIwFADQFVVeGmGS-aCgBp_QaBR_jNRyG3mUtJfpxA3OGmY3Jp6P8_8nEQfz5TitDCagFLRiNEJz1aPoccJV58BgCDfEOHG-L5p4WWYkflVZt9WBL-DYej3hMJPtq0gbn1r6CKN6Y2SYavWsumwDyPnq906vwXJ6nA6SBszqkOTIvCRPBdMJRgy3h-KSnXLsNJalrJPF_IetmkUFO6C33VpauEF9sml8Xo9Rcfi2nuu6RH7mpH8DQtZEpA"
+  },
+  {
+    "position": 15,
+    "title": "ORRA Fine Jewellery",
+    "place_id": "ChIJO4f-Bf_JXzkRPq7Pmu0b23E",
+    "data_id": "0x395fc9ff05fe873b:0x71db1bed9acfae3e",
+    "data_cid": "8204181853503991358",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9ff05fe873b%3A0x71db1bed9acfae3e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9ff05fe873b%3A0x71db1bed9acfae3e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3084564,
+      "longitude": 73.1682296
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO4f-Bf_JXzkRPq7Pmu0b23E",
+    "provider_id": "/g/11wjnz80kj",
+    "rating": 4.9,
+    "reviews": 242,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "HOUSE, 16, HARVISH S P, Jetalpur Rd, opp. VIJAY SALES, ANAND SOC, Vadiwadi, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–9 PM",
+      "friday": "10:30 AM–9 PM",
+      "saturday": "10:30 AM–9 PM",
+      "sunday": "10:30 AM–9 PM",
+      "monday": "10:30 AM–9 PM",
+      "tuesday": "10:30 AM–9 PM",
+      "wednesday": "10:30 AM–9 PM"
+    },
+    "phone": "+91 88288 79621",
+    "website": "https://www.orra.co.in/stores/gujarat/vadodara/jetalpur-road",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They showed us a huge variety of designs and accomodated our budget.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTu9We0ltNdKdiDa_1QueY6Exa1QiXFiDoeIUoL-FgO95zQoVghDi1vmRvqAjobpiGAQ-CRFhNB7q1blhNXJbDOXPJj3llg5T1LJXHltYvCTDL55x-mIF6fK0Zrxsa-DamRdpHUg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3f9dU3icHcRdDoIgAADgE5GwZq22HiwyNWfhrLSX5g8BhWKB5rphR-g2bX0P3_fDjWn13LIkH4-YUkzSTtNnqRpDGzMqVW2xVoNSA205-4jcnU3SzU4UShNV20rg_IJIR7PJesgREakrsKL-QYXAZbuZ_SbqyDgWqK_j_uHcVNGKjUPAKnZ5tJw-UCF5lAYF3qX74DaWktkJCoPUkybrVwkObXsAte9Orlt4fg46Bziv46r1DmzxQhBCwP-XoPkB4tVE_A"
+  },
+  {
+    "position": 16,
+    "title": "Aarav jewellers - Best Gold | Diamond Jewellery Showrooms | Buy Latest Designer Jewellery | Hallmark Jewellery Shop Vadodara",
+    "place_id": "ChIJS-yaOOjFXzkRtn2vySN3-4c",
+    "data_id": "0x395fc5e8389aec4b:0x87fb7723c9af7db6",
+    "data_cid": "9798556409865928118",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5e8389aec4b%3A0x87fb7723c9af7db6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5e8389aec4b%3A0x87fb7723c9af7db6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2785682,
+      "longitude": 73.1961235
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS-yaOOjFXzkRtn2vySN3-4c",
+    "provider_id": "/g/11t7_528sl",
+    "rating": 5,
+    "reviews": 12,
+    "type": "Jewelry designer",
+    "types": [
+      "Jewelry designer",
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_designer",
+    "type_ids": [
+      "jewelry_designer",
+      "jewelry_store"
+    ],
+    "address": "opposite mahatma ghandhi school, Amarnath Puram Society, Shivam Society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8:30 PM",
+      "friday": "10:30 AM–8:30 PM",
+      "saturday": "10:30 AM–8:30 PM",
+      "sunday": "10:30 AM–8:30 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–8:30 PM",
+      "wednesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 99045 96979",
+    "extensions": [
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Gold price  is best for purchase  products.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7NpN6DYdA1z_Yplzn16jFBO84piZwAUUyBOPhuznAf54L2pXZbDXcqXHEvX6xJmErFI__IKu1yZnZtB_majMtGQo1Acl_aA9OpiWhGx2xFV2PISma2-tcPDafWJZcWnfVtOZ6aQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7aPUYXicHcRLjoIwAADQE1UoKo4mLkoAB0f5xCjYTVM7QFVoqy2K3NAjeJtJ5i3e582NUXphWQ0fj2op66bsdHlnUphSmBGTrVUrDZgG2kJpnF1RMItV7PrHXwQHclTNIKB7Cb3ka6LO-In2-5eXpLwbBKqmk42jCnzyC3YrvoNH4fbrNriHESHRTwdfWGDjkZZetmaVSYhYQyiaJ-qc81Xv9OHBSaNdSx1gWOrTKl9jlovqYBLs0mz5hLZtA_4_A-IP9FZFow"
+  },
+  {
+    "position": 17,
+    "title": "GALISTA JEWELS - Best Imitation/Art Jewellery Store | Bridal/Non bridal | Bangles | Necklaces | Earrings | Tika | Mala",
+    "place_id": "ChIJWSuzr2DP5zsR_hFF6LK9nQ4",
+    "data_id": "0x3be7cf60afb32b59:0xe9dbdb2e84511fe",
+    "data_cid": "1053206463973233150",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3be7cf60afb32b59%3A0xe9dbdb2e84511fe&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3be7cf60afb32b59%3A0xe9dbdb2e84511fe&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3106078,
+      "longitude": 73.1728121
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWSuzr2DP5zsR_hFF6LK9nQ4",
+    "provider_id": "/g/11ngjqvs1d",
+    "rating": 5,
+    "reviews": 597,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Costume jewelry shop",
+      "Jeweler",
+      "Jewelry designer",
+      "Jewelry manufacturer"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "costume_jewelry_shop",
+      "jeweler",
+      "jewelry_designer",
+      "jewelry_manufacturer"
+    ],
+    "address": "SB-10, CENTRE POINT, RC Dutt Rd, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "11 AM–9 PM",
+      "friday": "11 AM–9 PM",
+      "saturday": "11 AM–9 PM",
+      "sunday": "11:30 AM–8 PM",
+      "monday": "11 AM–9 PM",
+      "tuesday": "11 AM–9 PM",
+      "wednesday": "11 AM–9 PM"
+    },
+    "phone": "+91 91671 01696",
+    "website": "http://www.galistajewels.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"I bought my whole bridal jewellery from them n the quality was top notch\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHPyX9XyOvDctc0YvQW44rXWxCjD2ZA3Eow6snl44rN4MRT9V6TKVvTVmUWOaenOVgY7R8E9RmFGj_8KGQs-4rIytIy5S1uuGyJq0g8P9l3vc_f-Ayr3bIgm6vGr-cQ-usYsbWY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/cxTmFnicHchJDoIwFADQE1WqIIKJC-KAaJRBZHBjtMEShVb7S7Un9AzeRuPmLd7nXUt5h7FhNLXZo5zTpuqgEoQzWTHZI7w16B0QAQSGF23jm7eMdOEWOlQzIgkuVZxblijy1_Q6Gxw8c86fNrDmd1trk6RuZqfrTKVZu8_DU8XCjJajxJm7Sbvwr0dn7ceALBFoGejhrt91vl49MHUitzEVOV6Qp4V5DmhrK18gEqMOSjjn5eTZxxij-i9B7AsolEQt"
+  },
+  {
+    "position": 18,
+    "title": "Parovani Point - Best Kundan Bangles | Tikka | Payal | Rings | 92.5 Silver | Necklace | Imitation Jewellery Alkapuri Vadodara",
+    "place_id": "ChIJTxbUzLHIXzkRYmk-pYbxrcg",
+    "data_id": "0x395fc8b1ccd4164f:0xc8adf186a53e6962",
+    "data_cid": "14460479539156773218",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b1ccd4164f%3A0xc8adf186a53e6962&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b1ccd4164f%3A0xc8adf186a53e6962&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.310667,
+      "longitude": 73.17326609999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTxbUzLHIXzkRYmk-pYbxrcg",
+    "provider_id": "/g/1tj1kxjj",
+    "rating": 4.9,
+    "reviews": 29,
+    "type": "Jeweler",
+    "types": [
+      "Jeweler"
+    ],
+    "type_id": "jeweler",
+    "type_ids": [
+      "jeweler"
+    ],
+    "address": "SB-30,31, Sterling Centre, RC Dutt Rd, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "11 AM–8:30 PM",
+      "friday": "11 AM–8:30 PM",
+      "saturday": "11 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "11 AM–8:30 PM",
+      "tuesday": "11 AM–8:30 PM",
+      "wednesday": "11 AM–8:30 PM"
+    },
+    "phone": "+91 99746 10174",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Unique designs, good quality jewellery, and excellent service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLnxrRQbApeYFzVWTO6eCbWq1z9usmJm3vyf82a7J_X97wVv0wqhXWZzDS6lOsiyLyuW0c83_zF_Awnrw_Morl6Lnp7SmVD9ppinrezbVh7lcsTVKo9sEatC8BMRQhEuIrS-mV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NpJaC3icHcTbboIwGADgJ6rUkXBYsgumksyhDjFFd0Ok6aixJ_sXO_qCe4a9jYnfxff_x50z8BpFgsezQetBsBGYpVo5ptyMahkNBhAFBFHxta2vRVmpX7uv-8KwUxlIe9glbNG3t3nIR5BrGd-nn-zlnK67Y556csf-xo_td1g2idjBZaqmscU0i7tQdoVX1ncbbUVSKZM2kixzYy7KstATngoKB_Kpc1id3SJ73-xrvho_bIMkefNzjDHizylSDxGGRr0"
+  },
+  {
+    "position": 19,
+    "title": "Harvish Jewels - Fine Gemstone Jewellery Store Vadodara",
+    "place_id": "ChIJd5oOZb3IXzkRau03EWN5nt8",
+    "data_id": "0x395fc8bd650e9a77:0xdf9e79631137ed6a",
+    "data_cid": "16113449983175814506",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8bd650e9a77%3A0xdf9e79631137ed6a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8bd650e9a77%3A0xdf9e79631137ed6a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3096912,
+      "longitude": 73.1590966
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd5oOZb3IXzkRau03EWN5nt8",
+    "provider_id": "/g/11b66j27dw",
+    "rating": 4.8,
+    "reviews": 119,
+    "type": "Lapidary",
+    "types": [
+      "Lapidary",
+      "Gemologist",
+      "Jewelry designer",
+      "Jewelry store"
+    ],
+    "type_id": "lapidary",
+    "type_ids": [
+      "lapidary",
+      "gemologist",
+      "jewelry_designer",
+      "jewelry_store"
+    ],
+    "address": "Second floor, 231, trivia Natubhai circle, Race Course, Vadiwadi, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "Closed",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 6355 668 087",
+    "website": "https://harvishjewels.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Installation service",
+          "Repair services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Excellent gems and gold jewellery selection very nice staff behaviour\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwpY7gko4qKOjZKBh4qQA_xRfDYwQA_ej_kM-KUkR_gsvfVgyR_AzunFRG0BjxG0ntHkETi7bvsDSglZZ8qj0fsh3s3eevGO8Vv0DIz7nxfCkrO6bl3454sijeUqCW48LrnGRnnA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-XUTjXicHcbRboIwFADQL6rU0AlZsocqEw1uzG66yAuJpLS2eAvcCsw_3Cfsb7bs5eT8fGvvW3wMgkaHM-WcauQNZV858BL8rHLXQLVIKiQY8LfXveWbsT1FyjrWZbkpsqVm3Z6Xk6iT0_gXaUr7QrKDFaXCoT6qL1Hy-w3WIqVLM6UU_MY-f1yi84DJu2qKIu4MrVGHGEo5pHl8HGiyvUcw1Svb54tzE7IHhhcjD93qk8W7HlIBwJ_GOaWU6H8rAr-Aa0af"
+  },
+  {
+    "position": 20,
+    "title": "Vanubhai Jewellers",
+    "place_id": "ChIJiRBaRafIXzkRJiTzHARh9KI",
+    "data_id": "0x395fc8a7455a1089:0xa2f461041cf32426",
+    "data_cid": "11742116798755185702",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8a7455a1089%3A0xa2f461041cf32426&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8a7455a1089%3A0xa2f461041cf32426&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2976447,
+      "longitude": 73.1650906
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiRBaRafIXzkRJiTzHARh9KI",
+    "provider_id": "/g/11c3yvzz__",
+    "rating": 4.9,
+    "reviews": 140,
+    "type": "Watch store",
+    "types": [
+      "Watch store"
+    ],
+    "type_id": "watch_store",
+    "type_ids": [
+      "watch_store"
+    ],
+    "address": "GF/6, Pancham HighStreet, Old Padra Rd, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "10 AM–8:30 PM",
+      "friday": "10 AM–8:30 PM",
+      "saturday": "10 AM–8:30 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–8:30 PM",
+      "tuesday": "10 AM–8:30 PM",
+      "wednesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 99240 40760",
+    "website": "http://www.vanubhaijewellers.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Very good service and lots of options to choose from beautiful designs\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF01VALtjKk6br_Kls-_phihjh-3ufH8O9XTq0-qHw6qbS9ZL0thGRjWmavZGHYr5Vs3j2tinSDon4ZY6A_MHgNOBcQp5gpAUrKSknhMI7lppYmkeQi3RRXCHX3VCVx1AP2r3oS_vRLev4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5HPWFnicHcTbboIwAADQL6oUq2ya7KFqZhfwAigCL0SbruXWlrbivnLv_o2J5-E8_4Vz2i49rxNowpXiHbtbZqiSjkk3oar3uLaAWmA9fNzHLf6GfoYj14RtcDNV2FlQaVGLRgB0_yWfh0V-GiAYyCMYbumijKAT26S59Nex3JLCzDOLmqmrZbpRclYWAa52hO8PKxrrOdf4bMK0lWL389FpXfQti2uUJPma5ChbZ38-Pk4NUmk1JhEbZ18PH0IIxHsK5AtFL0bU"
+  },
+  {
+    "position": 17,
+    "title": "Gandevikar Jewellers - Girishbhai",
+    "place_id": "ChIJjXjyT67IXzkRKQy7-QWRvak",
+    "data_id": "0x395fc8ae4ff2788d:0xa9bd9105f9bb0c29",
+    "data_cid": "12231091617858784297",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ae4ff2788d%3A0xa9bd9105f9bb0c29&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ae4ff2788d%3A0xa9bd9105f9bb0c29&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.307461999999997,
+      "longitude": 73.1740238
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjXjyT67IXzkRKQy7-QWRvak",
+    "provider_id": "/g/11bwq90nrw",
+    "rating": 4.9,
+    "reviews": 3688,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store",
+      "Diamond dealer",
+      "Gold dealer",
+      "Jeweler",
+      "Lapidary"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store",
+      "diamond_dealer",
+      "gold_dealer",
+      "jeweler",
+      "lapidary"
+    ],
+    "address": "3-B Anand Nagar Society Near Jetalpur Bridge BPC Road, Char Rasta, opp. Kashi Vishweshwar Temple, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+      "thursday": "10:30 AM–8 PM",
+      "friday": "10:30 AM–8 PM",
+      "saturday": "10:30 AM–8 PM",
+      "sunday": "10:30 AM–8 PM",
+      "monday": "10:30 AM–8 PM",
+      "tuesday": "10:30 AM–8 PM",
+      "wednesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 99255 79633",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Best Silver and Gold jewellery store in Vadodara .\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHX0TffW4tiofXu0gRzSMVA8gWqN4T1K_CrkA4aWdkKQ-cK633Cy_lo2GnkNbN9N8yRPH8mERCpjnf6I3033ml12lZTfEz5SmKbsMqaPWp2vVRqIB9MhudlVBMYdJKb-SUWpXq6=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Te6ZxHicHcRRboIwAADQE1UKZQRN9oHETG1oEBhl-zFSaFFKW2zZohfcGXabJXsf7_dncM7YjefJAa2E1kL2i-3vTCvXK7dievKEsYBZYL0kJ6cx2Tew4pyG7qp5s0BRPMusTmJBZxJWPj6n9zEJL7Qb8QkwHCGUPs5SB29qJC1Zk_hR5Pt42hWpuSkeHRBEaJJ-ID8rvnu-lBNubTZfcmqCr7qYD9t1NiydrLfZR3fELSjfqWnm6PXbhxCC4X8G1B_9ZUOT"
+  },
+  {
+    "position": 4,
+    "title": "Krishna Diamond",
+    "place_id": "ChIJrc7Mx0HPXzkR-_7-EL9xGj0",
+    "data_id": "0x395fcf41c7cccead:0x3d1a71bf10fefefb",
+    "data_cid": "4402956651145920251",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf41c7cccead%3A0x3d1a71bf10fefefb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf41c7cccead%3A0x3d1a71bf10fefefb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.320670099999997,
+      "longitude": 73.2044581
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrc7Mx0HPXzkR-_7-EL9xGj0",
+    "provider_id": "/g/11cjhc0m2m",
+    "rating": 4.9,
+    "reviews": 362,
+    "type": "Jewelry designer",
+    "types": [
+      "Jewelry designer",
+      "Wholesale jeweler"
+    ],
+    "type_id": "jewelry_designer",
+    "type_ids": [
+      "jewelry_designer",
+      "wholesale_jeweler"
+    ],
+    "address": "Ishwar nagar Society, 25, Ambalal Park Rd, near H.P.Petrol Pump, Char Rasta, Anand Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Closes soon · 7:30 PM · Opens 10 AM Fri",
+    "hours": "Closes soon · 7:30 PM · Opens 10 AM Fri",
+    "operating_hours": {
+      "thursday": "10 AM–7:30 PM",
+      "friday": "10 AM–7:30 PM",
+      "saturday": "10 AM–7:30 PM",
+      "sunday": "10 AM–6 PM",
+      "monday": "10 AM–7:30 PM",
+      "tuesday": "10 AM–7:30 PM",
+      "wednesday": "10 AM–7:30 PM"
+    },
+    "phone": "+91 99090 93200",
+    "website": "https://www.krishnadiamond.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Good quality of diamonds with reasonable price , overall great service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmhB0lCLeNpdW6WIhAdHcVOFmW6Q3OLL6afqeKDi6JVuSsaJoDanyhiofssRpxQrE3ivD8ldj26MLQF476q0BjxzCHqSS0JRywuvhGJB83msWyV8jwW7qyp_v_zYE48K6xa-v3I5mAZU8G=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1kMgEXicHcTdboIwGADQJ6p0q6vNkl2AqIhMh2Q0240hpVIYpcWPX1_S673Nkp2L8_tQXWfh1XFqRRaFMUUte5A3YZpONt1CGO0UFpAABI77cYx_3EArD9frSB5tzinfKzcPRHraak5jcooiml1befBLGqZ9Allo_KyZVWmuAGc7xbcNKQef1Xn1TN-jeLtc0RZ71XRfB22S4PA8j_2gdqHHiAY-p6wa-aqd7WW43L82S3agU4YGsn_R7vcn272NTxhjpP4XqPkDtXZHeA"
+  },
+  {
+    "position": 17,
+    "title": "Jay Bhavani Jewellers - Light weight Gold and Diamond jewellery",
+    "place_id": "ChIJUeIq24bJXzkRQ2DZsWNGEow",
+    "data_id": "0x395fc986db2ae251:0x8c124663b1d96043",
+    "data_cid": "10093207108890222659",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc986db2ae251%3A0x8c124663b1d96043&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc986db2ae251%3A0x8c124663b1d96043&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3074591,
+      "longitude": 73.1481575
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUeIq24bJXzkRQ2DZsWNGEow",
+    "provider_id": "/g/11gxrwh9yh",
+    "rating": 4.9,
+    "reviews": 106,
+    "type": "Jewelry store",
+    "types": [
+      "Jewelry store"
+    ],
+    "type_id": "jewelry_store",
+    "type_ids": [
+      "jewelry_store"
+    ],
+    "address": "E-89, ESI Rd, Arpita Park Society, Gotri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+      "thursday": "11:30 AM–8:30 PM",
+      "friday": "11:30 AM–8:30 PM",
+      "saturday": "11:30 AM–8:30 PM",
+      "sunday": "11:30 AM–8:30 PM",
+      "monday": "11:30 AM–8:30 PM",
+      "tuesday": "11:30 AM–8:30 PM",
+      "wednesday": "11:30 AM–8:30 PM"
+    },
+    "phone": "+91 87996 42624",
+    "website": "http://www.jaybhavanijewellers.co/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "offerings": [
+          "Repair services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"They offer a wide variety of the latest designs and genuine products.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtR_5-NepXKpx6ZlChfSi3FdvcXBXg1kGg9n-J4ld3mWOAT2sDZXN6QXFu_n_HAege4oZUGnYpsf-ylFk3Vu4TejrdG0VGe0Bfd5tM9EZlYTUKXZYbZoJ78zWZQHwXjvlYouYN=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xtTw3nicHcTbDoIgAADQL0IpzS5bD3ZRV8uyrIAXtxCxJGCB3X6wb-hv2joP5_uprdVm5Lqi9hyuFBesNexGlbRMWoeqq8u1AdQA44abNGvCxG6LHkiZRkv9DIiY1tXu7EXlnaIJ4p0m5kMJFr4ovetxHeZdMyMoDTIUtYUskpBx5iuyjyXWpgIvETXeofVzdrmVMTzEDE6qsmdXwzkRON8vEcEnohb9wftIsuSBLneBVYvT8aMDIQT1fwrkD1VfROw"
+  }
+]

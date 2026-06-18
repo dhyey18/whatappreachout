@@ -1,0 +1,5356 @@
+[
+  {
+    "position": 1,
+    "title": "𝗛𝗔𝗥𝗜 𝗢𝗠 𝗖𝗛𝗘𝗠𝗜𝗦𝗧 - Best Medical store in Chhani Vadodara | 24hours | Day-Night | Free Home Delivery",
+    "place_id": "ChIJMZxh9hbJXzkRcsyo3DDQRsE",
+    "data_id": "0x395fc916f6619c31:0xc146d030dca8cc72",
+    "data_cid": "13927047805968895090",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc916f6619c31%3A0xc146d030dca8cc72&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc916f6619c31%3A0xc146d030dca8cc72&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3482509,
+      "longitude": 73.1747955
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMZxh9hbJXzkRcsyo3DDQRsE",
+    "provider_id": "/g/11ys1vgh43",
+    "rating": 4.9,
+    "reviews": 214,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "GF 1 2 3, kunj enclave, Guru Gobindsinhji Marg, opp. Fortune Gateway, Ekta Nagar, New Sama, Vadodara, Gujarat 390024, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 88662 18989",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"All type of medicine are available, very affordable\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5lExChhTnWb3fIb-7ViI4j4IG7foA3YGG-atCOeae8nkj6uNNxz_WOkQw9FzScDW6W_XmC-IwkhHOa4en4oSTByen0hKEb1wq892zFvs0GWY2tsovFutAfC9Zafh6C8fso5hpBbvkgA0W=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ffP7M3icHcTBboIwGADgJ6pUQQSTHWonSExgRmPnLgaaln8WW1wLKC-5s29j4nf4nv_gXGuXnteAP6mNqRvRWfHHjXZCuwk3V69uLeIWWY985TtFNvNmfacAB80qX2YVWhx_s-ASZOlCGuKf0hSVjhaiFJFWl7DL8_t4ZoXaDXEy7vknC9n5-0pRNijYFGUgdGD2h9VDaAzbdTUdblE8G5Pe4pSdZs6aPukckTT-KSWENJLWzKFdVb2qCWYfwxRjjOA9R_oFbldHQA"
+  },
+  {
+    "position": 2,
+    "title": "Medkart Pharmacy - Vallabh Chowk - Vadodara",
+    "place_id": "ChIJSU3MAf_JXzkR1Ssmtc-bI4c",
+    "data_id": "0x395fc9ff01cc4d49:0x87239bcfb5262bd5",
+    "data_cid": "9737798135704857557",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9ff01cc4d49%3A0x87239bcfb5262bd5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9ff01cc4d49%3A0x87239bcfb5262bd5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3070491,
+      "longitude": 73.1733543
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSU3MAf_JXzkR1Ssmtc-bI4c",
+    "provider_id": "/g/11s7xp1p8y",
+    "rating": 4.9,
+    "reviews": 243,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 8, Ground Floor, Kailash Complex, Vallabh Chowk, near Kashivishwanath Temple, Anupum Society, Haripura, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 55101",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Good service and low rate of medicine and good quality generic...\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGI-7LzYLF27xSejTsphQe9EEqWYjSy_ZzMBdUb_Hn-jfVW-OUloYyUDvWuk98rd6hWeLUF9YWuPKU3p2QByeJ00z9-9GR2Cr_LpakR3dyeZiJInUBJQ8-kQ1bcz2YX1_52AWF8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FVb24nicHcRBUoMwFADQE_0SwtQSZ1xALbWI2rTGmG4YGyIRMIkEVLigZ_A2zvgW7_dHD4Pzl0HQ6WhRW1t3avSql9YMygwLad-D2nmQHnyQ7O9pm2x3sCpmUWR49X1UzaN3miqy2Xxw0Ryn8jTfpRU7lzcGmtcnDg-ss2Ji1598bEncVxeaq4JlRPBxf8sih2k6qRyhmQDZHvC6Lwv30h6ialKnt3xnWJrTGFoanuWMxXNYLnHCs_jqK0QIgf5fgvkDNsRDXQ"
+  },
+  {
+    "position": 3,
+    "title": "PHARMA WORLD || Chemist Store In Vadodara/Medical Store In Vadodara",
+    "place_id": "ChIJGyJStjrHXzkRQEuLhfkb4LE",
+    "data_id": "0x395fc73ab652221b:0xb1e01bf9858b4b40",
+    "data_cid": "12817275297997736768",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc73ab652221b%3A0xb1e01bf9858b4b40&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc73ab652221b%3A0xb1e01bf9858b4b40&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2946563,
+      "longitude": 73.1716012
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGyJStjrHXzkRQEuLhfkb4LE",
+    "provider_id": "/g/11s4zf82kt",
+    "rating": 4.9,
+    "reviews": 43,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "GF-4/5, Shreeji Complex, BPC Rd, near Atithi Gruh, opposite Alka Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–1 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 99259 49949",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Best medical store in akota vadodara\nHome deliver with good discount\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHi5wmbRk_-tLqkEEvQsR_WoTxEMvcByJbLQKTHMIIX4sTQhCZaeztK824u7JKeIl-bzo1Y7m2UUnQsTBi7QVwnknKExZVLG5u2BgV0nmeV5rUskJJQ029JhZRqk8uAQKdSYxustQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rUr1UnicHcTRToMwFADQL-rocIRp4gMsxNEy40VAx8syakOXQrvttgP3h36Cf2PieTi_P8q5Mz4FwaAeFr21_SA9yquwxknjFsKOQX9GIpBgkLy9gk62p2gau1IfiCsuOstugOXhw1ZztruJ9Jt1BfBqu8vzzxVWoDbtUd4dX4crHzMu84F0d7vcx2NY1wawSk8xNJPRhmdz2xQvkQ_TvqFmlE10rVEzBjR8ZKotL3rtE-Bf7_vZo4PnaUkpJep_QcwfJw9F4A"
+  },
+  {
+    "position": 4,
+    "title": "Medkart Pharmacy - Radha Krishna Chowk, Akota - Vadodara",
+    "place_id": "ChIJJVWq4D3HXzkRUqusSU4hBAU",
+    "data_id": "0x395fc73de0aa5525:0x504214e49acab52",
+    "data_cid": "361450490223700818",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc73de0aa5525%3A0x504214e49acab52&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc73de0aa5525%3A0x504214e49acab52&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2931438,
+      "longitude": 73.16758039999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJVWq4D3HXzkRUqusSU4hBAU",
+    "provider_id": "/g/11jrm4r58_",
+    "rating": 4.9,
+    "reviews": 341,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "G5, Purusharth Avenue, near Radha Krishna Cross Road, Jalaram Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 75740 04777",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Affordable price medicine, good service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFdo0Yxxq8L6XiSGPvd4AHBn34H8bWA5PiJHCaWmZGC_Opf0cEO-erDXcBNjQqEwfsQIMgFk247PVAMMOS6xY5QuIWwE5I-Ry-wj5ppeuHfRQkkTzhV_DQuMMD7qqRLnmX0T-Y=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qbB5uHicHcThEoEwAADgJ1oNhXPnx6iUM7VyKn8cs4q0LSvFA3oHb-PO9-P7foqmkWqm6_dipOVC5HfWKvaggjeMNxoVlZ5LBagCSkfBlpTIuQiY9n093YyTa7QKnhcDuQs-MtzpOUZmcF27y1NcHVbLoy8zSG0fsIeV0MX2Rmq7yxTxcO6UQ2MS7BHGfjTuU5O0XtzZpgfCF-huppSsdbOQlOXuXeyPFmkxtiZ1HW54lcAdSOfdAEIIiv8U8B-f3UM6"
+  },
+  {
+    "position": 5,
+    "title": "A Roy & Co Medical store",
+    "place_id": "ChIJAQAAUF_PXzkRz2A4PWy78RY",
+    "data_id": "0x395fcf5f50000001:0x16f1bb6c3d3860cf",
+    "data_cid": "1653308611779649743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf5f50000001%3A0x16f1bb6c3d3860cf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf5f50000001%3A0x16f1bb6c3d3860cf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3037697,
+      "longitude": 73.2004012
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQAAUF_PXzkRz2A4PWy78RY",
+    "provider_id": "/g/1w2yxvpy",
+    "rating": 4.4,
+    "reviews": 218,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "address": "Vinoba Bhave Rd, opp. World Of Titan Siyapura, Siyapura, Raopura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "9 AM–11:30 PM",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 99130 08975",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Service for home delivery very puncture and all medicines available\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhdgXDQ8XuseV3AGAGyWF6uw2jnzXzp7pxJG1rJ0NAcGt68GTXIfBn3JGNBb0Hm3SbMgNZnS6cuXW21hNX2jlewne0JKeY2kYYhdPDc6DxNJH8gjUWLYJnQdt8VctlUPTuonHnI6ltW4R0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kOQqDHicHcrPboIwHADgJ0IKmEqWeKghFrutgfmH4tFS22D9ldgS1JfceW8z4-U7fX-_JoTBf8SxNdlMO6etGr26SQdBQZhJd4314CPpIx-TitcXsjadFkWdi9c7ZIQS-mjWeJzSHp7iOSyGO6PJjSFOJA04pzuxOa8gY5SvTqi8ZtvTt-ZH2GI5iiZNDBdpb9UECrFP1aaXtjVdVUhc3Dkrc93vm6-WQd2F_CCD3Ve70UEJG2xDM_9ByylBCEXmrYzgH2iuRuM"
+  },
+  {
+    "position": 6,
+    "title": "Medkart Pharmacy - Nizampura - Vadodara",
+    "place_id": "ChIJxX_6OozJXzkRWKUc9NtmY3Q",
+    "data_id": "0x395fc98c3afa7fc5:0x746366dbf41ca558",
+    "data_cid": "8386660025973384536",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc98c3afa7fc5%3A0x746366dbf41ca558&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc98c3afa7fc5%3A0x746366dbf41ca558&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.328563,
+      "longitude": 73.18143239999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxX_6OozJXzkRWKUc9NtmY3Q",
+    "provider_id": "/g/11jszyv9c8",
+    "rating": 4.9,
+    "reviews": 400,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 8, Ashapura Square, near Ghelani Petrol Pump, Sushil Nagar, Sardar Nagar, Nizampura, Vadodara, Gujarat 390002, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 97732 29350",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Awesome , good behavior , time to time delivery, low price medicine,\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQFMaokOc1SwgfUjSZjyJHuVZ6ov3Ptg0nIDsZkgUzQJWaINTRQnf0w1AcQj4GBLCC_mVKT6AXtg76dX_My_1XP0U8phVP33ZdQtmVy8e1WzDDpGVwtBooZJiwghiffbWdreKE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/D-mC6XicHcRdDoIgAADgE5kwm7W2Hiyzsj-pRMeLK0RIE1xQzC7YGbpNW9_D9_0IYzo9cd278AZcKX5nT80eVEnDpBlQ1bq80w7VjnaDZI-aIELR7qKaA4Uny6u0PpG6j1dPTHz18hLDgVyHmjQ8faM4u6z35yOSFbAwoKgeLmfb-bxo8ebsB7nhI7_Mi11fwDwB6bgTOPE8UiLT4n7MYPYOw26JrZkpReKb5eJWVdesfLDNYmohAMAR_6kjf43XRXA"
+  },
+  {
+    "position": 7,
+    "title": "Medkart Pharmacy - Abhilasha Circle, New Sama - Vadodara",
+    "place_id": "ChIJe-dbGfbPXzkRwLmlS99OPu4",
+    "data_id": "0x395fcff6195be77b:0xee3e4edf4ba5b9c0",
+    "data_cid": "17167245550536735168",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcff6195be77b%3A0xee3e4edf4ba5b9c0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcff6195be77b%3A0xee3e4edf4ba5b9c0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3426281,
+      "longitude": 73.186356
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe-dbGfbPXzkRwLmlS99OPu4",
+    "provider_id": "/g/11gy3mq0lq",
+    "rating": 4.8,
+    "reviews": 220,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No 2, Ground Flr, Shivmahal Appartments, Road, Abhilasha - Canal Rd, near MS Cooperative Bank, Shiv Shakti Society, Raghukul Nagar, New Sama, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 70960 00608",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Good quality medicines...Good service...\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGD0d64U4POfR0y1uNOkYfY9AlDD8c5E2XA-VxYdqy4_DKPIjPKUNTVU2D1BwE-5tVj1DxJ0EbgK5w2ESqlzuuH6-Z8jysRoAmuQ73kyuD30hWKLGTuHoa2h9fkJF7ps1rOF7zi7w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/0oP4knicHcRJDoIwAADAF1VaFlETDzUFVAzgAooXoxWogBRtG8Qf-gR_Y-Ic5vthUrZiomk1MwYF50WdKZE9KW9k1sgB5XetaAWgAggNR8G6wh6B16EZm1GYb2CPVBBWaZ6OcU3IiFqOfsAgeaXXR2-eiB8tysiPg10S6wTNOgdYMikReS2hcyl8q9Od7aN-KzUfguOo7MWG47ta20bVK2JAtvdX3k7N-Vln47xaunYr0DN07ffN7qYdghAC9p-C5gf1bEM-"
+  },
+  {
+    "position": 8,
+    "title": "Umiya Medical & Provision store",
+    "place_id": "ChIJG8wL3yrPXzkRNHWDWTPzXPI",
+    "data_id": "0x395fcf2adf0bcc1b:0xf25cf33359837534",
+    "data_cid": "17464100856906609972",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf2adf0bcc1b%3A0xf25cf33359837534&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf2adf0bcc1b%3A0xf25cf33359837534&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.342427999999998,
+      "longitude": 73.1834401
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG8wL3yrPXzkRNHWDWTPzXPI",
+    "provider_id": "/g/1tqpxn9b",
+    "rating": 4.7,
+    "reviews": 48,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "4/B, Vidyadham Society, New Sama Rd, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 94281 69410",
+    "website": "https://umiyawellness.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Their service is very quick and reliable, and the staff is very helpful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4XrH--MFpa4soKpPy654dPPOGar_FY1FDPUM69DlixB5neeqD5XdHY2pH1Kfq4ORlr4JCGtvMiCrhpikp279oQWrHIcmL_tN2kY8LxANiDhWDAX7HIvI6yWQQYoVMEMqOltrmdmSeF5Rk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/EhPUdHicHcTbboMgAADQL6JehnZtsgdXZnEtil029alpkIkRBYH18pV77t806Xk493_hnLZrz5PiZdEp1Un-Z7lhanJ8cgumRq_TFjALrJfQvBwSDGuDASCpPkGrdpre4gi2lBbbkzmmTZAi-k3iFZL99T2aOJ9RVLe4CTUOdr8zLA7SwM_N1p1JvzFC94MOlytVVgZnbNwfXR4Ozev-muQ9EhVK6iXOzll8q8qyUT_kg8yFdGZsxy-eRofh7RL4vg_EcwamBxhrRpU"
+  },
+  {
+    "position": 9,
+    "title": "Al Makkah Medical, Tandalja, Vadodara (Pharmacy & Wellness Store)",
+    "place_id": "ChIJdVDBm1XHXzkRJUqffCYxSS0",
+    "data_id": "0x395fc7559bc15075:0x2d4931267c9f4a25",
+    "data_cid": "3263193446375967269",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7559bc15075%3A0x2d4931267c9f4a25&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7559bc15075%3A0x2d4931267c9f4a25&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2834018,
+      "longitude": 73.1528952
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdVDBm1XHXzkRJUqffCYxSS0",
+    "provider_id": "/g/11s0x5zy97",
+    "rating": 4.9,
+    "reviews": 118,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Baby store",
+      "Convenience store",
+      "Health and beauty shop",
+      "Health food store",
+      "Laboratory",
+      "Medical Center",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Pharmaceutical company"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "baby_store",
+      "convenience_store",
+      "health_and_beauty_shop",
+      "health_food_store",
+      "laboratory",
+      "medical_center",
+      "medical_equipment_supplier",
+      "medical_supply_store",
+      "pharmaceutical_company"
+    ],
+    "address": "Al, Makkah Towers, GF - 08, Makrand Desai Rd, beside Taif Nagar, Taif Nagar, Tandalja, Vadodara, Gujarat 390012, India",
+    "open_state": "Open · Closes 12:30 AM",
+    "hours": "Open · Closes 12:30 AM",
+    "operating_hours": {
+      "thursday": "9:30 AM–12:30 AM",
+      "friday": "9:30 AM–12:30 AM",
+      "saturday": "9:30 AM–12:30 AM",
+      "sunday": "9:30 AM–12:30 AM",
+      "monday": "9:30 AM–12:30 AM",
+      "tuesday": "9:30 AM–12:30 AM",
+      "wednesday": "9:30 AM–12:30 AM"
+    },
+    "phone": "+91 90169 68555",
+    "website": "https://linktr.ee/AlMakkahMedicalVadodara",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"... customer service with discount on each and every medicine\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFHQStznwecVQa578BMTQbkKZNXvblaXss02fkVzoBrsYGwQ0EOjkm9Mxt2jO692jLTjJZoZ7oispBBa6rdXghN2EkDVCKRel15WydFfHrUhjjuacWBW4W3We8ywyBx8-TEiD0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jOWZGXicHcRNjoIwGADQE1Uq_uEks7AKGh1xqkiRHdRKbZESvjqIB_QO3mYS3-K9X9LaGr4cp5SDXmFMUYo7iIabyorK9ri5OUUNiAMCZ_YbUj0LVvRgn1UreEyz0cQj24jmepOGyV9eZgkAdi86fhrSwGnZUuzvlL5Ntw_rqt146qqfSK1Tk07MFWpCsnFzTgoZur5exPPNXpT9EevOwWXVHKVS94wzwoZswITXtR15eCjyrwv83fYxxkh-5qj6B2tHRN4"
+  },
+  {
+    "position": 10,
+    "title": "Medkart Pharmacy - IPCL Road, Gorwa - Vadodara",
+    "place_id": "ChIJee3Km4rJXzkR1qgSoy2b_3s",
+    "data_id": "0x395fc98a9bcaed79:0x7bff9b2da312a8d6",
+    "data_cid": "8935030806038096086",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc98a9bcaed79%3A0x7bff9b2da312a8d6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc98a9bcaed79%3A0x7bff9b2da312a8d6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3288814,
+      "longitude": 73.15415589999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJee3Km4rJXzkR1qgSoy2b_3s",
+    "provider_id": "/g/11mv4yxkx0",
+    "rating": 4.9,
+    "reviews": 221,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 8, Aastha Avenue, New IPCL Rd, near Ranchod Ray Masala Mill, Near Anandvan Complex, Show Room, Gorwa, Vadodara, Gujarat 391350, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 93138 06797",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Best medicines at best price...Nice service... Friendly nature of staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHTjTjdwnc0oyoaOd-J424lUxJwAaN13oE9goo6I2HVR3MGTpTn7brDvf3_B5RBIzpkUn4oiBR8wYDmDRj_nOKubex_ZN1B55HEGkUc9ZegI8_Dj-FQIyqmIyZStYBZYaqjiha=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/G4rviHicHcxJDoIwAADAF5VFwC3xQANCNaIimMCFYK1AgRZtFfGDvsHfaLzMcT7vUspOzFW1KQ2l4LxoyF2QG-ZMEiYVzFu16ATAAgjV3gX72vb8iEb03DOs8YHn2zNYmSOziZ-r3s4D3eDu7PeM0cg_hsbGi7qITU4353ExMmiFEL26OmYmr2A47ROndUKase36fiLPLA10aFm-69UxnqWkQNPMoWC5R8O1RUN6kAlMk_xKqzJf9LqmaaD8iwH7Aj2-RJs"
+  },
+  {
+    "position": 11,
+    "title": "Medkart Pharmacy - Bansal Mall, Gotri - Vadodara",
+    "place_id": "ChIJnVBeZFjJXzkRD5N-DwmJ2hQ",
+    "data_id": "0x395fc958645e509d:0x14da89090f7e930f",
+    "data_cid": "1502664097689146127",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc958645e509d%3A0x14da89090f7e930f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc958645e509d%3A0x14da89090f7e930f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.304216399999998,
+      "longitude": 73.1386886
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnVBeZFjJXzkRD5N-DwmJ2hQ",
+    "provider_id": "/g/11hjc2dzjc",
+    "rating": 4.9,
+    "reviews": 128,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No 5, GF, Amber Residency, Complex, Gotri - Vasna Rd, opposite Bansal Mall, Saiyed Vasna, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–9 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 85113 96666",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very helpful pharmacists, on-time delivery, great discount on meds\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEw55NXb3DdLGAhfDumFaKhVneoxQumN6LxEI_UyzGfFeLouNYKHPFzBaXSEPAb2A1B7VB1fN30ZMMFEFQd1j2eZVGFwSaiTaCzX8PcjYf-_rlIAdhqRqotRsmZlTT1CBx8Q7rR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uspkkXicHcRdDoIgAADgE5GS62dtPaCJtYypmTNfnCJKpVKC07xgZ-g2bX0P3_fDlXrKjabV3JhVQlQ16yXrqGgVa9WMikarnhJQCaSGPOI_kD0sFiTOjV3hOoiXu77B2ZFHLROj3zdk6Y72Ib28J6fEzBU9uR73Hp7MLD7bHsrnCJqryIQlMfTkdMI29gt4n7MkcvBwzm5hZk3x2qP3awnSrj6ggr-Cl1CBbJI6DKFljmt_1QXbAeq6Dvh_CtofLLZEJg"
+  },
+  {
+    "position": 12,
+    "title": "Medkart Pharmacy - Arunachal Society, Subhanpura - Vadodara",
+    "place_id": "ChIJNTAo6SLJXzkRaGAvF91JQMo",
+    "data_id": "0x395fc922e9283035:0xca4049dd172f6068",
+    "data_cid": "14573729608096505960",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc922e9283035%3A0xca4049dd172f6068&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc922e9283035%3A0xca4049dd172f6068&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3245093,
+      "longitude": 73.1527564
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNTAo6SLJXzkRaGAvF91JQMo",
+    "provider_id": "/g/11rqnq_2ct",
+    "rating": 4.8,
+    "reviews": 302,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No 3, Ground Floor, Pratibha Complex, Arunachal Rd, nr. SBI Atm, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 90234 36975",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Excellent service and medicines at reliable price 😃\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHl4mgSsSbJcLUjTwSN5gl5-xr4e9tyGOv0VrN9s2DA0uYSEO46ZxbQF5cwjEuPLGmEW_kzRm7wg3mZIcYw9pTEvLHArlxWc7647Q-mEYqMuIBy-WhovhzJMAAXpIudGDLGsiFoaA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DIOjOnicHcTRroIgAADQLyLppjnbeqBJZjPL7Gb20oocVCAmINYf3k_ob-7WeTifP6Z1oyaOw9loQKWkvDKqaomsdVXrAZHCoY0CRAHloE2aPdCCu4LmKr8sSfJ739k89Sj3QN-6VaBf0bqD-zYN1E-IoClzvHbHx_6SzT1i79hskkjg4vR4b4Vv6UgcY1LaoNnhLlmglvcF8ceunwGBy-fKxLMXKJjs2Hu5QujQxOYahUmkbnN5RlM7hBAC9p2A-h_5jkWK"
+  },
+  {
+    "position": 13,
+    "title": "Medkart Pharmacy - BPC Road, Akota - Vadodara",
+    "place_id": "ChIJzSKY7KTHXzkRnTAbNE947Es",
+    "data_id": "0x395fc7a4ec9822cd:0x4bec784f341b309d",
+    "data_cid": "5470879928920256669",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7a4ec9822cd%3A0x4bec784f341b309d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7a4ec9822cd%3A0x4bec784f341b309d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2903283,
+      "longitude": 73.171053
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzSKY7KTHXzkRnTAbNE947Es",
+    "provider_id": "/g/11mwkcgcvy",
+    "rating": 4.9,
+    "reviews": 64,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop - 5, Ashwamegh 2, Mujmahuda Rd, opp. jagrut hanumanji temple, Pratham Avenue, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 10:30 PM",
+    "hours": "Open · Closes 10:30 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10:30 PM",
+      "friday": "9 AM–10:30 PM",
+      "saturday": "9 AM–10:30 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–10:30 PM",
+      "tuesday": "9 AM–10:30 PM",
+      "wednesday": "9 AM–10:30 PM"
+    },
+    "phone": "+91 76230 02610",
+    "website": "https://stores.medkart.in/medkart-pharmacy-ashwamegh-2-opp-jagrut-hanumanji-temple-mujmahuda-road-akota-11494648/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Modest prices on medicines with well mannered staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLy860z1GVeDJSlG6TZ6qnebXakpPl79QC9DtIqrxNCZ43P5CAaNmH6b8CpPoEOX_zfaybvj3bmG3ZuGqo-XgSj_Jsi7huHyI_grmcPBmEv2emaBgu1MM1tlYfsg_-mBC887In=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ctruf3icHcRdCoIwAADgEy01Sy3oQWcso2xRhPkiOtas9qNuVnbBztBtgr6H7_upjWn03LJ47Y6YUozTXtOOKGmoNCOihMUaDYgG2gpxur-HaDMEnv120InG6wNH3jH3WkmrrLw3mPuzPZzFJmm7VwrziYunMCxTsfKqADZYLXdZ8b6UQ_W4uZVAbt6jVoGMHW7FWl_9ul8NScE6QXAklo8xFWXEeme7dQw_XzQrgIhgEPiJXDwd27ZB_Z8A-QMxjESS"
+  },
+  {
+    "position": 14,
+    "title": "Medkart Pharmacy - Opp HDFC Bank Vasna - Vadodara",
+    "place_id": "ChIJqWPkhBDHXzkRPQNyHJmzJKE",
+    "data_id": "0x395fc71084e463a9:0xa124b3991c72033d",
+    "data_cid": "11611603209456583485",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc71084e463a9%3A0xa124b3991c72033d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc71084e463a9%3A0xa124b3991c72033d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2944837,
+      "longitude": 73.1559729
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqWPkhBDHXzkRPQNyHJmzJKE",
+    "provider_id": "/g/11qqpdbtwc",
+    "rating": 4.8,
+    "reviews": 219,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No. 7, Om Complex, Vasna Rd, near Taksh complex, Shivashraya Society, Tandalja, Vadodara, Gujarat 390015, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 97732 59306",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Good response\nHelpful staff\nEasy way to carry any medicines\nLowest price\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaHmGEy6mNDf53CKhMclU7OYFfeEAjsNr4HkDcOx7xpw7BX_myUanTB5WBJ02g5A2BalDvQkq0hoiFqvecSh58MxKDS5ReMqiSxQO0pWU-qDPYJI_kJWGp3I7l4_5Whc6fqEYs7Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5Izq8HicHcRRDoIgAADQE5GUEa2tDw2tbGpmzvxyjqGUKBBWdsSO0G3aeh_v--HDoMzKsgS3J42UjWAPw-5U9gPrhwmVndUoA6gBxnKOUdI6frXrtt570UWkRvbmwEMqMhwXfs0852ai-3zXEhqPeFQv7F7K7p1V_dlFuRvAWYOcmVsJ8kxaDbm8-vrJaMrRMhwPJEUnFuprOiYxVHkGNDkWwb5sg3yr7D0W8xLlnC5q7RUGJ-vXFEII-H8K-h-mNURp"
+  },
+  {
+    "position": 15,
+    "title": "Om Chemist & Super Store",
+    "place_id": "ChIJher467LJXzkROi6l4r2CVX8",
+    "data_id": "0x395fc9b2ebf8ea85:0x7f5582bde2a52e3a",
+    "data_cid": "9175383567900159546",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9b2ebf8ea85%3A0x7f5582bde2a52e3a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9b2ebf8ea85%3A0x7f5582bde2a52e3a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.314262199999998,
+      "longitude": 73.1417106
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJher467LJXzkROi6l4r2CVX8",
+    "provider_id": "/g/11llbhw2vy",
+    "rating": 4,
+    "reviews": 54,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "GF A/1, Gayatri Krupa Society, Gotri Rd, opp. Iscon Heights, Appu Nagar, Gotri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 82384 45588",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Much convenient for my parents as they deliver at home the medicines.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5Go0Ykx7laRdiUq3E2895gU03cPk4PJ_HL2ZN27EMpq7GahX3zRNYIhAeaO-T-aqm0DcJvBsXPHF50i_wkT0aSrwFS_5NzcvHGp8w62AxPpZqGseKrjeNfgn87D1Qtcd-lftu=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KuSRg3icHcTbDoIgAADQLyJJM62tB5ul3YhuW_niGCGYJiiorR_sG_qbts7D-X6EMUpPLasUzoBLyUvWatZQWRlWmQGVT4srDagG2gowOhRB7EYS3oqXV5LjPb_UzsL2Jy6_QIfiYoTXaby1E2R7i52qvYiIq_M-ottKBIzswRmQ-glDuu7m-orjpQvztC_OkJyafnlKXfSmXRwpvx_bwQurpI402zQPhjJe-V44PBh6B2Vm2lk_hBAC8Z-C6geraUON"
+  },
+  {
+    "position": 16,
+    "title": "Medkart Pharmacy - Ajwa Road - Vadodara",
+    "place_id": "ChIJYVP9JwzPXzkRMVlSUm34th0",
+    "data_id": "0x395fcf0c27fd5361:0x1db6f86d52525931",
+    "data_cid": "2141171821277501745",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf0c27fd5361%3A0x1db6f86d52525931&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf0c27fd5361%3A0x1db6f86d52525931&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3192269,
+      "longitude": 73.24996089999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYVP9JwzPXzkRMVlSUm34th0",
+    "provider_id": "/g/11sy7157qm",
+    "rating": 4.9,
+    "reviews": 253,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 3, Divya Plaza, Nr Hotel Dreamland, Ajwa Rd, Kamlanagar, Gujarat 390019, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 58544",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"humble staff and affordable price medicine\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH5-754FevuAwEhNjel_dESDuaUnrcU4bBrk9Ik0zLfioYWWpGJYywEyZf9ur0wSkQgkYEqDUSphDJS6m8PcwJ0SdRo6VrDei4oYE2dycOgrR-KSqTgwVlYHvRw1ve1JYeCtLgF=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/d6Y2d3icHcRdboIwAADgE1XKRB1LfGCj_jDilAqme1m01FYLFNpCgxfcGXabJX4P39-vsLY1b55XiemEK8Ur1humqWosa-yEqtrjrQHUAONF-91BRpsZWMyCFRv6yCGxu7Pqp0Q47s95o2keXN61DLcSPtLrTZHTqV0nZHRo_L6GvYYOywOXBHVxjlsRJ3hev-6pSyAuMzUvdMxugSLopRzpF9cZ-MTdkbuiIpshc_7A_ISwD5vy1dL5EEIgnlPQ_AOu10XM"
+  },
+  {
+    "position": 17,
+    "title": "Om Chemist & Super Store | 24 hours Medical store in vadodara",
+    "place_id": "ChIJFZ7wxRnJXzkRPGPmN2_ssJA",
+    "data_id": "0x395fc919c5f09e15:0x90b0ec6f37e6633c",
+    "data_cid": "10426093099786068796",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc919c5f09e15%3A0x90b0ec6f37e6633c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc919c5f09e15%3A0x90b0ec6f37e6633c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3348191,
+      "longitude": 73.1794176
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFZ7wxRnJXzkRPGPmN2_ssJA",
+    "provider_id": "/g/11g0w0979j",
+    "rating": 3.7,
+    "reviews": 67,
+    "type": "Drug store",
+    "types": [
+      "Drug store"
+    ],
+    "type_id": "drugstore",
+    "type_ids": [
+      "drugstore"
+    ],
+    "address": "29, Nizampura Rd, Deluxe Society, Nizampura, Vadodara, Gujarat 390002, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 95122 24477",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They have all the medicines in stock.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUdThEWPNv6Dxe96F_Ns0vW2pSHaX0Lv3FIEVTB8XJ_GTYr4TpDzOj1osKgWW-GN2K5QQoyNeKXgjA3eekz0IyRrF9rpkWhVdehc3TV7Dk9iLbDSctP7wwSJGOogd_mpgTV1mS3g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LY7QSHicHcRdboIwAADgE1WKVZQlPrDwM8VUkI7iE3GlaRWhDa0wvaFH8DZL9j1875e0VpsPx7lJNBNKiRu_Gz4w1Vve2xlTnSO0AcwA4wQZztsg-m6IjGiGRy_85b4X19jAkc518XWu4H5E8TYqyee62tUJOQ0LosPn4eoqkwpKQYLn6TLP1QPztBLXAHHePuH2cRxif9AtlWXDJUOkXIWtf9n_hAWz2Wqail1yUKKpOy1I6XYFEpvJhRAC-T8D_R-Yz0UB"
+  },
+  {
+    "position": 18,
+    "title": "Jivandeep Ayurvedic Medicines Store (Old Name Dhanvantari Ayurvedic medicine store)",
+    "place_id": "ChIJk1lBG0PFXzkR7pp7ZxZWAx8",
+    "data_id": "0x395fc5431b415993:0x1f035616677b9aee",
+    "data_cid": "2234724494331321070",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5431b415993%3A0x1f035616677b9aee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5431b415993%3A0x1f035616677b9aee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3006747,
+      "longitude": 73.2218752
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk1lBG0PFXzkR7pp7ZxZWAx8",
+    "provider_id": "/g/11h8k3glsy",
+    "rating": 4.9,
+    "reviews": 276,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "Shop no. 3, Gayakvad complex, Ayurvedic 3 Rasta, opposite chiranjjev children hospital, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 84601 72403",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Prompt reply , immediate sourcing of medicines and fast delivery service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEC90oriZyYAR0_SY32YHQLERyj4lbs2MPBn43JwaOxg0gOUmHJriOef6fRU2t-ASqMlaYnkruKgoVTkp8ZP2h6TX0JPQcA4eJyYWAadPzqEpuMcAtXKDx8WiFvLGTmeqtMOw0J=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZFoSXHicHcRLjoIwAADQE1UqEKOTzKIqaqoMBfFTNwZrLQi0QIuIF_QM3mYS3-J93qkxlf6xrCJ1BkIpUfBW84Ypabg0A6ZKS1QaMA20hchfmCNvNoGqyU49RRE8b6lj01W48aL-7hYXbftkKl0Hd0nwFFAEu3KFmyzgt9Et2tkGoG3tFwmVedOuhdrHeTU-ETsdxUeISciQy3FPDyi5klftVa3PkDmu58_xIVs8Nsu45LXxgw7i324IIQTpdwbkPzR2RLk"
+  },
+  {
+    "position": 19,
+    "title": "Medkart Pharmacy - Amit Nagar, Karelibaug - Vadodara",
+    "place_id": "ChIJeQniUGfPXzkRcZ9UWnVLilI",
+    "data_id": "0x395fcf6750e20979:0x528a4b755a549f71",
+    "data_cid": "5947649225294913393",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf6750e20979%3A0x528a4b755a549f71&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf6750e20979%3A0x528a4b755a549f71&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.320537599999998,
+      "longitude": 73.2044468
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeQniUGfPXzkRcZ9UWnVLilI",
+    "provider_id": "/g/11q9m8syn7",
+    "rating": 4.8,
+    "reviews": 230,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Gr Flr, Char Bhuja Complex, SN 6, opp. M Cube Fashion, Amit Nagar, Anand Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 97732 26693",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Good service provided by kinjal patel...medicines are affordable\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFLDCi6m3r5ZxHxBggXpqFLECu1I7Nn-Zlw_FDvZVc-KfzgZGKq7X6hq01SMIPpe3Qd65H2GFUR5sIXH3_LTOmUaOSyWF0fP8F8AyoQa_mc_m5kA-CmCW2baBv3D0FB8iF3xEA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/c1RxPHicHcRJDoIwAADAFxWKDUtMPBSwQkAFV8KFYIVCoBQsKvpA_-BvTJzDfD_VOPZyrqpthRQmBGuLuyxuVHRj0Y0KFVxlvQRUAqniaBM3mISuUxsc3fR08iabsaQfSLh07ppvbjqQts-MuI_0REFQvlm6CgYzMaoBavu1H_UFiq-G7s1W5LjTpZ94KAsPW37Mt_vXmcAysoiFXyLOM04zrjcYONw5zy65_UAuJLZVEzQt8eKpQQhB9Z-C7gd-V0Ho"
+  },
+  {
+    "position": 20,
+    "title": "A-1 MEDICAL 24X7 Raopura",
+    "place_id": "ChIJR6HOhEnPXzkRyf7LfSLwqbM",
+    "data_id": "0x395fcf4984cea147:0xb3a9f0227dcbfec9",
+    "data_cid": "12946142634783276745",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf4984cea147%3A0xb3a9f0227dcbfec9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf4984cea147%3A0xb3a9f0227dcbfec9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.303897499999998,
+      "longitude": 73.2010138
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR6HOhEnPXzkRyf7LfSLwqbM",
+    "provider_id": "/g/11vy7mmdlw",
+    "rating": 5,
+    "reviews": 79,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "medical_equipment_supplier",
+      "medical_supply_store",
+      "surgical_supply_store"
+    ],
+    "address": "A1 MEDICAL, CROSS ROAD, next to SURYA PRAKASH RESTAURANT, Near Tower, Raopura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours"
+    },
+    "phone": "+91 81406 00757",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"The staff was quick, empathetic, and had everything in stock.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVRJOIqX8WkLOru0jvP37ahjTA5F3k9mmq8sy3Xvy_kF4Inp3uYi2ybX99dey6AtzjI5exqSspUWrsAve0JojU0XJ8hyukk1bycTu4--tItXaEg7j2PemXizb0750KDbtHErY5Yg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IBJzb3icHcRdboIwAADgE1WqBYElPjSZOtAo82eWJyNd09oKBdoy6w13BG9j4vfwPf-Fta35CIKbQCOuNb8xZ1hPdWNZY0dU1wFvDaAGmAAXm2-Flz-7fJt1JDmp9bZ3UA4Fii9CHnC0QCqt6y4xHpHBn9UizJoWufI68RVJ01_mp9g-ZBaxe7c37fHUGzwwmGt5hCRPhHdKjStPDy4EwGaWXOY8lpOC1eT6qGAcwdVnZb_mfRmVfPY3hhAC8Z6C5gUwD0X9"
+  },
+  {
+    "position": 1,
+    "title": "Medkart Pharmacy - Chhani Jakat Naka - Vadodara",
+    "place_id": "ChIJ-6scyD7JXzkRB8btt4nlgB0",
+    "data_id": "0x395fc93ec81cabfb:0x1d80e589b7edc607",
+    "data_cid": "2125951403777967623",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc93ec81cabfb%3A0x1d80e589b7edc607&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc93ec81cabfb%3A0x1d80e589b7edc607&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.347695299999998,
+      "longitude": 73.17393109999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-6scyD7JXzkRB8btt4nlgB0",
+    "provider_id": "/g/11lpmk8_8f",
+    "rating": 4.9,
+    "reviews": 163,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No GF17, Fortune Gateway, Guru Gobindsinhji Marg, opp. Central Super Market, TP 13, Chhani Jakatnaka, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 75740 04060",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Best store staff,  medicine educate ,best advisor, (Tarun, vani, kuldip)\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEB-yTls5xEFDLgjv0YxFdmzw-Gs0aZvta2UWHQzBAxBWCCNG8_oXP-9bcPDdQZoJbT9B1YYbg93DFmwiPC7kCDL1Rv_LIyxT0HNTbpmxVbGGB6lmOWtcDsd8GLQxL8pKdWshQT=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Cje8CXicHcRRToMwGADgE3UUFzcw8YHS0akNUlNF9rKshRQdpcS_QrcLegZvY-L38P3-9N5PcBdFQ79eGefM0H1D96Xd6LvRr7SzkZkAaUAQZVUpztmOoIsc4DbsCsrN54ybULT2uiAG-HSY_enmtd6LK8kCqfO8ZMnRvVcoVbqirTi4RyVTEjeNMumaFnb5qPLtOac8fpmP_OESJN6XUk02vCnGyGawz7XXFNqEcRF4Mj21NfRC3i8xxhj1_2s0_gEwWEQ0"
+  },
+  {
+    "position": 2,
+    "title": "KRISHNA PHARMACY - Best Medical Store in Gotri Vadodara | Best Pharmacy in Gotri Vadodara | Best Pharmacist in Gotri Vadodara",
+    "place_id": "ChIJ4SCQqtTJXzkRBHWs68W9wZM",
+    "data_id": "0x395fc9d4aa9020e1:0x93c1bdc5ebac7504",
+    "data_cid": "10646999651840718084",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9d4aa9020e1%3A0x93c1bdc5ebac7504&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9d4aa9020e1%3A0x93c1bdc5ebac7504&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.318990799999998,
+      "longitude": 73.136854
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4SCQqtTJXzkRBHWs68W9wZM",
+    "provider_id": "/g/11pkdrl30v",
+    "rating": 4.7,
+    "reviews": 36,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "SENATE SQUARE B,SHOP NO.8, Gotri Rd, opp. Gangotri Apartment, VUDA CHAR RASTA, Vadodara, Gujarat 390021, India",
+    "open_state": "Open · Closes 1 AM",
+    "hours": "Open · Closes 1 AM",
+    "operating_hours": {
+      "thursday": "7:30 AM–1 AM",
+      "friday": "7:30 AM–1 AM",
+      "saturday": "7:30 AM–1 AM",
+      "sunday": "7:30 AM–1 AM",
+      "monday": "7:30 AM–1 AM",
+      "tuesday": "7:30 AM–1 AM",
+      "wednesday": "7:30 AM–1 AM"
+    },
+    "phone": "+91 79773 38013",
+    "website": "https://sites.google.com/view/krishna-pharmacy/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Decent staff, good discounts and timely home delivery of medicines.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIiF7E8d1TJoJr8j7Xh9pB-qS46ZaWtD11T9M2LZEGFd25xbslilhHVg5H__iAHRDxAeDY0fxgj1QeiMp3rko6wE6aCuAhPHyrAyRfeuTYDqF3lvNViBhoYcQmN-v8pZ4V5Cm9=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qXXoZXicHcRdboIwAADgE1WoCMKSPVR-ZGYSUYKDF-JqbauFVloUTugZdpslfg_f34sZo_SHZQnmzKiUVJBBkx7LzpDOzLBsLao0wBpoC-2y_IbWXzxZxv4ZFhu56f3r8ocFagXuh4VXn44mgrAItvPvOl4n57k7_mrBBUtL6qZNw1G6j0ZEosq-jPQKc8K3yulv0nvG3ikcENulU4-m_YUMRRXdE0c8spKvmKxw3mbg4at6UbphG3w-oW3bgL3HoPsHxnJDog"
+  },
+  {
+    "position": 3,
+    "title": "Medkart Pharmacy - Post Office, Manjalpur - Vadodara",
+    "place_id": "ChIJ3VcTOonFXzkRfa9zfFbd0s0",
+    "data_id": "0x395fc5893a1357dd:0xcdd2dd567c73af7d",
+    "data_cid": "14831159886409346941",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5893a1357dd%3A0xcdd2dd567c73af7d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5893a1357dd%3A0xcdd2dd567c73af7d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2782819,
+      "longitude": 73.1945599
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3VcTOonFXzkRfa9zfFbd0s0",
+    "provider_id": "/g/11sb1snb62",
+    "rating": 4.8,
+    "reviews": 139,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 5 & 6, Ravi Commercial, Post Office, Main Road, near Manjalpur, Sudamapuri Society, ShreePalli society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 93272 75018",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Affordable prices and genuine medicines.”\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXZn-4PS4XSVQdYy0EjQlX4Lm86_HL8b9Ju18kBjoe4RXi1BCeRmdFzGIOZAAA0Gwfm7I3TofJv_LDEFDCvg3lvSbe0OfAzwBNilS0NIgCxB7aqk868HJrIZEDIN0dK3ZU1C85=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KdK2enicHcRdEoFAAADgE622KSwzHrY_bZpImPRiVNtGW4tN0QWdwW3M-B6-76ds25ucKwovtRETgnH6lPSRiaalTTvKRK2wmwSZBFLBmyCssBsnDdA3kR5HhzA_vqF9DXms-zWanFwfpTPvqaLKuAqqb-OLaph0W-fOsCTrBGMMl31RT4m2E4XXnXzLdiyzYxrvopTCdYGH3gguPIIBYebLmJ7vFZog13uQxLZIAPOVluxVE40XvQohBOX_DDQ_jtBB2g"
+  },
+  {
+    "position": 4,
+    "title": "Medkart Pharmacy - Kashiben Hospital, Karelibaug - Vadodara",
+    "place_id": "ChIJAxWTPl_JXzkRdBEO6HQYAfM",
+    "data_id": "0x395fc95f3e931503:0xf3011874e80e1174",
+    "data_cid": "17510303716581708148",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc95f3e931503%3A0xf3011874e80e1174&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc95f3e931503%3A0xf3011874e80e1174&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3152336,
+      "longitude": 73.1957362
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAxWTPl_JXzkRdBEO6HQYAfM",
+    "provider_id": "/g/11tfxpg64k",
+    "rating": 4.9,
+    "reviews": 269,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No G15, Chandralok Apartment, opp. Kashiba Children Hospital, Pratiksha Society, Karelibagh, Vadodara, Gujarat 390018, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 75740 04666",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Great service and well-stocked\nFriendly staff and fast service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGrafGRC4Fe9P4hadzqooiRdRK9-2CSdY1OMkRzYs_EfwGbNTcOhlDIhbPLBC5zNUM5iiUw4xugq_DKc-RYj4ebTqPkvbw7-wT9X9n4FZlVlwkAp9wMaA1Ns5423Ufk72a6pdIq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/u1iErnicHcRdDoIgAADgE5E_YY22HszKtdKMtGUvTRHFINGwaF6wM3Sbtr6H7_thfd-qmWEINh5VUlaCPhV9ENn0tOlHRN6NqlWAKKAMNwoP3PUfWeljD64piiDLiqGTssYF3iJge8citfYBx0OqrqtS-3kYkz0Tyw3Lo93Cc4YwCZy6TjR8P6vuutwSgNMbpHncRfyV6ynQMTqjBq4v4iQ0d1ukg8y1QuVAe5yUfGpnk7bYdHNtmaYJ2H8Cmh9hZkRo"
+  },
+  {
+    "position": 5,
+    "title": "BARODA MEDICAL AND PROVISION STORE",
+    "place_id": "ChIJg736Na3IXzkRnJCTR_iXnyg",
+    "data_id": "0x395fc8ad35fabd83:0x289f97f84793909c",
+    "data_cid": "2927225375422648476",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8ad35fabd83%3A0x289f97f84793909c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8ad35fabd83%3A0x289f97f84793909c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3097465,
+      "longitude": 73.18221989999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg736Na3IXzkRnJCTR_iXnyg",
+    "provider_id": "/g/11ckh1xk5l",
+    "rating": 3.9,
+    "reviews": 16,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "Kadak Bazar, near Vadodara Railway Station, Sarod, Sayajiganj, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–10 PM",
+      "monday": "9 AM–10 PM",
+      "tuesday": "9 AM–10 PM",
+      "wednesday": "9 AM–10 PM"
+    },
+    "phone": "+91 98982 09907",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Most of the medicines are available here.\"",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l9xkNU7xCuWmCLC_VVkDCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=178.10773&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-il72nicHc3NDcIgGADQbbjJjx5oTYgxeDTerMeGUoQvpYUUWuo2ruU2Ghd47_N2Ocd0JCTl2Zi8gikRNuPTLipsQ7DeqAgJ6zCSlZHslrGbFPhTVFOAXvh6G253vsnlMcqrbJtmuMgz0l2rPZgpi2TUrB225SfOocc2JlRERZET9R69VBGMV5hRzg8oQtZOUPRfnmEVjNIvdC05cA"
+  },
+  {
+    "position": 6,
+    "title": "Medkart Pharmacy - Navapura - Vadodara",
+    "place_id": "ChIJ1V3s8-zFXzkR1CyjVvWmNEo",
+    "data_id": "0x395fc5ecf3ec5dd5:0x4a34a6f556a32cd4",
+    "data_cid": "5347082230246354132",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5ecf3ec5dd5%3A0x4a34a6f556a32cd4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5ecf3ec5dd5%3A0x4a34a6f556a32cd4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.289795599999998,
+      "longitude": 73.2054931
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1V3s8-zFXzkR1CyjVvWmNEo",
+    "provider_id": "/g/11rz7cfsvr",
+    "rating": 4.7,
+    "reviews": 240,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Ground Floor, Tirth Exotica, No 2, RV Desai Rd, nr. Maruti Suzuki Commercial, Bakrawadi, Navapura, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 55817",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Good service, affordable medicines with timely delivery\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIH-iPEDaXb5v29nS7MVMMKN1xS2KRLC9RaLxdKs3K3z_XnGlCo5xVgCJtaeFkeIL2OP2s0ASwsukKNsNLoxmiiUrOv7J0OJtv85x0EGW0cldz33GwYV9RBGuL4TxxzadF1P_hUg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3JXAlHicHcTdToMwGADQJ-ooVDIx8QJx4Gj5ERzOqwVLUwisXfYVaHhDH8G3MfFcnN-f3pgbPDnO1JOd1FpOYgZx51oZocyO66sjb4A4IHDCMn8fw_j4hoby8Nqev_3FC1S9z5oso7lra49WLAqqltmOAqFku5xVMkXat42MUtOKeBRH5hWlBzisV5hHmkPOtL0Ow-leLPsUF6lZHn2LD8kn5lO3EZKsX01QvSQze_iwdmu72C0v_Uk-ry7GGPX_c6T-AGf6RHQ"
+  },
+  {
+    "position": 7,
+    "title": "Medkart Pharmacy - Tarsali Ring Road - Vadodara",
+    "place_id": "ChIJyRr3pLfFXzkRi4N_6-zqpaQ",
+    "data_id": "0x395fc5b7a4f71ac9:0xa4a5eaeceb7f838b",
+    "data_cid": "11864147096661623691",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5b7a4f71ac9%3A0xa4a5eaeceb7f838b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5b7a4f71ac9%3A0xa4a5eaeceb7f838b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2565735,
+      "longitude": 73.2049729
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyRr3pLfFXzkRi4N_6-zqpaQ",
+    "provider_id": "/g/11jptjgfyz",
+    "rating": 4.8,
+    "reviews": 38,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 6, Nityanand Shopping Center, Shushen, Susen - Tarsali Ring Rd, opposite Manisha Park Society, Anand Baug Society, Tarsali, Vadodara, Gujarat 390009, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–8 PM",
+      "monday": "9 AM–10 PM",
+      "tuesday": "9 AM–10 PM",
+      "wednesday": "9 AM–10 PM"
+    },
+    "phone": "+91 87582 65265",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Generic Medicines In Lower Price\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEsig0IPgguvWXhlA23JYeKx-HerVFiXJyrYC906hQOeAws-5RX11yo6Lk92PgBgeUx0saCMqxk4H5wJ2Q5E6MTq9zJWlUTEUMmKVmsR7i6ub_N1zjJETxm4G4e4oGlxPURkGw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FxcetHicHcTBDYIwFADQiQoFAYOJBzQIVlEgoHgySpoWKVT5INUB3cFtTHyH9_3wvr_DTNcFn2hMSiboALQrZdvTttdK2ejsDqgEBLoX75La86FieB0zNjyPBReeOSEnulEopN1hVRXk1Z2WLnZ4sqfeCMhOC8N4SWdbu2bMFozmCsNlGT1UbYX2SMzE9p0oe7hvchR55udRszk0kE4rZ7ied8b7RvxMNVZgUUsGQsV5WgfjfDQwxoj_L1H7A-L5Q7g"
+  },
+  {
+    "position": 8,
+    "title": "Medkart Pharmacy - Warasiya - Vadodara",
+    "place_id": "ChIJvxUVPIXPXzkRluVXp6K6ttA",
+    "data_id": "0x395fcf853c1515bf:0xd0b6baa2a757e596",
+    "data_cid": "15039413213405373846",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf853c1515bf%3A0xd0b6baa2a757e596&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf853c1515bf%3A0xd0b6baa2a757e596&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3135527,
+      "longitude": 73.22325699999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvxUVPIXPXzkRluVXp6K6ttA",
+    "provider_id": "/g/11k6p1djr0",
+    "rating": 4.9,
+    "reviews": 292,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "G-46, Kamlaba Apartment, Harni - Warasiya Ring Rd, beside Gopinath General Store, nr. Rajdhani Society, Gayatri Nager Society, Kishanwadi, Vadodara, Gujarat 390006, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 90234 37556",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Effordable medicines and good staff service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEq0MXA8Xj0yb3VGU5U--kelNOF3UTiQro7CFcg1yEb3LYEqHksC274zG2nykzlrNzb7jmzvx61z-1H110YmIF-oXKPysr56sZ1o5W88zQY5rmM7DxCKBX3xdQeCPNAi6CYBJpK=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/EgEQ5XicHcRJDoIwAADAFxVaK0tMPEAFVBQhEQWP1AaUpdiiQj_oG_yNiXOY76cahl4udL2psFZyXjbsKZmgvBtYN2iUt3rZS0AlkLoTR0nteA-4zxw7u8OpwKcgNVIAatZEBx-nx1siuEV8WqLJK_Au9x7rWpKZNVfBrJtq1YhIFda9Va_RRAqgNUIwbzc-4FkYT1IYprwgbpxtWyW5Idq9tRpJ6GZ4vCaMxJFzM0nubvtw-UYQQlD9p6D7AbqSQrY"
+  },
+  {
+    "position": 9,
+    "title": "Ashapura Medical & General Store",
+    "place_id": "ChIJ565KVxLFXzkRcgzKC-jxCpA",
+    "data_id": "0x395fc512574aaee7:0x900af1e80bca0c72",
+    "data_cid": "10379374270161226866",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc512574aaee7%3A0x900af1e80bca0c72&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc512574aaee7%3A0x900af1e80bca0c72&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2913316,
+      "longitude": 73.1989348
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ565KVxLFXzkRcgzKC-jxCpA",
+    "provider_id": "/g/11mt1h1gw5",
+    "rating": 5,
+    "reviews": 11,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "Shop No-16 Gf Bansidhar Complex Nr Shreyas School .Opp Polo Ground Vadodara Pin 390001, Bagikhana Rd, near Polo ground, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 11:45 PM",
+    "hours": "Open · Closes 11:45 PM",
+    "operating_hours": {
+      "thursday": "8 AM–11:45 PM",
+      "friday": "8 AM–11:45 PM",
+      "saturday": "8 AM–11:45 PM",
+      "sunday": "Closed",
+      "monday": "8 AM–11:45 PM",
+      "tuesday": "8 AM–11:45 PM",
+      "wednesday": "8 AM–11:45 PM"
+    },
+    "phone": "+91 77788 03272",
+    "user_review": "\"Best price in medicines\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6bPvZBvWOFhRIePAtEy8p0kJChczAi24uCwyNiKgH1yRx8UGEZH8ki0dw7BEvUfysURtq84qD7GjYQyq7KYDO5lS4mN-NGELUXljXOLzZATuxIuazUeKPOCnmhfkyrQYwT7FMfrpZGaur=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/y7_pRnicHcRLcoIwAADQE0WixcI400VEBIvlpxmFncZAkD9JwHDJrr1NZ_oW7_3LhOj4RtMq9rHI2zavqOR0IG0jaCMWpK21vOOAcMA1FPpRidzPezim2_ES7Fl8oCEStjI7WH5bjMyoWOnSmpRfeLm7VPHLxI6dumZZwMdkbO0RZ4rjWPSm3u8M55lEqje8ZBesq5Ne-8B37CO-Vs9rcJxTdJavg7zNmHphYDU1y0o1RMl0NvY_2dClzk0OX9MSQgjY_wQ0f7qLSGA"
+  },
+  {
+    "position": 10,
+    "title": "Sheetal Medical & Provision Store",
+    "place_id": "ChIJRRhd3-nFXzkRh-BZISaxhoE",
+    "data_id": "0x395fc5e9df5d1845:0x8186b1262159e087",
+    "data_cid": "9333342055098343559",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5e9df5d1845%3A0x8186b1262159e087&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5e9df5d1845%3A0x8186b1262159e087&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.278198699999997,
+      "longitude": 73.197997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRRhd3-nFXzkRh-BZISaxhoE",
+    "provider_id": "/g/11cm4f4yv_",
+    "rating": 3.7,
+    "reviews": 81,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "Lalbaug Shopping Centre, 16-19, nr. Shreyash School, Manjalpur Naka, Lalbaug, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 12 AM",
+    "hours": "Open · Closes 12 AM",
+    "operating_hours": {
+      "thursday": "7:30 AM–12 AM",
+      "friday": "7:30 AM–12 AM",
+      "saturday": "7:30 AM–12 AM",
+      "sunday": "8 AM–1 PM, 5–10 PM",
+      "monday": "7:30 AM–12 AM",
+      "tuesday": "7:30 AM–12 AM",
+      "wednesday": "7:30 AM–12 AM"
+    },
+    "phone": "+91 94844 69955",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"24hrs medical shop good staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsjnOo6Ylb4wN-uechCfEDiZHsXNsY6GBwlHX4OBVNlkUa148zeWiOMbcLAO0ozf8Nh5FUlp7n1X3CA3YY5ubG89y65tnyZjcAm1w3d3McaY9l6thCsc69ET2oOH07BxK7xr91=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GL6nUHicHcRRboIwGADgE1XaFQos2UNhDpLNdkvmRn2Tf5WqtSW2BPWCO8Nus8Tv4fv7NTGO4TFJrKGLwfvB6inoM3gXtYsL8KdkGAOCgELC38XHkTfh4KRnyvbpLNCkwdS75fN-04ZOBMWaarZtl8rqS9jjekvS4qa_93LVwxuX2N92hTDZy9qOuSMdrTlVKpv6piivLIvuujkAP5GZ_tAVbFVpWTR1AFYuPx-8bHFeXV7zy7kkTzPBGCNzH5D7By9sQ0s"
+  },
+  {
+    "position": 11,
+    "title": "Medkart Pharmacy - Baroda Dairy, Makarpura - Vadodara",
+    "place_id": "ChIJC5-I_GfFXzkRQ2sc0joefIw",
+    "data_id": "0x395fc567fc889f0b:0x8c7c1e3ad21c6b43",
+    "data_cid": "10122999300404046659",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc567fc889f0b%3A0x8c7c1e3ad21c6b43&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc567fc889f0b%3A0x8c7c1e3ad21c6b43&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2709667,
+      "longitude": 73.2034449
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC5-I_GfFXzkRQ2sc0joefIw",
+    "provider_id": "/g/11r309h1nf",
+    "rating": 4.9,
+    "reviews": 283,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "SN 1 & 2, Gr Flr, Silver Rock Apartment, Besides Apollo Pharmacy, Makarpura Rd, opposite Baroda Dairy Road, Manjalpur, Vadodara, Gujarat 390009, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 56298",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Staff are to very Good and medicines are in discounted price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEb2YqNsKOchVyy7ut3-T9Z6p9_4Pg5k08CIGQurK7EpGVsu_n-ceJ1ft2Y6CYPXXioxXrrLBk51AdVHXiqKPbf7mA3GyZz8hP4QQ-uUrCc7laXZ8eYz-Rox5z4-GIETnBGH8Gp=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IoSMKnicHcTdboIwGADQJ_oEBARNvEBCqrK4sjhSuDGzVmrAtvYnCi-4Z_BtluxcnPcvt1aZlecNPJx1UnYDc4ZpKoVlws6ovHudMkANGC_Dh6rPivO8eRxM-Ul5PY6JsyEcl-1CLU8R7uLeT_Mdqpwuk0Kh2riTAMr2wdXOm0XeYEJu8kW0_tj0cZBd6i25PUp8vib3LERjO6UcR1UF7lvnNBl-SJuyZoIv-YqnCNCuOIoN2qZIrZ-B7_vA_6cg_gARIEN9"
+  },
+  {
+    "position": 12,
+    "title": "Medkart Pharmacy - Dhanlakshmi Complex, Manjalpur - Vadodara",
+    "place_id": "ChIJtwMxx83FXzkR4zU2QgZrWWQ",
+    "data_id": "0x395fc5cdc73103b7:0x64596b06423635e3",
+    "data_cid": "7230928351344866787",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5cdc73103b7%3A0x64596b06423635e3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5cdc73103b7%3A0x64596b06423635e3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.272664199999998,
+      "longitude": 73.1905692
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtwMxx83FXzkR4zU2QgZrWWQ",
+    "provider_id": "/g/11h2n42f3y",
+    "rating": 5,
+    "reviews": 116,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Dhanlakshmi complex, B-24, beside Saraswati Complex, near Eva Mall Road, Vaishnavdevi society, Manjalpur, Vadodara, Gujarat 390011, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "10 AM–9 PM",
+      "friday": "10 AM–9 PM",
+      "saturday": "10 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–9 PM",
+      "tuesday": "10 AM–9 PM",
+      "wednesday": "10 AM–9 PM"
+    },
+    "phone": "+91 95742 65265",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very good medical store, supportive staff, spacious store.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv70Js8aG9lz--d4sbvu7UD24xCTWyuWl321IRdrhhAAARpC8Gv7Ngqwh23z98NVnmrv5Zari_tIasrTQCwZZhEEI13bJWYUeiJPutEx0JWUDkez1LSOoreTKcJD04XwMzKJQC=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/V7n0TXicHcRdDoIgAADgE5H407S2Hpg6J5WpaZYvzYhJy8QAtbxgZ-g2bX0P3_fDlOrkUtMaZs5qzuuG9pIKwltFWzUj_KHVnQREAqmhOEruyB9siKVTBYtmAuBqycvQ27lnWC83K9590ZiGHqZXwRhCKO1cJxjsqH6OzDCnhRMd2ocY5mUlbmcVVlJkiTuWJfP9UDcvuDjl9IbjXvkviIvcu9NJ3-x3XNBsTbAHreO4ndY4cVejDiEE7D8B7Q8gokQw"
+  },
+  {
+    "position": 13,
+    "title": "Medkart Pharmacy - Ellora Park - Vadodara",
+    "place_id": "ChIJ-xV-o__JXzkR901Fz9xdGRY",
+    "data_id": "0x395fc9ffa37e15fb:0x16195ddccf454df7",
+    "data_cid": "1592407146203794935",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9ffa37e15fb%3A0x16195ddccf454df7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9ffa37e15fb%3A0x16195ddccf454df7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3175214,
+      "longitude": 73.16118159999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-xV-o__JXzkR901Fz9xdGRY",
+    "provider_id": "/g/11x6vp5z_1",
+    "rating": 4.9,
+    "reviews": 26,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Ground Flr, Adalja Complex, No. 06, opp. Ellora Milk Center, Ellora Park, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 93138 06798",
+    "website": "https://stores.medkart.in/medkart-pharmacy-subhanpura-vadodara-11874403/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very nice and medicine shop\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHlEAuOwF-9rW66hnb4vQF1rzHTPYD9ys9T_6QiDdu585T9zekgUE_8yaEsyzel3BGo0SrSajJsV_qbfC29RAzjUy28vOs_pdl9vWcVCL6vMb3owNofKGtNNpEA_L1rSji2eyuGMg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hngGYXicHcTdboIwGADQJ6r8TUJNvOgUMVNRBDW7aqTWInaU9SuQ8oY-wt7GZOfi_L0qY1qYOY6sgolQSkjeAddMNYY3ZsLUjyNaQAwQOOSQZk-yljHp9sMKYX0Jw6opP_ps5elxXRy-l9gCLmiYPZa3bhpNCzzypzjFNLLXGOzIZfCZKDfX-bX-gjP9Le8LHx_JWJ-sH_V7oO1N4v7Czott2O_KQA2pum8Sk6ZtTOjW03n98Lntkp2YD57ruqj6n6HmDfQ9Rew"
+  },
+  {
+    "position": 14,
+    "title": "Royal Chemist || Best Chemist Store | Pharmacy Store | Medical Store",
+    "place_id": "ChIJB5RlELrPXzkRlwnvdfBf5QY",
+    "data_id": "0x395fcfba10659407:0x6e55ff075ef0997",
+    "data_cid": "496908820269697431",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcfba10659407%3A0x6e55ff075ef0997&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcfba10659407%3A0x6e55ff075ef0997&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3031368,
+      "longitude": 73.1990769
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB5RlELrPXzkRlwnvdfBf5QY",
+    "provider_id": "/g/11hz19hvm0",
+    "rating": 5,
+    "reviews": 12,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "s Basement, Shivam Chamber, Pratap Rd, Raopura, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 94092 68009",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Every particular medicine is available with proper discounted price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG7R1aGPVWlmFj1Gvyr30xijd-x_hJnWjwdlhhZxK0V_NoLiVIu53hWcuDUNzegFeslvEjkIHQwWPCfJ9kB7uaYIZSMHtspohl_Sxt8aya2pHfxLiBG9o7xmazcQ4fH_7ubaVPaLJqO2CfU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XgMVM3icHcTbboIwAADQL6oUcWGa-OBl3MYQNEL0hXS1UKBQtK0UftLn_c0Sz8P5e1Epe7EyDEatWcl5yYgS5IF5J0knZ5i3RtkLgAUQxiaOkmbj2kcTuXGasdapTfc5Piyoq_oGdE6DLquHG6P0qr9hmkc8rFJffVg0w2p_jiZSOkSw51fd-F4yZPGuCJbN1lbo4l9PP54UPacsP2n5iUY0771Ch9XWXXJbt2jCyaLwclv9ojRGYXA_zHfFeT2YEEJA32PQ_QNP1UlZ"
+  },
+  {
+    "position": 15,
+    "title": "Medkart Pharmacy - Vemali - Vadodara",
+    "place_id": "ChIJP-UZTtvPXzkRjdYqxtAXnhQ",
+    "data_id": "0x395fcfdb4e19e53f:0x149e17d0c62ad68d",
+    "data_cid": "1485651112524174989",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcfdb4e19e53f%3A0x149e17d0c62ad68d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcfdb4e19e53f%3A0x149e17d0c62ad68d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3544351,
+      "longitude": 73.2062885
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP-UZTtvPXzkRjdYqxtAXnhQ",
+    "provider_id": "/g/11rx2k3xt3",
+    "rating": 5,
+    "reviews": 48,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 12, Tower E, Orchid Platina, Sama-Savli Rd, opp. Rama Sikhar Flats, Vemali, Vadodara, Gujarat 390024, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–9 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 88490 48670",
+    "website": "https://stores.medkart.in/medkart-pharmacy-vemali-vadodara-11342869/home",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"\"Effective medicines at cheaper cost!\"\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUeIOIol2Au42xpy5Zq-9tALjUkq1c75-trESEdEddV3yY5Bz5HgiCzW0L1yZFXHEXsryvaETedjjDbWDeWvgskgHJIYA5GneBC_ucBtqhfk7tKT8jnrxPAX928igjZOpbtMwXPU4pkzl8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Y5eNYnicHcRNUoMwGADQE6X8tJlSZ1yENhW0WhyLUDaODTE0wSSQj7ZwSdfexhnf4v3-NADW3Xle28xnwhjR8sHxnhkNXMOMmW9PWIeYQ84j2curItucp_vUtCEZFuHNjrjq0ArITuaqC9gSI-jpG61pXb_PxyOOJ5yI83oq_F0wVtsyoaXrx8snPfBays2p2PDiIpwSyWN6JPhB83j9MbAYuuZLLeHpEEnd3zJSrsLoLGS1tyd4vpZZvrBqaqP7a-D7Pmr-Z0j_AavjSDk"
+  },
+  {
+    "position": 16,
+    "title": "davaindia GENERIC PHARMACY",
+    "place_id": "ChIJzeCHHwDPXzkRuRS9CDJF2qY",
+    "data_id": "0x395fcf001f87e0cd:0xa6da453208bd14b9",
+    "data_cid": "12022998236416251065",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf001f87e0cd%3A0xa6da453208bd14b9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf001f87e0cd%3A0xa6da453208bd14b9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.314464899999997,
+      "longitude": 73.222645
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzeCHHwDPXzkRuRS9CDJF2qY",
+    "provider_id": "/g/11t75cj0vl",
+    "rating": 4.8,
+    "reviews": 45,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Drug store",
+      "Health food store",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Vitamin & supplements store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "drugstore",
+      "health_food_store",
+      "herbal_medicine_store",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "vitamin_and_supplements_store"
+    ],
+    "address": "Shop No 15, Rajdhani Society, Warasiya Ring Rd, Gayatri Nager Society, Kishanwadi, Vadodara, Gujarat 390006, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "9 AM–10 PM",
+      "friday": "9 AM–10 PM",
+      "saturday": "9 AM–10 PM",
+      "sunday": "9 AM–10 PM",
+      "monday": "9 AM–10 PM",
+      "tuesday": "9 AM–10 PM",
+      "wednesday": "9 AM–10 PM"
+    },
+    "phone": "+91 63523 39805",
+    "website": "http://kishanwadi.davaindia.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Good staff\nExcellent service\nProducts are amazing 🤩\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGB2XZIV5ScratuSyIQXmnhwQwYNeByvzwOdBoqugOTTBa_uBZXN1SpNDWdZbDE2wL2Oi7M5nQOMaqfT6dYfYAqNaiJ1tXyc9wAeRBxnCLecYrChRsVZI5Gy_23aWpAmQnseAs84g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3KRThHicHcRLjoIwAADQEyEfxRkncdGKMUy0WCEKbEgttTUjLdBiB2_oEbyNiW_xXk9hTKt_XPcmphOuFL-xQbOeKmmYNBOqGpe32qHa0S7YI_wHNjDIy_gYprQnZkjHGOeNFBbbAjE43h82qaHqBp5kGSTVAMsc-WmLolNdnqN1YLdBcv3ahRInO9JdsnldXArQIXL99U0-0oUF7AD_5WrLaNGvxEEfyzjcjFUwJacWNFhqBvT3jC-t73meIz5TR74BdsdGkg"
+  },
+  {
+    "position": 17,
+    "title": "Medkart Pharmacy - Munjmahuda, Akota - Vadodara",
+    "place_id": "ChIJ045_bXPHXzkRzkYqZuO6gBc",
+    "data_id": "0x395fc7736d7f8ed3:0x1780bae3662a46ce",
+    "data_cid": "1693558945725695694",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7736d7f8ed3%3A0x1780bae3662a46ce&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7736d7f8ed3%3A0x1780bae3662a46ce&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.285284,
+      "longitude": 73.1680095
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ045_bXPHXzkRzkYqZuO6gBc",
+    "provider_id": "/g/11x7pmpgns",
+    "rating": 4.7,
+    "reviews": 31,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No. 6, Balaji Arcade, Akota - Mujmahuda Rd, near Gogni Maa`s Temple, Akota, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 78638 24708",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Courteous staff and great discounts.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEumyL__YjS2grf6rFay_gDzd_hNO15Pdt-LC7rwkFG5nUOIg-TxC-5dN7aNZFRuCsSOE4qhFprkH0q_RgNSDJC-1u1s-GWOZrM1NZQFABqZOJ_bF-mGxvxJYzNGfPpe5lhM0ONMn9Q3jQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2qZvlXicHcTBboIwGADgJ_ql1aGZiQeGlo1IC-KyyKVRwDYCBdqi6EPu7tuY-B2-57-0tjNLx6nlbCLaVtTlYEqdt8qWyk7ytnFEZyA3YBwvpknlbYbmvuX8cEmnQp_nmhzvXKwfBZeUYTcuLGz9hb5VJHDVL_sRsB99cAu6ONKM7AbfpGzz0UvS6eob9XwnaLoOfcADNhD8sUxHmGYJ8b76jIX8RKAJxusYHh40OMdd6dYyQoxG6jOZXZLVDSOEQL7PQb0AQBdGNg"
+  },
+  {
+    "position": 18,
+    "title": "Uma Medical",
+    "place_id": "ChIJYSVqZnzFXzkRgh55UsNgAps",
+    "data_id": "0x395fc57c666a2561:0x9b0260c352791e82",
+    "data_cid": "11169596417850809986",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc57c666a2561%3A0x9b0260c352791e82&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc57c666a2561%3A0x9b0260c352791e82&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3018713,
+      "longitude": 73.2298866
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYSVqZnzFXzkRgh55UsNgAps",
+    "provider_id": "/g/11b6llrrxm",
+    "rating": 4.5,
+    "reviews": 233,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "address": "Shop No.5,Bhamini Corner ,Below Motnatha Vidhalaya, Uma Cross Road, Waghodia Rd, Vadodara, Gujarat 390019, India",
+    "open_state": "Open now",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very help full medical store staff and very good services and discount\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE6A15lA6KnpvfLovJtk3-2dZ60VHYX2mtOYV5LyxgCNRp-_0XMp70ACypAxaNqQK2QRo7a6nOnijTOj8B76qdxxyxazBAbZdRk6ojTU186Fwym4yAVnlCv_7uZ6v6KMo0trpZQMw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Fv-uHXicHcRLDoIwFADAE1UK6sOYuKhEY0RAiBJlYxAQ5NNWW6H1hh7B25g4i_l-Kim5mBtGW41HJWNlW7xE8cwYlQWVo4x1RskFygQSBtn7YUNWQMxpS8ClvL_tWL-VzRhZeQI43pxPVieDczzdaVU6fsTRBZ88bmPiaE5U6j9C1wojZqdAA3qvD0E9W9rwyJXSKn0vyTXJowZYfTiaM1gPuptoEtPW6S_2K4EeXI9h-eRJ6A2LwcQYo-p_hugPmHdFLQ"
+  },
+  {
+    "position": 19,
+    "title": "Shreeji Medical Stores",
+    "place_id": "ChIJsdtXVLLIXzkRYWOxTvlVzw4",
+    "data_id": "0x395fc8b25457dbb1:0xecf55f94eb16361",
+    "data_cid": "1067166165965562721",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8b25457dbb1%3A0xecf55f94eb16361&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8b25457dbb1%3A0xecf55f94eb16361&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3127447,
+      "longitude": 73.17905329999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsdtXVLLIXzkRYWOxTvlVzw4",
+    "provider_id": "/g/11b6b7c59z",
+    "rating": 3.7,
+    "reviews": 11,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Copy shop",
+      "Cosmetics store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "copy_shop",
+      "cosmetics_store"
+    ],
+    "address": "G-11, Silalekh Complex, Indubhai Patel Marg, Near Nandanvan Society, Opp. Mamta Hotel, Behind Railway Station, Alkapuri, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–9 PM",
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM"
+    },
+    "phone": "+91 91730 78561",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Always available medicines, quick response and good guidance\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGmEcYOlgE0YFfSyBkjed3lWu-z1BpNamnRQ0HZH5LEYcUW5wmKWgJbd4axyYylFV6t-8W5QFfoHkbkbRf9BMjSVySKKWKhMzKHpdvjL_i37oAJGqDBAhkmAF_AgINY8PxukG60EJWiZDsNTC_Z_51f4LSBfp-31scS4gkXdLaZTjlKk03fPLoMrNAocyTbPmeT0LA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pn5YC3icHcTNckNAAADg6alPI9YgTTvTw6q_slRCs-ViWKxY7BZpyKP2aTrT7_D9Pjy2yyLmF1nuW3VHOad9fZ3rifBxqcdlR_ggUzFLYuLrJkNUaWbrDBZJP3pqgdRu4s1gXV2pPb5Kd8UQYTGMpyNwM1dHVko-sX4bfEy9stKKdUu33j7vF-mA9aPdcJeVrDw1z0bQxect9n3st8Hdd0X106H8oj5x6DnfpgFbNkA7h_Q9TA_RemXOHlgevmTmHCZveZbrSqOh2GiEpCoziTXKvipUZEnX-wyoTYR4MIWQky0po6FOAIKvNwUAILX_E2n8AylIWWM"
+  },
+  {
+    "position": 20,
+    "title": "Vishal Medical Store",
+    "place_id": "ChIJ33FxLF_PXzkRLLmBZyXuX9Y",
+    "data_id": "0x395fcf5f2c7171df:0xd65fee256781b92c",
+    "data_cid": "15447327091321846060",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf5f2c7171df%3A0xd65fee256781b92c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf5f2c7171df%3A0xd65fee256781b92c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.303275799999998,
+      "longitude": 73.2000983
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ33FxLF_PXzkRLLmBZyXuX9Y",
+    "provider_id": "/g/11b6cv8q8p",
+    "rating": 4.2,
+    "reviews": 19,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "11/3, Vinoba Bhave Rd, Shiyapura, Behind Rameshwar Mahadev, Raopura, Mandvi, Vadodara, Gujarat 390001, India",
+    "open_state": "Closes soon · 7:30 PM · Opens 9 AM Fri",
+    "hours": "Closes soon · 7:30 PM · Opens 9 AM Fri",
+    "operating_hours": {
+      "thursday": "9 AM–7:30 PM",
+      "friday": "9 AM–7:30 PM",
+      "saturday": "9 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–7:30 PM",
+      "tuesday": "9 AM–7:30 PM",
+      "wednesday": "9 AM–7:30 PM"
+    },
+    "phone": "+91 265 243 8150",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Almost all dermat medications are available\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4ZRbNzwee0VzJDa9wuNyANSniSB4dk602qq09pQSirLqfGZs9oFLZaptZW2463ceh104F11XB7cOxFCW-CfPCyK7BPhNzaPPZ0ec-NuwcL_easuRpovxRG_NyS4ljZitpRZyM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UvDmNXicHcRdDoIgAADgE6FYrGZbD2rZVkakWzZemhGJZYKC-XPBztBt2voevu9HGKP0wrZLMbVyKfOSt5o3TFaGV8Zi8mXnSgOmgbY9go9Pb41ofMVjxzk8jdtV5nYtHjycVEXio9tzBid1DV11TIomqu8bql0ZRjRThqYTNJsyLhyIQsc5-3N26MMgBcGdBMNu7hOBx4wQCjkDuO1YdOGZbmMl3328ueAhQeWDFkbFdNgvOwdCCMR_BqofMOZEuA"
+  },
+  {
+    "position": 6,
+    "title": "Medkart Pharmacy - VIP Road, Amit Nagar - Vadodara",
+    "place_id": "ChIJO3cATk3PXzkR8v1ZEKh_AOA",
+    "data_id": "0x395fcf4d4e00773b:0xe0007fa81059fdf2",
+    "data_cid": "16141041424301424114",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf4d4e00773b%3A0xe0007fa81059fdf2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf4d4e00773b%3A0xe0007fa81059fdf2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.327108,
+      "longitude": 73.206215
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO3cATk3PXzkR8v1ZEKh_AOA",
+    "provider_id": "/g/11z0ksx_lc",
+    "rating": 4.8,
+    "reviews": 31,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Ground Floor, Balaji Arcade, No. 10, VIP Rd, beside Navrang Hospital, Amit Nagar, Balaji Nagar, Karelibagh, Vadodara, Gujarat 390022, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "8:45 AM–11 PM",
+      "friday": "8:45 AM–11 PM",
+      "saturday": "8:45 AM–11 PM",
+      "sunday": "8:45 AM–11 PM",
+      "monday": "8:45 AM–11 PM",
+      "tuesday": "8:45 AM–11 PM",
+      "wednesday": "8:45 AM–11 PM"
+    },
+    "phone": "+91 79906 31146",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZ3v0Lh6Sllq6-EqIF7ZE34IsWjGclusuwzoPGf1RLA3WwaJ0EJQ1apxpzxHyI_HXqKngI6_tO-DdSWg_4ws8YqAU66yTe74Oi2k8cqxtql6M8DWsEXyyoR-DDD7zPv2lHxJdK-EtXXf6C=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1fRqxnicHcTLjoIwFADQL6oUIYWYuCC28tAZ8RXQDTEVi1opnVvk8ZOz9m8mmbM4n9_KmAZmliUrZyKUErJsofzhqjZlbSZcvSzRAOKAwArS7-0zCM_OG68rspdSE8R0vPTOzHFjyB4hly203ajS8Gbv1oGTdZcEs2RrX5q-GftoiIso16taxKQwG0Sv-0wUbgf-SQdHQoZD6bmb-_Tpc90bLcmXTzNg-TCoHaKUemP6nsqoT64rxEye38hi3tkYY1T9z1H9B4BIRwI"
+  },
+  {
+    "position": 8,
+    "title": "Medkart Pharmacy - Diwalipura, Vasna - Vadodara",
+    "place_id": "ChIJQWOqLUzHXzkRwmvP0ftVB4g",
+    "data_id": "0x395fc74c2daa6341:0x880755fbd1cf6bc2",
+    "data_cid": "9801897654040357826",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc74c2daa6341%3A0x880755fbd1cf6bc2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc74c2daa6341%3A0x880755fbd1cf6bc2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3020815,
+      "longitude": 73.1520227
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQWOqLUzHXzkRwmvP0ftVB4g",
+    "provider_id": "/g/11gpk84wrf",
+    "rating": 4.7,
+    "reviews": 238,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No 5, Ground Floor, Shree Avenue, Vasna Rd, opposite SMVS Swaminarayan Temple, Manisha Park, Meera Society, Diwalipura, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 70960 00603",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhyBRzEVaIBvG8_l9qtOUkutu-BUsEk7nkD_8drIiS2TStRUiz-Hh3fUBJZU1E-8PBoO3CQtClhtEL6lE99TObguJgQN3wPz7CY57kdDAiyJIZ4_2M-b_aXikbu0BhKQFwwsU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZdmYsXicHcTdboIwGADQJ6qgOAETLyh2DqYCao16Q_hbS9pRtV8l8oC-g2-zZOfivF8c4KrnliW5M2JKMdkY3dwr1UHTwahSvxa7alRppK0g3WYiIPyJdwM5FhF-rLxc-jdIqDBgEKaaCLcTy9yr71G7nxz2sKPtgL6480NxfKFjgrwUq8QJMwglB7KeSeL7h6RkJmbZ1unTwQ3PH66ol0H7jKPLNJ9sUJkXp1aUxsb8O_vse00X_di2bcT_r1D3B_c0Q6k"
+  },
+  {
+    "position": 15,
+    "title": "Medkart Pharmacy - High Tension Road, Subhanpura - Vadodara",
+    "place_id": "ChIJ_cK_KsDIXzkRgUWDl3BxONA",
+    "data_id": "0x395fc8c02abfc2fd:0xd038717097834581",
+    "data_cid": "15003866886977045889",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc8c02abfc2fd%3A0xd038717097834581&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc8c02abfc2fd%3A0xd038717097834581&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3222192,
+      "longitude": 73.1585913
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_cK_KsDIXzkRgUWDl3BxONA",
+    "provider_id": "/g/11fzfbnvps",
+    "rating": 4.9,
+    "reviews": 547,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No. 1, 1st Floor, Chanakya Complex High Tension, Cross, Rd, opp. Jain Derasar Temple, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 70960 00601",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF1vAXJ0oFxJ8qbWbPkrioMGA44DXBZtB1QNRB_9tEDxpAHfNVHz8fJRrf8YKMVAWKM4JvQINXkKJZqU1683Yo0MBa9RLDAE4hAFTz6wZ6JVTYZa2gpjQqFeWJc0Ov-bfMBtwc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ewPOkHicHcRdDoIgAADgE5FYzllbDzCzwrB05t9LS6ZYlqiQNg_YHbpNW9_D9_1USrVypWmPajHjQvBH8ZJFz0SjikbNmHhqvJWASSA1dPL8Gjn6gBIChfMmVpfH-anub4JukWHYCc4U1n0vwJel2tjvFu1KL9pNVkmCvrRSl0YodqlBBn_vJbVLsu6sm9YiFZDi6zI42GhjVMgJJ3PMTBKFaXad8_bud04REwaPA8hLitXI1qMOIQTVfwaaH2RQQlM"
+  },
+  {
+    "position": 16,
+    "title": "Medkart Pharmacy - Sun Pharma Road - Vadodara",
+    "place_id": "ChIJewFmgYfHXzkRibE2d9vehqY",
+    "data_id": "0x395fc7878166017b:0xa686dedb7736b189",
+    "data_cid": "11999523291354542473",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc7878166017b%3A0xa686dedb7736b189&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc7878166017b%3A0xa686dedb7736b189&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.280421699999998,
+      "longitude": 73.1569901
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJewFmgYfHXzkRibE2d9vehqY",
+    "provider_id": "/g/11x8dpbhsb",
+    "rating": 4.9,
+    "reviews": 65,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No. 14, GF, Raama Crest, Sun Pharma Rd, near Shreeji Bungalows, Mathura Nagri Society, Tandalja, Vadodara, Gujarat 390012, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 78618 80151",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHmbcgr-a-7akVtjKi5n0jIHz1la0xnBiDnEAzTluBFqVvvjmYknTvgp0IJy63lUQBO5-luI9ZTMxW559lzdrAxZTtl0cTdn0xAcl8boPWEOxLwMaCilAbaIjdSpp4JNB9IUi7QRp1fJ8ST=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hLolCnicHcTLUoMwFADQL0oJU2mLMy6CrdOgfWDTduwuBAyPSxJJoJGfdO3fOONZnN-fyjljH4MAqvlMai2hHGzZC61cqdxM6C6QxiJhkQ3IcZ-1ZNvlQvaIoyVvL655rSOFG7qdQuDYq6Reqw2ZGAzJy9dlHJvuo1VslAbT9Hsxh3OWHCIEA41vbOevURTDVPTE35gDLFihsCcCVrk-XjcH_3bf8ecaSM5pU5yMeUj3SUzP9TJ7N-Fnujqxp3uIMUbV_wKpPwqiSA8"
+  },
+  {
+    "position": 18,
+    "title": "Malani Pharmacy",
+    "place_id": "ChIJy4ox_DXPXzkRTk4Oa2RgHek",
+    "data_id": "0x395fcf35fc318acb:0xe91d60646b0e4e4e",
+    "data_cid": "16797688169570913870",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf35fc318acb%3A0xe91d60646b0e4e4e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf35fc318acb%3A0xe91d60646b0e4e4e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.322995,
+      "longitude": 73.187854
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy4ox_DXPXzkRTk4Oa2RgHek",
+    "provider_id": "/g/11dxh_8hnj",
+    "rating": 4.6,
+    "reviews": 114,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Cosmetics store",
+      "Health and beauty shop",
+      "Organic drug store",
+      "Organic food store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "beauty_supply_store",
+      "cosmetics_store",
+      "health_and_beauty_shop",
+      "organic_drug_store",
+      "organic_food_store"
+    ],
+    "address": "GF, Biren Appartment, Besides 7 Seas Mall, Fatehgunj, Vadodara, Gujarat 390008, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "8 AM–11 PM",
+      "friday": "8 AM–11 PM",
+      "saturday": "8 AM–11 PM",
+      "sunday": "8 AM–11 PM",
+      "monday": "8 AM–11 PM",
+      "tuesday": "8 AM–11 PM",
+      "wednesday": "8 AM–11 PM"
+    },
+    "phone": "+91 83060 01111",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwhcf3OC6iyOac-AGzCg1jxwPPTXfjf1DyEuY9AwcpzcSgC1w8Xop4KI-tAkgUVFnGr7HkGc3gXFYygTuqTshBz7OM6qrbII8LYh2anNmV3-7jB9oPH3dN9yhVTA8owOMkiDwc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UyV8GnicHcTBDYIwFADQiSpgjYCJh4KKRAWMSOCoX2gFbZGWVFjQGdzGxHd43w9TqpULw3gwPKFC0EfZy7IDwVXJ1QTE06CtRCCRNEgSHRsSaAYVjv35fYgvgEgw-tSq3zpJ0ryqK2s1rPvCJRraEU7Ut7STi3a2C5EiDT1nGx509rYJANN8Uww07V-pZN5ox4f5q7uGobMv2PTCo2eGkV17rki2-Ba5A8tS4ggdH5r7SsNSW6ZpIvYfEP8BiqpE6g"
+  },
+  {
+    "position": 3,
+    "title": "Medkart Pharmacy - New Era School Rd, Susen Circle, Vadodara",
+    "place_id": "ChIJjdPflDvFXzkRDK-LdxSevcY",
+    "data_id": "0x395fc53b94dfd38d:0xc6bd9e14778baf0c",
+    "data_cid": "14320776200850222860",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc53b94dfd38d%3A0xc6bd9e14778baf0c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc53b94dfd38d%3A0xc6bd9e14778baf0c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.251804399999997,
+      "longitude": 73.2042513
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjdPflDvFXzkRDK-LdxSevcY",
+    "provider_id": "/g/11ytqld90g",
+    "rating": 5,
+    "reviews": 21,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No. 11, Padak Park Society, New Era School Rd, Padam Park Society, Bhakti Nagar, Makarpura, Vadodara, Gujarat 390016, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 78618 04723",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"“Good service and genuine medicines. Arvind is the best staff here!”\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG82e2ec3fkzpMlLFF7SGXgZapcvuaELWx3CgCLY9liepjvfN0Oijge1se0jOMO7XergAMV6taJg39e0DGz5zb5b_WM5VzQw44xc4vOqzZDayaHUbnp8ANxiv741m2ekXTThWzRwHrNyo4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ID5KSHicHcTLjoIwFADQL0IKFFGTWRAfGMNjdFTQjSnNtbyklVbAfuTs528m8SzO32-hlJAL02wKZ8I4Zw28JHSUtwpaNaH8YTIhDSoNafrf8b72g5kNNlDnXmsRNeFm4_0EGbsSQfsXWYfp6CzZMrzMmxJE1d9jlJQVA0sCqpIo8TLomB-dp4rsmDMHtAq0q3M3v6WRe9b7AeOR4j556uuKvMn2lLdi5sdj2XvYethQZ8djkerDsO3iN8dfg4UQMorP1Gj_AXp4R8E"
+  },
+  {
+    "position": 5,
+    "title": "Medkart Pharmacy - Ananta Trendz - Vadodara",
+    "place_id": "ChIJ-453aeHJXzkRKlBTEgfWkSk",
+    "data_id": "0x395fc9e169778efb:0x2991d6071253502a",
+    "data_cid": "2995410553038655530",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9e169778efb%3A0x2991d6071253502a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9e169778efb%3A0x2991d6071253502a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3287273,
+      "longitude": 73.1336267
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-453aeHJXzkRKlBTEgfWkSk",
+    "provider_id": "/g/11s8bf04zl",
+    "rating": 4.9,
+    "reviews": 195,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No 16, Ground Floor, Ananta Trendz Laxmipura Road, road, near Narayan Gardens, Gotri, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 53824",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"the medicines are of good quality and at reasonable cost\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGAf24pw5qFenqIu4uUWMZwaF8NeB5FQvGoPwHndfQLC_Se6jpSkTzxmPt3_njzBDsdg9m8lPT9OCK6erGvpx2dqfBk2ZxrDf0guyuVoTWMpQjdf8dmZW_aVqx1Y6w1Tu11g3c=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nA8njXicHcRJboMwAADAFxEwJIhEygGCoFU2UCioXBDyhlhsg-2Y5IH9Q39TqXOY359OKSEPtj123oZyTkesJV4gZwoztYF8sqmQFpSWtMPslg9hGhJ3K8xuTjCbP_VWf1XX2rRJcMPRLsmfKc_MB0Mkv5yaB_Z78RiK9zplymtY_45iieh-Csas2N9PZx8v6VOsLppJNLj1usTEofqlS15UV5H3iARoqqumLecVfPsGFBoA6sGjAY7jWN3_0GJ_kF5F2Q"
+  },
+  {
+    "position": 6,
+    "title": "Metro Chemist & General Store",
+    "place_id": "ChIJlQQ-Uw3HXzkRaRi605MSU3w",
+    "data_id": "0x395fc70d533e0495:0x7c531293d3ba1869",
+    "data_cid": "8958524509891729513",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc70d533e0495%3A0x7c531293d3ba1869&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc70d533e0495%3A0x7c531293d3ba1869&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.281001,
+      "longitude": 73.13108969999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlQQ-Uw3HXzkRaRi605MSU3w",
+    "provider_id": "/g/11r3f8092g",
+    "rating": 5,
+    "reviews": 21,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "medical_supply_store"
+    ],
+    "address": "Shop No 14, Bhayli, Vadodara, Gujarat 391410, India",
+    "open_state": "Open · Closes 11:30 PM",
+    "hours": "Open · Closes 11:30 PM",
+    "operating_hours": {
+      "thursday": "7 AM–11:30 PM",
+      "friday": "7 AM–11:30 PM",
+      "saturday": "7 AM–11:30 PM",
+      "sunday": "7 AM–11:30 PM",
+      "monday": "7 AM–11:30 PM",
+      "tuesday": "7 AM–11:30 PM",
+      "wednesday": "7 AM–11:30 PM"
+    },
+    "phone": "+91 91305 29241",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store shopping"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "delivery": true
+    },
+    "user_review": "\"Provide very good medicine\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF-PEBvGlhanyje-MlxPIWoGYWKAA8-_RBt_DOFdkPYcQFKuYUZwLuV-OzW3SzszonsrLnitJ7Ua9VSpwS5cMCCAaeYipucMxJe-QJcNhuT3K_0PKjwR9M0S6IT9HF0i5pmr38I1KWj9x4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jKn2cnicHcTBboIwGADgJ_qlhjllyQ5Vh4OKFlEJuxDSNRTEtqHtYDyk973NEr_D9_cQ1mrz5nmd8Ge1UnXHneE9U9JyaWdM3b1aG2AGjIfpIb3hEOjH-mfXiUr-thySbqRRrnZFTjBeQXla23J7DL9vtGBpSFxx-Rr27grHKfezyUxKmn4vGxsvL1VwzfSQLViy2eCKF412LBljDmnMDsKdfVIiStrhFCQoe43OwWeImoW-9_4qmpO8DcaX92GOEALxnIH8B3KDRpk"
+  },
+  {
+    "position": 8,
+    "title": "Suvidha city chemist",
+    "place_id": "ChIJzzN62bvJXzkRBMzEdK3xzSc",
+    "data_id": "0x395fc9bbd97a33cf:0x27cdf1ad74c4cc04",
+    "data_cid": "2868214264995564548",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9bbd97a33cf%3A0x27cdf1ad74c4cc04&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9bbd97a33cf%3A0x27cdf1ad74c4cc04&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2521414,
+      "longitude": 73.2037771
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzzN62bvJXzkRBMzEdK3xzSc",
+    "provider_id": "/g/11tgdzr90p",
+    "rating": 4.8,
+    "reviews": 180,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Medical Center",
+      "Medical equipment supplier"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "cosmetics_store",
+      "medical_center",
+      "medical_equipment_supplier"
+    ],
+    "address": "GF 6, Novino Tarsali Rd, opp. Padam park soc, Anand Baug Society, Tarsali, Vadodara, Gujarat 390010, India",
+    "open_state": "Open · Closes 12 AM",
+    "hours": "Open · Closes 12 AM",
+    "operating_hours": {
+      "thursday": "9 AM–12 AM",
+      "friday": "9 AM–12 AM",
+      "saturday": "8 AM–12 AM",
+      "sunday": "8 AM–12 AM",
+      "monday": "9 AM–12 AM",
+      "tuesday": "9 AM–12 AM",
+      "wednesday": "9 AM–12 AM"
+    },
+    "phone": "+91 77779 11221",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Almost every required medicine is available, and the prices are reasonable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE15PMZhF65uGRAKPpQ16MXSaXZjSvOrsRYBgoPzYEFz389PbX8_FfKUmyIt4hQAeMxm3CdRKRwWii7uoWahULtEQ74ExDiIkbQoaK-RWLFf0J_r_qzr-uBHyVdCvujiG79qfgv=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UmajQXicHcRdEoFAAADgE61qQpjxkFRI7K6heGnSz26oTbubdEFncBszvofv-6FC1HymKA-qDwhj5JFJnjUJq0RWiUHCSoXUHCQccMWEO3Q3bW0E_Qt1xiPpYtODNdLGfniIw8vt0O4bjs8LwmB_tp1en0zhNZxETu4dy_daDCkyM78rdSvFHn4FRWFIFsT0uBU2MoZ2tyzW9ytisQdwsHVydRM10bNvgFys3qfUauWtcI3pMyft_KWpqgro_wRUPx8aRMs"
+  },
+  {
+    "position": 9,
+    "title": "Medkart Pharmacy - Susen Circle - Vadodara",
+    "place_id": "ChIJl-XPmkLFXzkRcBytG_QZvmg",
+    "data_id": "0x395fc5429acfe597:0x68be19f41bad1c70",
+    "data_cid": "7547498561746574448",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5429acfe597%3A0x68be19f41bad1c70&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5429acfe597%3A0x68be19f41bad1c70&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2515242,
+      "longitude": 73.1977608
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl-XPmkLFXzkRcBytG_QZvmg",
+    "provider_id": "/g/11s9hdxxng",
+    "rating": 4.8,
+    "reviews": 266,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "No B24, Mangal Murti Apartment, Makarpura Rd, opposite Panasonic Batteries, Anand Baug Society, Makarpura, Vadodara, Gujarat 390010, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 63547 56895",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Great place to buy medicines the rates are very competitive and cheap\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGKjRr3LH8gs70t9Lu4iS8osWo9MpVNrvqpCfzPo5WWuKoqusI05GfzC5AwyN4VFyWWymeOy0TKnmHyGieLYvWzrn0s9cuyEmXJwRK-PXrA2_tMZ3De8rJf7u1eeIZUZNmDTwmK9JpznKTH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JlqVanicHcTPboIwHADgJ6rUIRGWeCC6gRSRKbOOyw5NATf7x_5aSXnJnX0bk32H7_E3WKvhNQiuQzjrleqv3AE3TEnLpZ0xJYJeA2KAIEjr6uM3zcjPwYRlHvewxDYp3eJyjBVQlez0qTL3m153U60iSh1RNwdbHGXdtI7S0VeL07un1Au-97ghUuQ-u_Dy604nIzEkzPk3cS7GA0H12aQv33bXhhsem6Jbujnn2_azrcSmGQVJCj1J0uSrcY4xRsP_DMknFehItg"
+  },
+  {
+    "position": 11,
+    "title": "MAHADEV CHEMIST",
+    "place_id": "ChIJWZnb5CPPXzkRd2LamJAp6z0",
+    "data_id": "0x395fcf23e4db9959:0x3deb299098da6277",
+    "data_cid": "4461705556857086583",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fcf23e4db9959%3A0x3deb299098da6277&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fcf23e4db9959%3A0x3deb299098da6277&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.325374999999998,
+      "longitude": 73.2327686
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWZnb5CPPXzkRd2LamJAp6z0",
+    "provider_id": "/g/11p5lkk_sv",
+    "rating": 4.9,
+    "reviews": 31,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "GF-11/12, RATNAM HIGHTS, CROSS ROAD, opp. motibhai park, Khodiyar Nagar, Harni, Vadodara, Gujarat 390019, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "8 AM–11 PM",
+      "friday": "8 AM–11 PM",
+      "saturday": "8 AM–11 PM",
+      "sunday": "8 AM–11��PM",
+      "monday": "8 AM–11 PM",
+      "tuesday": "8 AM–11 PM",
+      "wednesday": "8 AM–11 PM"
+    },
+    "phone": "+91 90819 99777",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They always provide the right medicine and explain everything clearly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFtSqpfmsxtb3FQHQoVa57DPo91vTtZDku1qjTkNORL9dvY4w9z3mk90L73W5b2nxiIntbvGwH1h6o4-ZK6PMStb7ZwrVipqkG07NCzsZDIgYWgw0xcxnbD6hIGua6rUm4L29GblwEaAnXK=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4Di46XicHcTBboIwGADgJ6oUQUiX7EDGRCJjMJ1ObrRi6wot0B9KfMmd9zZL9h2-3x8B0Jsnx2mFt-Ja87aZTDMyraBRsGK6c3hvEDPIOFGRlzLawmHob51ZgHrbclfqU70J40ITdz5CFcvJHb6PMn__yMh1vviWPLxOEpyF3nlD12q5pwronNidKwLto2ofFG8HoGFlx9O9H2SCw_zlYao45Zczt3hhi6JxINJkqoPxs_OzNUloa1_rSH3tn62LMUbif4bUH9ZWR70"
+  },
+  {
+    "position": 15,
+    "title": "Neelam Chemist",
+    "place_id": "ChIJ8XLruM_FXzkR3AlIX935fk8",
+    "data_id": "0x395fc5cfb8eb72f1:0x4f7ef9dd5f4809dc",
+    "data_cid": "5728290505243494876",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc5cfb8eb72f1%3A0x4f7ef9dd5f4809dc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc5cfb8eb72f1%3A0x4f7ef9dd5f4809dc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2955449,
+      "longitude": 73.21180319999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8XLruM_FXzkR3AlIX935fk8",
+    "provider_id": "/g/11rq2f9t32",
+    "rating": 4.9,
+    "reviews": 53,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy"
+    ],
+    "address": "Oop Alvi Bank, Chokhandi Main Rd, Chowkhandi, Tad Falia, Wadi, Vadodara, Gujarat 390017, India",
+    "phone": "+91 99981 61974",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Vadodra .s no 1 chemist shop riznebal rate\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdeRLaNRNhDA3bLiq3TMJYieTfPmol38HWn2dMQyjiGTd3617cji_NQeqw7mChI7AZybKqOOb06kQZGwBGwjO-wJ-XGjYfR2drHrESCV7YkxueEK6Lq_tNC4bsxPpo3ck8cbwA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PbQN5nicHcTbDoIgAADQLyItmra2HsgaXQwvucpeWiCJV1Ro1Bf2Df1NW-fhfD9C607NLasWcJRLmdf8qfjAZKt5q0dMNlbeKcAUUBYKSVQhnPHYv5OYiBWC1C96mBx2acGTR9jIGs4253aSHaJ3WeAkg87YZWVxIxHvjdt4Yuui65vu-yCgtlNFV2yW2JQBMDtwwWX6iCfZsBnWR-_kptXrydd7x-9vmnhTql5hJyGrZowatDBj27aB-M9A-wNAL0Sd"
+  },
+  {
+    "position": 18,
+    "title": "Veda Pharmacy | Medical store in Vadodara",
+    "place_id": "ChIJxXHvegDJXzkR1Cf9vZt47gA",
+    "data_id": "0x395fc9007aef71c5:0xee789bbdfd27d4",
+    "data_cid": "67123654759884756",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9007aef71c5%3A0xee789bbdfd27d4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9007aef71c5%3A0xee789bbdfd27d4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3241434,
+      "longitude": 73.1448671
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxXHvegDJXzkR1Cf9vZt47gA",
+    "provider_id": "/g/11y3wxpwhm",
+    "rating": 5,
+    "reviews": 42,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Delivery service",
+      "Department store",
+      "Drug store",
+      "Health consultant",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Surgical supply store",
+      "Wellness center"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "cosmetics_store",
+      "delivery_service",
+      "department_store",
+      "drugstore",
+      "health_consultant",
+      "herbal_medicine_store",
+      "medical_supply_store",
+      "surgical_supply_store",
+      "wellness_center"
+    ],
+    "address": "GF-17, Sharnam Signature, Samta Rd, opposite Saurabh park, beside Sardar Height, Laxmipura, Subhanpura, Vadodara, Gujarat 390023, India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "thursday": "8:30 AM–10 PM",
+      "friday": "8:30 AM–10 PM",
+      "saturday": "8:30 AM–10 PM",
+      "sunday": "8:30 AM–10 PM",
+      "monday": "8:30 AM–10 PM",
+      "tuesday": "8:30 AM–10 PM",
+      "wednesday": "8:30 AM–10 PM"
+    },
+    "phone": "+91 79844 71170",
+    "website": "http://www.vedapharmacy.in/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Delivery",
+          "Drive-through",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Passport photos"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"\"Great service, friendly staff, convenient location, highly recommended!\"\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWFHkfcf-OpmcMXsmBuqwRrN_PZczmGAQnGSSZ5HRi-b0Sr_bnjC_jJHQlpH7lX04VosKNXff3Ev7SPO75K4adALsYatnFT1gCtX4Z7xo0A-IsX06uBNn7n0OWewZZU1s68NyMR99kT_cY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VMHiGHicHcTLcoIwFADQL4qEEUztTBfRUWOt4WU1ZsNo5FGBhHJDUX-y6_5NZzyL8_dbWtvCq-PU5XhUGFPUWQ9Zp4y2mbYjZRqnaAEpQODQkEcVZYclq3KVo6Bt1FZAM-u_h7jjaSjVo1nRSK-SRPos_kJnnHTpWV_n6fWdRXXLSC2wtzew4SLPx4sfkoQB8Tfe6UI_4Hiyerlzi7kVniQ3gylag8CTfsY10Tg4ZIOUny5MXvh9G0-n1S5Vx7fBxRij8rlC-h-0UEa_"
+  },
+  {
+    "position": 20,
+    "title": "OM AAKASHDEEP CHEMIST 24 HRS",
+    "place_id": "ChIJt81eFGbHXzkRA1AqNopAmcw",
+    "data_id": "0x395fc766145ecdb7:0xcc99408a362a5003",
+    "data_cid": "14742885817532436483",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc766145ecdb7%3A0xcc99408a362a5003&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc766145ecdb7%3A0xcc99408a362a5003&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.2945307,
+      "longitude": 73.1573662
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt81eFGbHXzkRA1AqNopAmcw",
+    "provider_id": "/g/11lgjqh0w1",
+    "rating": 3.3,
+    "reviews": 24,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "drugstore"
+    ],
+    "address": "SHOP NO 3&4, Taksh Classic, Vasna Rd, nr. Taksh Bungalows, opp. INDIAN OIL PETROL PUMP, Niti Park Society, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007, India",
+    "open_state": "Open · Closes 1 AM",
+    "hours": "Open · Closes 1 AM",
+    "operating_hours": {
+      "thursday": "6 AM–1 AM",
+      "friday": "6 AM–1 AM",
+      "saturday": "6 AM–1 AM",
+      "sunday": "6 AM–1 AM",
+      "monday": "6 AM–1 AM",
+      "tuesday": "6 AM–1 AM",
+      "wednesday": "6 AM–1 AM"
+    },
+    "phone": "+91 96388 99332",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"If not available they will get it on same day Or next day.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7bX6BW4mzaiuUjQcN3X4-GpmGOUfy7qUfWv81ObyuRLaN54prM5KO_T7PhDZDNhakzyV7alpV2T9ZMD9T-G5NMNNut1iJD12j3tYexuR9IRg-NVijuvNp6DqzwnfLB1o3Hslr=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jFBRIHicHcRbjoIwFADQFVWogIjJfEgamYdclAA-fgw2QEGglbY6sEHXMLuZxPNx_l5MKSFXhtEya1ZxXrWFlsVAea-KXs0o74xKSEQlksZ6B_vbeuNejwv_YHdTXuu02VOwjjYKRBdEaTm697Q8PJY4uo463ubg2GIInZ_okrg7Rs4EWH6bxszNW5HNE-8cEi9BgQMhgFa4_iZ43ljqVPzq2PuKKwRZ3egHiAW5T8--3PqYW5-yHT6e2DRNxN5T1P8DG31ELQ"
+  },
+  {
+    "position": 11,
+    "title": "Medkart Pharmacy - Senate Square, Gotri - Vadodara",
+    "place_id": "ChIJl7g1gu7JXzkR9gEKNJiuQ4w",
+    "data_id": "0x395fc9ee8235b897:0x8c43ae98340a01f6",
+    "data_cid": "10107113957480858102",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x395fc9ee8235b897%3A0x8c43ae98340a01f6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x395fc9ee8235b897%3A0x8c43ae98340a01f6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 22.3179105,
+      "longitude": 73.1375565
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl7g1gu7JXzkR9gEKNJiuQ4w",
+    "provider_id": "/g/11j8vpgtq8",
+    "rating": 4.9,
+    "reviews": 282,
+    "type": "Pharmacy",
+    "types": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Cosmetics store",
+      "Drug store",
+      "Health consultant",
+      "Health food store",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical company",
+      "Surgical supply store"
+    ],
+    "type_id": "pharmacy",
+    "type_ids": [
+      "pharmacy",
+      "alternative_medicine_practitioner",
+      "cosmetics_store",
+      "drugstore",
+      "health_consultant",
+      "health_food_store",
+      "medical_center",
+      "medical_supply_store",
+      "pharmaceutical_company",
+      "surgical_supply_store"
+    ],
+    "address": "Shop No 53, Gangotri Shop & Flats, Vuda Rd, opp. Yash Complex, Saranagar Society, Gotri, Vadodara, Gujarat 390021, India",
+    "open_state": "Open · Closes 11 PM",
+    "hours": "Open · Closes 11 PM",
+    "operating_hours": {
+      "thursday": "9 AM–11 PM",
+      "friday": "9 AM–11 PM",
+      "saturday": "9 AM–11 PM",
+      "sunday": "9 AM–11 PM",
+      "monday": "9 AM–11 PM",
+      "tuesday": "9 AM–11 PM",
+      "wednesday": "9 AM–11 PM"
+    },
+    "phone": "+91 75740 04111",
+    "website": "https://www.medkart.in/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit",
+          "Accepts walk-ins"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcBmZuZXbUDej9fz2YAkHcsnGhbJUaa1p1GhOY6aEpfxIjOSNTcP9V8uFOic2sziSHdEZo1-D9QIPr58Nu_0XxriSmMS6FxGXPR7BUePkm3Kuyz9znph7Lisu_kf8TInB-OA_H=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uud1WnicHcRJDoIwAADAF1VAo4KJBwirC1QRA1wI1kIRaRtKI_JB3-BvTJzDfD9kGLjYKMqTLGY1Y_UTS4F7xOiA6TBDrFNqLgASQCgmDE-t6SKry2We3hIbP4xqmmdm6yNBPXLbJWWpcc0jUbYqHV6NwSOKwwuCxlWXbtSguZia2L87OdOAbZwC2C_1UBZqOvZN3B3jlTt6KTyvrQTDtlvs5XsyJsrJ-tAIWbSVfgmoBSKz8LcvTVVVQP4jQH98wETf"
+  }
+]
