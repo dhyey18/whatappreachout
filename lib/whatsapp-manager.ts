@@ -316,7 +316,7 @@ function createManager(userId: string): WAManager {
               manager.qrDataURL = dataURL
               emitter.emit('qr', dataURL)
               // Store QR in DB so other Vercel instances deliver it via status polls
-              syncStatusToDB(userId, { qrDataURL: dataURL, isAutoReconnecting: false }).catch(() => {})
+              syncStatusToDB(userId, { status: 'connecting', qrDataURL: dataURL, isAutoReconnecting: false }).catch(() => {})
             } catch {}
           }
 
@@ -373,6 +373,11 @@ function createManager(userId: string): WAManager {
                   fs.rmSync(authDir, { recursive: true, force: true })
                   console.log(`[WhatsApp][${userId}] Cleared stale auth after repeated restartRequired`)
                 }
+                // Wipe DB backup too — otherwise restoreAuthFromDB will put stale
+                // creds straight back on the next connect() and loop indefinitely.
+                getSessionModel()
+                  .then(WASession => WASession.findOneAndUpdate({ userId }, { $set: { authData: null } }))
+                  .catch(() => {})
               }
               manager.status = 'connecting'
               manager.isAutoReconnecting = manager.hasSavedCreds()
