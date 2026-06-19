@@ -26,6 +26,7 @@ interface StatusPayload {
   status: WAStatus
   phone: string | null
   hasQR: boolean
+  qrDataURL: string | null
   isAutoReconnecting: boolean
 }
 
@@ -72,6 +73,14 @@ export default function WhatsAppPage() {
     setIsAutoReconnecting(payload.isAutoReconnecting)
     prevStatusRef.current = payload.status
 
+    // Show QR from poll response if SSE hasn't delivered it yet
+    if (payload.qrDataURL) {
+      setQRDataURL(payload.qrDataURL)
+    }
+    if (payload.status === 'connected') {
+      setQRDataURL(null)
+    }
+
     if (prev !== 'connected' && payload.status === 'connected') {
       toast.success('WhatsApp connected!')
     }
@@ -101,13 +110,13 @@ export default function WhatsAppPage() {
 
         if (data.type === 'connected') {
           setQRDataURL(null)
-          applyStatus({ status: 'connected', phone: data.phone, hasQR: false, isAutoReconnecting: false })
+          applyStatus({ status: 'connected', phone: data.phone, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
           stopSSE()
         }
 
         if (data.type === 'status') {
           if (data.status === 'connected') {
-            applyStatus({ status: 'connected', phone: data.phone || connectedPhone, hasQR: false, isAutoReconnecting: false })
+            applyStatus({ status: 'connected', phone: data.phone || connectedPhone, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
             stopSSE()
           }
         }
@@ -124,14 +133,14 @@ export default function WhatsAppPage() {
     }
 
     es.onerror = () => {
-      // EventSource auto-retries — only clear our ref if it fully closed
+      // EventSource auto-retries on error — only clear our ref if permanently closed
       if (es.readyState === EventSource.CLOSED) {
         esRef.current = null
       }
     }
   }, [stopSSE, applyStatus, connectedPhone])
 
-  // Periodic status poll — keeps UI in sync even without SSE
+  // Periodic status poll — primary fallback for QR delivery and status sync
   useEffect(() => {
     const poll = async () => {
       try {
@@ -150,7 +159,7 @@ export default function WhatsAppPage() {
     }
 
     poll() // immediate check on mount
-    const id = setInterval(poll, 4_000)
+    const id = setInterval(poll, 3_000)
     return () => clearInterval(id)
   }, [applyStatus, startSSE, stopSSE])
 
@@ -158,11 +167,14 @@ export default function WhatsAppPage() {
   useEffect(() => () => stopSSE(), [stopSSE])
 
   const handleConnect = async () => {
-    // Tell backend to start connecting
-    try { await api.post('/whatsapp/reconnect', {}) } catch {}
     setStatus('connecting')
     setQRDataURL(null)
+    setIsAutoReconnecting(false)
     prevStatusRef.current = 'connecting'
+
+    // Tell backend to start a fresh connection (force=true bypasses stuck states)
+    try { await api.post('/whatsapp/reconnect', {}) } catch {}
+
     startSSE()
   }
 

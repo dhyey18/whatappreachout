@@ -11,7 +11,7 @@ interface WAManager {
   sock: unknown
   /** true when reconnecting with saved creds (no QR needed) */
   isAutoReconnecting: boolean
-  connect: () => Promise<void>
+  connect: (force?: boolean) => Promise<void>
   disconnect: () => Promise<void>
   sendMessage: (phone: string, message: string) => Promise<void>
   waitForConnected: (timeoutMs?: number) => Promise<void>
@@ -19,7 +19,7 @@ interface WAManager {
 }
 
 // Bump this whenever the manager's internal structure changes.
-const MANAGER_VERSION = 6
+const MANAGER_VERSION = 8
 
 declare global {
   // eslint-disable-next-line no-var
@@ -54,6 +54,9 @@ function createManager(): WAManager {
 
   let retryCount = 0
   let lastOpenedAt = 0
+  let softRestartCount = 0   // consecutive restartRequired (515) without reaching 'open'
+  // Incremented on every connect() call — old socket event handlers bail early if they see a stale session
+  let currentSession = 0
 
   const manager: WAManager = {
     status: 'disconnected',
@@ -96,11 +99,26 @@ function createManager(): WAManager {
       })
     },
 
-    async connect() {
-      if (manager.status === 'connecting' || manager.status === 'connected') return
+    async connect(force = false) {
+      // Only skip when there is already an active socket — NOT just because status is 'connecting'.
+      // Without this, the post-515 soft-restart timer calls connect() while status='connecting'
+      // and sock=null, and the old guard would swallow it silently (QR never appears).
+      if (!force && manager.sock !== null) return
+
+      // Close any existing socket before starting fresh
+      if (manager.sock) {
+        try {
+          const s = manager.sock as { ws?: { terminate?: () => void; close?: () => void } }
+          s.ws?.terminate?.() ?? s.ws?.close?.()
+        } catch {}
+        manager.sock = null
+      }
+
       manager.status = 'connecting'
       manager.isAutoReconnecting = manager.hasSavedCreds()
       emitter.emit('status', 'connecting')
+
+      const mySession = ++currentSession
 
       try {
         const {
@@ -113,9 +131,14 @@ function createManager(): WAManager {
         const { Boom } = await import('@hapi/boom')
         const QRCode = await import('qrcode')
 
+        // Bail out if a newer connect() call has already taken over
+        if (mySession !== currentSession) return
+
         const authDir = process.cwd() + '/whatsapp-auth'
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
         const { version } = await fetchLatestBaileysVersion()
+
+        if (mySession !== currentSession) return
 
         const sock = makeWASocket({
           version,
@@ -139,6 +162,9 @@ function createManager(): WAManager {
         sock.ev.on('creds.update', saveCreds)
 
         sock.ev.on('connection.update', async (update) => {
+          // Stale session — this socket was superseded by a newer connect() call
+          if (mySession !== currentSession) return
+
           const { connection, lastDisconnect, qr } = update
 
           if (qr) {
@@ -152,6 +178,7 @@ function createManager(): WAManager {
 
           if (connection === 'open') {
             retryCount = 0
+            softRestartCount = 0
             lastOpenedAt = Date.now()
             manager.status = 'connected'
             manager.qrDataURL = null
@@ -189,34 +216,48 @@ function createManager(): WAManager {
               (Date.now() - lastOpenedAt < 12_000)
 
             if (isSoftRestart) {
+              softRestartCount++
+              // After 3 consecutive restartRequired without ever reaching 'open',
+              // the saved creds are corrupt/stale — clear them so fresh QR is shown.
+              if (softRestartCount >= 3) {
+                softRestartCount = 0
+                const authDir = process.cwd() + '/whatsapp-auth'
+                if (fs.existsSync(authDir)) {
+                  fs.rmSync(authDir, { recursive: true, force: true })
+                  console.log('[WhatsApp] Cleared stale auth after repeated restartRequired — will request fresh QR')
+                }
+              }
               manager.status = 'connecting'
-              manager.isAutoReconnecting = true
+              manager.isAutoReconnecting = manager.hasSavedCreds()
               emitter.emit('status', 'connecting')
-              setTimeout(() => manager.connect(), 1_500)
+              // force=true so the guard (sock===null + status===connecting) doesn't block the retry
+              setTimeout(() => manager.connect(true), 1_500)
             } else {
               manager.status = 'disconnected'
               manager.isAutoReconnecting = false
               emitter.emit('status', 'disconnected')
               const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
               retryCount++
-              setTimeout(() => manager.connect(), delay)
+              setTimeout(() => manager.connect(true), delay)
             }
           }
         })
       } catch (err) {
+        if (mySession !== currentSession) return
         console.error('[WhatsApp] connect() error:', err)
         manager.status = 'disconnected'
         manager.isAutoReconnecting = false
         emitter.emit('status', 'disconnected')
         const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
         retryCount++
-        setTimeout(() => manager.connect(), delay)
+        setTimeout(() => manager.connect(true), delay)
       }
     },
 
     async disconnect() {
       retryCount = 0
       manager.isAutoReconnecting = false
+      currentSession++ // Invalidate any running connection handlers
 
       if (manager.sock) {
         try {

@@ -13,6 +13,8 @@ export async function GET(req: NextRequest) {
     status: manager.status,
     phone: manager.phoneNumber,
     hasQR: !!manager.qrDataURL,
+    // Include QR data URL so the poll loop can display it even when SSE is stale/buffered
+    qrDataURL: manager.qrDataURL,
     isAutoReconnecting: manager.isAutoReconnecting,
   })
 }
