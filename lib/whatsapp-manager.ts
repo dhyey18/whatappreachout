@@ -19,11 +19,11 @@ interface WAManager {
 }
 
 // Bump this whenever the manager's internal structure changes.
-const MANAGER_VERSION = 9
+const MANAGER_VERSION = 10
 
 declare global {
   // eslint-disable-next-line no-var
-  var __waManager: (WAManager & { __v?: number }) | undefined
+  var __waManagers: Map<string, WAManager & { __v: number }> | undefined
 }
 
 type NoopLogger = {
@@ -48,12 +48,21 @@ const noopLogger: NoopLogger = {
   child: () => noopLogger,
 }
 
-// Vercel's lambda filesystem is read-only except for /tmp
-function getAuthDir(): string {
-  return process.env.VERCEL ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
+// Vercel's lambda filesystem is read-only except for /tmp.
+// Each user gets their own subdirectory so sessions are fully isolated.
+function getAuthDir(userId: string): string {
+  const base = process.env.VERCEL ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
+  return `${base}/${userId}`
 }
 
-function createManager(): WAManager {
+function getManagerMap(): Map<string, WAManager & { __v: number }> {
+  if (!global.__waManagers) {
+    global.__waManagers = new Map()
+  }
+  return global.__waManagers
+}
+
+function createManager(userId: string): WAManager {
   const emitter = new EventEmitter()
   emitter.setMaxListeners(100)
 
@@ -72,7 +81,7 @@ function createManager(): WAManager {
     isAutoReconnecting: false,
 
     hasSavedCreds() {
-      return fs.existsSync(getAuthDir() + '/creds.json')
+      return fs.existsSync(getAuthDir(userId) + '/creds.json')
     },
 
     async waitForConnected(timeoutMs = 30_000) {
@@ -139,7 +148,7 @@ function createManager(): WAManager {
         // Bail out if a newer connect() call has already taken over
         if (mySession !== currentSession) return
 
-        const authDir = getAuthDir()
+        const authDir = getAuthDir(userId)
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
         const { version } = await fetchLatestBaileysVersion()
 
@@ -194,7 +203,7 @@ function createManager(): WAManager {
             manager.phoneNumber = sock.user?.id?.split(':')[0] ?? null
             emitter.emit('status', 'connected')
             emitter.emit('connected', manager.phoneNumber)
-            console.log('[WhatsApp] Connected as', manager.phoneNumber)
+            console.log(`[WhatsApp][${userId}] Connected as`, manager.phoneNumber)
           }
 
           if (connection === 'close') {
@@ -204,7 +213,7 @@ function createManager(): WAManager {
             const statusCode = (lastDisconnect?.error as InstanceType<typeof Boom>)?.output?.statusCode
             const isLoggedOut = statusCode === DisconnectReason.loggedOut
 
-            console.log(`[WhatsApp] Closed — code=${statusCode} loggedOut=${isLoggedOut}`)
+            console.log(`[WhatsApp][${userId}] Closed — code=${statusCode} loggedOut=${isLoggedOut}`)
 
             if (isLoggedOut) {
               retryCount = 0
@@ -229,10 +238,10 @@ function createManager(): WAManager {
               // the saved creds are corrupt/stale — clear them so fresh QR is shown.
               if (softRestartCount >= 3) {
                 softRestartCount = 0
-                const authDir = getAuthDir()
+                const authDir = getAuthDir(userId)
                 if (fs.existsSync(authDir)) {
                   fs.rmSync(authDir, { recursive: true, force: true })
-                  console.log('[WhatsApp] Cleared stale auth after repeated restartRequired — will request fresh QR')
+                  console.log(`[WhatsApp][${userId}] Cleared stale auth after repeated restartRequired — will request fresh QR`)
                 }
               }
               manager.status = 'connecting'
@@ -261,7 +270,7 @@ function createManager(): WAManager {
         })
       } catch (err) {
         if (mySession !== currentSession) return
-        console.error('[WhatsApp] connect() error:', err)
+        console.error(`[WhatsApp][${userId}] connect() error:`, err)
         manager.status = 'disconnected'
         manager.isAutoReconnecting = false
         emitter.emit('status', 'disconnected')
@@ -308,12 +317,15 @@ function createManager(): WAManager {
         } catch {}
       }
 
-      const authDir = getAuthDir()
+      const authDir = getAuthDir(userId)
       if (fs.existsSync(authDir)) {
         fs.rmSync(authDir, { recursive: true, force: true })
       }
 
       emitter.emit('logged-out')
+
+      // Remove from global map so next getWAManager() starts with a clean slate
+      getManagerMap().delete(userId)
     },
 
     async sendMessage(phone: string, message: string) {
@@ -367,16 +379,22 @@ function createManager(): WAManager {
   return manager
 }
 
-export function getWAManager(): WAManager {
-  if (!global.__waManager || global.__waManager.__v !== MANAGER_VERSION) {
-    const m = createManager() as WAManager & { __v: number }
-    m.__v = MANAGER_VERSION
-    global.__waManager = m
+export function getWAManager(userId: string): WAManager {
+  const map = getManagerMap()
+  const existing = map.get(userId)
 
-    if (m.hasSavedCreds()) {
-      console.log('[WhatsApp] Saved creds found — auto-reconnecting…')
-      m.connect().catch(() => {})
-    }
+  if (existing && existing.__v === MANAGER_VERSION) {
+    return existing
   }
-  return global.__waManager
+
+  const m = createManager(userId) as WAManager & { __v: number }
+  m.__v = MANAGER_VERSION
+  map.set(userId, m)
+
+  if (m.hasSavedCreds()) {
+    console.log(`[WhatsApp][${userId}] Saved creds found — auto-reconnecting…`)
+    m.connect().catch(() => {})
+  }
+
+  return m
 }

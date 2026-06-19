@@ -7,7 +7,7 @@ export async function POST(req: NextRequest) {
   if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
   try {
-    const manager = getWAManager()
+    const manager = getWAManager(auth.id)
     // force=true: closes any stale socket and starts fresh even if stuck in 'connecting'
     manager.connect(true).catch(console.error)
     return Response.json({ status: manager.status, isAutoReconnecting: manager.isAutoReconnecting })

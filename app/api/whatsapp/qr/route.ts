@@ -16,7 +16,7 @@ export async function GET(req: NextRequest) {
 
   let manager
   try {
-    manager = getWAManager()
+    manager = getWAManager(auth.id)
   } catch (err) {
     console.error('[whatsapp/qr] getWAManager failed:', err)
     return Response.json({ error: 'WhatsApp manager unavailable' }, { status: 503 })

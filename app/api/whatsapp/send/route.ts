@@ -10,7 +10,7 @@ export async function POST(req: NextRequest) {
     const auth = await getAuthUser(req)
     if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
-    const manager = getWAManager()
+    const manager = getWAManager(auth.id)
     if (manager.status !== 'connected') {
       return Response.json({ error: 'WhatsApp is not connected. Please scan the QR code first.' }, { status: 400 })
     }

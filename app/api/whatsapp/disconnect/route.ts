@@ -7,7 +7,7 @@ export async function POST(req: NextRequest) {
   if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
   try {
-    const manager = getWAManager()
+    const manager = getWAManager(auth.id)
     await manager.disconnect()
     return Response.json({ success: true })
   } catch (err) {
