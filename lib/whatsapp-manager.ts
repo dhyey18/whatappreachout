@@ -48,6 +48,11 @@ const noopLogger: NoopLogger = {
   child: () => noopLogger,
 }
 
+// Vercel's lambda filesystem is read-only except for /tmp
+function getAuthDir(): string {
+  return process.env.VERCEL ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
+}
+
 function createManager(): WAManager {
   const emitter = new EventEmitter()
   emitter.setMaxListeners(100)
@@ -67,7 +72,7 @@ function createManager(): WAManager {
     isAutoReconnecting: false,
 
     hasSavedCreds() {
-      return fs.existsSync(process.cwd() + '/whatsapp-auth/creds.json')
+      return fs.existsSync(getAuthDir() + '/creds.json')
     },
 
     async waitForConnected(timeoutMs = 30_000) {
@@ -134,7 +139,7 @@ function createManager(): WAManager {
         // Bail out if a newer connect() call has already taken over
         if (mySession !== currentSession) return
 
-        const authDir = process.cwd() + '/whatsapp-auth'
+        const authDir = getAuthDir()
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
         const { version } = await fetchLatestBaileysVersion()
 
@@ -221,7 +226,7 @@ function createManager(): WAManager {
               // the saved creds are corrupt/stale — clear them so fresh QR is shown.
               if (softRestartCount >= 3) {
                 softRestartCount = 0
-                const authDir = process.cwd() + '/whatsapp-auth'
+                const authDir = getAuthDir()
                 if (fs.existsSync(authDir)) {
                   fs.rmSync(authDir, { recursive: true, force: true })
                   console.log('[WhatsApp] Cleared stale auth after repeated restartRequired — will request fresh QR')
@@ -273,7 +278,7 @@ function createManager(): WAManager {
       manager.phoneNumber = null
       emitter.emit('status', 'disconnected')
 
-      const authDir = process.cwd() + '/whatsapp-auth'
+      const authDir = getAuthDir()
       if (fs.existsSync(authDir)) {
         fs.rmSync(authDir, { recursive: true, force: true })
       }
