@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "app/api/whatsapp/qr/route": { "maxDuration": 60 },
+    "app/api/whatsapp/pair/route": { "maxDuration": 60 },
+    "app/api/whatsapp/reconnect/route": { "maxDuration": 60 },
+    "app/api/whatsapp/send/route": { "maxDuration": 60 },
+    "app/api/leads/send/route": { "maxDuration": 60 }
+  }
+}

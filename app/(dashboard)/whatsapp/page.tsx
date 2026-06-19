@@ -4,7 +4,7 @@ import { useQuery, useQueryClient } from '@tanstack/react-query'
 import toast from 'react-hot-toast'
 import {
   Smartphone, WifiOff, MessageCircle, Send, RefreshCw,
-  CheckCircle2, LogOut, Phone, Wifi, AlertTriangle,
+  CheckCircle2, LogOut, Phone, Wifi, AlertTriangle, Hash,
 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
@@ -28,6 +28,7 @@ interface StatusPayload {
   hasQR: boolean
   qrDataURL: string | null
   isAutoReconnecting: boolean
+  pairingCode?: string | null
 }
 
 function getToken(): string | null {
@@ -51,6 +52,10 @@ export default function WhatsAppPage() {
   const [connectedPhone, setConnectedPhone] = useState<string | null>(null)
   const [disconnecting, setDisconnecting] = useState(false)
   const [isAutoReconnecting, setIsAutoReconnecting] = useState(false)
+  const [connectMethod, setConnectMethod] = useState<'qr' | 'phone'>('qr')
+  const [pairingPhone, setPairingPhone] = useState('')
+  const [pairingCode, setPairingCode] = useState<string | null>(null)
+  const [gettingCode, setGettingCode] = useState(false)
   const esRef = useRef<EventSource | null>(null)
   const prevStatusRef = useRef<WAStatus>('disconnected')
   const connectedPhoneRef = useRef<string | null>(null)
@@ -81,6 +86,20 @@ export default function WhatsAppPage() {
     }
     if (payload.status === 'connected') {
       setQRDataURL(null)
+      setPairingCode(null)
+      setGettingCode(false)
+    }
+
+    // Pairing code arrives async via the status poll (works on Vercel Hobby)
+    if (payload.pairingCode && !pairingCode) {
+      setPairingCode(payload.pairingCode)
+      setGettingCode(false)
+      toast.success('Pairing code ready — enter it in WhatsApp')
+    }
+
+    // Background pairing failed — reset spinner
+    if (payload.status === 'disconnected' && !payload.pairingCode) {
+      setGettingCode(false)
     }
 
     if (prev !== 'connected' && payload.status === 'connected') {
@@ -89,7 +108,7 @@ export default function WhatsAppPage() {
     if (prev === 'connected' && payload.status !== 'connected') {
       toast('WhatsApp disconnected — reconnecting…', { icon: '⚠️' })
     }
-  }, [])
+  }, [pairingCode])
 
   const startSSE = useCallback(() => {
     stopSSE()
@@ -112,6 +131,7 @@ export default function WhatsAppPage() {
 
         if (data.type === 'connected') {
           setQRDataURL(null)
+          setPairingCode(null)
           applyStatus({ status: 'connected', phone: data.phone, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
           stopSSE()
         }
@@ -126,6 +146,7 @@ export default function WhatsAppPage() {
         if (data.type === 'logged-out') {
           setStatus('disconnected')
           setQRDataURL(null)
+          setPairingCode(null)
           setConnectedPhone(null)
           setIsAutoReconnecting(false)
           prevStatusRef.current = 'disconnected'
@@ -142,7 +163,9 @@ export default function WhatsAppPage() {
     }
   }, [stopSSE, applyStatus])
 
-  // Periodic status poll — primary fallback for QR delivery and status sync
+  // Periodic status poll — primary delivery mechanism on Vercel Hobby.
+  // Poll faster while connecting (2 s) so QR codes and pairing codes arrive
+  // promptly. Back off to 5 s once connected (just keep-alive checks).
   useEffect(() => {
     const poll = async () => {
       try {
@@ -161,9 +184,10 @@ export default function WhatsAppPage() {
     }
 
     poll() // immediate check on mount
-    const id = setInterval(poll, 3_000)
+    const interval = status === 'connecting' ? 2_000 : 5_000
+    const id = setInterval(poll, interval)
     return () => clearInterval(id)
-  }, [applyStatus, startSSE, stopSSE])
+  }, [applyStatus, startSSE, stopSSE, status])
 
   // Cleanup SSE on unmount
   useEffect(() => () => stopSSE(), [stopSSE])
@@ -171,13 +195,37 @@ export default function WhatsAppPage() {
   const handleConnect = async () => {
     setStatus('connecting')
     setQRDataURL(null)
+    setPairingCode(null)
     setIsAutoReconnecting(false)
     prevStatusRef.current = 'connecting'
 
-    // Tell backend to start a fresh connection (force=true bypasses stuck states)
     try { await api.post('/whatsapp/reconnect', {}) } catch {}
-
     startSSE()
+  }
+
+  const handleGetPairingCode = async () => {
+    const raw = pairingPhone.replace(/\D/g, '')
+    if (!raw) { toast.error('Enter your WhatsApp phone number first'); return }
+    setGettingCode(true)
+    setPairingCode(null)
+    setStatus('connecting')
+    setQRDataURL(null)
+    prevStatusRef.current = 'connecting'
+    try {
+      // Fire-and-forget — the server returns immediately.
+      // The pairing code is written to MongoDB asynchronously and delivered
+      // to the frontend via the 2 s status poll (works on Vercel Hobby).
+      await api.post('/whatsapp/pair', { phone: raw })
+      // Open SSE alongside the poll so we also get push notification on connected
+      startSSE()
+      toast('Generating pairing code…', { icon: '⏳' })
+      // gettingCode stays true until applyStatus sees pairingCode from the poll
+    } catch (e: unknown) {
+      toast.error((e as Error).message || 'Failed to start pairing')
+      setStatus('disconnected')
+      prevStatusRef.current = 'disconnected'
+      setGettingCode(false)
+    }
   }
 
   const handleDisconnect = async () => {
@@ -257,6 +305,8 @@ export default function WhatsAppPage() {
                 ? 'Your WhatsApp account is linked and ready'
                 : isAutoReconnecting
                 ? 'Restoring previous session — no scan needed'
+                : connectMethod === 'phone'
+                ? 'Enter your number, get a code, enter it in WhatsApp'
                 : 'Scan the QR code with your phone to connect'}
             </CardDescription>
           </CardHeader>
@@ -287,7 +337,7 @@ export default function WhatsAppPage() {
                 </Button>
               </div>
 
-            ) : status === 'connecting' && qrDataURL ? (
+            ) : connectMethod === 'qr' && status === 'connecting' && qrDataURL ? (
               <>
                 <div className="p-3 bg-white rounded-2xl shadow-md border border-gray-100">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -321,7 +371,7 @@ export default function WhatsAppPage() {
                 </div>
               </>
 
-            ) : status === 'connecting' && !qrDataURL ? (
+            ) : connectMethod === 'qr' && status === 'connecting' && !qrDataURL ? (
               <div className="flex flex-col items-center gap-4 py-6 w-full">
                 {isAutoReconnecting ? (
                   <>
@@ -358,17 +408,105 @@ export default function WhatsAppPage() {
               </div>
 
             ) : (
-              <div className="flex flex-col items-center gap-5 py-4 w-full">
-                <div className="w-24 h-24 rounded-full bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
-                  <WifiOff className="w-10 h-10 text-gray-400" />
+              <div className="flex flex-col items-center gap-4 py-2 w-full">
+                {/* Method toggle */}
+                <div className="flex w-full rounded-lg border border-gray-200 dark:border-gray-700 overflow-hidden text-sm font-medium">
+                  <button
+                    onClick={() => { setConnectMethod('qr'); setPairingCode(null) }}
+                    className={`flex-1 flex items-center justify-center gap-1.5 py-2 transition-colors ${
+                      connectMethod === 'qr'
+                        ? 'bg-emerald-600 text-white'
+                        : 'bg-white dark:bg-gray-900 text-gray-500 hover:bg-gray-50 dark:hover:bg-gray-800'
+                    }`}
+                  >
+                    <Wifi className="w-3.5 h-3.5" /> QR Code
+                  </button>
+                  <button
+                    onClick={() => { setConnectMethod('phone'); setQRDataURL(null) }}
+                    className={`flex-1 flex items-center justify-center gap-1.5 py-2 transition-colors ${
+                      connectMethod === 'phone'
+                        ? 'bg-emerald-600 text-white'
+                        : 'bg-white dark:bg-gray-900 text-gray-500 hover:bg-gray-50 dark:hover:bg-gray-800'
+                    }`}
+                  >
+                    <Hash className="w-3.5 h-3.5" /> Phone Number
+                  </button>
                 </div>
-                <div className="text-center">
-                  <p className="text-sm text-gray-500 dark:text-gray-400">Not connected</p>
-                  <p className="text-xs text-gray-400 mt-1">Click below to generate your QR code</p>
-                </div>
-                <Button className="w-full" onClick={handleConnect}>
-                  <Wifi className="w-4 h-4" /> Connect WhatsApp
-                </Button>
+
+                {connectMethod === 'qr' ? (
+                  <>
+                    <div className="w-20 h-20 rounded-full bg-gray-100 dark:bg-gray-800 flex items-center justify-center">
+                      <WifiOff className="w-9 h-9 text-gray-400" />
+                    </div>
+                    <div className="text-center">
+                      <p className="text-sm text-gray-500 dark:text-gray-400">Not connected</p>
+                      <p className="text-xs text-gray-400 mt-1">Generate a QR code and scan it with WhatsApp</p>
+                    </div>
+                    <Button className="w-full" onClick={handleConnect}>
+                      <Wifi className="w-4 h-4" /> Generate QR Code
+                    </Button>
+                  </>
+                ) : (
+                  <div className="w-full space-y-3">
+                    <div className="space-y-1.5">
+                      <Label className="text-sm">Your WhatsApp phone number</Label>
+                      <div className="flex gap-2">
+                        <Input
+                          placeholder="+91 94291 84788"
+                          value={pairingPhone}
+                          onChange={(e) => setPairingPhone(e.target.value)}
+                          disabled={gettingCode}
+                        />
+                        <Button onClick={handleGetPairingCode} disabled={gettingCode || !pairingPhone || !!pairingCode} className="shrink-0">
+                          {gettingCode ? <RefreshCw className="w-4 h-4 animate-spin" /> : 'Get Code'}
+                        </Button>
+                      </div>
+                    </div>
+
+                    {pairingCode ? (
+                      <div className="flex flex-col items-center gap-2 p-4 bg-emerald-50 dark:bg-emerald-900/20 rounded-xl border border-emerald-200 dark:border-emerald-800">
+                        <p className="text-xs text-emerald-700 dark:text-emerald-400 font-medium">Enter this code in WhatsApp</p>
+                        <p className="text-3xl font-bold tracking-widest text-emerald-700 dark:text-emerald-300 font-mono">{pairingCode}</p>
+                        <p className="text-xs text-emerald-600 dark:text-emerald-500 text-center leading-relaxed">
+                          WhatsApp → <strong>⋮</strong> → Linked Devices → Link with Phone Number
+                        </p>
+                        <div className="flex items-center gap-1.5 text-xs text-yellow-600 dark:text-yellow-400 mt-1">
+                          <RefreshCw className="w-3 h-3 animate-spin" />
+                          Waiting for confirmation…
+                        </div>
+                      </div>
+                    ) : gettingCode ? (
+                      <div className="flex items-center justify-center gap-3 p-4 bg-yellow-50 dark:bg-yellow-900/20 rounded-xl border border-yellow-200 dark:border-yellow-800">
+                        <RefreshCw className="w-5 h-5 text-yellow-500 animate-spin flex-shrink-0" />
+                        <div>
+                          <p className="text-sm font-medium text-yellow-700 dark:text-yellow-400">Connecting to WhatsApp…</p>
+                          <p className="text-xs text-yellow-600 dark:text-yellow-500 mt-0.5">This can take up to 30 seconds</p>
+                        </div>
+                      </div>
+                    ) : (
+                      <div className="p-3 bg-gray-50 dark:bg-gray-800 rounded-lg text-xs text-gray-500 dark:text-gray-400 space-y-1">
+                        <p className="font-medium text-gray-700 dark:text-gray-300">How it works</p>
+                        <p>1. Enter your number and click <strong>Get Code</strong></p>
+                        <p>2. Open WhatsApp → <strong>⋮</strong> → Linked Devices</p>
+                        <p>3. Tap <strong>Link with Phone Number</strong> and enter the code</p>
+                      </div>
+                    )}
+
+                    {status === 'connecting' && (
+                      <Button
+                        variant="destructive"
+                        size="sm"
+                        className="w-full"
+                        onClick={handleDisconnect}
+                        disabled={disconnecting}
+                      >
+                        {disconnecting
+                          ? <RefreshCw className="w-3.5 h-3.5 animate-spin" />
+                          : <><LogOut className="w-3.5 h-3.5" /> Cancel</>}
+                      </Button>
+                    )}
+                  </div>
+                )}
               </div>
             )}
           </CardContent>
@@ -438,6 +576,8 @@ export default function WhatsAppPage() {
                 {status === 'connecting'
                   ? isAutoReconnecting
                     ? 'Restoring session — sending will work once reconnected'
+                    : connectMethod === 'phone'
+                    ? (pairingCode ? 'Enter the code shown above in WhatsApp to finish connecting' : 'Get a pairing code on the left to connect')
                     : 'Waiting for QR scan…'
                   : 'Connect WhatsApp on the left to enable sending'}
               </div>

@@ -17,10 +17,23 @@ interface WAManager {
   sendMessage: (phone: string, message: string) => Promise<void>
   waitForConnected: (timeoutMs?: number) => Promise<void>
   hasSavedCreds: () => boolean
+  /**
+   * Fire-and-forget: wipes creds, starts a fresh connection, requests the
+   * pairing code from WhatsApp, and stores the result in MongoDB.
+   * The caller returns immediately; the frontend polls the status endpoint
+   * for `pairingCode`. This avoids Vercel Hobby's 10 s function timeout.
+   */
+  startPairingCode: (phone: string) => void
 }
 
 // Bump whenever the manager's internal structure changes.
-const MANAGER_VERSION = 13
+const MANAGER_VERSION = 15
+
+// Unique identifier for this process/Vercel instance — used for the connect lock.
+const INSTANCE_ID = `${process.pid.toString(36)}-${Math.random().toString(36).slice(2, 8)}`
+
+// How long the connect lock is valid without a heartbeat refresh.
+const LOCK_TTL_MS = 45_000
 
 declare global {
   // eslint-disable-next-line no-var
@@ -133,6 +146,8 @@ async function syncStatusToDB(
     phoneNumber: string | null
     qrDataURL: string | null
     isAutoReconnecting: boolean
+    connectingAt: Date | null
+    connectingInstanceId: string | null
   }>,
 ): Promise<void> {
   try {
@@ -160,12 +175,82 @@ async function clearSessionInDB(userId: string): Promise<void> {
           phoneNumber: null,
           qrDataURL: null,
           isAutoReconnecting: false,
+          pairingCode: null,
+          connectingAt: null,
+          connectingInstanceId: null,
         },
       },
     )
   } catch (err) {
     console.error(`[WhatsApp][${userId}] clearSessionInDB error:`, err)
   }
+}
+
+// ─── Distributed connect lock ─────────────────────────────────────────────────
+// On Vercel, multiple function instances can independently call connect() for the
+// same user (e.g. after a cold start while another instance already holds the WA
+// socket). Two simultaneous Baileys connections for the same account cause WhatsApp
+// to close one or both. The lock uses MongoDB as a shared mutex: one instance sets
+// connectingAt + connectingInstanceId; others check and back off.
+//
+// The lock TTL (45 s) is long enough for normal connect flows and short enough that
+// if the owning instance dies the next instance can take over within a minute.
+
+/**
+ * Try to atomically acquire the connect lock.
+ * Returns true if this instance now holds the lock, false if another holds it.
+ */
+async function tryAcquireConnectLock(userId: string): Promise<boolean> {
+  const stale = new Date(Date.now() - LOCK_TTL_MS)
+  try {
+    const WASession = await getSessionModel()
+    // Step 1: Ensure the document exists so step 2 never needs upsert.
+    await WASession.findOneAndUpdate(
+      { userId },
+      { $setOnInsert: { userId } },
+      { upsert: true },
+    )
+    // Step 2: Claim the lock only if it is absent, stale, or already ours.
+    const result = await WASession.findOneAndUpdate(
+      {
+        userId,
+        $or: [
+          { connectingAt: null },
+          { connectingAt: { $exists: false } },
+          { connectingAt: { $lt: stale } },
+          { connectingInstanceId: INSTANCE_ID },
+        ],
+      },
+      { $set: { connectingAt: new Date(), connectingInstanceId: INSTANCE_ID } },
+    )
+    return !!result
+  } catch {
+    // DB failure — allow connect so a MongoDB outage doesn't hard-block the user.
+    return true
+  }
+}
+
+/** Forcibly acquire the lock regardless of who holds it (used for force=true connects). */
+async function forceAcquireConnectLock(userId: string): Promise<void> {
+  try {
+    const WASession = await getSessionModel()
+    await WASession.findOneAndUpdate(
+      { userId },
+      { $set: { connectingAt: new Date(), connectingInstanceId: INSTANCE_ID } },
+      { upsert: true },
+    )
+  } catch {}
+}
+
+/** Release the lock — called when this instance finishes connecting or disconnects. */
+async function releaseConnectLock(userId: string): Promise<void> {
+  try {
+    const WASession = await getSessionModel()
+    await WASession.updateOne(
+      { userId, connectingInstanceId: INSTANCE_ID },
+      { $set: { connectingAt: null, connectingInstanceId: null } },
+    )
+  } catch {}
 }
 
 // ─── Manager factory ────────────────────────────────────────────────────────
@@ -238,6 +323,44 @@ function createManager(userId: string): WAManager {
 
       const mySession = ++currentSession
 
+      // ── Distributed connect lock ───────────────────────────────────────────
+      // Prevents multiple Vercel instances from simultaneously connecting the
+      // same WhatsApp account, which would cause WA to close one or both sockets.
+      if (force) {
+        await forceAcquireConnectLock(userId)
+      } else {
+        const acquired = await tryAcquireConnectLock(userId)
+        if (!acquired) {
+          if (mySession !== currentSession) return
+          console.log(`[WhatsApp][${userId}] Connect lock held by another instance — deferring`)
+          manager.isAutoReconnecting = true
+          manager.status = 'connecting'
+          emitter.emit('status', 'connecting')
+          return
+        }
+      }
+
+      if (mySession !== currentSession) { releaseConnectLock(userId).catch(() => {}); return }
+
+      // Heartbeat: refresh the lock every 20 s so it doesn't expire during
+      // long connection flows (QR scan, exponential backoff retries, etc.)
+      const lockHeartbeat = setInterval(async () => {
+        if (mySession !== currentSession) { clearInterval(lockHeartbeat); return }
+        if (manager.status === 'disconnected') { clearInterval(lockHeartbeat); return }
+        try {
+          const W = await getSessionModel()
+          await W.updateOne(
+            { userId, connectingInstanceId: INSTANCE_ID },
+            { $set: { connectingAt: new Date() } },
+          )
+        } catch {}
+      }, 20_000)
+
+      const clearLock = () => {
+        clearInterval(lockHeartbeat)
+        releaseConnectLock(userId).catch(() => {})
+      }
+
       try {
         const {
           default: makeWASocket,
@@ -249,7 +372,7 @@ function createManager(userId: string): WAManager {
         const { Boom } = await import('@hapi/boom')
         const QRCode = await import('qrcode')
 
-        if (mySession !== currentSession) return
+        if (mySession !== currentSession) { clearLock(); return }
 
         const authDir = getAuthDir(userId)
 
@@ -261,22 +384,19 @@ function createManager(userId: string): WAManager {
           if (restored) {
             manager.isAutoReconnecting = true
             emitter.emit('status', 'connecting')
-            // Tell other Vercel instances we are actively reconnecting with saved creds,
-            // so their status polls return 'connecting' instead of 'disconnected'.
             syncStatusToDB(userId, { status: 'connecting', isAutoReconnecting: true, qrDataURL: null }).catch(() => {})
           }
         }
 
-        if (mySession !== currentSession) return
+        if (mySession !== currentSession) { clearLock(); return }
 
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
 
         // creds.registered is only true after a completed QR scan + auth handshake.
-        // If it's false the session was never fully established — reconnecting with
-        // these keys just causes an open→close loop. Wipe them so the next connect()
-        // call starts fresh and Baileys generates a proper QR for scanning.
+        // If it's false the session was never fully established — wipe so Baileys
+        // generates a fresh QR instead of entering the open→close loop.
         if (state.creds?.me && !state.creds?.registered) {
-          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — clearing auth dir to force QR rescan`)
+          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — clearing auth dir`)
           if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
           getSessionModel()
             .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, status: 'disconnected', qrDataURL: null } }))
@@ -285,12 +405,13 @@ function createManager(userId: string): WAManager {
           manager.isAutoReconnecting = false
           manager.qrDataURL = null
           emitter.emit('status', 'disconnected')
+          clearLock()
           return
         }
 
         const { version } = await fetchLatestBaileysVersion()
 
-        if (mySession !== currentSession) return
+        if (mySession !== currentSession) { clearLock(); return }
 
         const sock = makeWASocket({
           version,
@@ -312,13 +433,11 @@ function createManager(userId: string): WAManager {
 
         manager.sock = sock
 
-        // ── Credential save + DB backup ───────────────────────────────────
         // saveCreds is called by Baileys whenever auth state changes (QR scan,
         // reconnect, key rotation). We also back up to MongoDB so a new Vercel
         // instance can restore without re-scanning the QR.
         const saveCredsAndBackup = async () => {
           await saveCreds()
-          // Non-blocking — a DB hiccup must not interrupt the connection
           backupAuthToDB(userId, authDir).catch(() => {})
         }
         sock.ev.on('creds.update', saveCredsAndBackup)
@@ -351,11 +470,15 @@ function createManager(userId: string): WAManager {
             emitter.emit('status', 'connected')
             emitter.emit('connected', manager.phoneNumber)
             console.log(`[WhatsApp][${userId}] Connected as`, manager.phoneNumber)
+            // Release lock and clear lock fields from DB
+            clearLock()
             syncStatusToDB(userId, {
               status: 'connected',
               phoneNumber: manager.phoneNumber,
               qrDataURL: null,
               isAutoReconnecting: false,
+              connectingAt: null,
+              connectingInstanceId: null,
             }).catch(() => {})
           }
 
@@ -377,7 +500,14 @@ function createManager(userId: string): WAManager {
               manager.isAutoReconnecting = false
               emitter.emit('status', 'disconnected')
               emitter.emit('logged-out')
-              syncStatusToDB(userId, { status: 'disconnected', phoneNumber: null, qrDataURL: null }).catch(() => {})
+              clearLock()
+              syncStatusToDB(userId, {
+                status: 'disconnected',
+                phoneNumber: null,
+                qrDataURL: null,
+                connectingAt: null,
+                connectingInstanceId: null,
+              }).catch(() => {})
               return
             }
 
@@ -397,9 +527,9 @@ function createManager(userId: string): WAManager {
               softRestartCount++
               if (softRestartCount >= 3) {
                 softRestartCount = 0
-                const authDir = getAuthDir(userId)
-                if (fs.existsSync(authDir)) {
-                  fs.rmSync(authDir, { recursive: true, force: true })
+                const dir = getAuthDir(userId)
+                if (fs.existsSync(dir)) {
+                  fs.rmSync(dir, { recursive: true, force: true })
                   console.log(`[WhatsApp][${userId}] Cleared stale auth after repeated restartRequired`)
                 }
                 // Wipe DB backup too — otherwise restoreAuthFromDB will put stale
@@ -411,21 +541,21 @@ function createManager(userId: string): WAManager {
               manager.status = 'connecting'
               manager.isAutoReconnecting = manager.hasSavedCreds()
               emitter.emit('status', 'connecting')
+              // Keep the lock — we're reconnecting immediately
               const sessionAtSoftRestart = currentSession
               setTimeout(() => {
                 if (sessionAtSoftRestart !== currentSession) return
                 manager.connect(true)
               }, 1_500)
             } else {
-              // Server-side error (440 replaced, 500 bad session, etc.) — back off and retry.
-              // Keep status as 'connecting' + isAutoReconnecting so the frontend shows
-              // "Reconnecting…" rather than "Not connected" during the wait.
+              // Server-side error (440 replaced, etc.) — back off and retry.
               manager.status = 'connecting'
               manager.isAutoReconnecting = true
               emitter.emit('status', 'connecting')
               syncStatusToDB(userId, { status: 'connecting', isAutoReconnecting: true, qrDataURL: null }).catch(() => {})
               const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
               retryCount++
+              // Keep the lock during backoff — heartbeat keeps it alive
               const sessionAtRetry = currentSession
               setTimeout(() => {
                 if (sessionAtRetry !== currentSession) return
@@ -435,7 +565,8 @@ function createManager(userId: string): WAManager {
           }
         })
       } catch (err) {
-        if (mySession !== currentSession) return
+        if (mySession !== currentSession) { clearInterval(lockHeartbeat); return }
+        clearLock()
         console.error(`[WhatsApp][${userId}] connect() error:`, err)
         manager.status = 'disconnected'
         manager.isAutoReconnecting = false
@@ -485,11 +616,120 @@ function createManager(userId: string): WAManager {
         fs.rmSync(authDir, { recursive: true, force: true })
       }
 
-      // Wipe saved session so other instances don't try to auto-reconnect
+      // Wipe session and release lock so other instances don't auto-reconnect
       clearSessionInDB(userId).catch(() => {})
+      releaseConnectLock(userId).catch(() => {})
 
       emitter.emit('logged-out')
       getManagerMap().delete(userId)
+    },
+
+    startPairingCode(phone: string): void {
+      if (manager.status === 'connected') return
+
+      const authDir = getAuthDir(userId)
+
+      // Wipe stale creds and mark as starting in MongoDB immediately so the
+      // frontend's status poll shows 'connecting' right away.
+      if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
+      getSessionModel()
+        .then(W => W.findOneAndUpdate(
+          { userId },
+          { $set: { authData: null, status: 'connecting', qrDataURL: null, pairingCode: null } },
+          { upsert: true },
+        ))
+        .catch(() => {})
+
+      // All heavy work is fire-and-forget so the pair route can return in < 1 s,
+      // safely within Vercel Hobby's 10 s function limit. The result is written
+      // to MongoDB and picked up by the frontend's 2 s status poll.
+      ;(async () => {
+        try {
+          // connect(true): force-acquires lock, starts fresh Baileys socket
+          await manager.connect(true)
+
+          if (!manager.sock) throw new Error('Socket did not start')
+
+          const { default: makeWASocket } = await import('@whiskeysockets/baileys')
+          const cleanPhone = phone.replace(/\D/g, '')
+
+          // Wait for the manager's 'qr' event before calling requestPairingCode.
+          //
+          // The 'qr' event fires from inside connection.update AFTER Baileys has
+          // completed the full Noise Protocol handshake (validateConnection →
+          // noise.finishInit). Only after finishInit does noise.encodeFrame
+          // encrypt outgoing frames. Calling requestPairingCode earlier sends
+          // the IQ node unencrypted, which WhatsApp silently drops — no code,
+          // no error, just silence.
+          //
+          // Using the manager emitter (not sock.ev) means we correctly handle
+          // reconnects: if the first socket closes and a new one generates a
+          // fresh QR, onQR fires again on the new socket.
+          const raw = await new Promise<string>((resolve, reject) => {
+            let done = false
+
+            const cleanup = () => {
+              done = true
+              clearTimeout(timeout)
+              emitter.off('qr', onQR)
+              emitter.off('logged-out', onLoggedOut)
+            }
+
+            const timeout = setTimeout(() => {
+              cleanup()
+              reject(new Error('Timed out waiting for WhatsApp handshake — please try again.'))
+            }, 30_000)
+
+            const onQR = async () => {
+              if (done) return
+              cleanup()
+              const sock = manager.sock as Awaited<ReturnType<typeof makeWASocket>> | null
+              if (!sock) {
+                reject(new Error('WhatsApp socket closed before pairing code could be requested.'))
+                return
+              }
+              try {
+                const code = await sock.requestPairingCode(cleanPhone)
+                resolve(code)
+              } catch (err) {
+                reject(err instanceof Error ? err : new Error(String(err)))
+              }
+            }
+
+            const onLoggedOut = () => {
+              if (done) return
+              cleanup()
+              reject(new Error('WhatsApp disconnected before pairing code could be requested.'))
+            }
+
+            emitter.on('qr', onQR)
+            emitter.on('logged-out', onLoggedOut)
+          })
+
+          const code = raw.length === 8 ? `${raw.slice(0, 4)}-${raw.slice(4)}` : raw
+
+          console.log(`[WhatsApp][${userId}] Pairing code ready: ${code}`)
+          // Store in MongoDB — the frontend's 2 s status poll picks it up
+          getSessionModel()
+            .then(W => W.findOneAndUpdate(
+              { userId },
+              { $set: { pairingCode: code } },
+              { upsert: true },
+            ))
+            .catch(() => {})
+        } catch (err) {
+          console.error(`[WhatsApp][${userId}] startPairingCode error:`, err)
+          manager.status = 'disconnected'
+          manager.isAutoReconnecting = false
+          emitter.emit('status', 'disconnected')
+          getSessionModel()
+            .then(W => W.findOneAndUpdate(
+              { userId },
+              { $set: { status: 'disconnected', pairingCode: null } },
+            ))
+            .catch(() => {})
+        }
+      })()
     },
 
     async sendMessage(phone: string, message: string) {

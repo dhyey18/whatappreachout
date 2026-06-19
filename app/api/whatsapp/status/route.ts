@@ -20,45 +20,45 @@ export async function GET(req: NextRequest) {
         hasQR: false,
         qrDataURL: null,
         isAutoReconnecting: false,
+        pairingCode: null,
       })
     }
 
-    // Slower path: in-memory is 'connecting' or 'disconnected'.
-    // On Vercel, another instance may hold the active socket or QR — read MongoDB
-    // to fill in cross-instance gaps so the frontend gets the right picture.
+    // Slower path: read MongoDB to fill in cross-instance gaps.
+    // This is the primary delivery mechanism on Vercel Hobby because SSE is
+    // limited to 10 s — all QR codes, pairing codes, and status changes flow
+    // through this 3 s poll.
     let qrDataURL = manager.qrDataURL
     let finalStatus = manager.status
     let finalPhone = manager.phoneNumber
     let finalIsAutoReconnecting = manager.isAutoReconnecting
+    let pairingCode: string | null = null
 
     try {
       await connectDB()
       const { WASession } = await import('@/lib/models/WASession')
       const session = await WASession.findOne(
         { userId: auth.id },
-        { qrDataURL: 1, status: 1, phoneNumber: 1, isAutoReconnecting: 1 },
+        { qrDataURL: 1, status: 1, phoneNumber: 1, isAutoReconnecting: 1, pairingCode: 1 },
       ).lean()
 
       if (session) {
+        // Pairing code — always return it if present (regardless of status)
+        pairingCode = (session.pairingCode as string | null) ?? null
+
         if (session.status === 'connected') {
-          // Another instance has the live socket — we're in the middle of restoring.
-          // Show 'connecting' + isAutoReconnecting so the UI shows "Restoring session…"
-          // instead of "Not connected". The background reconnect will finish shortly.
+          // Another instance has the live socket
           finalStatus = 'connecting'
           finalPhone = (session.phoneNumber as string | null) ?? null
           finalIsAutoReconnecting = true
           qrDataURL = null
         } else if (session.status === 'connecting') {
-          // Another instance is reconnecting — mirror its state so we don't flash
-          // "Not connected" while the reconnect is underway.
           finalStatus = 'connecting'
           finalIsAutoReconnecting = (session.isAutoReconnecting as boolean | undefined) ?? false
           if (!qrDataURL && session.qrDataURL) {
             qrDataURL = session.qrDataURL as string
           }
         } else if (!qrDataURL && session.qrDataURL) {
-          // DB has a QR from a previous attempt on another instance — surface it
-          // and show 'connecting' so the user can scan it.
           qrDataURL = session.qrDataURL as string
           finalStatus = 'connecting'
           if (session.isAutoReconnecting !== undefined) {
@@ -67,7 +67,7 @@ export async function GET(req: NextRequest) {
         }
       }
     } catch {
-      // MongoDB unavailable — fall through with in-memory state, don't break the poll
+      // MongoDB unavailable — fall through with in-memory state
     }
 
     return Response.json({
@@ -76,6 +76,7 @@ export async function GET(req: NextRequest) {
       hasQR: !!qrDataURL,
       qrDataURL,
       isAutoReconnecting: finalIsAutoReconnecting,
+      pairingCode,
     })
   } catch (err) {
     console.error('[whatsapp/status] error:', err)
@@ -85,6 +86,7 @@ export async function GET(req: NextRequest) {
       hasQR: false,
       qrDataURL: null,
       isAutoReconnecting: false,
+      pairingCode: null,
     })
   }
 }
