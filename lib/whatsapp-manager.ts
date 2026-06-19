@@ -20,7 +20,7 @@ interface WAManager {
 }
 
 // Bump whenever the manager's internal structure changes.
-const MANAGER_VERSION = 11
+const MANAGER_VERSION = 13
 
 declare global {
   // eslint-disable-next-line no-var
@@ -270,6 +270,24 @@ function createManager(userId: string): WAManager {
         if (mySession !== currentSession) return
 
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
+
+        // creds.registered is only true after a completed QR scan + auth handshake.
+        // If it's false the session was never fully established — reconnecting with
+        // these keys just causes an open→close loop. Wipe them so the next connect()
+        // call starts fresh and Baileys generates a proper QR for scanning.
+        if (state.creds?.me && !state.creds?.registered) {
+          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — clearing auth dir to force QR rescan`)
+          if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
+          getSessionModel()
+            .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, status: 'disconnected', qrDataURL: null } }))
+            .catch(() => {})
+          manager.status = 'disconnected'
+          manager.isAutoReconnecting = false
+          manager.qrDataURL = null
+          emitter.emit('status', 'disconnected')
+          return
+        }
+
         const { version } = await fetchLatestBaileysVersion()
 
         if (mySession !== currentSession) return
@@ -523,6 +541,39 @@ function createManager(userId: string): WAManager {
   return manager
 }
 
+// ─── Credential validation ───────────────────────────────────────────────────
+
+/**
+ * Returns true only when saved credentials have completed registration.
+ * creds.registered is set to true by Baileys only after a successful QR scan
+ * and server-side registration. If it's false the keys are unusable and will
+ * cause an open→close loop — we must wipe them and start fresh.
+ */
+function credsAreValid(authDir: string): boolean {
+  const credsPath = `${authDir}/creds.json`
+  if (!fs.existsSync(credsPath)) return false
+  try {
+    const creds = JSON.parse(fs.readFileSync(credsPath, 'utf8'))
+    return creds.registered === true
+  } catch {
+    return false
+  }
+}
+
+function wipeCredsSync(userId: string, authDir: string): void {
+  if (fs.existsSync(authDir)) {
+    fs.rmSync(authDir, { recursive: true, force: true })
+    console.log(`[WhatsApp][${userId}] Wiped stale auth dir (registered=false)`)
+  }
+  // Clear the DB backup so restoreAuthFromDB cannot put the stale creds back
+  getSessionModel()
+    .then(W => W.findOneAndUpdate(
+      { userId },
+      { $set: { authData: null, status: 'disconnected', phoneNumber: null, qrDataURL: null } },
+    ))
+    .catch(() => {})
+}
+
 // ─── Public API ─────────────────────────────────────────────────────────────
 
 export function getWAManager(userId: string): WAManager {
@@ -534,20 +585,30 @@ export function getWAManager(userId: string): WAManager {
   m.__v = MANAGER_VERSION
   map.set(userId, m)
 
+  const authDir = getAuthDir(userId)
+
   if (m.hasSavedCreds()) {
-    // Warm instance: /tmp still has creds from the previous invocation
-    console.log(`[WhatsApp][${userId}] Saved creds found — auto-reconnecting…`)
-    m.connect().catch(() => {})
+    if (!credsAreValid(authDir)) {
+      // Stale / incomplete registration — wipe before connecting so Baileys
+      // generates a fresh QR instead of entering the open→close loop.
+      wipeCredsSync(userId, authDir)
+    } else {
+      console.log(`[WhatsApp][${userId}] Valid creds found — auto-reconnecting…`)
+      m.connect().catch(() => {})
+    }
   } else {
     // Cold start: /tmp is empty. Try restoring from MongoDB so the user
     // doesn't need to re-scan the QR after every Vercel function cold start.
-    const authDir = getAuthDir(userId)
     restoreAuthFromDB(userId, authDir)
       .then(restored => {
         if (!restored) return
-        // Only start if nothing else already kicked off a connect
         if (m.status !== 'disconnected') return
-        console.log(`[WhatsApp][${userId}] Cold-start: restored creds from DB — auto-reconnecting…`)
+        // Validate what we just restored before connecting
+        if (!credsAreValid(authDir)) {
+          wipeCredsSync(userId, authDir)
+          return
+        }
+        console.log(`[WhatsApp][${userId}] Cold-start: restored valid creds from DB — auto-reconnecting…`)
         m.connect().catch(() => {})
       })
       .catch(() => {})
