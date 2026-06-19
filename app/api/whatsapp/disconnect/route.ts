@@ -6,7 +6,12 @@ export async function POST(req: NextRequest) {
   const auth = await getAuthUser(req)
   if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
-  const manager = getWAManager()
-  await manager.disconnect()
-  return Response.json({ success: true })
+  try {
+    const manager = getWAManager()
+    await manager.disconnect()
+    return Response.json({ success: true })
+  } catch (err) {
+    console.error('[whatsapp/disconnect] error:', err)
+    return Response.json({ error: 'Disconnect failed' }, { status: 500 })
+  }
 }

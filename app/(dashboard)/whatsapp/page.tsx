@@ -53,6 +53,7 @@ export default function WhatsAppPage() {
   const [isAutoReconnecting, setIsAutoReconnecting] = useState(false)
   const esRef = useRef<EventSource | null>(null)
   const prevStatusRef = useRef<WAStatus>('disconnected')
+  const connectedPhoneRef = useRef<string | null>(null)
 
   const { data: contactsData } = useQuery<{ contacts: Contact[] }>({
     queryKey: ['contacts-wa'],
@@ -70,6 +71,7 @@ export default function WhatsAppPage() {
     const prev = prevStatusRef.current
     setStatus(payload.status)
     setConnectedPhone(payload.phone)
+    connectedPhoneRef.current = payload.phone
     setIsAutoReconnecting(payload.isAutoReconnecting)
     prevStatusRef.current = payload.status
 
@@ -116,7 +118,7 @@ export default function WhatsAppPage() {
 
         if (data.type === 'status') {
           if (data.status === 'connected') {
-            applyStatus({ status: 'connected', phone: data.phone || connectedPhone, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
+            applyStatus({ status: 'connected', phone: data.phone || connectedPhoneRef.current, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
             stopSSE()
           }
         }
@@ -138,7 +140,7 @@ export default function WhatsAppPage() {
         esRef.current = null
       }
     }
-  }, [stopSSE, applyStatus, connectedPhone])
+  }, [stopSSE, applyStatus])
 
   // Periodic status poll — primary fallback for QR delivery and status sync
   useEffect(() => {

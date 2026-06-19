@@ -3,6 +3,7 @@ import { getAuthUser, verifyToken } from '@/lib/auth'
 import { getWAManager } from '@/lib/whatsapp-manager'
 
 export const dynamic = 'force-dynamic'
+export const maxDuration = 60 // seconds — Vercel Pro allows up to 300s for streaming
 
 export async function GET(req: NextRequest) {
   // EventSource cannot send custom headers — accept token as query param too
@@ -22,9 +23,17 @@ export async function GET(req: NextRequest) {
   }
   const encoder = new TextEncoder()
 
-  // If already connected, return a simple JSON response (not SSE)
+  // If already connected, return a one-shot SSE message so EventSource doesn't error
+  // (EventSource requires Content-Type: text/event-stream — plain JSON would break it)
   if (manager.status === 'connected') {
-    return Response.json({ type: 'connected', phone: manager.phoneNumber })
+    const payload = JSON.stringify({ type: 'connected', phone: manager.phoneNumber })
+    return new Response(`data: ${payload}\n\n`, {
+      headers: {
+        'Content-Type': 'text/event-stream',
+        'Cache-Control': 'no-cache, no-store, no-transform',
+        Connection: 'keep-alive',
+      },
+    })
   }
 
   const stream = new ReadableStream({

@@ -19,7 +19,7 @@ interface WAManager {
 }
 
 // Bump this whenever the manager's internal structure changes.
-const MANAGER_VERSION = 8
+const MANAGER_VERSION = 9
 
 declare global {
   // eslint-disable-next-line no-var
@@ -173,6 +173,9 @@ function createManager(): WAManager {
           const { connection, lastDisconnect, qr } = update
 
           if (qr) {
+            // A new QR means a genuinely fresh attempt — reset the consecutive-restart
+            // counter so a normal post-scan restartRequired doesn't wrongly clear creds.
+            softRestartCount = 0
             manager.isAutoReconnecting = false
             try {
               const dataURL = await QRCode.default.toDataURL(qr, { width: 300, margin: 2 })
@@ -235,15 +238,24 @@ function createManager(): WAManager {
               manager.status = 'connecting'
               manager.isAutoReconnecting = manager.hasSavedCreds()
               emitter.emit('status', 'connecting')
-              // force=true so the guard (sock===null + status===connecting) doesn't block the retry
-              setTimeout(() => manager.connect(true), 1_500)
+              // Capture session now — if disconnect() fires before the timer, it increments
+              // currentSession, and the check below prevents a ghost reconnect.
+              const sessionAtSoftRestart = currentSession
+              setTimeout(() => {
+                if (sessionAtSoftRestart !== currentSession) return
+                manager.connect(true)
+              }, 1_500)
             } else {
               manager.status = 'disconnected'
               manager.isAutoReconnecting = false
               emitter.emit('status', 'disconnected')
               const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
               retryCount++
-              setTimeout(() => manager.connect(true), delay)
+              const sessionAtRetry = currentSession
+              setTimeout(() => {
+                if (sessionAtRetry !== currentSession) return
+                manager.connect(true)
+              }, delay)
             }
           }
         })
@@ -255,28 +267,46 @@ function createManager(): WAManager {
         emitter.emit('status', 'disconnected')
         const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
         retryCount++
-        setTimeout(() => manager.connect(true), delay)
+        const sessionAtError = currentSession
+        setTimeout(() => {
+          if (sessionAtError !== currentSession) return
+          manager.connect(true)
+        }, delay)
       }
     },
 
     async disconnect() {
       retryCount = 0
+      softRestartCount = 0
       manager.isAutoReconnecting = false
-      currentSession++ // Invalidate any running connection handlers
+      currentSession++ // Invalidate any in-flight connection handlers + timer callbacks
 
-      if (manager.sock) {
-        try {
-          const { default: makeWASocket } = await import('@whiskeysockets/baileys')
-          const sock = manager.sock as Awaited<ReturnType<typeof makeWASocket>>
-          await sock.logout()
-        } catch {}
-        manager.sock = null
-      }
-
+      // Eagerly clear all state so polls and sends fail fast during logout
+      const sockToClose = manager.sock as {
+        logout?: () => Promise<void>
+        ws?: { terminate?: () => void; close?: () => void }
+      } | null
+      manager.sock = null
       manager.status = 'disconnected'
       manager.qrDataURL = null
       manager.phoneNumber = null
       emitter.emit('status', 'disconnected')
+
+      if (sockToClose) {
+        // Best-effort logout with a 5-second cap — don't block cleanup if server is unreachable
+        try {
+          await Promise.race([
+            sockToClose.logout?.() ?? Promise.resolve(),
+            new Promise<void>((_, reject) =>
+              setTimeout(() => reject(new Error('logout timeout')), 5_000)
+            ),
+          ])
+        } catch {}
+        // Force-terminate the underlying WebSocket regardless of logout outcome
+        try {
+          sockToClose.ws?.terminate?.() ?? sockToClose.ws?.close?.()
+        } catch {}
+      }
 
       const authDir = getAuthDir()
       if (fs.existsSync(authDir)) {
@@ -305,7 +335,11 @@ function createManager(): WAManager {
         manager.status = 'disconnected'
         manager.sock = null
         emitter.emit('status', 'disconnected')
-        setTimeout(() => manager.connect(), 1_500)
+        const sessionAtWsClose = currentSession
+        setTimeout(() => {
+          if (sessionAtWsClose !== currentSession) return
+          manager.connect()
+        }, 1_500)
         throw new Error('WhatsApp socket closed. Reconnecting — please retry in a moment.')
       }
 
@@ -318,7 +352,11 @@ function createManager(): WAManager {
           manager.status = 'disconnected'
           manager.sock = null
           emitter.emit('status', 'disconnected')
-          setTimeout(() => manager.connect(), 1_500)
+          const sessionAtDrop = currentSession
+          setTimeout(() => {
+            if (sessionAtDrop !== currentSession) return
+            manager.connect()
+          }, 1_500)
           throw new Error('WhatsApp connection dropped. Reconnecting — please retry in a moment.')
         }
         throw err
