@@ -62,7 +62,8 @@ export async function GET(req: NextRequest) {
       }
       send({ type: 'status', status: manager.status, isAutoReconnecting: manager.isAutoReconnecting })
 
-      // Keep-alive ping every 15s — prevents proxies / Next.js from buffering the stream
+      // Keep-alive ping every 8s — prevents proxies / Next.js from buffering the stream
+      // (Vercel Hobby's 10s idle limit means 15s was too slow to prevent drops)
       const keepAlive = setInterval(() => {
         if (closed) { clearInterval(keepAlive); return }
         try {
@@ -71,7 +72,7 @@ export async function GET(req: NextRequest) {
           closed = true
           clearInterval(keepAlive)
         }
-      }, 15_000)
+      }, 8_000)
 
       const onQR = (qrDataURL: string) => send({ type: 'qr', qrDataURL })
       const onConnected = (phone: string) => {
