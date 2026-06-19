@@ -13,17 +13,18 @@ export async function GET(req: NextRequest) {
   }
   if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
 
-  const manager = getWAManager()
+  let manager
+  try {
+    manager = getWAManager()
+  } catch (err) {
+    console.error('[whatsapp/qr] getWAManager failed:', err)
+    return Response.json({ error: 'WhatsApp manager unavailable' }, { status: 503 })
+  }
   const encoder = new TextEncoder()
 
   // If already connected, return a simple JSON response (not SSE)
   if (manager.status === 'connected') {
     return Response.json({ type: 'connected', phone: manager.phoneNumber })
-  }
-
-  // If disconnected, start connecting now
-  if (manager.status === 'disconnected') {
-    manager.connect().catch(() => {})
   }
 
   const stream = new ReadableStream({
