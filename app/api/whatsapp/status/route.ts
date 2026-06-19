@@ -41,17 +41,26 @@ export async function GET(req: NextRequest) {
 
       if (session) {
         if (session.status === 'connected') {
-          // Another instance (or an ongoing cold-start restore) has the live socket.
-          // Return 'connecting' + isAutoReconnecting so the UI shows "Restoring…"
-          // rather than "Not connected" — the background reconnect will finish shortly.
+          // Another instance has the live socket — we're in the middle of restoring.
+          // Show 'connecting' + isAutoReconnecting so the UI shows "Restoring session…"
+          // instead of "Not connected". The background reconnect will finish shortly.
           finalStatus = 'connecting'
           finalPhone = (session.phoneNumber as string | null) ?? null
           finalIsAutoReconnecting = true
-          qrDataURL = null  // No QR needed during auto-reconnect
+          qrDataURL = null
+        } else if (session.status === 'connecting') {
+          // Another instance is reconnecting — mirror its state so we don't flash
+          // "Not connected" while the reconnect is underway.
+          finalStatus = 'connecting'
+          finalIsAutoReconnecting = (session.isAutoReconnecting as boolean | undefined) ?? false
+          if (!qrDataURL && session.qrDataURL) {
+            qrDataURL = session.qrDataURL as string
+          }
         } else if (!qrDataURL && session.qrDataURL) {
-          // Cross-instance QR delivery: the QR was generated on a different instance
-          // but the 3-second status poll can still deliver it here.
+          // DB has a QR from a previous attempt on another instance — surface it
+          // and show 'connecting' so the user can scan it.
           qrDataURL = session.qrDataURL as string
+          finalStatus = 'connecting'
           if (session.isAutoReconnecting !== undefined) {
             finalIsAutoReconnecting = session.isAutoReconnecting as boolean
           }

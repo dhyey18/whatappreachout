@@ -259,9 +259,11 @@ function createManager(userId: string): WAManager {
         if (!fs.existsSync(`${authDir}/creds.json`)) {
           const restored = await restoreAuthFromDB(userId, authDir)
           if (restored) {
-            // We now have saved creds — reflect this in the connecting state
             manager.isAutoReconnecting = true
             emitter.emit('status', 'connecting')
+            // Tell other Vercel instances we are actively reconnecting with saved creds,
+            // so their status polls return 'connecting' instead of 'disconnected'.
+            syncStatusToDB(userId, { status: 'connecting', isAutoReconnecting: true, qrDataURL: null }).catch(() => {})
           }
         }
 
@@ -344,7 +346,9 @@ function createManager(userId: string): WAManager {
             manager.qrDataURL = null
 
             const statusCode = (lastDisconnect?.error as InstanceType<typeof Boom>)?.output?.statusCode
-            const isLoggedOut = statusCode === DisconnectReason.loggedOut
+            // 401 = loggedOut (user removed web session from phone)
+            // 500 = badSession (creds are corrupted — clear them, force a fresh QR)
+            const isLoggedOut = statusCode === DisconnectReason.loggedOut || statusCode === 500
 
             console.log(`[WhatsApp][${userId}] Closed — code=${statusCode} loggedOut=${isLoggedOut}`)
 
@@ -359,9 +363,16 @@ function createManager(userId: string): WAManager {
               return
             }
 
+            // 428 = connectionClosed (Baileys' routine "please reconnect" signal)
+            // 408 = connectionLost / timedOut
+            // 515 = restartRequired (post-QR-scan handshake restart)
+            // undefined = no Boom error attached (treat as reconnectable)
+            // <12 s uptime = something crashed right after opening
             const isSoftRestart =
               statusCode === DisconnectReason.restartRequired ||
+              statusCode === 428 ||
               statusCode === 408 ||
+              statusCode === undefined ||
               (Date.now() - lastOpenedAt < 12_000)
 
             if (isSoftRestart) {
@@ -388,10 +399,13 @@ function createManager(userId: string): WAManager {
                 manager.connect(true)
               }, 1_500)
             } else {
-              manager.status = 'disconnected'
-              manager.isAutoReconnecting = false
-              emitter.emit('status', 'disconnected')
-              syncStatusToDB(userId, { status: 'disconnected', qrDataURL: null }).catch(() => {})
+              // Server-side error (440 replaced, 500 bad session, etc.) — back off and retry.
+              // Keep status as 'connecting' + isAutoReconnecting so the frontend shows
+              // "Reconnecting…" rather than "Not connected" during the wait.
+              manager.status = 'connecting'
+              manager.isAutoReconnecting = true
+              emitter.emit('status', 'connecting')
+              syncStatusToDB(userId, { status: 'connecting', isAutoReconnecting: true, qrDataURL: null }).catch(() => {})
               const delay = Math.min(5_000 * 2 ** retryCount, 60_000)
               retryCount++
               const sessionAtRetry = currentSession
