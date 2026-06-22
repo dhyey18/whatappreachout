@@ -199,7 +199,24 @@ export default function WhatsAppPage() {
     setIsAutoReconnecting(false)
     prevStatusRef.current = 'connecting'
 
-    try { await api.post('/whatsapp/reconnect', {}) } catch {}
+    try {
+      // Reconnect waits up to 8 s for Baileys to generate a QR, then returns it.
+      // This works on Vercel Hobby (10 s limit) and avoids fire-and-forget races.
+      const res = await api.post<{ qrDataURL?: string | null; connected?: boolean; isAutoReconnecting?: boolean }>(
+        '/whatsapp/reconnect', {}
+      )
+      if (res.qrDataURL) {
+        setQRDataURL(res.qrDataURL)
+      }
+      if (res.connected) {
+        applyStatus({ status: 'connected', phone: null, hasQR: false, qrDataURL: null, isAutoReconnecting: false })
+      }
+      if (res.isAutoReconnecting) {
+        setIsAutoReconnecting(true)
+      }
+    } catch {}
+
+    // Open SSE alongside the poll for push delivery of connection confirmation
     startSSE()
   }
 

@@ -33,7 +33,8 @@ const MANAGER_VERSION = 15
 const INSTANCE_ID = `${process.pid.toString(36)}-${Math.random().toString(36).slice(2, 8)}`
 
 // How long the connect lock is valid without a heartbeat refresh.
-const LOCK_TTL_MS = 45_000
+// Shorter TTL = faster recovery when an instance dies mid-connect.
+const LOCK_TTL_MS = 20_000
 
 declare global {
   // eslint-disable-next-line no-var
