@@ -395,18 +395,23 @@ function createManager(userId: string): WAManager {
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
 
         // creds.registered is only true after a completed QR scan + auth handshake.
-        // If it's false the session was never fully established — wipe so Baileys
-        // generates a fresh QR instead of entering the open→close loop.
+        // If false the session was never fully established — wipe and immediately
+        // restart so a fresh QR is generated. Do NOT emit 'disconnected' here:
+        // that would cause the status poll to reset the frontend mid-flow and
+        // prevent the QR from ever being shown.
         if (state.creds?.me && !state.creds?.registered) {
-          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — clearing auth dir`)
+          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — wiping and restarting for fresh QR`)
           if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
           getSessionModel()
-            .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, status: 'disconnected', qrDataURL: null } }))
+            .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, qrDataURL: null } }))
             .catch(() => {})
-          manager.status = 'disconnected'
-          manager.isAutoReconnecting = false
           manager.qrDataURL = null
-          emitter.emit('status', 'disconnected')
+          // Keep status 'connecting' — restart immediately so QR is generated
+          const sessionAtWipe = currentSession
+          setTimeout(() => {
+            if (sessionAtWipe !== currentSession) return
+            manager.connect(true)
+          }, 200)
           clearLock()
           return
         }

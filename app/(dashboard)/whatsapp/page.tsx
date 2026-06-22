@@ -59,6 +59,9 @@ export default function WhatsAppPage() {
   const esRef = useRef<EventSource | null>(null)
   const prevStatusRef = useRef<WAStatus>('disconnected')
   const connectedPhoneRef = useRef<string | null>(null)
+  // When user clicks Connect, ignore 'disconnected' from status poll for 20 s
+  // so stale-creds recovery and retries don't reset the UI mid-flow.
+  const connectingUntilRef = useRef<number>(0)
 
   const { data: contactsData } = useQuery<{ contacts: Contact[] }>({
     queryKey: ['contacts-wa'],
@@ -74,11 +77,17 @@ export default function WhatsAppPage() {
 
   const applyStatus = useCallback((payload: StatusPayload) => {
     const prev = prevStatusRef.current
-    setStatus(payload.status)
+    // During an active connect attempt, suppress spurious 'disconnected' signals
+    // (e.g. stale-creds recovery, lock release) so the QR flow isn't interrupted.
+    const effectiveStatus =
+      payload.status === 'disconnected' && Date.now() < connectingUntilRef.current
+        ? 'connecting'
+        : payload.status
+    setStatus(effectiveStatus)
     setConnectedPhone(payload.phone)
     connectedPhoneRef.current = payload.phone
     setIsAutoReconnecting(payload.isAutoReconnecting)
-    prevStatusRef.current = payload.status
+    prevStatusRef.current = effectiveStatus
 
     // Show QR from poll response if SSE hasn't delivered it yet
     if (payload.qrDataURL) {
@@ -198,6 +207,9 @@ export default function WhatsAppPage() {
     setPairingCode(null)
     setIsAutoReconnecting(false)
     prevStatusRef.current = 'connecting'
+    // Suppress 'disconnected' from the status poll for 20 s so stale-creds
+    // recovery and lock-release events don't reset the UI mid-flow.
+    connectingUntilRef.current = Date.now() + 20_000
 
     try {
       // Reconnect waits up to 8 s for Baileys to generate a QR, then returns it.
