@@ -79,11 +79,13 @@ const STATUS_CONFIG: Record<string, { label: string; color: 'default' | 'seconda
   skipped: { label: 'Skipped', color: 'outline', emoji: '⏭️' },
 }
 
-const CITIES = ['ahmedabad', 'surat', 'vadodara']
+const CITIES = ['ahmedabad', 'surat', 'vadodara', 'houston']
 const INDUSTRIES = [
-  'automobile', 'ca', 'clinic', 'clothing', 'dental', 'education', 'events',
-  'fitness', 'hotel', 'immigration', 'interior', 'jewellery', 'manufacturing',
-  'pharmacy', 'photography', 'realestate', 'restaurant',
+  'automobile', 'beauty', 'ca', 'clinic', 'clothing', 'dental', 'diagnostic',
+  'education', 'electronics', 'events', 'financial', 'fitness', 'hospital',
+  'hotel', 'immigration', 'interior', 'jewellery', 'legal', 'logistics',
+  'manufacturing', 'pharmacy', 'photography', 'printing', 'realestate',
+  'restaurant', 'travel', 'wedding_venue',
 ]
 const WEBSITE_TYPES = [
   { value: 'all', label: 'All' },

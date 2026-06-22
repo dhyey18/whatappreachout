@@ -38,7 +38,7 @@ export async function POST(req: NextRequest) {
         ...(raw.type_ids || []),
       ]
       const industry = detectIndustry(allTypes)
-      const phone = normalizePhone(raw.phone)
+      const phone = normalizePhone(raw.phone, city)
       const social = isSocialUrl(raw.website)
 
       try {

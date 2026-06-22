@@ -1,0 +1,5620 @@
+[
+  {
+    "position": 1,
+    "title": "Antoine Dental Center",
+    "place_id": "ChIJGZHfzwK4QIYRRiH905C-9pk",
+    "data_id": "0x8640b802cfdf9119:0x99f6be90d3fd2146",
+    "data_cid": "11094264261314945350",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b802cfdf9119%3A0x99f6be90d3fd2146&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b802cfdf9119%3A0x99f6be90d3fd2146&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8423773,
+      "longitude": -95.3893452
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGZHfzwK4QIYRRiH905C-9pk",
+    "provider_id": "/g/1tdb96fj",
+    "rating": 4.7,
+    "reviews": 3201,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "701 E Burress St, Houston, TX 77022",
+    "country": "United States",
+    "open_state": "Closed · Opens 11 AM",
+    "hours": "Closed · Opens 11 AM",
+    "operating_hours": {
+      "monday": "11 AM–6:30 PM",
+      "tuesday": "10 AM–6:30 PM",
+      "wednesday": "10 AM–6:30 PM",
+      "thursday": "Closed",
+      "friday": "10 AM–6:30 PM",
+      "saturday": "9 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 691-8880",
+    "website": "https://www.antoinedentalcenter.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The repair work on my tooth is incredible - it looks and feels brand new!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxCkwuoAs5N6_A9Ldf95fCKxj_q3YsQ-WbSFrVTzg_afTV6xQkq8vnr1O6OYKlJIDg9Jgdhy0yAqOO8M1QxxJZjy-CUUDuuTgaeUo_sdxzK6We4dPh72xS67oi3vYWoUPbNAQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wYVoFXicHcTLDYIwAADQiSogWsXEQwPRCAo08gleCEJpFaRAQYsDuoPbmPgO7_thw9CKjaLUTJ9RzmlNRkH6nDcDaYZZzh8KbQXIBRAK8l1cob00q9fIkVi6MEXGsSiNZWk68p52eiIwiK_nXR8Fb5pmZRBBiatu_Wx6zYNe4tT2waKGTQs2qRPqPG990rCU9uU-ATMMrXEMaEZCnopCvh0Yk0Xhs9VcnuGK3_RnEvPQv7oIb1-aqqqA_c9B8wNWHEUB"
+  },
+  {
+    "position": 2,
+    "title": "Texas Dental Center",
+    "place_id": "ChIJ04-UwafCQIYRmfKhwVm_WyQ",
+    "data_id": "0x8640c2a7c1948fd3:0x245bbf59c1a1f299",
+    "data_cid": "2619898000467686041",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c2a7c1948fd3%3A0x245bbf59c1a1f299&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c2a7c1948fd3%3A0x245bbf59c1a1f299&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6746216,
+      "longitude": -95.5498136
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ04-UwafCQIYRmfKhwVm_WyQ",
+    "provider_id": "/g/113fzvfyr",
+    "rating": 4.9,
+    "reviews": 1008,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "9801 Bissonnet St Ste K, Houston, TX 77036",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–6 PM",
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "8 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 831-9101",
+    "website": "https://texasdentalcenter.com/?utm_source=GMB&utm_medium=Organic&utm_campaign=LocalBusiness",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://flexbook.me/texasdent?rwg_token=AE37R_iL8HKYicjOGWCbQcuyDs3f2NZ8UfoE7-Fr9KA1KlPTz1jTHN1CovJvi0HG4vfc3d3Z-s3GzgkM0-09SXaH4dR5AXl4vg%3D%3D",
+    "user_review": "\"Wait time was great, tooth pulling didn’t hurt at all.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtxUS0XlSyBJHkuof4LD5_GDddm8Ojn8O9yuCGiRLIPyNFQJgmOlUDKv6HBDMfPbWm9SXo7QTg78R6EvLFzkYdfICJYcHKqVIQLGpWIPtJ4PGXzBufmpDjARYpO19pO6EbC9Xo2-TXvJox=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UUhmuXicHcRLUoMwAADQE6VQbSk44wJIC6TYBOgnrJxpgGAhJJqApZd07W2c8S3e709rjNIvltW3zwsuJe_rUddfTA6mHsyCSWFxpQHTQFs-OWSdH5v7qbBpX8wBirtRNqsUrt8jWFXCxbfBxd48htFHniZkPuwyxAXuT3A_OXEA3xpyvQivoHKTHfnGzZ3tlO4eXVk1SYhKFu8_z0mWRuqSEINWJKKPYGyEgjc_LxVeego722voUfkEjnRC8v76vbRtG7T_MzD8AXM7RqA"
+  },
+  {
+    "position": 3,
+    "title": "Dental Clinics of Texas",
+    "place_id": "ChIJ18y2oxXXQIYRGYELw9O1ZZ4",
+    "data_id": "0x8640d715a3b6ccd7:0x9e65b5d3c30b8119",
+    "data_cid": "11413728751755428121",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640d715a3b6ccd7%3A0x9e65b5d3c30b8119&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640d715a3b6ccd7%3A0x9e65b5d3c30b8119&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8792048,
+      "longitude": -95.6740308
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ18y2oxXXQIYRGYELw9O1ZZ4",
+    "provider_id": "/g/1tfmnsgs",
+    "rating": 4.8,
+    "reviews": 994,
+    "type": "Pediatric dentist",
+    "types": [
+      "Pediatric dentist"
+    ],
+    "type_id": "pediatric_dentist",
+    "type_ids": [
+      "pediatric_dentist"
+    ],
+    "address": "17440 FM 529 Ste 100, Houston, TX 77095",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 427-1901",
+    "website": "http://www.dentalclinicsoftexas.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"She took the time and worked on my babys teeth and fixed them.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFNuIJn1ftSZEEHTJjC91nLHcp5d-bhhQm2xuM65BPVXqvob8QpIPQvHgx12SFaib552nNb56Qo6EtlmRUca90s8v3sFBwtrCVNLkuWpUXuJqjA_FpjG1CgO0BbLPlMJvnqUrXBKy_9TlI=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IHKbInicHcTBToMwAADQL-poWUqGiQcgICBD6sYkXpa1YisrbaGFzZ_07t-Y-A7v90c4Z-yD50mx3XCtuewX289MK9crt2F69LixgFlgvaipyTXK6qUoFfp0h_c0zY_lkIRIVTkz-ANQIcjo35d9gOPm1E2rpjtiioasOb8j_5BdvijGvqopDogOUifH15ZdQmh369Zm8c3NyamursubabulnIbonJnhCSX8Bca0auS-XNXUzl38_H0Oj7J4vCEIIRD_M6D-ABgvRsE"
+  },
+  {
+    "position": 4,
+    "title": "houston medical center dental",
+    "place_id": "ChIJtXjbxXnAQIYRe0OVm8qnG44",
+    "data_id": "0x8640c079c5db78b5:0x8e1ba7ca9b95437b",
+    "data_cid": "10239962666392437627",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c079c5db78b5%3A0x8e1ba7ca9b95437b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c079c5db78b5%3A0x8e1ba7ca9b95437b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7149801,
+      "longitude": -95.39739499999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtXjbxXnAQIYRe0OVm8qnG44",
+    "provider_id": "/g/11bxc6jgw_",
+    "rating": 4.8,
+    "reviews": 47,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "prosthodontist"
+    ],
+    "address": "6400 Fannin St #2040, Houston, TX 77030",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "7:30 AM–5 PM",
+      "wednesday": "7:30 AM–5 PM",
+      "thursday": "7:30 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 795-0608",
+    "website": "http://www.houstonmedicalcenterdental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"Went in for front teeth repair and was blown away amazed with the results.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFSaLd7xGkao6oyNT-zyUcpwaaMI9xqlp53cojz7PXLXCc2sR7lmaEML_AcCZz7pjJ-pH9o3rtzbFzgn2pDqS-B-XtOKpkoCl7ESM1ljbUtCQ5q6-ETLFqJKTTP0zIVKtXJiMHe=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/i3RqQHicHcTdEoFAGADQJ_oqGnaYcZGU9EMU07gxazWlVt9m12Bf0DN4GzPOxfl-aqWEnJomr22jQqx4-ZDlnWGnyk4ZDG9mJSQwCdJ00vW2dfyMxhfyWrYUx_he56DfeyaelCaryavnYmQzbDRJi7hw2VDuCL9RL4lPDnOPmogmBBFM0L4rffZ11Q3Fos9gDoXaRKJFlxMvSwa8Oe-Vux31Y_Dy2O_DKM9TS68OkSrCaxKUs-fAsiyo_zPofrP_RPE"
+  },
+  {
+    "position": 5,
+    "title": "EZ Dental Clinic Houston",
+    "place_id": "ChIJc9P4ltfdQIYRCAgJfnP5zgw",
+    "data_id": "0x8640ddd796f8d373:0xccef9737e090808",
+    "data_cid": "922949248088606728",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640ddd796f8d373%3A0xccef9737e090808&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640ddd796f8d373%3A0xccef9737e090808&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.705201,
+      "longitude": -95.64537899999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc9P4ltfdQIYRCAgJfnP5zgw",
+    "provider_id": "/g/1tqty81n",
+    "rating": 4.9,
+    "reviews": 350,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service"
+    ],
+    "address": "6732 S Texas 6, Houston, TX 77083",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–2 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 498-2929",
+    "website": "http://www.ezdentalclinic.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Very friendly dental staff, knowledgeable and excellent dentists.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHU7EmK8pUc_xL-P-LBjgwB0AdmJtR_h6lh003Xx1whK1RuSsq4Fv9vNyRAYZ1g5GF_EXex7SPJJ16_mams4oMPFDhRkM8UJw4vuCrZReFx_16D9dgM9CdfA5GIMJXDBiWcSV3o=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ptOHGXicHcTbboIwAADQL6q04aKY-FBE3KoYLGFjvjRL6dpNSpktF79w3-DfmOw8nMefcq63a89rlb-QxshWDFbcuOmc6NyCG-3J3gJugfVwcTpf8Uu13OnDqq84m4-gAMfkR04JxI0mjjIVtQpCv57RpA6IDqX9DbIxHk93ij8uSIb7jO1qMS_LghAUMf2pbWDyIksVvearikzBOGxvFyqymaEojRuZx9vmC4f715zUafL9zss332wmBCEE6n8OuifhGUMA"
+  },
+  {
+    "position": 6,
+    "title": "Sunrise Dental Center",
+    "place_id": "ChIJgytG93PHQIYROl8iEE-M1YM",
+    "data_id": "0x8640c773f7462b83:0x83d58c4f10225f3a",
+    "data_cid": "9499653260208922426",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c773f7462b83%3A0x83d58c4f10225f3a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c773f7462b83%3A0x83d58c4f10225f3a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.811252,
+      "longitude": -95.4105113
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgytG93PHQIYROl8iEE-M1YM",
+    "provider_id": "/g/1tc_fn8x",
+    "rating": 4.9,
+    "reviews": 806,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants provider",
+      "Denture care center",
+      "Emergency dental service",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_provider",
+      "denture_care_center",
+      "emergency_dental_service",
+      "teeth_whitening_service"
+    ],
+    "address": "2707 N Shepherd Dr, Houston, TX 77008",
+    "country": "United States",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+      "monday": "7:30 AM–5 PM",
+      "tuesday": "7:30 AM–5 PM",
+      "wednesday": "7:30 AM–5 PM",
+      "thursday": "7:30 AM–5 PM",
+      "friday": "7:30 AM–5 PM",
+      "saturday": "7:30 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 869-9973",
+    "website": "https://www.sunrisedentalsmile.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Same day appointment and they got me in and fix my tooth right away.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkhPv2SXmdqEJZYFqAM3Bi6CUREmPZ9UgzIHZIMYBxN2Hxnbg0D0eQ_qQjFXUlyol9JwQCTVjNhhXLKNFN9ybtGKiNHLG-crRDAunjDbFOl_5J54SLYGGB0gquRl1HyiAqYDQSNFSX-Sjt=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JAMLkHicHcTBboIwAADQL6pUnSYs2aGIpSJ2lI4FuJjQkRYsYG2Zsp_0vL9Zsnd4v0_l3NW-ep5W64UcR6mbyTY3MQ6uGdxCjL0nrxYIC6yHUsouiFxU-r3iRf9l9nFVYoNO66Dd7vJs36eVn8ufA6kOpzJ40BV5DLWEIWzY2bAOF7meR-3Hd7b7-OyoUkVypJj6c-2iY0tJEgFxy0I0DV1Y43d93sSbF56UURRAaaZML8ncIlOGjFPMC8A793ZfQgiB-l-A4Q9vm0ac"
+  },
+  {
+    "position": 7,
+    "title": "Houston Dental Oasis: Dr. Amelia Wang",
+    "place_id": "ChIJxaZAweDHQIYRV1Bp-sixrbk",
+    "data_id": "0x8640c7e0c140a6c5:0xb9adb1c8fa695057",
+    "data_cid": "13379545544740393047",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c7e0c140a6c5%3A0xb9adb1c8fa695057&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c7e0c140a6c5%3A0xb9adb1c8fa695057&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.814621,
+      "longitude": -95.3987817
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxaZAweDHQIYRV1Bp-sixrbk",
+    "provider_id": "/g/11h4dyjx0n",
+    "rating": 5,
+    "reviews": 484,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Prosthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "prosthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "3004 Yale St Ste 500, Houston, TX 77018",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–8 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "9 AM–12 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 331-3177",
+    "website": "https://houstondentaloasis.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://flexbook.me/hdo?rwg_token=AE37R_h1YLOOdCSv3dPJ_QQBmZcQoIcjAdUu_cWpOW0mRt24LH60dlfNxveoDjdhLrwM1uyez7NI84p8svUo65niP61qSpthEw%3D%3D",
+    "user_review": "\"They exam your mouth thoroughly and map out a dental plan for you.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGB-h6S7SUcA7PYtm38tkS78QhShbUq6621JpaDBEeeVQnIrYi4L03BN_X_aP5VK88LLP6N47HpdDi3nlWlkqOx5o-5vhGHzjgOJdXK0TYMi1Uk8J_bDcrAoMQO-oLw0FQjnKyq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YWdQa3icHcRdDoIgAADgE5GYqaytB51lqanMrHxySUxMAxX6vWBn6DZtfQ_f98OU6uVc0zpmTGoh6o7eJB2J4IpyNSHiqtW9BEQCqTlpjFvHdwGzMjvLiWOnhboaSLWZjTDLWJUPljXVg_7kuUtK95hvxqKZRdBw4_JYnlJzHyIURakVz-x1f_Yag3eHrh2SpymAeWf--n2pk-B8DOGu2DZ63qKgrDwyOmKLEyCiB1zhCw9fw-KhQwgB-08A_wF2NEKn"
+  },
+  {
+    "position": 8,
+    "title": "Dental Care and Implants of South East Houston (Formerly Known As: A Dental Care - Gulfgate)",
+    "place_id": "ChIJI_FO3Oi9QIYRRYzYXG0dyRU",
+    "data_id": "0x8640bde8dc4ef123:0x15c91d6d5cd88c45",
+    "data_cid": "1569818300661664837",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bde8dc4ef123%3A0x15c91d6d5cd88c45&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bde8dc4ef123%3A0x15c91d6d5cd88c45&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7016603,
+      "longitude": -95.2976312
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI_FO3Oi9QIYRRYzYXG0dyRU",
+    "provider_id": "/g/1tgwb8q0",
+    "rating": 4.8,
+    "reviews": 1031,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Orthodontist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "orthodontist",
+      "periodontist"
+    ],
+    "address": "6888 Gulf Fwy, Houston, TX 77087",
+    "country": "United States",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "9 AM–4 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "Closed",
+      "saturday": "9 AM–5 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 990-2874",
+    "website": "https://www.dentalcareandimplants.com/locations/gulfgate-office-houston-tx/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dentist was very informative and listened to my concerns.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoRlTkWo5DSPKqmgose9eIHGzHj2pi8RzvrUygUc-rcWSbrCqJm7RczZ9VakxycIHolT7y1e6Ium8MQGmCuqnJVvcFFZEpIdebsFQP2GBwAaJ4DUETytVCBJVlDvKl5H8yECfo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ckWeRHicHcRbjoIwFADQFVXwNeIkfiBvzEwAARP_9FrLDC0XaMEpG5w1uBsTz8d5_ldKtfLTMHi1nDFExukgaQ_YKNqoGaAwWCsJSCINO_lOa9vDjOf1CdfuMTl0gqGkWxqFwRT-LtofK5vGvtCsANLD6XjtnS4Wmwym87a81H8aohB5vtFz-hENwvpKA-EMXROXI_j-2WujG71KP00Wwf5hX-KVW3i5VqWzj0vujge-Di3tOXfcPeamaZLqPZDmBQQGReo"
+  },
+  {
+    "position": 9,
+    "title": "EZ Dental Care",
+    "place_id": "ChIJq6p6BnmjQIYRTb-75nmLE2w",
+    "data_id": "0x8640a379067aaaab:0x6c138b79e6bbbf4d",
+    "data_cid": "7787721536332087117",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640a379067aaaab%3A0x6c138b79e6bbbf4d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640a379067aaaab%3A0x6c138b79e6bbbf4d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7697234,
+      "longitude": -95.2164306
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6p6BnmjQIYRTb-75nmLE2w",
+    "provider_id": "/g/11hd1sp_51",
+    "rating": 4.9,
+    "reviews": 283,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "12450 East Fwy Ste 140, Houston, TX 77015",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "9 AM–3��PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 451-3333",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"They got me in and fixed my broken tooth all in just a short time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6vYd86rzmFE3O4VwABl23GIG9mb8ipVbYGINqiiaAG8jI-TtfQbUPhNXSlxh86-WBKIIw_jPPDUq7Gc0mIqj7RlAUfoZZTugEMpXG6tjXsu79Frg2oiorjn5t4bqwM--CFKsNP5lgdXc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/a7LdvXicHcTbDoIgAADQLyItTa2tB7rIWMvoYlkvLclAQlHBbH1k7_1NW-fhfD_cmEqPLUtyp8eUYjJrddZQVZqsND2qCotVGlANtAVJtHlA5D1Pt8Br3kW4cNbuoYNTOXAQRqMiDfLqkJ4Qjuo8v0IUCAz25r5JY8KjZCdfPPDAcbrEuLsIQuZx7SNqF7gW_lbC-K7O533LFqsqQZ4RiW79UdiwgcpVI8qhcdO6WwEwC5c6IkPJbgmddH3btgH_T0H5A_1gRpo"
+  },
+  {
+    "position": 10,
+    "title": "Houston Children's Dental Center",
+    "place_id": "ChIJNRizquLHQIYRZHU_juxJ6bs",
+    "data_id": "0x8640c7e2aab31835:0xbbe949ec8e3f7564",
+    "data_cid": "13540435035013739876",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c7e2aab31835%3A0xbbe949ec8e3f7564&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c7e2aab31835%3A0xbbe949ec8e3f7564&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8211801,
+      "longitude": -95.4093192
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNRizquLHQIYRZHU_juxJ6bs",
+    "provider_id": "/g/1th245md",
+    "rating": 4.1,
+    "reviews": 555,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Anesthesiologist",
+      "Surgical center",
+      "Oral surgeon",
+      "Pediatric dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "anesthesiologist",
+      "surgical_center",
+      "oral_surgeon",
+      "pediatric_dentist"
+    ],
+    "address": "3800 N Shepherd Dr Ste B, Houston, TX 77018",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 814-4717",
+    "website": "https://bluecloudpsc.com/location/houston-childrens-dental-center-north/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The initial consultation was such a breeze was in and out without a problem.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGdYMcUnc7rV7QIxufk5oiTFe09xHc4Px4Hb90Vd_8CvOfa2XAPy-8kFuT3je8ucDOiJLVGLiPX3EcjH_HSUXlABf8s4azJOFhoU_950OsTdLY2fNJ7dJ5qjr3EZUnapODcQNMJtA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_hqZsHicHcTdToMwGADQJ-qoAwKYeFHdGDaMQgTCdkPYR_m3RVoUfcM9gm9j4rk4v_dO61k9GsbUmbtWynbiq-ILSKG50DuQ70Y7KwQKKYPEUTKSU305QybAWXIned3WZrRln_oce1sAVrxZwc3DeV26L5-sqfYFib-RO_prag7cXeHAehrmp7CPC_MIQ1AGb1kxkefGVVb1Q5nfyaz0bMxUWoeXfRNRp6b2x7CYx2smqpkdIInOVJOnrweMMer-ByT-AJfWRCA"
+  },
+  {
+    "position": 11,
+    "title": "Downtown Houston Dental",
+    "place_id": "ChIJ-yHQKDq_QIYRaP3LLgskFhI",
+    "data_id": "0x8640bf3a28d021fb:0x1216240b2ecbfd68",
+    "data_cid": "1303268772618698088",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf3a28d021fb%3A0x1216240b2ecbfd68&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf3a28d021fb%3A0x1216240b2ecbfd68&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7591146,
+      "longitude": -95.36766159999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-yHQKDq_QIYRaP3LLgskFhI",
+    "provider_id": "/g/1vg_d78q",
+    "rating": 4.9,
+    "reviews": 465,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service"
+    ],
+    "address": "910 Louisiana St Ste 190, Houston, TX 77002",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–4 PM",
+      "tuesday": "7 AM–4 PM",
+      "wednesday": "7 AM–4 PM",
+      "thursday": "7 AM–4 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 229-8100",
+    "website": "http://www.downtownhoustondentist.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "user_review": "\"Excellent dentist, state of the art equipment a fast, friendly people.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGP-sZyK1I91o6uvjYHDRExKbRP3RQnyLCD7kmZlNdbfZx4nmsNP_aCOR5VRuvM0IJpIyCz5fNv04sFTkiS5jIkXadgQx9UjzzuO8iqdgIGP3C_g1MKeZyeYhEDxY3p6YSSD6THGQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NCA0_XicHcRJDoIwAADAF1VKEFwSDwYQK4qlqBEuRqEWWVq0gMAPfYK_MXEO8_2kdV3JuaIUqTZiQrCCNpK-YsFryutRLEqFVRLEEkhliT0_XzoYyKh3VTRThdG0Wbi2iN25N4I14vN-a1qTvIwKL7ndo27MS-nhy9XcE_1EmnYH0aZCvTnod6-FY7k65I9Az1B-vibM72bHbBia_fTxTBhysGZemLpzadTTMLWtLtQqIwwCyzisHX_xViGEIP0fA_4D819FXQ"
+  },
+  {
+    "position": 12,
+    "title": "Houston Crossroads Dental Care",
+    "place_id": "ChIJM1_GrcW5QIYR-hcmM49CLWE",
+    "data_id": "0x8640b9c5adc65f33:0x612d428f332617fa",
+    "data_cid": "7002326178436880378",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b9c5adc65f33%3A0x612d428f332617fa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b9c5adc65f33%3A0x612d428f332617fa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8310614,
+      "longitude": -95.3808478
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM1_GrcW5QIYR-hcmM49CLWE",
+    "provider_id": "/g/11sf7qxb02",
+    "rating": 4.9,
+    "reviews": 317,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "4400 North Fwy Ste F - 350, Houston, TX 77022",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM Tue",
+    "hours": "Closed · Opens 9 AM Tue",
+    "operating_hours": {
+      "monday": "Closed",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "Closed",
+      "thursday": "9 AM–6 PM",
+      "friday": "Closed",
+      "saturday": "9 AM–1 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 695-2555",
+    "website": "https://htxdentalcare.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Friendly staff and amazing dentist!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHLId1CO7EaY9sFQq4WmshOepezYDpZOS39yj8609W6vm6RwOcrl9v-Yw-K4tDzidlZyphEg6tFD35HCkGGA9eH35--f3Y3Q4IeeNPk_AVMRmE49iw1Cb4Gjf-7gM73Aotf5lkcRAbPCz1W=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uSFoXXicHcTdboIwGADQJ_oE0gJ2yS4aQDBO-VkygjfLrKVVCu1sJ5GX3PXexmTn4vz9SueMffE8JdFKaC0U_7H8xvTk-ORWTI-eMBaYBevR6lAPtHjbnoOkjLOvjthN_Y3b0cqSG750qTmW74g8ruvIJ210H6NmLtlNkTt0M-ywS5fLWR0fRmYicpsUhUUy5DklvEAhQI86VOMt54dq-KQf-2bMMLnMQXLC-bWHWOxjRLXrQzWwhp6qZAna1znwfR_k_wymJ_dMRP8"
+  },
+  {
+    "position": 13,
+    "title": "Memorial Park Dental Spa",
+    "place_id": "ChIJH_ry1zLHQIYRTH6OvNFM8ds",
+    "data_id": "0x8640c732d7f2fa1f:0xdbf14cd1bc8e7e4c",
+    "data_cid": "15848533027388816972",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c732d7f2fa1f%3A0xdbf14cd1bc8e7e4c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c732d7f2fa1f%3A0xdbf14cd1bc8e7e4c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7715914,
+      "longitude": -95.42283119999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH_ry1zLHQIYRTH6OvNFM8ds",
+    "provider_id": "/g/1tgcs85f",
+    "rating": 4.8,
+    "reviews": 1019,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service",
+      "Facial spa",
+      "Massage therapist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "facial_spa",
+      "massage_therapist",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "6010 Washington Ave Ste d, Houston, TX 77007",
+    "country": "United States",
+    "open_state": "Closed · Opens 11 AM",
+    "hours": "Closed · Opens 11 AM",
+    "operating_hours": {
+      "monday": "11 AM–7 PM",
+      "tuesday": "11 AM–7 PM",
+      "wednesday": "Closed",
+      "thursday": "7 AM–3:30 PM",
+      "friday": "7 AM–3:30 PM",
+      "saturday": "7 AM–3:30 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 864-3800",
+    "website": "https://www.memorialparkdental.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dental hygienist was so personable and professional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDx-cbpkBjCzGQ1u9ra6wtOkhDeW-iYowlaAzBSZT3a23t1c186jjZFq5AowSMTyhsptfP_FF8IG5lWNkHukjy7ASo6qXEfrdWQUr1Jx__aH4OE50sgftuyx8mBMPPyKi1Su5_=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3WGKWXicHcRJDoIwAADAF1WoCKKJh6LgFhUCBuVCsAKFIkXahuWDvsHfmDiH-X6IEA1fKkpFtEnOWF6lkqctZrVIazHB7KXkDQeYA64g9-xRZG96gB8Ntcr1uPWgXLSJ0YkLJZs0BMWddVWCRsuPAi2ZagJiaBplGTlvHbHOPwUD4Y3I3NhxzP1Wr8Iz3UlaDnPkM-N9s7P2GXrXFh76OE52s4utqzzPhBx682WdXHc4FtCXerzqoKqqgPzHoP4BlahFUA"
+  },
+  {
+    "position": 14,
+    "title": "L's Dental",
+    "place_id": "ChIJO9O8Uhi6QIYRFfUDDS9gjwQ",
+    "data_id": "0x8640ba1852bcd33b:0x48f602f0d03f515",
+    "data_cid": "328587053019428117",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640ba1852bcd33b%3A0x48f602f0d03f515&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640ba1852bcd33b%3A0x48f602f0d03f515&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8474588,
+      "longitude": -95.3017205
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO9O8Uhi6QIYRFfUDDS9gjwQ",
+    "provider_id": "/g/1260mrtnq",
+    "rating": 4.5,
+    "reviews": 586,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "9324 Homestead Rd, Houston, TX 77016",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8:30 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 633-1922",
+    "website": "https://lsdentalhouston.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Friendly staff, clean office, and a quick painless visit—highly recommend!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEJIGr_VcTBZZml5BTvJ3k2SUL7_Ds67GVZaDHTVJKRyn_tUqkWXTMvDL_IZ8WZYv8lk-ISCCyaHbUtVcLPCwFut1lsOki8x1fMH78EXHOMrnOCaf1RZBKefF9ASmj3mDfbXcNp=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QzPxkXicHcRJDoIwAADAF1VAoqCJBxYVEETZ7YVgw6ItBWlFeaFv8DcmzmG-n4bznq0FgTTyrO66mpRPVg6oo7ykfIa6Vqh7BhADTNBOxzPWto69H_IERTqELVno0ejIeB7GrpKbbKnsE1iYVpQ4h2CiOY8fOM0ibzTd3IZqCi-jSjCwQ8OYCusa8wS5J-O1e3KJMB_f1LdUeZaibjPL9wbqG0UlBVA_lNVupYXtXW7N6pqhY795SaIoguY_AvQHHetEDA"
+  },
+  {
+    "position": 15,
+    "title": "Houston Skyline Dental",
+    "place_id": "ChIJvbXrC9e4QIYRQ1rbVreFdRQ",
+    "data_id": "0x8640b8d70bebb5bd:0x147585b756db5a43",
+    "data_cid": "1474231475516430915",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b8d70bebb5bd%3A0x147585b756db5a43&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b8d70bebb5bd%3A0x147585b756db5a43&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7832054,
+      "longitude": -95.3549646
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvbXrC9e4QIYRQ1rbVreFdRQ",
+    "provider_id": "/g/11b6x8k7zs",
+    "rating": 4.8,
+    "reviews": 322,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "1220 Quitman St, Houston, TX 77009",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "9 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 226-7050",
+    "website": "https://www.houstonskylinedental.net/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "user_review": "\"The Dentist Was Fast & Made Sure I was Comfortable And less Pain As Possible\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQZ4uALG4vYfPKpom91mUysSKhkSFbqkTm2OsjKZxx7L4TVxiVO7aNLZ0vwdtgSOmt0Th72JmzAjX8_1pSlBAHyRsSAjiWAsADRE9DYLJfPvy5Zn_GrvYVeNgDm0MXeQNIyViVlw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4osO33icHcRbcoIwFADQFSFBcaid8SMd1FaQh8Eo_DiWxoRHCPVGHt2hS3A3nfF8nOdDaN3Cu2nWYjbhSvGa3YHdctVo1uhJrqTJWzByMMDEURBXeBVn9h37G7tLr5HXKrmw5GEE4omKrL9_q0ROQyi9bBgc307oUNDQuQR-hrr-R3MSSo0S4Uy38g-Xp7ez1ZL6A3-OeyC4LI4YsLtfLdzU316jbpxnzXlz61LKAu5KtDuxOPgaaUHrftlbCCFDvM6N5h8zXUZH"
+  },
+  {
+    "position": 16,
+    "title": "Harris Health Dental Center",
+    "place_id": "ChIJy_uF7bK_QIYRdNR__-gulzU",
+    "data_id": "0x8640bfb2ed85fbcb:0x35972ee8ff7fd474",
+    "data_cid": "3861606783747347572",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bfb2ed85fbcb%3A0x35972ee8ff7fd474&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bfb2ed85fbcb%3A0x35972ee8ff7fd474&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6962774,
+      "longitude": -95.3354104
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy_uF7bK_QIYRdNR__-gulzU",
+    "provider_id": "/g/11g1pq9dw7",
+    "rating": 4.4,
+    "reviews": 118,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "5230 Griggs Rd, Houston, TX 77021",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 757-0572",
+    "website": "https://www.harrishealth.org/locations-hh/pages/dental-program.aspx",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"She explained everything right down line with compassion and no judgement.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaN532c1yPZsPhbc7lCgU8p93Uor_qVRrothZEqUtzoZyKI09p8dMm3VvGzTmBvEfja12p6J3JPx5U8SGp3ODRCKPE9i9ELmSuyDNP8IO3doYjHHkPOGQHJ0t6FfMOGKMo7lnK=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mNskCnicHcRJDoIwFADQEyHFRgYTFyqTIFAHSGRjsCJVgV9pHfCCnsHbmPgW7_thUnIxVtWa4UEFUNXlXZQdhVaWrRxQaNSKC4UKRahTEq-uU7eIR3hItZ7kgrADNep5lZrcwil0-1u27kCy3Lml8g15Hy6Qxc1j1ODs4b23zezhnC6FNuR6gAPyGqXmxuM4sdfzkDjW2XKWzebe2zExFwk-wu7i-1eSeCs_QFJ3T1HihREYdRtOnhpCSGH_qdL-ADPGQ4Q"
+  },
+  {
+    "position": 17,
+    "title": "Urgent Dental Care of Houston",
+    "place_id": "ChIJVySkygXFQIYRGB4GtiAviHw",
+    "data_id": "0x8640c505caa42457:0x7c882f20b6061e18",
+    "data_cid": "8973474075075026456",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c505caa42457%3A0x7c882f20b6061e18&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c505caa42457%3A0x7c882f20b6061e18&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.832667599999997,
+      "longitude": -95.5589705
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVySkygXFQIYRGB4GtiAviHw",
+    "provider_id": "/g/11l2rxtbq4",
+    "rating": 4.9,
+    "reviews": 1008,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Emergency dental service",
+      "Dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "emergency_dental_service",
+      "dentist"
+    ],
+    "address": "4410 Westway Park Blvd #600, Houston, TX 77041",
+    "country": "United States",
+    "phone": "(346) 641-0606",
+    "website": "https://www.urgentdentalhub.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Dr. Truong did my work pulled 3 teeth in less than 5 minutes .\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvoXsZEdiOGeW5qRtvZpujasHKQ7jmxk5p-OMtHarwuw4mnEJD-NG7s0CZRAtEmqQV8A60kvJiR5KcZa7N4_lUqgE0v8vb6KREWlRf1ik8P0oPsQA5mxYjeTq4R1JJ7Z4kmYtnwosX_sc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/NLoq63icHcTbboMgGADgJ6JiptUs2QXZiI1mVkmP3DSOMQ8IaH_EPuXu9zZN9l18f7-dcxO8BsHYvWxaa9tRLiDvwhonjdsIq4N2AiQAQUCqslYk8_YCnH73-0ye45k5z6dlaGBX1MmgHyqe0P7T7Zr7uqyRNjT_QGWWAH7njDiq5_qUki1WPu9ZXAjeJGV0G49zS7FP_de2YPQ8sp-wV2mFbQU1ifXjOsjDHLEwzxMeKX11ZrVwuYF4W0OMMer-F8g8AbbtR9E"
+  },
+  {
+    "position": 18,
+    "title": "Dental Defenders of Houston",
+    "place_id": "ChIJU5fHuInHQIYRj3QCZNTgmtU",
+    "data_id": "0x8640c789b8c79753:0xd59ae0d46402748f",
+    "data_cid": "15391861879307662479",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c789b8c79753%3A0xd59ae0d46402748f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c789b8c79753%3A0xd59ae0d46402748f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.841832,
+      "longitude": -95.474873
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU5fHuInHQIYRj3QCZNTgmtU",
+    "provider_id": "/g/11swzzkk92",
+    "rating": 4.9,
+    "reviews": 1292,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Dental hygienist",
+      "Emergency dental service",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "dental_hygienist",
+      "emergency_dental_service",
+      "pediatric_dentist",
+      "teeth_whitening_service"
+    ],
+    "address": "5341 Antoine Dr, Houston, TX 77091",
+    "country": "United States",
+    "open_state": "Closed · Opens 2 PM",
+    "hours": "Closed · Opens 2 PM",
+    "operating_hours": {
+      "monday": "2–7 PM",
+      "tuesday": "11 AM–7 PM",
+      "wednesday": "11 AM–7 PM",
+      "thursday": "11 AM–7 PM",
+      "friday": "11 AM–6 PM",
+      "saturday": "10 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 999-6777",
+    "website": "https://www.dentaldefendershouston.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Good service\nClean dentist\nGood assistance\nKind front desk receptionists\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCUe0ZHLICQ6CNbun2qtA56dWdP1LXe7KoPSuwyquJ_0yvRu2HkjlA1WmDGaQW7q5WkUPaQ6qVSxInoocM09A58-fkQfaV0U2StL8qXvOBb0YJrpR1pemExQRGKIqeK5GmPHL8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/AEr803icHcRdboIwAADgE1UKBsQlPnRoAEHXQgDni4FSIQNaalt_TrgzeJsl-x6-92-v9aw-LGvsl4tOiG5kRrEbFVwzrhdUTFY3K0AVUBbCRzKgMCgYPEdpHBAvODaGO1Ij12urFtvpia0SgXPzeEmzv8DXPTNONPyMyK6mbViTaiXdaihwTTxZ5s-YC0EPcI1cH1wHcq1LWDi5Tn15un99NvB7f5sze2bT7kmyMIklS9xwwlHqbx42hBD0_1PA_wALhkOh"
+  },
+  {
+    "position": 19,
+    "title": "Dentiq Dentistry Houston",
+    "place_id": "ChIJ_Ru-FaHAQIYRByxtRN6K3Ck",
+    "data_id": "0x8640c0a115be1bfd:0x29dc8ade446d2c07",
+    "data_cid": "3016438537666767879",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c0a115be1bfd%3A0x29dc8ade446d2c07&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c0a115be1bfd%3A0x29dc8ade446d2c07&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.752803699999998,
+      "longitude": -95.39764919999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_Ru-FaHAQIYRByxtRN6K3Ck",
+    "provider_id": "/g/1tvm34d3",
+    "rating": 4.9,
+    "reviews": 1248,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "orthodontist"
+    ],
+    "address": "1355 W Gray St, Houston, TX 77019",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM Tue",
+    "hours": "Closed · Opens 7 AM Tue",
+    "operating_hours": {
+      "monday": "Closed",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "7 AM–3 PM",
+      "friday": "7 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 589-6564",
+    "website": "https://www.dentiq.dental/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://book.allinone.dental/dentiqdentistry?rwg_token=AE37R_ihxHpKjWyqyyuMVposTC3M1geAogbsu84LiPSVf6sw8rCXBrVehVQhcMcn6HP0EilGOOHj3yAz33Ih3R4j4KAJc7yvrQ%3D%3D",
+    "user_review": "\"Liz does a great job, help with my severe anxiety of dealing with my teeth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF2_d1bzR5JF1lD6Wye2qLzHSVhvUTPxXlV0VG4axELJ8myBpDOa56gzami9k6qVM9uqlSe12ILXx46xVlEkfGsxCiGbGYxdVE_CXCoGUz-ccPKKL8FGZ2JOZBjk_Q364q2ko-mUQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Bw8103icHcThtoEwAADgJ5pqsoNz7g9SI10KTfzpZKbYamW5pje8j-BtnOP78b3_i7at1dgwRNHv5VLmgj0Uu1NZtaxqe1SWRl4rQBVQxiRcRXziwfRsnbrNwPcsMUP7F4NN0M23pPiLd6FOBDEJtjPtBv6wfE3r2ToboLzLyuuIo4b8jh6N2DILLoJE20gT4fILVtq54hM-6DNxUydxJI47QGm4XAZDDx-hvz5ObzyN-shuIJegjKOfp2WaJii-U1B9ALSZRGs"
+  },
+  {
+    "position": 20,
+    "title": "Northside Health Center",
+    "place_id": "ChIJAxVd3S23QIYRqsYVRNDYqUI",
+    "data_id": "0x8640b72ddd5d1503:0x42a9d8d04415c6aa",
+    "data_cid": "4803608866574419626",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b72ddd5d1503%3A0x42a9d8d04415c6aa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b72ddd5d1503%3A0x42a9d8d04415c6aa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.837178599999998,
+      "longitude": -95.3406005
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAxVd3S23QIYRqsYVRNDYqUI",
+    "provider_id": "/g/1tlbv2st",
+    "rating": 3.7,
+    "reviews": 54,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Doctor"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "doctor"
+    ],
+    "address": "8504 Schuller Rd, Houston, TX 77093",
+    "country": "United States",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+      "monday": "8:30 AM–5:30 PM",
+      "tuesday": "7:30 AM–4:30 PM",
+      "wednesday": "7:30 AM–4:30 PM",
+      "thursday": "7:30 AM–4:30 PM",
+      "friday": "7:30 AM–12 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 395-9100",
+    "website": "https://www.houstonhealth.org/services/clinical/health-centers/northside-health-center",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsevl34XriPMujPzCe9EnGwRHKzTRy90cTumhweUL8NAjYqs41ROIl5JS3a9yK3SkhrY3p9bUmUna0Yq9F_QwNHIJFHoQ7puKkuiCOE085DimBNWnEVk4ytqUOWkq_awZPkF34Sw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IVeAgnicHcRdboIwAADgEyE1hWhNfGAKoii_MsUXw5qGYqEF2q7BG-4Iu82SfQ_f7w9VapAb2-4oXDRCNB3RkkxYcEW4WmDR280gLSwtaXtpnDHvIMl3B5371KYX_UrfO4J8fjB5GL2v-YwAvuqeGlKe17H3qkbpLPPk2LmnAtZojmDB6FTBAX2VfclrUI0oeGYmDo-nIBTZatAR0-0u8cHa3bf9R3zj_idzZjWWyY2Nz9o8UhZApzBbswQAWPR_bPE_G5FFrA"
+  },
+  {
+    "position": 1,
+    "title": "Medical Center Dental Group",
+    "place_id": "ChIJR0NgynDAQIYR5FQkrb7H2xM",
+    "data_id": "0x8640c070ca604347:0x13dbc7bead2454e4",
+    "data_cid": "1430956928382817508",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c070ca604347%3A0x13dbc7bead2454e4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c070ca604347%3A0x13dbc7bead2454e4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.710823899999998,
+      "longitude": -95.4006833
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR0NgynDAQIYR5FQkrb7H2xM",
+    "provider_id": "/g/1tm699m9",
+    "rating": 5,
+    "reviews": 48,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental hygienist",
+      "Dentist",
+      "Emergency dental service",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_hygienist",
+      "dentist",
+      "emergency_dental_service",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "6560 Fannin St #1424, Houston, TX 77030",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–3:45 PM",
+      "tuesday": "7 AM–3:45 PM",
+      "wednesday": "8 AM–3:45 PM",
+      "thursday": "7 AM–3:45 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 795-5905",
+    "website": "https://www.ingeniousdentistry.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They saved my original teeth and helped me get my smile back on my face.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfP_PAlnUWmVTfRzm-z1hMfLoNEeVB5khWCtpLvyjNSXy8du0ElI9NUTGZNOMPwu6deiZE32Ph7eHBui6jPXER9gD3VQn8zMXBxx35VLmvLBGWr8Wc9CcGPFU_QJaj-P1Vx9UfRQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Rb-4NXicHcRdDoIgAADgE-FPrtK2HrTMakpoia4X1wglU3CBZd6wI3Sbtr6H7_thSnVyoesNs7RKiKqhvaQPIriiXGlEtHrVSUAkkLqLYHx3tyUqkNvwNGvxqUzGFowmi8pQQJ9ib3pn2Up14fNdw2P-tq-94Tc7B6an4AwPEXr1syu9nX1rgticbr3-NqtR7idOtbZwzO0xyr1hsKY4bJ-hF2QPOyPOigRokxbx_lIDZOLBScskXr5MwzAA-08A_wH9SUS9"
+  },
+  {
+    "position": 2,
+    "title": "UT Dentists",
+    "place_id": "ChIJK6QJMPa_QIYRaVPfUQ1FUFI",
+    "data_id": "0x8640bff63009a42b:0x5250450d51df5369",
+    "data_cid": "5931316632757425001",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bff63009a42b%3A0x5250450d51df5369&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bff63009a42b%3A0x5250450d51df5369&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6947102,
+      "longitude": -95.392949
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK6QJMPa_QIYRaVPfUQ1FUFI",
+    "provider_id": "/g/11c32lr5kt",
+    "rating": 3.5,
+    "reviews": 46,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "7500 Cambridge St #1210, Houston, TX 77054",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 486-4444",
+    "website": "http://www.utdentists.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Friendly and painless treatment at affordable prices\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkyipMiEgnrfiueY7LS3cg0ENbQ8FL6pe3ZQJgij-eqW3KrEYH7k7s8N0L0b_5svoEXTEu3UEhnJtxL4wVd9LSNpsCZ2aDcv0kgEuimaOCQ0Q10YVxNM6z6qGrO2csGU9mT1Uokg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F1oFRnicHcTRTsIwFADQLyq7o7qBiQ8ECwZLsYGh48VArV0ta8tuB-gf-gn-jYnn4fz-NClFvMuyY0MHJgRz1D3qTgWftE8DFdrMRCQKCWaTZyHdZOa-bFxaZnz3YXtdl3xNlQEmDnI040XUdCcXxn4SfXqhTx2rH0tX4kgAh8PbLZ4De92wnlas8Yt05TeX7fuYr0XE6W64f1BncIb1tt2vphJkDvX2KpbFd3Gad6uhwnk1bjd5FZy5v-QAQJr_FfF_4-5E8A"
+  },
+  {
+    "position": 3,
+    "title": "FLOSS Dental of Houston Midtown",
+    "place_id": "ChIJUXRZu2u_QIYRxS30T_-yH9c",
+    "data_id": "0x8640bf6bbb597451:0xd71fb2ff4ff42dc5",
+    "data_cid": "15501305252060343749",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6bbb597451%3A0xd71fb2ff4ff42dc5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6bbb597451%3A0xd71fb2ff4ff42dc5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7454832,
+      "longitude": -95.3763676
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUXRZu2u_QIYRxS30T_-yH9c",
+    "provider_id": "/g/11f38l1kg0",
+    "rating": 4.8,
+    "reviews": 670,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "2707 Milam St Ste C, Houston, TX 77006",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–6 PM",
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "Closed",
+      "thursday": "Closed",
+      "friday": "7 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 900-1919",
+    "website": "https://www.flossdentalhouston.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Top notch dental care & very clean and friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFQRARnusrH9ROs6Vm2HS8o78aF1M1gz57q6wHVqUpatyLAh_pb6khPgIhw4ivJW069AVj8h0bPqCkHEIO2Sw3ZqXcwEjgC1lTn1h5iOQi0oUFF6gEgQneo9WTOj-yQzPFR4Xy0Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1UF-x3icHcTbDoIgAADQLyKhC2lbD6zJrFWKlbVeWjEHXgINjOkf9gn9TVvn4Xw_0trGLDyvlpOR0FrUeWfyF9fK5sqOuH56ojGAG2A8kuxZRShlKUlVZ15RkMYGZ89xdPD13L9TtENimM1b7KKsPTV322-JvDUPXMlErKWbFu_NGeKAZKUv4SNpV1UUruPxwU2u7YW7sBQrVB8VkrMiZgXUJ0qxCAVTuQ7Ox7gEPRsSmk4vPWRLhyCEQP7nQP0AnN5EZg"
+  },
+  {
+    "position": 4,
+    "title": "Emergency Dental Center",
+    "place_id": "ChIJ5XjPEbvBQIYRnBJsLZ2Vj5c",
+    "data_id": "0x8640c1bb11cf78e5:0x978f959d2d6c129c",
+    "data_cid": "10921112123701203612",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c1bb11cf78e5%3A0x978f959d2d6c129c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c1bb11cf78e5%3A0x978f959d2d6c129c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.728263199999997,
+      "longitude": -95.44413809999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5XjPEbvBQIYRnBJsLZ2Vj5c",
+    "provider_id": "/g/11h84ssp1k",
+    "rating": 4.9,
+    "reviews": 115,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Denture care center"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "denture_care_center"
+    ],
+    "address": "4151 Southwest Fwy #130, Houston, TX 77027",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–7 PM",
+      "tuesday": "7 AM–7 PM",
+      "wednesday": "7 AM–7 PM",
+      "thursday": "7 AM–7 PM",
+      "friday": "7 AM–7 PM",
+      "saturday": "7 AM–7 PM",
+      "sunday": "7 AM–7 PM"
+    },
+    "phone": "(713) 829-5508",
+    "website": "https://www.emergencydentalcenter.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Dr. Gonzales extracted the abscessed wisdom tooth without pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaR5hURqNFt7bOHF9jHSObe_mT3PVPxHin4Q4u1N_SqFWEciM7avlzgPEHSHMWbFSV2Ucdggb9Ar_F-mN127REXRGYf97lA6XRwiM11tGnz8UlY70Ew8_cL4u-Fqt0em2Z3mlt=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/l53dkXicHcTNkoIgAADgJyJBbclm9uAB4pBmmP3sxUkidBcwA9emF-wZ9m2a2e_w_b1a729uGQS6jWaq75WWo5N30VsvrZ-J3gTq5oBwwAVpkW9_UnLm87biQ049bjaMJt-s3DSyNruo2BcP1tl4G48or8uBHojoMnz-1U9VEFay7NDQch9W4qJUk6T3mgKToxBzcuSr0zXBOv048qnLEPIr-1xU-oQhmRa1WMcjoIOH0oRfkdH-c0IQQtD-L4B9A-2AQyU"
+  },
+  {
+    "position": 7,
+    "title": "Garden Oaks Dental",
+    "place_id": "ChIJR9R4iHTHQIYRwlocYzAhHfI",
+    "data_id": "0x8640c7748878d447:0xf21d2130631c5ac2",
+    "data_cid": "17446137023208118978",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c7748878d447%3A0xf21d2130631c5ac2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c7748878d447%3A0xf21d2130631c5ac2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7414356,
+      "longitude": -95.4590216
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR9R4iHTHQIYRwlocYzAhHfI",
+    "provider_id": "/g/1tdhfcvx",
+    "rating": 4.9,
+    "reviews": 398,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "orthodontist",
+      "pediatric_dentist"
+    ],
+    "address": "2500 W Loop S Freeway Suite 255, Houston, TX 77027",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–2 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 880-4300",
+    "website": "https://www.gardenoaksdental.com/?utm_source=gmb_auth",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://www.tebra.com/care/practice/garden-oaks-dental-362310?lid=3258291635&rwg_token=AE37R_j_TeHaIoRyDWp8vJUqSR6IysS1H6qw7pngHjOrqyqKhKF5uJMZEGrVEGkFiSPv-jK2BV_zAVHyehc9pt-Q0xbnvnEu1w%3D%3D",
+    "user_review": "\"From there, my tooth exam and cleaning were a breeze.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFWsSs0CPhvt5ccexA1NahyT9FrrxpJQWYGA0YR2zj8AXFqtWsHNqC5tB9Wcmrq2OX4WCNowXz-bNp2A3wgNqstoyDsj8abR8vthKT6GBxKJDfUNphbnslsHvr4pKP4A8sxcEgD=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/gpWe83icHcRLDoIwFADAE1UqokETFxVEI0nFX4pLabCNIi19T0Av6Bm8jYmzmO9HI1qYeV6lRwNljKrKJ5ROmhrLGgfSPDxlgUgg4LGM7-4sEXAAGmW6xbGUZc-G_KJfx2niXG83O3FeMXre--9byPKkQQFr3kRjXEyFfLjG3-aBiLjp8jcpuPXZqFO8ATSvGG7hpdiHLer0OFkt-nQTX0_c6qKGCtatC2yaBSyEXi5VPO-GlFKi_0tS_wC2cUXY"
+  },
+  {
+    "position": 10,
+    "title": "Dental Illusions",
+    "place_id": "ChIJ7_RKmYvAQIYRgEPdWJZ7V4I",
+    "data_id": "0x8640c08b994af4ef:0x82577b9658dd4380",
+    "data_cid": "9392111433570665344",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c08b994af4ef%3A0x82577b9658dd4380&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c08b994af4ef%3A0x82577b9658dd4380&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7294733,
+      "longitude": -95.4123829
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7_RKmYvAQIYRgEPdWJZ7V4I",
+    "provider_id": "/g/1tf43bh8",
+    "rating": 5,
+    "reviews": 270,
+    "type": "Cosmetic dentist",
+    "types": [
+      "Cosmetic dentist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Wellness center"
+    ],
+    "type_id": "cosmetic_dentist",
+    "type_ids": [
+      "cosmetic_dentist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "wellness_center"
+    ],
+    "address": "4101 Greenbriar Dr #220, Houston, TX 77098",
+    "country": "United States",
+    "open_state": "Opens soon · 6:30 AM",
+    "hours": "Opens soon · 6:30 AM",
+    "operating_hours": {
+      "monday": "6:30 AM–2 PM",
+      "tuesday": "6:30 AM–2 PM",
+      "wednesday": "6:30 AM–2 PM",
+      "thursday": "6:30 AM–2 PM",
+      "friday": "6:30 AM–2 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 715-7354",
+    "website": "https://dentalillusions.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Becky is the most amazing, professional, caring dental technician.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQ2FuiCf6y7hfYrwaYw2Zgh01dxKClr9MxSlUBaPycY960eheQyejBAXc9R2DfkJvV5YmfPG7vc1B8rnCERLgykLS-zpgQZzmat07msGB1s-q6qNQ6Hb1oKQpo3OmWzf8hpqjR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8Q1xPHicHcRLcoIwAADQE0USGEGccQFo7dQfwWkVdzTNp0JIIEGEC3oGb-OMb_GeD2GtNnPHqYQ34UrxinaGtkTVltZ2QpR0uDaAGGCcKN3jMlph96P7T5g_BILlbV_kvXvhAqK_-yap2nB3P1bfcZEOJA99SAXFA73G0ZmEmbtk5dftZ5pLlq6DG0HxrK2TVbblQ7k9glFzfBllYWEgzTpGBjR-s8f-5y9SG6yVd5Cnkc2Ebq7ZokcQQiDeE1C_AIH6RSo"
+  },
+  {
+    "position": 11,
+    "title": "Nu Dentistry",
+    "place_id": "ChIJ9_PNaADBQIYR8pvRkYwWcQQ",
+    "data_id": "0x8640c10068cdf3f7:0x471168c91d19bf2",
+    "data_cid": "320061841517681650",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c10068cdf3f7%3A0x471168c91d19bf2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c10068cdf3f7%3A0x471168c91d19bf2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7505532,
+      "longitude": -95.47781859999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9_PNaADBQIYR8pvRkYwWcQQ",
+    "provider_id": "/g/11j5f69n7b",
+    "rating": 4.9,
+    "reviews": 2210,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Emergency dental service",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "emergency_dental_service",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "5706 San Felipe St Ste B-300, Houston, TX 77057",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "9 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(346) 566-4100",
+    "website": "https://nudentistry.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as veteran-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The dentist has great manners with patients and helps alleviate anxiety.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiQjSxL7LWztJm5HbSxcFULY24JoH7eONHCoKURVsDK9Rhk-c9XV38-NN7-CqfW0qZ-82HNa64ITqPB5CtsfmM8Ex5Jb0O1ACMPG7gw-maRouV69HeJcN3CHzrdte5ocArsF0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Zqqs-3icHcRJDoIwFADQE30pIpOJC6xDBayIisNOawEVqNAaCQf0Dt7GxLd430-u1FMONa3IjV4mRFbwl-QNE5XileoxUWrZUwKTIDUvouuHN72t75s2tMN9p_zSJJdNy2a78Ngf-ILYfEUJFsEuTuQkcOP8Acw9JIYDlNqA63SP6hM4fULP1mCxraOxiZVMy6UzbU3_gla6h5fR3M7eUJ5j8Uosl3CfUQOTrrkqbgrmNXKGRm8dIQT5fwbVDzvQQaw"
+  },
+  {
+    "position": 12,
+    "title": "Dentist Tree Of The Heights",
+    "place_id": "ChIJsU-M9tXHQIYR_orbbw6fDlI",
+    "data_id": "0x8640c7d5f68c4fb1:0x520e9f0e6fdb8afe",
+    "data_cid": "5912838245139057406",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c7d5f68c4fb1%3A0x520e9f0e6fdb8afe&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c7d5f68c4fb1%3A0x520e9f0e6fdb8afe&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.805185299999998,
+      "longitude": -95.3994216
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsU-M9tXHQIYR_orbbw6fDlI",
+    "provider_id": "/g/11gph82m9l",
+    "rating": 4.9,
+    "reviews": 720,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Emergency dental service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "emergency_dental_service"
+    ],
+    "address": "2105 Yale St Ste 300, Houston, TX 77008",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 849-8858",
+    "website": "http://www.dentisttreeheights.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://flexbook.me/dentisttre?rwg_token=AE37R_gYvgS2ij6Z-pCMxvCHczerf2cT_JiGJvR4MfJuKn3_c5vfiGCZefUU2_YtV06OaQbhlDPoGDgTKcr5coHoJ8-PLjD3yw%3D%3D",
+    "user_review": "\"The staff was welcoming, and the doctor did an amazing job fixing my tooth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHuk3GD8Q0cdDVu7MPO2SBzlcPflUN-PzdY3b7mQclGfgAfepbMvgHEEM-ZkIlR80P94UIhQqK6s1ouOXV-lSgHbLICm8GTopGTUrYgIQRB8Sn_38OJJRw1lQ2t0zGX-getvbhm=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ftSlRnicHcRRDoIgAADQE5GYraitD02HViZotuqnTULYRLHA2rxgZ-g2bb2P9_1Ia3uzchwlvYnQWig-GP5kurO8sxOmW0f0BjADjOOTA238eGg8HCIK2T08DYuUZNMiGBUjtSoPgIz3i1ctWsoUroVf875KXyKOohRcm0TlCJLlrEwkfezmxtVDdj4BVYi42iebFuGj7vGxfF5EQvMAFd3NQ9l2m79dRacWjvgMBLevSrbrtwshBPI_A90P-ARDrQ"
+  },
+  {
+    "position": 13,
+    "title": "Hermann Park Smiles (Family & Cosmetic Dentistry)",
+    "place_id": "ChIJp8j8fZq_QIYRptEPYikiVFY",
+    "data_id": "0x8640bf9a7dfcc8a7:0x56542229620fd1a6",
+    "data_cid": "6220634546439704998",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf9a7dfcc8a7%3A0x56542229620fd1a6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf9a7dfcc8a7%3A0x56542229620fd1a6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.714566599999998,
+      "longitude": -95.3813625
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp8j8fZq_QIYRptEPYikiVFY",
+    "provider_id": "/g/11cp75tv5s",
+    "rating": 4.3,
+    "reviews": 206,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "teeth_whitening_service"
+    ],
+    "address": "5927 Almeda Rd Ste J, Houston, TX 77004",
+    "country": "United States",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "(832) 536-7208",
+    "website": "https://www.hermannparksmiles.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Black-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"Getting my tooth pull with no pain or discomfort!!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFUXKEnR63vs6Sqy2FzkbNJHPRRXH7rF_ToLHQqaigWJrjR5u4-SGFyl7PVjbKz5_sy7szTXMCVvM5EYDip2_H5wgpggHqTGCt9136UXyBoHZrSn49SbRRvGHpJ9kFt4xE25mw1g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/eju4p3icHcRLjoIwAADQE1W-hWDiwkFKg6PBgg66IQMhBcG20ArCDT3C3MZk3uL9vWulhFxrWldbK8o57aqnrIaSM1UxtSr5Q6NCglICqW3j46ndhuic7QNGHGuUTtLPJlra4hjhmJAMuwPKU_6NT_1vQ3-i4U7g0wZJiObOjS_3Yr_AXM6uXNLs4F_GAwyuu0aYOYYTFZTiPg195RmWc87mL45vQ8JsLykIGUMsIq9Fyn4FJnxMBt1Mhq7roP6_BOwD0TRE3w"
+  },
+  {
+    "position": 15,
+    "title": "Houston Dentists at Post Oak",
+    "place_id": "ChIJwSTL_yDBQIYRYzpHj2nqo4M",
+    "data_id": "0x8640c120ffcb24c1:0x83a3ea698f473a63",
+    "data_cid": "9485682979268672099",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c120ffcb24c1%3A0x83a3ea698f473a63&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c120ffcb24c1%3A0x83a3ea698f473a63&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7533286,
+      "longitude": -95.46127399999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwSTL_yDBQIYRYzpHj2nqo4M",
+    "provider_id": "/g/11f6d831wz",
+    "rating": 4.9,
+    "reviews": 297,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "1330 Post Oak Blvd #1300, Houston, TX 77056",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 255-1029",
+    "website": "https://www.houstondentistsatpostoak.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Super professional, top notch technology, clean office and friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFaA8KpGkVXpgKmp9o44dYnqY-CvmA7Wf_CYZikbU_RCe41y1zMJyiC8JcOco03zgxkURo57uIStN69Q0id3ixRanS6CKnWafBC645UgkPNXSxTG1jddd1UDEBrXWrlr-eyeeiz24T96sKQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jFq5gXicHcTBToMwAADQL-popWPDxAOrujgiDhgCXhZsu4KFttJOgZ_07N-Y-A7v96d1zthbz-tbfyW0Fj2_Wj5SrRxXbkX14AljAbXAetExSWX02ETb2Ozla2VEPJhQY8xq9VkD8jVEm_JyJvVbJ9-Lc0Y4RjNang9zR7YH-kI19BcxySLT6831KXdJEKawY343ZY3KAxKrsrnsSIDXhZDHpMqn0x59MMZQcf-wG6ty7EfAZ8675QafwsDG6d03ghCC9n8K1B-FaEbm"
+  },
+  {
+    "position": 17,
+    "title": "URBN Dental Implants & Invisalign | Midtown",
+    "place_id": "ChIJAwoKbG6_QIYRmezyzP9YRAs",
+    "data_id": "0x8640bf6e6c0a0a03:0xb4458ffccf2ec99",
+    "data_cid": "811871688511909017",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6e6c0a0a03%3A0xb4458ffccf2ec99&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6e6c0a0a03%3A0xb4458ffccf2ec99&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7394979,
+      "longitude": -95.3792165
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAwoKbG6_QIYRmezyzP9YRAs",
+    "provider_id": "/g/11fzf460fk",
+    "rating": 4.9,
+    "reviews": 911,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "3510 Main St Ste E, Houston, TX 77002",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "8 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(346) 815-9997",
+    "website": "https://urbndental.com/texas/houston-dental-services/midtown/?utm_campaign=local-listings&utm_term=midtown",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://urbndental.subscribili.com/appointments?locid=17428874617b3d987e&rwg_token=AE37R_ijrdjHS-KI8gBhmXXyyQ6PLP4GSRUMKGDI2j0T4dmSppL3358O3gdt5IwQc_qxGDLIxTKZ_f421bxVTXJo1Q2Euj1NGQ%3D%3D",
+    "user_review": "\"The dentist identified the problem and quickly made it better.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGwKOtbCC43rJC3wJIKCFqfZaX0P680h-oFg9eXORfwbC0JXSZfCtDrY5vGsCJGq-Wqh2TgrBABFtS6iH4mVUyBEC-i0GLA8dLy3GIqUn4ZLwU-pwz0Zo9s3utual7WwA_WSGMaHw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1p3eLHicHcRLEoIgAADQE5EU9p1pgZSU2ddMc9OYKTSZqGCM3bAjdJtmeov3_XClSjkxjJyjDhOC5Wkj0zoRhUoL1UnE02ClBIkE0sC7zf6BqV5t1ZUQE9UOQdpZrohdZVEcwt1gBDkQNhun4faQ6SuBTuhFGVGz-tx_UUkcWoGg4r0jqy1s2cob3Bfm8-S31pyAO6QuHt3cFtFl5Rdm5GoflPoNIzGWqFFNnA8DjS-BR9fxQk91F0II-P8EFD9As0Pm"
+  },
+  {
+    "position": 18,
+    "title": "Smiles of Midtown",
+    "place_id": "ChIJXzx5922_QIYR_ciVhSB6GhA",
+    "data_id": "0x8640bf6df7793c5f:0x101a7a208595c8fd",
+    "data_cid": "1160374134100052221",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6df7793c5f%3A0x101a7a208595c8fd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6df7793c5f%3A0x101a7a208595c8fd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7379496,
+      "longitude": -95.3777135
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXzx5922_QIYR_ciVhSB6GhA",
+    "provider_id": "/g/1tgcs82z",
+    "rating": 5,
+    "reviews": 228,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Teeth whitening service"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "teeth_whitening_service"
+    ],
+    "address": "3600 San Jacinto St, Houston, TX 77004",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–3 PM",
+      "tuesday": "10 AM–5 PM",
+      "wednesday": "8 AM–3 PM",
+      "thursday": "7 AM–2 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 523-6848",
+    "website": "https://smilesofmidtown.com/?utm_source=gmb",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"Dentist fixed a new problem with front teeth, saving me a return visit.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHV6uY2dV4kXT4vVM6sShc8wyTAkRgXIa8AhzXKdkAmUWnAoT8Os2nUZU0-uBIXcJGU3oS4Zr84o_SasAXDIAg1D3b3R5LA6_mvpAmQA7nOFmf5VHXYhe82wXOMomRgVvSURdV2WA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xLq0iHicHcRLDoIwFADAE1UQEBsTF88YFX8o0FLdGC3YJtiWWD7RG3oEb2PiLOb7kU1T24njPKQ_EMaIR9na8smNbkrdDLhRjqgt4hZZBw77YwUrGrYnr6BBxbKgo7vQppLj_pVBlQgWXTHIN9sUFSiSazAZjq2nyZm4qJ1FjK-XxDdpcH7iwFzSqwU2j0AM5_7NT0ZbCC-qq0EdYazjhbqP6IqdZIm9nsU7oxJBu5QkBfVymPZD13WR_M-R_gGT1kQY"
+  },
+  {
+    "position": 19,
+    "title": "Emergency Dental Care USA",
+    "place_id": "ChIJXc149dy9QIYRmw5ySeIyxtE",
+    "data_id": "0x8640bddcf578cd5d:0xd1c632e249720e9b",
+    "data_cid": "15115825146791857819",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bddcf578cd5d%3A0xd1c632e249720e9b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bddcf578cd5d%3A0xd1c632e249720e9b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6851576,
+      "longitude": -95.2784921
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXc149dy9QIYRmw5ySeIyxtE",
+    "provider_id": "/g/11g0dgyyfl",
+    "rating": 4.6,
+    "reviews": 782,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Endodontist",
+      "Oral surgeon"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dentist",
+      "endodontist",
+      "oral_surgeon"
+    ],
+    "address": "7906 Gulf Fwy, Houston, TX 77017",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "9 AM–9 PM"
+    },
+    "phone": "(713) 396-3844",
+    "website": "https://www.emergencydental.com/se-houston",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"I went in because my left side of my teeth hurt and they solved my problem.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHnCKQP2XvzOfjS7vECO6C9hlMGmj2sJsZD_yBA4QvG0ILUV0R4K8-XaO-zQCD3gIEyWupP2zKNp6ag9Jjzj8hDhlgXLRsrp2Y4vIagEB8-zfXzZWxclzia36qd9ay50KONwUUV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VUPIA3icHcRdEoFAAADgE61WJWXGQ6pJoj8T8WJ2Vu3KqmUT7QWdwW3M-B6-74d2HRczRWFUG5G2Jax8ivKB26Yrm26E25tCuABYAKHYSZRe7WXjhGmiFr2Mq3o77T0nNhyLso1_q1WxEkf3NCxsPe19GKzzHcz00AQFioFMHVcjgTfsnzxRZRhxAxFrVcvapC5lpFhn4sHVg94HiHgLE8iqkMf9GzN5QZpxP1tomMAwjl55vpu_xhBCQP9j0PwA9z9D8g"
+  },
+  {
+    "position": 20,
+    "title": "Downtown Dentist",
+    "place_id": "ChIJRdNb7TgnQYYRr35WTj2DwsU",
+    "data_id": "0x86412738ed5bd345:0xc5c2833d4e567eaf",
+    "data_cid": "14250096470284205743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x86412738ed5bd345%3A0xc5c2833d4e567eaf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x86412738ed5bd345%3A0xc5c2833d4e567eaf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.757425899999998,
+      "longitude": -95.37191659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRdNb7TgnQYYRr35WTj2DwsU",
+    "provider_id": "/g/1262jgkqz",
+    "rating": 5,
+    "reviews": 80,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants provider"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_provider"
+    ],
+    "address": "333 Clay St #100, Houston, TX 77002",
+    "country": "United States",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+      "monday": "7:30 AM–4:30 PM",
+      "tuesday": "7 AM–4 PM",
+      "wednesday": "7 AM–4 PM",
+      "thursday": "7:30 AM–3:30 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 658-9591",
+    "website": "http://downtowndentist.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "user_review": "\"My teeth always look and feel exceptionally clean when I leave.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGo_KGghQCHrdRbA3TuBsf_WuFHCwhpDD3W3LwVgL2ovBCPn__KCB5l3W1vvYjiFxK6TPOUrG8GKOdzuCO2llsMW7stvWIVfk2dXqKXtIl9VBP7rYRqb1xakhCDt6_PVBxRyvc8sg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QeJQ5HicHcTdToMwGADQJ2L8NG7TxAtaMrZ0Skc2ul01rrBWqZTxlYK-oY_g25h4Ls7vj3auh6cwNBotlLXKNCM0g7Sdazq3kPYzVD0EEgIIU_Z6aNPcCporfSDboS6vKTqOGG6Cj5stmXSfZYij_VSpfWI9JqwTghL8YBCPvb98vG9mujyy4jTk65wW9fdIisQYeOErcJ7vqlub1Oc7PbudeawwWw2X8n6N57dWk8wtBavwXH55uQb1PMVRFAX6fxl0fwQgRgA"
+  },
+  {
+    "position": 2,
+    "title": "The Houston Dentists",
+    "place_id": "ChIJq5bTuTTHQIYRlwh0HQWxnuI",
+    "data_id": "0x8640c734b9d396ab:0xe29eb1051d740897",
+    "data_cid": "16329683934419093655",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c734b9d396ab%3A0xe29eb1051d740897&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c734b9d396ab%3A0xe29eb1051d740897&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7091618,
+      "longitude": -95.4658834
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq5bTuTTHQIYRlwh0HQWxnuI",
+    "provider_id": "/g/12ll7668n",
+    "rating": 5,
+    "reviews": 729,
+    "type": "Cosmetic dentist",
+    "types": [
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "cosmetic_dentist",
+    "type_ids": [
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_provider",
+      "dentist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "4914 Bissonnet St #200, Bellaire, TX 77401",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–4 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(346) 202-3432",
+    "website": "https://www.drfrazar.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "description": "Dental office featuring cleanings, fillings, root canals, veneers and more.",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"This was the most relaxing and professional dental work I’ve ever had done.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9yRkhy9v8hXG7Iuizd5vDNDHVUKmSF90DhD6VqpaEM7KFlpuBvqcYTeQttGIGMnc_lF2-jddjs1f3j98qczaiOPbIUQWBdIfmq6ILHjaMe1n5lGFJPb8uUOfYKnOW0Dg5UtJY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QII-G3icHcThEoEwAADgJ1otrpQ7P7gpk1QI_XJZq8laZSvHC3oGb-PO9-P7fphSrZzqOmdjrWyaktNe0gdphKJCaaSp9bKVgEgg9Xm0je_zpfPa3dnLGWx29ia4v71zc0BbtDomfr13HYgYso5dmy2Die_ytl8MHUkPNFbKw14gyIW7I1DleSWNYlw5dkfe2S2MrjiJT4scF3Vn4c2qygJqCJN77jq62n0SFqkvwhNEpZmodTp7GhBCwP4TIH5ldER-"
+  },
+  {
+    "position": 3,
+    "title": "Houston Uptown Dentists",
+    "place_id": "ChIJ0QVm3UbBQIYRkftFcGDZ1nw",
+    "data_id": "0x8640c146dd6605d1:0x7cd6d9607045fb91",
+    "data_cid": "8995616313942866833",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c146dd6605d1%3A0x7cd6d9607045fb91&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c146dd6605d1%3A0x7cd6d9607045fb91&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.746446499999998,
+      "longitude": -95.4734395
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0QVm3UbBQIYRkftFcGDZ1nw",
+    "provider_id": "/g/1tjg_rgy",
+    "rating": 4.8,
+    "reviews": 339,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants provider",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_provider",
+      "denture_care_center",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "1900 Saint James Place #875, Houston, TX 77056",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–3 PM",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "7 AM–3 PM",
+      "friday": "7 AM–12 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 366-4376",
+    "website": "https://www.houstonuptowndentists.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "user_review": "\"Never hurt and my teeth have never felt and looked better!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEy9lHQEMqN50TSG-36_qWOGX2KjbxlOUhYKCuFCwd4UMedPRndKIU5mSizi9BKh5pTvuLDGA_GZ9Nt5Su4MFOKdvZZSttDbnqatTOUZKsvuGsYfLieXh8ym8m54c5vh2X1J0dnhxTWTOcX=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rKt8VHicHcTBboIwAADQL6pUpUaW7MBEu61CdZSAXIy2HWWDAmuLup_ceX9j4ju8_z9lbW-ePK9R80nVdVUjnZE_vNNWajvhXetVvQHcAOOFu2T_Ha5vQfO6X8dDgiBLMZgvjkNOcTEjX-drQzN1ICu3WV2En8VS7D60IG8ZatP6tw5eiEI9G902wuERl0FiUer8eEOJGMsytTY66-FkGc1KYkaHzeFzW8tCLW_tskU-R6OaFdN3KLS6spxRXjxfphBCoB5zoO9qZ0dx"
+  },
+  {
+    "position": 9,
+    "title": "The Dentists at 650 Heights",
+    "place_id": "ChIJceF9YlfHQIYRqgZbcaMALjs",
+    "data_id": "0x8640c757627de171:0x3b2e00a3715b06aa",
+    "data_cid": "4264346599147898538",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c757627de171%3A0x3b2e00a3715b06aa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c757627de171%3A0x3b2e00a3715b06aa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.783158,
+      "longitude": -95.397093
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJceF9YlfHQIYRqgZbcaMALjs",
+    "provider_id": "/g/1hc8w2n30",
+    "rating": 4.9,
+    "reviews": 470,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "emergency_dental_service",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "650 Heights Blvd, Houston, TX 77007",
+    "country": "United States",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+      "monday": "8:30 AM–4:30 PM",
+      "tuesday": "8:30 AM–4 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "8:30 AM–3 PM",
+      "friday": "7 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 974-4086",
+    "website": "https://dentistsat650heights.com/?utm_source=GMBListing&utm_medium=Organic&utm_campaign=GMBListing",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": false
+    },
+    "user_review": "\"Great staff and the most calming dentist experience I ever had in my life.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAESiZc8El8DX_Q2GrrWU1XEiNJyYIGamyw1gVcmodpmmM0t4pT1H9OmOnpVKmIcbaTqG9JGr1iF0kzJdvhhvVDRJW_Nu9hYcIGRXJCcKbD9J6PgZx2AZQOQvuZQN_P693wVqhp6=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/o-RbWXicHcRRboIwGADgEyGtLsSa7IEM1lEjUKeIvBD9JS2R0koLzF1wZ9htlux7-H5_pHPGbny_k6uF0Fp0zWibAXTvmt4tQCtfGOuB9awf5im_h_FnW8E67tZRWfMlHYbTEZdxm7LnOaEX9ZyxKEDpm1Fqh9yLOeAPkqmsN8VWJXC9HB6UMDrg9h3dv9ltknIqoj071elI5BkSui_ZG2yvEWFBLqqvZVjxjE9jxdM6D8hqLh7SBK8zRgh58n_w-j9zVkSw"
+  },
+  {
+    "position": 12,
+    "title": "URBN Dental Implants & Invisalign | Uptown",
+    "place_id": "ChIJrbmkixbBQIYRV9jCGdpuUzU",
+    "data_id": "0x8640c1168ba4b9ad:0x35536eda19c2d857",
+    "data_cid": "3842536790091290711",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c1168ba4b9ad%3A0x35536eda19c2d857&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c1168ba4b9ad%3A0x35536eda19c2d857&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7426364,
+      "longitude": -95.4505209
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrbmkixbBQIYRV9jCGdpuUzU",
+    "provider_id": "/g/11c1q8yz2f",
+    "rating": 4.9,
+    "reviews": 1121,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "2400 Mid Ln #350, Houston, TX 77027",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "8 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 322-8442",
+    "website": "https://urbndental.com/texas/houston-dental-services/river-oaks/?utm_campaign=local-listings&utm_term=uptown",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://urbndental.subscribili.com/appointments?locid=17428874614e62681e&rwg_token=AE37R_jgS6vy69AXPXsNioh5VBWGzw0xWgg4xkQBj0hzMFbojg3p_sjcHvWP96lO9z1vYQB7eAr_-CZWFJo3EONa6GwvJ6Attg%3D%3D",
+    "user_review": "\"The dental hygienist, Nicole, was gentle yet very thorough and firm.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGsVIZlvoTnGNHkRPhFfWUwyvqo5JftlqHPiWYa3D-qu-ONE08Y58wSZHORd5QheZFrFXKxP10_lDSxWzMNLdashoPRX-M_QDqsRS3c-yYFOepGR2ruucvNhkB7dbbLXWW29YAB=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/G7MNvXicHcRRboIwAADQE1WqhKhL9oFBwKmlFGeBH6Kl0oWOAi2gu6Bn8DYmex_v9RTGtPrDsqSwZ5VSleSD5j1TjeGNmTH1a1WtBkwDbbkYxbUb6PMul6M6NQEKa4KFf6Pf02PslPN1M7IL8Q_NLrYHugFEaAtXmbOakjyMSOnEgud-76f7O57DQnrJnf4d0aG8aKEwScGxiL1Ok8Rm4JH5EW8DsuiHgY1I1Jtleb0eUkoX68zdfE5zCCEQ_zPQvAGlh0T7"
+  },
+  {
+    "position": 16,
+    "title": "Sparkle House Dental",
+    "place_id": "ChIJmaVwgIG_QIYRAJvMlf3f3TU",
+    "data_id": "0x8640bf818070a599:0x35dddffd95cc9b00",
+    "data_cid": "3881504734096169728",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf818070a599%3A0x35dddffd95cc9b00&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf818070a599%3A0x35dddffd95cc9b00&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.723058299999998,
+      "longitude": -95.388609
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmaVwgIG_QIYRAJvMlf3f3TU",
+    "provider_id": "/g/11bwkf47_r",
+    "rating": 4.9,
+    "reviews": 315,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "1213 Hermann Dr #275, Houston, TX 77004",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 529-3069",
+    "website": "https://sparklehousedental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "book_online": "https://book.modento.io/sparkle-house-dental/g/google-schedule-link?rwg_token=AE37R_g6MTK2TYh-KV-h2cmAY-ujnyaTzuvx1DDv5VuceNLUOU42RNzkMqmY2QdH7WjkOgfDkxXnT2j9ssXpM-KkR_8zqvIXug%3D%3D",
+    "user_review": "\"Every appointment I’ve had has been super easy and completely pain-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWYP700w09WkNduHu8L4H0i5fuxrzQh10XvrHfmBFgk7LIpnCt69QAIa6sZQj0CUbVJG4enplOONASBaEhyFq498wAJ6atc_QkmPI9BCjTigLgjjARYM_-oiuXL8BpfsLiPTJXkdJws4kU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/i3aBKXicHcTBToMwAADQL-roIjJY4qEQJ5COUd0c87JgBy0U2kpb0f3kzvsbE9_h3W_cWm3WnjfwhwVTig2NM81ElbSNtAuqRo9pA6gBxkNlQQRKj6dyBeEMo6MoLi51IfZT2D227me6Er6E1feUtmO8YWKFMy0TG0QEZXVgPkgPk8Pne_7iN1IPu12B3uL6mf9uvvwonFEe1JaeiRjLLIqTft8xzPoevZ62Z6A6V-Ew1q3BXbnPK3HJZ-OLw9O8hBAC_j8F8g86wkbd"
+  },
+  {
+    "position": 17,
+    "title": "Restore Dental At Montrose",
+    "place_id": "ChIJy_5QhT2_QIYRei7gmVeo914",
+    "data_id": "0x8640bf3d8550fecb:0x5ef7a85799e02e7a",
+    "data_cid": "6843123253009985146",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf3d8550fecb%3A0x5ef7a85799e02e7a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf3d8550fecb%3A0x5ef7a85799e02e7a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7536891,
+      "longitude": -95.3924418
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy_5QhT2_QIYRei7gmVeo914",
+    "provider_id": "/g/11nms9blvr",
+    "rating": 5,
+    "reviews": 152,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "teeth_whitening_service"
+    ],
+    "address": "1110 W Gray St Ste 220, Houston, TX 77019",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–1 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 768-8944",
+    "website": "https://www.restoredentalmontrose.com/?utm_source=gmb&utm_medium=organic",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://flexbook.me/restoreden?rwg_token=AE37R_h0y662q-0C8l2JHyPzr-K6IvvsbOiohvaV-evOfzGRM5jOb_qwo9eg3y-sfkeXbooOWnHFYBVUMOPE3F3e6TyQPLMSfA%3D%3D",
+    "user_review": "\"Great job with my broken tooth extraction and bone graft.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZDcZKsqhRQeiNck0SKGXusExomM8oRmit-JjcPGdIknwikTMNFjn72LMv-YBfxLz9BmhxNFISLc-tCfCrkThWZ46rzi52x7QiyZ9eh2awO1ZEiobKpPGYwdgG2Ogthy3rdcLRxQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QhSaq3icHcRbEsEwFADQFUWr3mZ8eLVDH9oyg_xxG0lEk2pCww4twW7MOB_n-2HGVHrsODfWaVGl6I08NKlBSUOkaYEqHVppBBppZ5ommZj6eAE41HeWZ4QnINxtGBweemlVGQ9VXnKD1ldIg2IlZMPFLk78qxx4UfxEx9nFRu_RrGQ28VfbCJCZX-a12LE97vbrN-95dpDxFx4R5p2aTRsvuTqHVRocm4IG3oYa9urUBUS5zSZN23VdxP4Dkj9vikbR"
+  },
+  {
+    "position": 18,
+    "title": "EaDo Family Dental",
+    "place_id": "ChIJie9EaNm-QIYRJ21jX9tiS1o",
+    "data_id": "0x8640bed96844ef89:0x5a4b62db5f636d27",
+    "data_cid": "6506402781004524839",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bed96844ef89%3A0x5a4b62db5f636d27&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bed96844ef89%3A0x5a4b62db5f636d27&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.757930199999997,
+      "longitude": -95.3474822
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJie9EaNm-QIYRJ21jX9tiS1o",
+    "provider_id": "/g/11dy_syms8",
+    "rating": 5,
+    "reviews": 938,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "teeth_whitening_service"
+    ],
+    "address": "2240 Navigation Blvd #300, Houston, TX 77003",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–4 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(346) 449-4647",
+    "website": "https://www.eadofamilydental.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"They cleaned my teeth really well and did a great job on my fillings!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ4dHB4u9MHgaeaQQLvMffdy9xTTeozEHXAm-0vjSvS4bDQMLI9VP1L2tA0hhP_izg2vNJMqGsamT4RSmByeneFuEfXHSGDIdYdWj7pqn9UZcPNijWH7ycJV1plABt41tyaCmy0w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5oXQNnicHcRdboIwAADgE1WKNjEs2UNRZzVAqODP9rKwUloZbdEWtN5wR_A2JvsevuefdK63b0HQydlEGCM6Plh-ZUY7rt2EGRWI3gJmgQ1wntFfTCiqSYyGKCWi4hWlyZg2Te2je1ly81iRE1YAjm0xFuhnSdNkEx3yMJk6DKXMv88PMR2zbXpZ20qVaFeo2HPNP4ZVcyLFermpP-tjO-8vOtp_sTw7t0cy92x7CPsOxw6FzlcL5eHt_RZCCIH8nwH9AuMHRZc"
+  },
+  {
+    "position": 19,
+    "title": "Bayou City Smiles",
+    "place_id": "ChIJccnUQyq_QIYRAug_bFlXKxw",
+    "data_id": "0x8640bf2a43d4c971:0x1c2b57596c3fe802",
+    "data_cid": "2029812098640373762",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf2a43d4c971%3A0x1c2b57596c3fe802&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf2a43d4c971%3A0x1c2b57596c3fe802&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7450022,
+      "longitude": -95.3902626
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJccnUQyq_QIYRAug_bFlXKxw",
+    "provider_id": "/g/11tf259lhv",
+    "rating": 5,
+    "reviews": 351,
+    "type": "Cosmetic dentist",
+    "types": [
+      "Cosmetic dentist",
+      "Dentist"
+    ],
+    "type_id": "cosmetic_dentist",
+    "type_ids": [
+      "cosmetic_dentist",
+      "dentist"
+    ],
+    "address": "888 Westheimer Rd Ste 212, Houston, TX 77006",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–4 PM",
+      "tuesday": "7 AM–4 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "7 AM–4 PM",
+      "friday": "7 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 220-8316",
+    "website": "https://www.bayoucitysmiles.com/locations/montrose/",
+    "description": "Cosmetic dentist offering a range of services including veneers, implants, and teeth whitening, plus Invisalign.",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"Dan and Tu did amazing jobs my mouth has never felt cleaner.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHq1XH0fujNojpVG7gbusrKY1IruJgJsd0xP5vHguJICPAVtIvJfyNsOlsr7-q-V5_5Gik2CIajQf-7geUM4ENkPOdnY0VclrIZiTfdK8_4JbP8F8joWFP0BtTqarAeOc8nkFkB=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tA_UoHicHcTbboIwGADgJ6qUTQJZsgs0Iq0Z1ETxcGO0lCLFFvq3Hp5wz7C3WeJ38f39ts4N8BUEffs5kcbIXngQlhvthHYTbm6BHABxQBCkrFirNB_DfY4b3xWmG6plLC8e7OoQEuuppFDjJ4vuufSUzFlaOXKnzauAsgcboxFV0SlaXtXHnJy7dYNiKbY_00WhWFnrA654b8nxumnqVXKa0gtLsqQzu4zhmduMZ5uKkidaZWr2_Qgxxqh9z5H-B4XJRKo"
+  },
+  {
+    "position": 20,
+    "title": "Omega Dental Specialists",
+    "place_id": "ChIJP-RH3UO_QIYRg6k3vIHJ8fY",
+    "data_id": "0x8640bf43dd47e43f:0xf6f1c981bc37a983",
+    "data_cid": "17794225161763268995",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf43dd47e43f%3A0xf6f1c981bc37a983&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf43dd47e43f%3A0xf6f1c981bc37a983&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7533706,
+      "longitude": -95.3790057
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP-RH3UO_QIYRg6k3vIHJ8fY",
+    "provider_id": "/g/11b69kpgks",
+    "rating": 4.6,
+    "reviews": 1224,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "oral_surgeon",
+      "orthodontist"
+    ],
+    "address": "106 W Gray St, Houston, TX 77019",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "9 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 322-7474",
+    "website": "https://omegadentists.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://book.modento.io/omega-dental-specialists/g/google-schedule-link?rwg_token=AE37R_jXzoNNd6d2NUs0hHNmLW-m6jsd68dokVCm6EbnxSfUbVwElw9Vr3CoqFCX7_xicp-bXqahMvh-pcjr-UeTyfGLgKfaZw%3D%3D",
+    "user_review": "\"Dr Buhluli did an excellent job in performing root canal with minimal pain.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFV4HGnoJmr7sWzyDUVnIOErwN0IhYHfmWGavr-LKRv0a1U0yoIuX_ltlgf7lAqYJpdDeEfcYIr2oeTH86Mmqpy1apfT-6fBkWUMjK1t3v9-0QQ-fu91_1z4aCjw-8Vf45J6q8Ypw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FQueRXicHcTdboIwGADQJ_qkVUQ08QJ_JuB0sgjIlSFdC9HSlrZA8A33CL7Nkp2L8_6trVVm5Ti8nk0qKStOO0M1kcJSYSdENk6lDBADxgku5-QZfGRueBAybvTC5K9xl2Yi-trr4YyiughZkx_KXsPn8btHJU7RKKPudueWV2zBg7aI1c-O7hkpIj2V9Br63qlp1YhLxa7gsc0zT0-PI7azfgkoSYB1S3zHL7fcPgbwM-bOY6_1CzWsB4wQgvp_AuIPGbVE_A"
+  },
+  {
+    "position": 2,
+    "title": "Cosmetic Dentists of Houston",
+    "place_id": "ChIJM1orD0DBQIYR8_kX1AoIIUU",
+    "data_id": "0x8640c1400f2b5a33:0x4521080ad417f9f3",
+    "data_cid": "4981271505449515507",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c1400f2b5a33%3A0x4521080ad417f9f3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c1400f2b5a33%3A0x4521080ad417f9f3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7474609,
+      "longitude": -95.457664
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM1orD0DBQIYR8_kX1AoIIUU",
+    "provider_id": "/g/1tmxwzrf",
+    "rating": 4.9,
+    "reviews": 646,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "1900 W Loop S Ste 1150, Houston, TX 77027",
+    "country": "United States",
+    "open_state": "Closed · Opens 11 AM",
+    "hours": "Closed · Opens 11 AM",
+    "operating_hours": {
+      "monday": "11 AM–6 PM",
+      "tuesday": "7 AM–6 PM",
+      "wednesday": "7 AM–6 PM",
+      "thursday": "8:30 AM–3 PM",
+      "friday": "7 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 622-1977",
+    "website": "https://www.houstondental.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Latino-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My teeth look so natural and I am genuinely so happy with the results.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENxC3k6eCzJyJQwMSWtjc2MpnFbvoQrX99vHf8lTHeDD0qkn2Ej2cqgagtL7g-ZVavWZiI_qHJM96G4g4V5jdIqRil3vXIRlUu1DLmj1dm6krwchHsEmVf_kiucRJcSw5LvoE0ihQ060JD=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_BMCT3icHcTBboIwAADQL6oUUBxLdjCCgwbMQIfGi9FaW2hpgZay7Sc9-zcme4f3fDBjOv3uOIL5M6oUFWTUZMBKGiLNDKvWoZ0GWAPtrL62BV_F25-1zwOy_kO_qJjy3cE02Ms7ublaVQzHMLTJ_U3sExJFsOfSixsP9_RCTbak4FRd7OFUp-c-QXkYfM7pvFo0t7Qva-HbY1qK79GNsrZxb23AhwmzRMdtdT_zesQlwrtpkVkVw5oVMIAo-phcCCFg_2MgX9m8R9U"
+  },
+  {
+    "position": 3,
+    "title": "Midtown Dentistry",
+    "place_id": "ChIJ6T_CaGa_QIYRSqkD9TDtxs0",
+    "data_id": "0x8640bf6668c23fe9:0xcdc6ed30f503a94a",
+    "data_cid": "14827799617688807754",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6668c23fe9%3A0xcdc6ed30f503a94a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6668c23fe9%3A0xcdc6ed30f503a94a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7443577,
+      "longitude": -95.385307
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6T_CaGa_QIYRSqkD9TDtxs0",
+    "provider_id": "/g/1tgwb8qb",
+    "rating": 4.8,
+    "reviews": 1411,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Emergency dental service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "emergency_dental_service"
+    ],
+    "address": "315 Westheimer Rd, Houston, TX 77006",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–2 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 588-9297",
+    "website": "https://midtowndentistry.com/locations/westheimer",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as veteran-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"My teeth in front looks all natural and they changed my life!!!!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHA1VLrWY-hqbY0gi6vIfG-0F8mQwHAVspydpVOz0zqTOdM46cgQBpG-mmgIMnS-9l3pFSss2MkqVOTQD1kHwYghi0RoKk6H33-EyjhdO8oyrK9jL_UEzaXlaEeQCPSjhque_sQ3Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7LjyKXicHcRbjoIwFADQFV0p1hA18YOZQTGKWHEY-TJaaiuvFi5KYIcuwd2YzPk475dqW4NzyyoUHUmtZSEeKBquq1ZU7Yjr0pIGgSOg5e53LHd91463zV8Cqr4mRN6d5_q2ArKclqzz3RhNn5o4HMhQH8M0mDhcsi-zgrKU66CKYFZQs4wQx0Fex-GR_di53yVS3clBb3LHpxS8PlNpONV9s5ll2_OvN1xOxcUT7HsfZap-iDMyyhadTQgB9T-H6gPKm0Vj"
+  },
+  {
+    "position": 4,
+    "title": "Heights Smile Co.",
+    "place_id": "ChIJZ4Bdyj3HQIYRoVoPIEqtd5Y",
+    "data_id": "0x8640c73dca5d8067:0x9677ad4a200f5aa1",
+    "data_cid": "10842325161794820769",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c73dca5d8067%3A0x9677ad4a200f5aa1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c73dca5d8067%3A0x9677ad4a200f5aa1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.798884299999997,
+      "longitude": -95.4103956
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ4Bdyj3HQIYRoVoPIEqtd5Y",
+    "provider_id": "/g/11j57xd11j",
+    "rating": 4.9,
+    "reviews": 244,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Emergency dental service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "dental_implants_provider",
+      "emergency_dental_service"
+    ],
+    "address": "1533 N Shepherd Dr Ste. 230, Houston, TX 77008",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–1 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "8:30 AM–5:30 PM",
+      "thursday": "8:30 AM–5:30 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 303-9390",
+    "website": "https://www.heightssmileco.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking"
+        ]
+      }
+    ],
+    "user_review": "\"I had Invisalign & bonding done and it was such a smooth and easy process!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE9TbKG78DZIHM4KFCt_OqNC7NTGubEqYkzg9M45gRE80mbEaeCN34ULLg5_JyPYXLnnPUSOBi9jDEaiikDYLc245JSgKrCjWaGXu7zD1pWeW4mVHr9G1EjTsdOdIDN8p5vVjjj=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F_mUunicHcRRboIwAADQEyEwS4AlfjjaoYIFFQX2Q6A2hSIFadHIBXcGb7Nk7-O9f2ulBvmp67d6uWB9z250knQkvVBUqAXpO50NUiNSk_o6xod2jdykCnzbgT_bzR4E354qojv2bJz4U4XueTszdw8sdkSO0VWopB5egnMYMqvYveI8C4WIz6foq3E5RGXTtDAPyQewdicWjB5PSz-b7BmaQ0pT0F02o-ubiCfyGl23EDuD9bhwzldP0zAMrf6faOIPg_JCww"
+  },
+  {
+    "position": 5,
+    "title": "Cosmetic Dental Texas",
+    "place_id": "ChIJuQEpxBa_QIYRcT9MlaWFNFw",
+    "data_id": "0x8640bf16c42901b9:0x5c3485a5954c3f71",
+    "data_cid": "6644082296499224433",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf16c42901b9%3A0x5c3485a5954c3f71&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf16c42901b9%3A0x5c3485a5954c3f71&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7451893,
+      "longitude": -95.36628689999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuQEpxBa_QIYRcT9MlaWFNFw",
+    "provider_id": "/g/1ts_6_5b",
+    "rating": 4.6,
+    "reviews": 234,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Health consultant",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "health_consultant",
+      "teeth_whitening_service"
+    ],
+    "address": "2101 Crawford St Ste 103, Houston, TX 77002",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM Tue",
+    "hours": "Closed · Opens 9 AM Tue",
+    "operating_hours": {
+      "monday": "Closed",
+      "tuesday": "9 AM–4 PM",
+      "wednesday": "9 AM–4 PM",
+      "thursday": "9 AM–4 PM",
+      "friday": "9 AM–4 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 654-7756",
+    "website": "https://cosmeticdentaltexas.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "user_review": "\"Very pleased with teeth cleaning services and friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv0FSoCajr1Laoe_FY4yKeKkpM1n-tD5Tkoj8LdZfphbap0ETL3-dbwWH0TLlPxpudgVzplqq86yC971p-bUfFR-haZTx-EGzG9HXjF_BBpINNdM9Tjskb2YGgoPt1eOMgxDly=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hJsQGHicHcRbcoIwFADQFV1J1LbijB8-ADsCoqa2-uPwiMlAJFcTFdyga3A3zvR8nNdTWotm6DhK9jpCa6H41fBLrmvLa9vJ9ckRaCA3YJxxEq-qsXcj_kZP0_JCw1Tzg7_rtwu-qDCiNdjZB6t0OQiL_RFlliLxWNiDIrv_zgkLVdLgtRDbB6rzefDZTt0vipD9HP01yHTPGvCCR-DO_0r_MJngdxwXkctKU2XdXSB0YilfRqKZqXZ0p4QQkP_nUL8Bc8VE7g"
+  },
+  {
+    "position": 8,
+    "title": "Houston Dental Clinic",
+    "place_id": "ChIJXzfC0hVk_ocRZjGxzlVFpTc",
+    "data_id": "0x87fe6415d2c2375f:0x37a54555ceb13166",
+    "data_cid": "4009687278085550438",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x87fe6415d2c2375f%3A0x37a54555ceb13166&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x87fe6415d2c2375f%3A0x37a54555ceb13166&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 44.004349,
+      "longitude": -90.509581
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXzfC0hVk_ocRZjGxzlVFpTc",
+    "provider_id": "/g/1vyxjzx3",
+    "rating": 4.6,
+    "reviews": 77,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "1220 Mark Ave, Tomah, WI 54660",
+    "country": "United States",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+      "monday": "7:30 AM–5 PM",
+      "tuesday": "7:30 AM–5 PM",
+      "wednesday": "7:30 AM–5 PM",
+      "thursday": "7:30 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(608) 372-4455",
+    "website": "http://www.clydehoustondds.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "user_review": "\"They got me in immediately and went right to work to fix the problem.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGk9MrwVsp9jBuTdTcWrEa1r5GtFh_m34u6v-JkOijDeyEiIqvODNEe9WJK9V2li3MZPr7YSC621JbY9PQ2OpammK6pnBVAWiO5UaAZ19uX3LM14Uqq9sqXFYU-SepTS6VmzkPj=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bUD0gXicHcRJDoIwAADAF1Uom6mJB1Q0ogiGTbgYrA1robRFox_0Df7GxDnM91NJycRCUbpKn5XDUHZkEoTjoZeklzM8UKVkAmABhGIHp3Nr71rk8WciGGpWU3SPcMqdAnJzJ7fVlerGZD2A2_p1syEvp96PD39zcghK3QNKtK7WvTzg8yxcWxp0bxkKzprPCkoPFutXiZ3WvhkXdg7RdNGPHjTicURivGyzGISERaGV0HcbNMsnVFUVVP8x6H8p0kOi"
+  },
+  {
+    "position": 10,
+    "title": "Bayou City Smiles",
+    "place_id": "ChIJg3863qzAQIYRX1pLJuizqOo",
+    "data_id": "0x8640c0acde3a7f83:0xeaa8b3e8264b5a5f",
+    "data_cid": "16908962610618784351",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c0acde3a7f83%3A0xeaa8b3e8264b5a5f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c0acde3a7f83%3A0xeaa8b3e8264b5a5f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7701709,
+      "longitude": -95.38163569999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg3863qzAQIYRX1pLJuizqOo",
+    "provider_id": "/g/1vc6dssw",
+    "rating": 4.8,
+    "reviews": 333,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Emergency dental service",
+      "Oral surgeon"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "emergency_dental_service",
+      "oral_surgeon"
+    ],
+    "address": "2313 Edwards St #150, Houston, TX 77007",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–3 PM",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "7 AM–3 PM",
+      "friday": "7 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 518-1411",
+    "website": "https://www.bayoucitysmiles.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The Dentist cleaned my tooth and glued my veneer back in minutes.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnB2VF1AldNna9ZbwfGHzt6Ul8i-yW_c4mPyR3zi36vpk6qQdMIngW-dlGCjRhXeNzzPs5fZrM6k5yVT0dMiw8HVFXW0UwagbL2sm7kp3AtHpmBiwVRWZJKgEzB43Jl0dsqrnsJw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RSvQjXicHcRRboIwGADgE1WqVXQmewAjIg6CZILhxWiLBSml8tc19IY7wm6zxO_h-_uttVawdhxRkwnvey6qF1QD7aWupJ7QvnO4AkQBgeOlybH1AunP8mDqCZbI60d5M_ddaLV7EqsGjcWFzrt0zIhtiPujWvd5ZPFe8gIxsds8svpcJdamsLiXQ-y2izH_xixuzCrMg3OBT-bKb18z6JatIp4OVec3Js-KMjrwrfXnJBKYwXOQEJlPM8UYo_o9RfIfH09GQQ"
+  },
+  {
+    "position": 11,
+    "title": "Houston Heights Dentistry - Dr. Pranita Kadam",
+    "place_id": "ChIJe_Tq__rGQIYRTMj9F3i0OVY",
+    "data_id": "0x8640c6faffeaf47b:0x5639b47817fdc84c",
+    "data_cid": "6213195588825892940",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c6faffeaf47b%3A0x5639b47817fdc84c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c6faffeaf47b%3A0x5639b47817fdc84c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.807526,
+      "longitude": -95.4423513
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe_Tq__rGQIYRTMj9F3i0OVY",
+    "provider_id": "/g/1tj4hfhg",
+    "rating": 4.8,
+    "reviews": 155,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Endodontist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "emergency_dental_service",
+      "endodontist"
+    ],
+    "address": "2525 N Loop W Fwy #230, Houston, TX 77008",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–4 PM",
+      "tuesday": "8 AM–4 PM",
+      "wednesday": "8 AM–4 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 771-0712",
+    "website": "https://www.houstonheightsdentistry.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking",
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"They created a treatment plan and got my oral health back on track.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7CmYKz6XaxcBvpmxCiaRCMtXrjvvBJuvMSqx0qP5VvvvK_vMThOdG5b1g5_Ir9jyw4q3JxfTTuogWspYIXWsfgMrYDmFZWEgWI15R97e4RNh25RCdgS6fquQ5ElooPgyycBmZEPnAH66f=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/34WQInicHcTBEoFAGADgJ0qFzTDjUAkxkWpULoZV_6Jtq91WeUlnb2PGd_i-HyJExWeqWpDRABiDImt51mBWiqwUA8yoChVXMFe4avq7w9NcTmyabt9GcumwJSva2fdLYHsiaR5SWptWemHdabWPjlLK7Vl6EdnfVuiqAzq7zfTRv8b1aNPlUdQyiHmVuknMc_CadEGXp9iB2NVRMJ1k42BHhiiwbxAaed0ekFMw5kPfY4ueHL8014aRz1-6pmkK-Y-V8gdnfEjY"
+  },
+  {
+    "position": 12,
+    "title": "Montrose DDS",
+    "place_id": "ChIJe0Fo-GC_QIYRwO4mIPMGGe8",
+    "data_id": "0x8640bf60f868417b:0xef1906f32026eec0",
+    "data_cid": "17228809490768785088",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf60f868417b%3A0xef1906f32026eec0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf60f868417b%3A0xef1906f32026eec0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7391899,
+      "longitude": -95.3873598
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe0Fo-GC_QIYRwO4mIPMGGe8",
+    "provider_id": "/g/1tgxjfhp",
+    "rating": 5,
+    "reviews": 261,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist"
+    ],
+    "address": "620 W Alabama St, Houston, TX 77006",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM Tue",
+    "hours": "Closed · Opens 9 AM Tue",
+    "operating_hours": {
+      "monday": "Closed",
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "7:30 AM–4 PM",
+      "friday": "7:30 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 529-4364",
+    "website": "https://montrosedds.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as LGBTQ+ owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"Melissa was my hygienist, she was very detailed and cleaned my teeth well!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFvaE7oZ7w0tMxAI_99zfyEcYNzzikr8IliVLCp3DgB6lXy5BE4csX9sSHI4MTNELwj6tTkp9duO3Hnt_ZTmx7OAfj55qLuufPINgijowBMBlcBFmWdhphj9YVUlt4wozihabo4jfPyRPqO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7Qa7bnicHcRLroIwAADAEyEYQKyJC6oYSfjpw-_GaIWWUmi15VW4pGtvY-Is5vMmSgk5M01G7BHmHLOik8UT8VYVrRoh3phYSANJQ5p-lmxqf_V_DTx-9rSl4pcfXgAYyj5Ap2QYqvo5DVm1jxbCXmI4YcfehYGD5BHIv3XoxHkSRJpOVF4LcO9Se92qyzlvXl7ql9R1H1HXlVmY4IpyDWPIEFw1hzsRhILTfseUo_lQkeuNO7TM-m32SOd6bFmWQX4jo_0C-SVJHA"
+  },
+  {
+    "position": 13,
+    "title": "Midtown Dental - The Gallery of Smiles",
+    "place_id": "ChIJeVwMR2q_QIYRFzv34cZZBqs",
+    "data_id": "0x8640bf6a470c5c79:0xab0659c6e1f73b17",
+    "data_cid": "12323636141075413783",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6a470c5c79%3A0xab0659c6e1f73b17&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6a470c5c79%3A0xab0659c6e1f73b17&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.747678399999998,
+      "longitude": -95.3771008
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeVwMR2q_QIYRFzv34cZZBqs",
+    "provider_id": "/g/1tfbyvn9",
+    "rating": 4.8,
+    "reviews": 368,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants provider"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_provider"
+    ],
+    "address": "2450 Louisiana St #700, Houston, TX 77006",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–4 PM",
+      "tuesday": "9 AM–4 PM",
+      "wednesday": "9 AM–4 PM",
+      "thursday": "9 AM–4 PM",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 979-4127",
+    "website": "https://www.thegalleryofsmiles.com/?utm_source=GMB&utm_medium=organic&utm_campaign=DevOptimization&utm_content=Website",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "book_online": "https://nexhealth.info/book/appt/Ramine_Nabizadeh_DDS?lid=75895&rwg_token=AE37R_jNxowgI0gGoCuKDaDBae4qYiK7Vi5qEOkVuzdrLxm3lrV_1s6ydVoReq35krpmZWj68E9tIZ-7Wp4lQ3hIyb7lFtZhHQ%3D%3D",
+    "user_review": "\"I left smiling ear to ear, wanting to show off my clean shiny teeth.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHT72_FetGDSfU2MfePjJWQtIl_O5adr_GuacF_Ch617FVwVVp001qj6m4RLmjWEW9ot-SmMHz8NNI8xXIVDju8ndQwf4Ashr5d50YEVAMcL0n1F6m3prkN3jyoKXNRCvEi8Kiq=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uPzYCXicHcRdboIwAADgE1WKCDKTPRAFZEon_hT3REgp1EpbpEWmF9wZdhsTv4fv_48Z0-mFZbXMmTRKNS0dNO2JkoZKMyFKWE2nAdFAW8EOZddgfZxPi4iaeHWoT9O0pjv-lWcmaYtvt6z6Ih5KEhVL5tnzCI8YdxDaN-6J2X4reB7mH8qAg0jXTx-hxP89J3jFB19W2VjPAs16t3LhT4iDlGyhtCNPOF1_RQ5_qM0Z7Zf38OJvLrfP0YYQAvaeAPkC_CRDmA"
+  },
+  {
+    "position": 16,
+    "title": "Swish Dental - Midtown",
+    "place_id": "ChIJc2BTlKa_QIYRnjWT0MqgU-k",
+    "data_id": "0x8640bfa694536073:0xe953a0cad093359e",
+    "data_cid": "16812958626847339934",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bfa694536073%3A0xe953a0cad093359e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bfa694536073%3A0xe953a0cad093359e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.745863999999997,
+      "longitude": -95.3688602
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc2BTlKa_QIYRnjWT0MqgU-k",
+    "provider_id": "/g/11mm88xtgx",
+    "rating": 4.7,
+    "reviews": 48,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants provider",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_clinic",
+      "dental_hygienist",
+      "dental_implants_provider",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "2204 Austin St Ste 100, Houston, TX 77002",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "8 AM–5:30 PM",
+      "wednesday": "8 AM–5:30 PM",
+      "thursday": "8 AM–5:30 PM",
+      "friday": "8 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 721-9901",
+    "website": "https://www.swishsmiles.com/location/houston-midtown",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Payment plans"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://schedule.jarvisanalytics.com/frame/swish-dental?location_id=10083&rwg_token=AE37R_jRfkDmrDAW75DzXzh78TOH6Kve0mqScKVa-rpDLBoZCQUfDk92M2AGT1bPzT4O8gmg_qKYctw22njsRIVQ11Ec45h_6Q%3D%3D",
+    "user_review": "\"Great teeth cleaning that didn’t hurt at all.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGXqs6o1rp90yFgfrwcUKZEBg7k8zw4358-t_aqbPZw6qWdFxtKdxinxe95vBJhEStelnvCbpNMJBe59aiZp74LzWkmM923CE2xjKDUsDVz2dskZ8nDSuwLwv0VfxYhVGdT3y7JmKE2f41n=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HGP0OnicHcTNboIwAADgJ6qUP4ElO4igCahxceLGZdFSWge0hVZaeUnPvo2J3-F7PqhSQn5YVkvdGeGctPgm8YA4U5ipGeKdRYQESAJpLfa7r2ax_unlnNuDiOB9RepBo2NepjEJmnDSnuuHQP2d-8u-1PP-VK2MyitzZQZH_hhnND0o3LJxeRG7bRZjPzpfSxF4m-nUdNvIcZepY_7z5CiTYnIq2ZQhSw43vdEjLGrzS4t19e3eg6zLU6f2bPapbQghoO8RYC_7OEf-"
+  },
+  {
+    "position": 17,
+    "title": "Emergency Dentist Houston 24/7",
+    "place_id": "ChIJRRNI1ku7QIYRbI7S8W4Gpag",
+    "data_id": "0x8640bb4bd6481345:0xa8a5066ef1d28e6c",
+    "data_cid": "12152126243102428780",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bb4bd6481345%3A0xa8a5066ef1d28e6c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bb4bd6481345%3A0xa8a5066ef1d28e6c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7797052,
+      "longitude": -95.3040224
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRRNI1ku7QIYRbI7S8W4Gpag",
+    "provider_id": "/g/11z4svvsvv",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Emergency dental service",
+    "types": [
+      "Emergency dental service"
+    ],
+    "type_id": "emergency_dental_service",
+    "type_ids": [
+      "emergency_dental_service"
+    ],
+    "address": "509 Gazin St, Houston, TX 77020",
+    "country": "United States",
+    "phone": "(844) 578-2563",
+    "user_review": "\"Efficient dentist emergency care, helped me late at night.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQz18k6D7Z9l530GKWbfaffzqy7jkg64q8b0XQ7f95H_rNPCk49iXq2Gq9YXqlPQhx_bIitv57jlkTmOnoroVY97PesM7D_jHCt7SbuAPwqkQ6kQSYB4dz8fZ3Y6zXa8WPd5teHk3cwru1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wx9pdXicHcTNboIwAADgJ0KK_JQu8cA0gcWobVwUuBCpLUgrtbQM5SV39m2W7Dt879_W2of5cF3Z-otGqUay0bCBqt6y3i6ourvNwzjUOMZN8J6IJCWzF4toA0skQx-k23PNL5zP-gU70USBjmuQE8hRmFXDHq9FgG65XqYaFbmWmLTPqv662Z8QdlJ83w-9GtSpQBAzs4ObqsvWFh7rMcGTFiQS5Fh8Btc55qVfRHN-ic_4GlqWCZ9Ow-itJg8A4LT_U6f_A1b5Ryk"
+  },
+  {
+    "position": 18,
+    "title": "Houston Dental Clinic",
+    "place_id": "ChIJQxty6nLf-4cRpHUkfZqn7Bc",
+    "data_id": "0x87fbdf72ea721b43:0x17eca79a7d2475a4",
+    "data_cid": "1723937039342400932",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x87fbdf72ea721b43%3A0x17eca79a7d2475a4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x87fbdf72ea721b43%3A0x17eca79a7d2475a4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 43.7617263,
+      "longitude": -91.5677972
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQxty6nLf-4cRpHUkfZqn7Bc",
+    "provider_id": "/g/1tl1n_x5",
+    "rating": 4.9,
+    "reviews": 49,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "109 E Maple St, Houston, MN 55943",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–2 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(507) 896-2202",
+    "website": "http://www.houstondentalclinic.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      }
+    ],
+    "user_review": "\"Gentle but thorough cleanings and efficient billing/insurance processing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEBpynv1vihum2DJJhU55_TtJKvU8Wc3GtS1HhAxlA3t9R45MG4XhGcNFy73EeMN3GJNOvQBOb3qi3LsmXkhOMVEafq071FwWvVSwfVQuSG0A5Tmh9R8u-ma5flfry0VkJptnY-nQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/a8DGeHicHcRNjoIwGADQE1WKtfEncVEjdtIREFHU1cRpgM9AC9pS5IgewduY-Bbv_QJrW7PwvBrIqGyass47kz9ko22u7Ug2yitbg6RBxmO7KKlYsGoH7Xx3g06N10LAkdK_gxW_7jg7ScJt6v8Ae9aM2Pl-QkM-OQOX0WaYkiAPI8JFFLtkFf-T-41sjTpXEIdZcC3ueOpv-pPL0r7Iki7lmNGDgvl-1iF1pUVdPAacVaK1-oJ0sux9jDGC7xLpD49SRHg"
+  },
+  {
+    "position": 19,
+    "title": "Konig Center for Cosmetic & Comprehensive Dentistry",
+    "place_id": "ChIJX6BydWzAQIYRKodqDDghzMs",
+    "data_id": "0x8640c06c7572a05f:0xcbcc21380c6a872a",
+    "data_cid": "14685149009558538026",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c06c7572a05f%3A0xcbcc21380c6a872a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c06c7572a05f%3A0xcbcc21380c6a872a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.705917499999998,
+      "longitude": -95.4095519
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX6BydWzAQIYRKodqDDghzMs",
+    "provider_id": "/g/1tdxqvq2",
+    "rating": 4.9,
+    "reviews": 375,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants provider"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_provider"
+    ],
+    "address": "2201 W Holcombe Blvd #300, Houston, TX 77030",
+    "country": "United States",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+      "monday": "7 AM–3 PM",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–3 PM",
+      "thursday": "7 AM–3 PM",
+      "friday": "8 AM–12 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 668-2289",
+    "website": "https://www.konigdds.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"On top of the pain relief, I received a brand new smile!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2uLSNl0pbUafuYPofSAZcP8mPG5WxyXzcIlB9BdoLiIAqnLYqf5EAVAML86t22XOIjMUS8ceT4_ook4YfRvJniRHlg7Mmyl-Um3Htw4mjIUGeb0I0F4r45R9-boyTvOh6Qg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/hQaeKHicHcTdboIwGADQJ6p0WBwu8aIm_nQBRRAVb4x0pahtP7RFxffzIfY2S3Yuzu-7dq6xX56n6n5PAkglWituHIwTxvU4aE82FnGLrEeTxepCJ34bZQuFmzI_Vm2RQJXRPU9CncyC7bPbvThT4-H4B6ITo1cTFdcqmNANjaNw4Hx_t2TnOM9CLtbkAHAhRZXev80pnSv5GetOoVz35-5B9JnlM1FihqfkRoJ0iEro1vdlPVjJ0eMDY4zq_zkyf8IiQ24"
+  },
+  {
+    "position": 20,
+    "title": "URBN Dental Implants & Invisalign | East River",
+    "place_id": "ChIJZ8nFgEG_QIYRUgqdClx2QTA",
+    "data_id": "0x8640bf4180c5c967:0x3041765c0a9d0a52",
+    "data_cid": "3477190524993866322",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf4180c5c967%3A0x3041765c0a9d0a52&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf4180c5c967%3A0x3041765c0a9d0a52&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7631238,
+      "longitude": -95.3403723
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ8nFgEG_QIYRUgqdClx2QTA",
+    "provider_id": "/g/11vwv5w2mv",
+    "rating": 5,
+    "reviews": 234,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_hygienist",
+      "dental_implants_periodontist",
+      "denture_care_center",
+      "emergency_dental_service",
+      "oral_surgeon",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "2921 Riverby Rd Ste 110, Houston, TX 77020",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5 PM",
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "8 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 864-8726",
+    "website": "https://urbndental.com/texas/houston-dental-services/east-downtown/?utm_campaign=local-listings&utm_term=east-river",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "Cosmetic dentistry",
+          "Emergency services",
+          "Pediatric care",
+          "Sedation dentistry"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments",
+          "Payment plans"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "book_online": "https://urbndental.subscribili.com/appointments?locid=17428874618c93be9a&rwg_token=AE37R_jgeR2fRMPbdFq6VVytsVQGWIbwcEwj847iutCkwRpJBpvf_2GK9wZ0Ji0IpYyZI_FxaClzrw2MeYnkDz-ZgQS9omEAtw%3D%3D",
+    "user_review": "\"Fixed my broken tooth and did the crown build in my first visit.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEY3Cg0QCiR13j5ZRw657q3f9bxZajVqlpFllJqe9uSvNcfetlA3VOC9CNE6Dzx4o81rjaSU-uoXu-T3lxjzY7TGf8-qOB2kTfkvuvT9OJ3dTpKq7IELBRB7k2O_8pfdvKVKjp22o0bYZq8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9v2EPHicHcTBToMwAADQL-oo1A0w8QCIxmHAsUoGl2XrWrBU2q4tI_tJz_6Nie_wfn8Ga5V59DwxoFUvZS-oM_RK5GTpZFdEfnu9MoAYYLzko9yNSd6irIe77Kv2EV939W2zDjVi8XnpTrzRQr0IsdU0dvu5JIxakaCmyuKszDfP9-VBRv6Vn_afwMmDAxiJhd_bEL-yCOgqDUbMxtnNOK626IJVocO3_D2t03AMqmOk2GUumoKrIJDw3HY6err5EEIw_E_A9AdLi0Z0"
+  }
+]

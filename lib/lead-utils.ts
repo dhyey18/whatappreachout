@@ -3,8 +3,37 @@ import fs from 'fs'
 
 export const LEADS_DIR = path.join(process.cwd(), 'leads')
 
-export function normalizePhone(raw: string): string {
-  const num = String(raw).replace(/[\s\-+()]/g, '')
+// Default dialing code per city. Extend this as new cities/countries are added.
+const CITY_COUNTRY_CODE: Record<string, string> = {
+  ahmedabad: '91',
+  surat: '91',
+  vadodara: '91',
+  houston: '1',
+}
+const DEFAULT_COUNTRY_CODE = '91'
+
+export function countryCodeForCity(city?: string): string {
+  return (city && CITY_COUNTRY_CODE[city.toLowerCase()]) || DEFAULT_COUNTRY_CODE
+}
+
+/**
+ * Normalise a raw phone number to digits-only with a country code, inferring the
+ * country from the lead's city. A bare 10-digit number is assumed to belong to
+ * the city's country (e.g. Houston → +1, Indian cities → +91); numbers that
+ * already carry a country code are left intact.
+ */
+export function normalizePhone(raw: string, city?: string): string {
+  const num = String(raw).replace(/[\s\-+().]/g, '')
+  const cc = countryCodeForCity(city)
+
+  if (cc === '1') {
+    // US / Canada
+    if (num.length === 10) return '1' + num
+    if (num.length === 11 && num.startsWith('1')) return num
+    return num
+  }
+
+  // India (default)
   if (num.length === 10) return '91' + num
   if (num.startsWith('0')) return '91' + num.slice(1)
   return num

@@ -1,0 +1,1670 @@
+[
+  {
+    "position": 7,
+    "title": "Almeda Travel",
+    "place_id": "ChIJIexQE-bBQIYRh5noC5T-Cm8",
+    "data_id": "0x8640c1e61350ec21:0x6f0afe940be89987",
+    "data_cid": "8001487599785515399",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c1e61350ec21%3A0x6f0afe940be89987&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c1e61350ec21%3A0x6f0afe940be89987&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.709336,
+      "longitude": -95.45899449999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIexQE-bBQIYRh5noC5T-Cm8",
+    "provider_id": "/g/1pzvsx9v3",
+    "rating": 4.1,
+    "reviews": 30,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "6575 W Loop S Suite 553, Bellaire, TX 77401",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–5:30 PM",
+      "tuesday": "8 AM–5:30 PM",
+      "wednesday": "8 AM–5:30 PM",
+      "thursday": "8 AM–5:30 PM",
+      "friday": "8 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 592-8000",
+    "website": "http://www.almedatravel.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": false,
+      "onsite_services": false
+    },
+    "user_review": "\"We will be using them on all of our international travel going forward.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzZzR5tM7YKGD2W4gYoUzPF-dy3WJVUf6pBg8cURTwiOneamPLbUpmlcs8J-4p9qFuKFVAiDX0K2vWlMB7Cw6QFlU_1hZpvgsMmkWVquxwGZ2jd8Pc6-cllfgRi5uyduu1q8B0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PnrXkXicHcThEoEwAADgJ5pWkrjzo7i5k0hnRX8cKytWW7aJXtAzeBt3vh_f91MqJeTUMFg5HFDOKSu0LB6EN6po1IDw2qBCAiKBNLxos7t7qM_6eKTC8TFYLqzUpkeO-wiB_D1MVwm-OsKnLsHxvqu2TXGuo_UFi5oR6a6ALSYt0gFKvGpxgIH1TFnoj-eds0MMn8wyE08qw_qeJq1-dcvMuuVuRBxAGLvSuBrpd6612bo-nHUmhBCU_wlofmC1RQw"
+  },
+  {
+    "position": 8,
+    "title": "Travel Spectrum",
+    "place_id": "ChIJb78cqcDnQIYR1amm1-lgqhM",
+    "data_id": "0x8640e7c0a91cbf6f:0x13aa60e9d7a6a9d5",
+    "data_cid": "1417051590223112661",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640e7c0a91cbf6f%3A0x13aa60e9d7a6a9d5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640e7c0a91cbf6f%3A0x13aa60e9d7a6a9d5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6438,
+      "longitude": -95.5826515
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb78cqcDnQIYR1amm1-lgqhM",
+    "provider_id": "/g/1hc458mww",
+    "rating": 4.8,
+    "reviews": 81,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Cruise agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "cruise_agency"
+    ],
+    "address": "4800 Sugar Grove Blvd Ste 142, Stafford, TX 77477",
+    "country": "United States",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "11 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 491-0903",
+    "website": "http://www.travelspectrumonline.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Discounts for kids",
+          "Family discount"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "On-site parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Travel Coordination: 5/5\nTravel Spectrum made our trip hassle-free.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyjPTf6I0Au_TQFJEr2CcUsXXd7kR8jF_Z_eW7duqOed0DKDryYEubhWvLo78wdwicwbi1Ecg5O7VsJNulHYghnA7YlF63xkTADf3429rkFVYFVeH5Us-qUnOe4QZAXqDMEyRG=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/V25aUnicHcRdDoIgAADgE5GUFtXWA0vpP7OpaS9uIUFpkCKZJ-wM3aat7-H7fkTTPPXUskph97hSvGRGs5oq2TDZ9Kh6WPypAdVAW_iwDwpMuvshvI5WEJssDMjaqwdzGukkyVFxHN9Jds7YCeWm8lkO3Y1bd6lnLuL02io0bvP2RtvLre9RPvRRrNd7Uy5TLiRGaUlG9rsIsXu1ncGkLkickpgth5EGVSR95gRnnFTuzuuOi1nbhxAC8Z8C-QNjrURd"
+  },
+  {
+    "position": 9,
+    "title": "Continents Travel Center",
+    "place_id": "ChIJQ6uIHjTDQIYR3XSws0Y-SG8",
+    "data_id": "0x8640c3341e88ab43:0x6f483e46b3b074dd",
+    "data_cid": "8018727609916486877",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c3341e88ab43%3A0x6f483e46b3b074dd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c3341e88ab43%3A0x6f483e46b3b074dd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7204853,
+      "longitude": -95.50062679999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ6uIHjTDQIYR3XSws0Y-SG8",
+    "provider_id": "/g/12642htwr",
+    "rating": 4.1,
+    "reviews": 60,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "5711 Hillcroft St Ste b3-b, Houston, TX 77036",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 334-8888",
+    "website": "http://www.continentstravel.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "user_review": "\"They offer the best rate, entertain all the requests and concerns.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFqCPeLMA3igo1_-bnv8yayB_EADHJtX-3P-qOHJ2oonqkLJSwvSDaHbreNmCvCTN6wOEwXVCp_uMS86EIODGcezesf57KzM6348p1qUyNHZTMKsr5Fre2z7ngRjTerwQq5n1Mn=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wMsxg3icHcTbboIwGADgJ6qADCQmXiDgGFpAYYZ4Q7T5V-ahpQdp4AX3DHsbE7-L7_-v07pXS8u6d-6Mck7v8FQgCWcamJ4R_rBorxBRSFlhme9v4UZEJexw6P5S7rTowoZgPI_rNgnjNNMNckskijSbc87EbZdVZqjic3qRkD-iIapz3xSJaY5R3z5xFfjJVxF_EphA_XiL7YR99yPoHfE95umpxlslvY2E-bRg9HCtQZq98JiD2co4tm2j7j1B7AU39kR1"
+  },
+  {
+    "position": 10,
+    "title": "Houston Saigon Travel",
+    "place_id": "ChIJG_MzGz3dQIYR80VqHuaT9z0",
+    "data_id": "0x8640dd3d1b33f31b:0x3df793e61e6a45f3",
+    "data_cid": "4465200172123178483",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640dd3d1b33f31b%3A0x3df793e61e6a45f3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640dd3d1b33f31b%3A0x3df793e61e6a45f3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7049113,
+      "longitude": -95.580655
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG_MzGz3dQIYR80VqHuaT9z0",
+    "provider_id": "/g/1w04khbt",
+    "rating": 3.3,
+    "reviews": 38,
+    "type": "Cruise agency",
+    "types": [
+      "Cruise agency"
+    ],
+    "type_id": "cruise_agency",
+    "type_ids": [
+      "cruise_agency"
+    ],
+    "address": "11360 Bellaire Blvd STE 780, Houston, TX 77072",
+    "country": "United States",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10:30 AM–4 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(832) 351-2388",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "user_review": "\"Very friendly and helpful staff\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRxmB0GItaTG6V0sqdE96gNVSH5MUv1DyD9BjaQiI5ZaJcK1ulaK_ahfv3ZW40WTRF5ctCjyonzfvh4RAcMgAQtBFN8N4_SZXbT7TEyrXLv39YS_OGYYeK-jU704bGn0BvpOKFBik-h_Wx=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Akr_53icHcRLcoIwAADQE0XCACqd6YKopIpi-SjChokpJiIm1MRUeknXvU1nfIv39-Ra9-rNsjrujJiUrGvuqrlRKXQj9IjKq8V6BagCygo-4-QS4PRxRRAvNcnxeA_V99fCH7N4n314m52x58PcRy1JzkuvIisa2feORDXhJ-NUhQuLPA09qmftIMXvyXA3DeiGBYlGYTyN3TqrDsd8ki-G22FtHL_M6i0uyyYC7W4C3SMWEJl-G4XofAG8Lh7vPzaEEPDXFIh_I5lGAw"
+  },
+  {
+    "position": 12,
+    "title": "Americas Travel",
+    "place_id": "ChIJmSyj8T3CQIYRqQJziy-ENGg",
+    "data_id": "0x8640c23df1a32c99:0x6834842f8b7302a9",
+    "data_cid": "7508771818471359145",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c23df1a32c99%3A0x6834842f8b7302a9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c23df1a32c99%3A0x6834842f8b7302a9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.699067399999997,
+      "longitude": -95.49257659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmSyj8T3CQIYRqQJziy-ENGg",
+    "provider_id": "/g/1w0p5_wb",
+    "rating": 4.4,
+    "reviews": 45,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "7307 Hillcroft St, Houston, TX 77081",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 773-4866",
+    "website": "http://lasamericas-travel.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "user_review": "\"Nice personal assistance\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDadq5djNBErof96OKu0qFuLTSjams9uZpDnDKGtYjHDbblx9EC58wXtil0cBBflxpbN_xg9Y0HnvoSBRJzTy3wCZoTfcawD_4jceHTgjQ4itro0DbYksnJ3tAcgr5txuchKCS=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LhsF8nicHcRNjoIwGADQEyE1yGQwcQHUgYjBH1gMbgx8QLHWFulXQS_oGbzNJPMW7_PuEHu9tG3ROTOmFBON0c0ASmIjcQbqZrNeW6Atbfv79HD1I1rWd7fmabAeVOt97RJD7j9mm2e8vGnPnHoqaRJhwWNaVWLy1qH7Pf7iRRAIglZMfZWeJ-YVJJYPlQXHzSt_OmN4UnkL5UjPCw5NnDN-WFxwUIRWxVXLjYM-sMHFyUCXhNlqnBNCrO5_sOQf2Z1Gjg"
+  },
+  {
+    "position": 13,
+    "title": "Excelsior Travel & Tours",
+    "place_id": "ChIJY8LkuTvCQIYR9FK45SksDBs",
+    "data_id": "0x8640c23bb9e4c263:0x1b0c2c29e5b852f4",
+    "data_cid": "1948981297203925748",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c23bb9e4c263%3A0x1b0c2c29e5b852f4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c23bb9e4c263%3A0x1b0c2c29e5b852f4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7064505,
+      "longitude": -95.4917072
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY8LkuTvCQIYR9FK45SksDBs",
+    "provider_id": "/g/1tv24jhf",
+    "rating": 4.2,
+    "reviews": 39,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Airline ticket agency",
+      "Car rental agency",
+      "Cruise agency",
+      "Tour agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "airline_ticket_agency",
+      "car_rental_agency",
+      "cruise_agency",
+      "tour_agency"
+    ],
+    "address": "Inside Fiesta Supermarket, 6200 Bellaire Blvd, Houston, TX 77081",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 272-8686",
+    "website": "http://www.excelsior-travel.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Latino-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"MANUELA is our travel agent and I have to say that she is the best.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIva9DoELPA4pv1HnCGC5uiLJUu0MUFT5CUaTpn6A4W4FulfX0CZ9RzlTnTosyb_2qGXiGXAWWD_se4yMwd38wU7FeQsrjNpBGQZG0hQDp3HTroz__SvJDlmpy9FVkbcAGriBm=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7sEO23icHcRJDoIwAADAFwFFcMHEQwUpGjWiRYgXorUCUtpKWYIf9A3-xsQ5zPeTN41Uc8NguaVnQmSMtorWRPCG8kYnojIyqTSiNGXAwz4sIVp3V8cTq-0B2rIzA-4id9wW203Ugl3k47EbXbHkE2jHtt-yRwLci3N8M8yxUMMtHb1QUqAExrGXKmoPu_5uzfpo6tNQ1c-9XKLwgkAeetIKcC3eaXrqNh6r5OD45_JGIKqLZbXoTQCAlv8nGv8BFLFEnw"
+  },
+  {
+    "position": 14,
+    "title": "Excelsior Travel & Tours",
+    "place_id": "ChIJkzlqKm3FQIYRc2kJWadBsL0",
+    "data_id": "0x8640c56d2a6a3993:0xbdb041a759096973",
+    "data_cid": "13668497056078588275",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c56d2a6a3993%3A0xbdb041a759096973&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c56d2a6a3993%3A0xbdb041a759096973&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7858271,
+      "longitude": -95.5324102
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkzlqKm3FQIYRc2kJWadBsL0",
+    "provider_id": "/g/11m5smqh_8",
+    "rating": 4.9,
+    "reviews": 16,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "Inside H-E-B Store, 9710 Katy Fwy Ste 140, Houston, TX 77055",
+    "country": "United States",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 686-4848",
+    "website": "https://www.excelsior-travel.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Latino-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Very professional and very careful on the details of the trip.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8GuKPvHtfdXBkXOXaJMEiBvuy8ruOcU_iCR6Zs1roFcJLdXlBRtdWbLjR5d7xDyqI2Tsg4RAOZd02QfGr87JcOEoxLiNzEK3tz1XquCD09yGR02yD-F42pXKsNAX9IJ1VWgYZ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SOeJ73icHcTdFoEwAADgJ5pW_uIcF6VEpdjxM904bFmRlrZRXtAzeBvn-C6-7yeTshJjTSuybodxzopUibQmvJRpKTuE3zVWCUAEEJq1itY3a256Klg95_JCsX3DMT75Sze3n6o1axWT7TGfokEi9JrPiB9SXNhI0v05vKI-HTZO-1gYG8F6yIoTCo31xavNoU9ilzdhHr3doCvfOn6oqQNHrYeg0Tpg1jMqHIjIwqOFr-_27JBMXjqEEGT_CSh_bYlD1Q"
+  },
+  {
+    "position": 16,
+    "title": "ABC Travels",
+    "place_id": "ChIJiRy4H0zCQIYRWtqJcCUiIOc",
+    "data_id": "0x8640c24c1fb81c89:0xe72022257089da5a",
+    "data_cid": "16654348966213311066",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c24c1fb81c89%3A0xe72022257089da5a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c24c1fb81c89%3A0xe72022257089da5a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.715084299999997,
+      "longitude": -95.50536509999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiRy4H0zCQIYRWtqJcCUiIOc",
+    "provider_id": "/g/1vcjmmsk",
+    "rating": 4.7,
+    "reviews": 44,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Car rental agency",
+      "Cell phone store",
+      "Cruise agency",
+      "Insurance agency",
+      "Passport agent",
+      "Visa and passport office"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "car_rental_agency",
+      "cell_phone_store",
+      "cruise_agency",
+      "insurance_agency",
+      "passport_agent",
+      "visa_and_passport_office"
+    ],
+    "address": "6200 Savoy Dr #550, Houston, TX 77036",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(713) 977-9803",
+    "website": "https://www.abctravels.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The service was prompt, reliable, and extremely helpful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4Za7v3qan3HM9lTlEOYenKCE7_TnUp-dKfO8W6yU0FXJDLyjQumQIveNe0lX3onPpUgLk7XFsTNVk1mgkP6PmHsRQJb65b2vC-b7ki9ClPfCnZFQKhI3cdXV5mV-Z3cfjtRuwVK4vWX0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9YgovnicHcTbboIwAADQL6rUVUGX7MEw8YLD1gB2vBippWhvaAvGn9z7_mbJzsP5_Wm979x7EKgWjYS1QvHe8QezxnPjR8zqQHQOMAdcsMAZkYvVpDpHA7qfDVp_zVWulvtvbtJ4GZ1yU3Tgkjb72TF8FTCh28_d60Z6TTYDzzhUFFmDu0LsZEQTl2elHGshcYj12h3Itg6n9dsQgzqS13mscBObKiFpu0HsQsupLkGFWHPzh_5ZppPhSOHHcwwhBO3_DJg_CXhGPA"
+  },
+  {
+    "position": 19,
+    "title": "GIA LINH TRAVEL LLC IN USA",
+    "place_id": "ChIJ_TBzISXbQIYRRTrxKVMvDdY",
+    "data_id": "0x8640db25217330fd:0xd60d2f5329f13a45",
+    "data_cid": "15424036333046282821",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640db25217330fd%3A0xd60d2f5329f13a45&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640db25217330fd%3A0xd60d2f5329f13a45&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.842954199999998,
+      "longitude": -95.644358
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_TBzISXbQIYRRTrxKVMvDdY",
+    "provider_id": "/g/11g1dvqqfb",
+    "rating": 4.9,
+    "reviews": 35,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "4654 Hwy 6 N STE 101C, Houston, TX 77084",
+    "country": "United States",
+    "phone": "(971) 232-9999",
+    "website": "http://gialinhtravel.com/vn",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": false
+    },
+    "user_review": "\"We went on a 14 days Europe tour, and everywhere they took us was amazing!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgr5a6N8M6WUMweajTSuuPotnGpq6AbEE-C2p5QNefhwpSBpLtehaVMycbiPDKyDBJARzo_ebaajGNJ23FU5rSqIk1r4qPvqKG_JV-kHoFNu9HruGcMPSVAQwWJjdYYDtVVr0g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jm7_3HicHcTbboIwAADQL6rgBTJNfKhDcChNGbPGJ1NqbQWlpReJ-0G_YX9jsvNw_l7SOW0XQXCT05FQSty4t9ww1TneuRFT90BoC5gFNoAYlS1MhYlojD6K-LAvBk6bn8p7rFyX6T6G9XoNPic6KhG_yEFXK71zXFJSPFl9xcn2maxy-P2rTrymtMlQPpmm-8hU_Vc7NrMeP_ptdsoJaDcqRX6-MT5jBa4ILIdD3pyPx8QRYkKxHMZhGAL5PwPdG5CLRTs"
+  },
+  {
+    "position": 20,
+    "title": "Mundo Travel Service LLC",
+    "place_id": "ChIJq6qqqhu3QIYRCAzl-DQpE4Y",
+    "data_id": "0x8640b71baaaaaaab:0x86132934f8e50c08",
+    "data_cid": "9661110933130644488",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b71baaaaaaab%3A0x86132934f8e50c08&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b71baaaaaaab%3A0x86132934f8e50c08&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.902815399999998,
+      "longitude": -95.3347891
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqqhu3QIYRCAzl-DQpE4Y",
+    "provider_id": "/g/11c5j796b4",
+    "rating": 4.6,
+    "reviews": 35,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Cruise agency",
+      "Notary public",
+      "Tax preparation service"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "cruise_agency",
+      "notary_public",
+      "tax_preparation_service"
+    ],
+    "address": "3901 Aldine Mail Rte Rd, Houston, TX 77039",
+    "country": "United States",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "(281) 442-2266",
+    "website": "https://mundotravel.co/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Latino-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnusP2-efum7-wtUa_ViJLVQ6NByEyyg2GNWgLzleW7djCaAybjm3Aj7JAVknyT8lvkFq5SMQoOKpZOpfAN-gzBrjVkPuVHMC5MFHXejaykXFnboKUX3iFuRb_J-ARUV-bz4uN=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xX_-gnicHcRRboIwGADgE_2CMsUs2UM1qwalghuV7MUA1mILLbPtTLmgZ9htlux7-H6frbWDeQ2Cro0mXGveMWfYvdHKMmUnje4DPhhoDJgAZSSXCCtnshmwq-tjeNiiOtNbsqf5gqz8u_d8tiEnvh87doovYl0hX4s-QiJOEJXKfy67H4m_5x9prg-74eswXBEBPq7ugsrM0W26nqd4WzJReVliVetdUUY37I71OQF0LCjU44sjb49pGIbQ_t-A-gO9w0V7"
+  },
+  {
+    "position": 1,
+    "title": "International Travel Houston",
+    "place_id": "ChIJKdKk0GS_QIYRvRAcEQ2mgBA",
+    "data_id": "0x8640bf64d0a4d229:0x1080a60d111c10bd",
+    "data_cid": "1189132876677648573",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf64d0a4d229%3A0x1080a60d111c10bd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf64d0a4d229%3A0x1080a60d111c10bd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.75226,
+      "longitude": -95.37683659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKdKk0GS_QIYRvRAcEQ2mgBA",
+    "provider_id": "/g/1tk_k2nf",
+    "rating": 4.4,
+    "reviews": 5,
+    "type": "Cruise agency",
+    "types": [
+      "Cruise agency",
+      "Travel agency"
+    ],
+    "type_id": "cruise_agency",
+    "type_ids": [
+      "cruise_agency",
+      "travel_agency"
+    ],
+    "address": "309 Gray St Ste 108, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+1 346-654-0605",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEX_AE1Ai0obs3EdeCqf6uUaVZuIt2SpJPqUaP-ZQ6fKH17anJd0y-PCNZYiNPOz8LFk2I9zZSeyxxym0-JxADl1V-S6QFE14oHjMLictJdoOG6rSe1j0pk7dLtdDeBhdf2s2ZYGw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GNAsJ3icHcRdDoIgAADgE5FgTautB0qtzAznaslLM8CfNLHApd2wI3Sbtr6H7_sptG7V3DDqYjzKpcxr0SnxZLLRotEjJu9G3irAFFAGJmFUYfd8wS7CJZRXNXa5WD0yqzumJ9pttRm3PnkcUwJoZGW7DbLTxudwAGQV0qQMyeE9DbzK3M7eNBZD3w93CPweOzU6gdiKPBdN5Oa2D0qmfS4Pa-sZC3SDbWXzQHNHLAuemcqkyfq1eCEIISj-M9D8AHhYRCg"
+  },
+  {
+    "position": 2,
+    "title": "TRU Vacations LLC",
+    "place_id": "ChIJRbkHroAxWKkRlbnKQ2AzrF8",
+    "data_id": "0xa9583180ae07b945:0x5fac336043cab995",
+    "data_cid": "6893941618144622997",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xa9583180ae07b945%3A0x5fac336043cab995&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xa9583180ae07b945%3A0x5fac336043cab995&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7585187,
+      "longitude": -95.3645547
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRbkHroAxWKkRlbnKQ2AzrF8",
+    "provider_id": "/g/11xm_mslp7",
+    "rating": 5,
+    "reviews": 16,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Cruise agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "cruise_agency"
+    ],
+    "address": "801 Travis St Ste 2101, PMB 1580, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–9 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–9 PM",
+      "sunday": "12–9 PM"
+    },
+    "phone": "+1 346-330-3345",
+    "website": "https://tru-vacations.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "on_site_services": false
+    },
+    "user_review": "\"... the time she took to arrange our accommodations and travel.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEiZ7pyD_T0hgsdQHs9YURQuHQb66h8mNSTtXTqQ9ofnLGQevfWsI_CKTxLPgjPoltCw4Cx1a6zQ3pbduUtREElnku11ycnLZoBWnEbQIToG5w3ElzSPEG44sfYf3uRszuADZ9U5rjDXDRi=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/X21TTHicHcTdboIwGADQJ0Ig_ExMdsGgASMxFEtUbswo0Kq1ZX6tKC-5672Nyc7F-fvlWo-wsm3BvQVTioneQH-nSupe6gVVN5uNYFGwwI7LLb7G6Nx8jK_0RBzOoMM5RMe6wibHbRjy5W27I_pAfnCkBllkuH8Me1ifkg15FiW7lEroZPKTp_sdztgb287UukJIyKtx3ReVRaO-9hK1eE1UFkweEvOuRJnvw3AcPFPBbOK0iergfkkPaXX-nFzHcSz-P7XkGw46SGg"
+  },
+  {
+    "position": 3,
+    "title": "Enchanted Dreamer Getaways",
+    "place_id": "ChIJa-ZvHZC5OIYRtS96IuowAS0",
+    "data_id": "0x8638b9901d6fe66b:0x2d0130ea227a2fb5",
+    "data_cid": "3242926988842381237",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8638b9901d6fe66b%3A0x2d0130ea227a2fb5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8638b9901d6fe66b%3A0x2d0130ea227a2fb5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7439452,
+      "longitude": -95.3679458
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa-ZvHZC5OIYRtS96IuowAS0",
+    "provider_id": "/g/11svm9j7_r",
+    "rating": 5,
+    "reviews": 12,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "1500 Hadley St, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM Tue",
+    "hours": "Closed · Opens 9 AM Tue",
+    "operating_hours": {
+      "monday": "Closed",
+      "tuesday": "9 AM–2 PM",
+      "wednesday": "9 AM–2 PM",
+      "thursday": "9 AM–2 PM",
+      "friday": "Closed",
+      "saturday": "9 AM–2 PM",
+      "sunday": "9 AM–2 PM"
+    },
+    "phone": "+1 832-543-3774",
+    "website": "https://enchanteddreamergetawaystravel.wordpress.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"She listened to our interests and planned our trip accordingly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHW_htdueXfqnAmZ0QWzOXxp5m0c2lTXnL535aeSfY6h4_OTohlUD-7Nq5OfFHj-XPsBxB1ZXa7QNc5mgXFcJrLyeNTU0SWlIvjUFowJeR3BMqwziIUjvX-SCg9pqRPYGRGVNEz=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FhH2W3icHcRLjoIwAADQE1XqYDWazAKcwU-0_IfqxphaWrG0YKsoF_QM3sZk3uK9X8LaxswcRwp3wLXmkt0Mu1KtLFN2QHXt8MYAaoBxvAjHF29ZHIQ93RgpW-XVexgXfUgeDaoh_ZIZURvkoiNLy91YjA5hpoXMf8AEtygsg2UFSGT8hz_ck-MkxhTVnAR0fd08Gc5ymBZyda_yQHdrlrj-tu368yqv7gSkcz5t2iTaLZLFH_7tv7shhBCI_ylQH4ANROE"
+  },
+  {
+    "position": 4,
+    "title": "Ellis Travel Agency",
+    "place_id": "ChIJSTy1rHaXQIYR6ZLEhXBh8hs",
+    "data_id": "0x86409776acb53c49:0x1bf2617085c492e9",
+    "data_cid": "2013779119296516841",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x86409776acb53c49%3A0x1bf2617085c492e9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x86409776acb53c49%3A0x1bf2617085c492e9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 46.423669,
+      "longitude": -129.9427086
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSTy1rHaXQIYR6ZLEhXBh8hs",
+    "provider_id": "/g/11g07xprc7",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Service establishment"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "establishment_service"
+    ],
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–6 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+1 832-910-8855",
+    "website": "http://www.ellistravelagency.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFUqaw6WpQGEL822lPbT8uLdLy_NSMFaa1lbYKzkbnrCKKh6zH7Bm_9ymtUOmzxSMoZtR0m0lRA53PRbArBfvkEqo64D7Udpf2clFbTb5E9tzJl0UnzQqh8Wfzs49u3CQzzMQ8bTw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LJJ7XHicHcRdboIwAADgEyEVBMHEB1RwGaAUIWZ7IbQCTegP0DK0N9wRvM2SfQ_f-5coNcidaVJirzohOtrMspmw4KrhaoUFM7tBGlga0gyyC-yDqBzrxb0P8BwmnmXRDBXenDySV3W5pVFdryn6inWP-HSMY-Lqj-2BVf6LqfLK9POWim-VAwZoHjh2lqNgOrQ_fTgKd3Palo-htTCNUIGc0Ff6k4KSazgS795qufFn-wi1TqGHimW_rAEABvkfG_wPCgJF3A"
+  },
+  {
+    "position": 5,
+    "title": "LBL Travel",
+    "place_id": "ChIJO78Ict_BQIYRs9Q1c-gto_A",
+    "data_id": "0x8640c1df7208bf3b:0xf0a32de87335d4b3",
+    "data_cid": "17339753466695111859",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640c1df7208bf3b%3A0xf0a32de87335d4b3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640c1df7208bf3b%3A0xf0a32de87335d4b3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.75516,
+      "longitude": -95.39841349999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO78Ict_BQIYRs9Q1c-gto_A",
+    "provider_id": "/g/11gzn77fhs",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "1302 Waugh Dr #473, Houston, TX 77019, United States",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+1 346-352-8200",
+    "website": "https://lbltravel.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park",
+          "Wheelchair-accessible entrance"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "on_site_services": false
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvx6_cearhrIK8VwRB96MHfcIjSGDXSXtAPeKY9-XbNiuPvuwIGbufsi3yxiTNud9WIkDQWPL80p9dux-bfnP19VkgWomoKF9fcHKV0tCGW9dM0THSzRVafr64q5wWjllhjL8beA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/14hZWHicHcRdboIwAADgE1VKdIQu8QGHA4KSKoayJyOlpfwWaSvMG3qE3cZk38P39xJaj-rTsjqxXlVSVh0zik1UDpoNekVlb1WjAlQBZXk4ObXe_rE4V8puk5ii2M3m8w45x5DTqEkDP09z7WEW_yCQF0lt8MPMUVAYrur171JfElMiErX-ieCDC0dUmgUUfMA2ytqKyF7G34jTMM6g_goIKo_wEqbPc3bjk7O5f8yk6TrRHNyCedvZhhAC8T8FwxstskXk"
+  },
+  {
+    "position": 6,
+    "title": "Blue Dasher Journeys - Houston Travel Agency",
+    "place_id": "ChIJNX9TSltfgWURuSjlgSJT2a4",
+    "data_id": "0x65815f5b4a537f35:0xaed9532281e528b9",
+    "data_cid": "12599192840218945721",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x65815f5b4a537f35%3A0xaed9532281e528b9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x65815f5b4a537f35%3A0xaed9532281e528b9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.8465115,
+      "longitude": -95.2807844
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNX9TSltfgWURuSjlgSJT2a4",
+    "provider_id": "/g/11tn09d791",
+    "rating": 5,
+    "reviews": 16,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Cruise agency",
+      "Service establishment",
+      "Personal concierge service"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "cruise_agency",
+      "establishment_service",
+      "personal_concierge_service"
+    ],
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–2 PM, 7–9 PM",
+      "tuesday": "9 AM–2 PM, 7–9 PM",
+      "wednesday": "9 AM–2 PM, 7–9 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "10 AM–2 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+1 832-713-8576",
+    "website": "http://www.bluedasherjourneys.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "user_review": "\"friendly and efficient Service made my trip planning effortless!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGR-RdO5Yu6-g-0j9pMB2SFHsE43JlVmaq773Ly2i0Mc0_NSaeIZXFIhUef17blCFt-J69nSc0ngqTX6aZqWiAGOdnpBcU1opoXreaIuoYA4yvikSNW7v59rK2w6A7PBUsMApqg8dwdRzM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LQq1k3icHcTNToMwAADgJ-ooP6Ni4qEsYzKFIchguxgstSCsLbRA8CG9-zYm-w7f32-jtVSPhtE39oYJwXo6KToSwTXlekPEzWBSAaKAMnASv3X4kIK0Pm0vkwsYgN-ejHwrC57V3rGP_flWDQjZr6vVwojAjziraHgtg7DJ6ZeJPvtdoMHR9XhGIGfDe-lW16Fo8eFUc-mT3BRSlCOtwklcsLPObZfFBZq33vhiLS5GiZ-rCMuBPdRLnf5ET4sJIQTNfQL4P3h8Ra4"
+  },
+  {
+    "position": 7,
+    "title": "On Point Travel Agency",
+    "place_id": "ChIJGQbtkwwKToERFLVfONUrgV4",
+    "data_id": "0x814e0a0c93ed0619:0x5e812bd5385fb514",
+    "data_cid": "6809772306334725396",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x814e0a0c93ed0619%3A0x5e812bd5385fb514&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x814e0a0c93ed0619%3A0x5e812bd5385fb514&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 46.423669,
+      "longitude": -129.9427086
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGQbtkwwKToERFLVfONUrgV4",
+    "provider_id": "/g/11smchdrr7",
+    "rating": 4.9,
+    "reviews": 63,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Service establishment"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "establishment_service"
+    ],
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–8 PM",
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "8 AM–8 PM",
+      "sunday": "8 AM–8 PM"
+    },
+    "phone": "+1 281-660-7226",
+    "website": "http://optravelagency.com/",
+    "user_review": "\"Thanks to Kelly at On Point Travel everything went as smoothly as possible.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEFRs2Lr-F0uzC7gh3FyuCuNhFrirbTiqt-xeaLZr5qd5yO_oMTafKUhQdrCwbQlArRiUbvNdGhvwlQHrC5gC2Ymfgd5LLcAH2SeEqgnhtl6MEDgUr0n7gX6J8wzjm6I2kT1sQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SyYtn3icHcTRboIwFADQL6pUDLgs8YF0MOcQVwfJ5ouRUm_R0sptkekH7h_8myU7D-fxq7y_uOcg0Go2AWtBy8FJFNZ4afxE2C6AiyPCERckHwU_J2m2dWGOJKPDnc1BzbLbwIZCZdhiXba9Jz_ykO8w6pvottnbdXk4vleKN8jGmusEt21VX4vmVV1HzZfIImDhd3eEJspzkSzDT5n2YJTX8Tp9gQqpmcNXvHoa76cufgvP5dTxxTillBL1vyDmD5leRYQ"
+  },
+  {
+    "position": 9,
+    "title": "Fraire Tours",
+    "place_id": "ChIJVxD4AlvPQIYRnsC30yRw9Os",
+    "data_id": "0x8640cf5b02f81057:0xebf47024d3b7c09e",
+    "data_cid": "17002337796703633566",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640cf5b02f81057%3A0xebf47024d3b7c09e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640cf5b02f81057%3A0xebf47024d3b7c09e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.812932099999998,
+      "longitude": -95.3609015
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVxD4AlvPQIYRnsC30yRw9Os",
+    "provider_id": "/g/1tj1sgsw",
+    "rating": 4,
+    "reviews": 44,
+    "unclaimed_listing": true,
+    "type": "Tourist information center",
+    "types": [
+      "Tourist information center"
+    ],
+    "type_id": "tourist_information_center",
+    "type_ids": [
+      "tourist_information_center"
+    ],
+    "address": "5912 Irvington Blvd, Houston, TX 77009, United States",
+    "country": "United States",
+    "phone": "+1 281-387-9516",
+    "extensions": [
+      {
+        "amenities": [
+          "Toilet"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      }
+    ],
+    "user_review": "\"Good people and great service\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFAnT2ammjL9p1rddAMoyNzgPJA5qX4kggRF2IZrlK5F9MPztbnGqum9RZO2_E6K2U45H84i3omeAq66Fv-4cJbVc9Fjq1r0nJkyRgxhUWiTUQYNOi5zbNrPNPYZ3oJCfo4yb-nUTUG9Rna=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2_LP1nicHcTNToMwAADgJ-r4K8SaeGiM3WSu6whVx2UZHRYGbaHtVHhJz76Nid_h-_1pvR_dfRAMbbKSxsihubnGCqN9o_1KGBXI0QHhgAswo4ceE6zL-KzU9QWNkb1c8M7MdJEsx-n0DnspCxI_V3bYpgTt2OJrvZ5uChXVPj49ZduYw3RzB7vEqAZPWUY-ARR5_SoQuU6RDXXez4X8bvlbV_LDke67dKmpZZQdq8Tkjx8GzjXQvORrVOjzw1cUhiFo_xdA_wFlIkay"
+  },
+  {
+    "position": 10,
+    "title": "Here and Now Travel",
+    "place_id": "ChIJp7Zwici5QIYRpV0EfxPAGTs",
+    "data_id": "0x8640b9c88970b6a7:0x3b19c0137f045da5",
+    "data_cid": "4258646112623418789",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640b9c88970b6a7%3A0x3b19c0137f045da5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640b9c88970b6a7%3A0x3b19c0137f045da5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 46.423669,
+      "longitude": -129.9427086
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp7Zwici5QIYRpV0EfxPAGTs",
+    "provider_id": "/g/11h0vqt2qg",
+    "rating": 5,
+    "reviews": 241,
+    "type": "Tour operator",
+    "types": [
+      "Tour operator",
+      "Service establishment"
+    ],
+    "type_id": "tour_operator",
+    "type_ids": [
+      "tour_operator",
+      "establishment_service"
+    ],
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+1 713-364-5836",
+    "website": "http://www.hereandnowtravel.com/",
+    "user_review": "\"The well planned itinerary, accommodations, food and tour guides.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDvzjXypa6dWcems3AxtGm90REb133-R_-KYwFOH7M_4-w5SDq2QG3J8ymzvHpfXjDWMKaUPoKkD8vNdZO26Yf18D6bJ3qwaH1RFkWvMUnA7UbryxIerRP1FQUJcaF4NuQZp9gDw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xbxT-HicHcRRCoIwAADQEy1dK7OgD2GpKZoaYvUjOpeS6ZZbLrthR-g2Qe_jfT-NlFxsNO3eoFnNWH2nT0EHwnpJezkjrNNqLgARQGhWFMat5eDxfTtNvDCqjNBOIOslnW6tJ7sSIgSSHPhnZR_cVZAvgFoe8WMeO8gzp-49uvx6uuEs8Is0Yn6LzTGsLoe5cb5CExulhx6qcGFit9kYpL21Sstheu3pkETQjlOPFPYifMYXvq6x2iqo6zpo_hPQ_wCGykQp"
+  },
+  {
+    "position": 11,
+    "title": "Excelsior Travel & Tours",
+    "place_id": "ChIJGxW3kNeXQIYR7J6h5ucylvM",
+    "data_id": "0x864097d790b7151b:0xf39632e7e6a19eec",
+    "data_cid": "17552272569311272684",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x864097d790b7151b%3A0xf39632e7e6a19eec&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x864097d790b7151b%3A0xf39632e7e6a19eec&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.6826893,
+      "longitude": -95.2588741
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGxW3kNeXQIYR7J6h5ucylvM",
+    "provider_id": "/g/11bc8cndql",
+    "rating": 4.7,
+    "reviews": 20,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "8335 Howard Dr, Houston, TX 77017, United States",
+    "country": "United States",
+    "open_state": "Temporarily closed",
+    "hours": "Temporarily closed",
+    "phone": "+1 713-947-9001",
+    "website": "https://excelsior-travel.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"Made purchasing plane tickets fast and simple.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFVDOZKKPo8UyYdVwUHvxlwPaPqYb1UfGhqr8f_7QT1tckKknUYn-MS-ePUPPKtrDRFQ6jfLcOtjDUUxoq7Fl3k2A6K4qpBTpJyoYMtOsPExRqRrqElib5AROWZD_0ncBM_dsOT=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CrVvX3icHcRJDoIwAADAF5XFDWLiAYNorNiCVIMXopVFqC2lVfCFvsHfmDiH-X4qrVs1N01WjY1SiJLlT5V3VHCdc21Q8TDLVgGqgDI9vI8aLzj66AwhFi55p7djTzavgfX4gmV6tUmxrmTnFpkTJbamDWw4STkIDyDHBGOoOz8Oolld7CjStU_IIKQTsHEz8mZwIttl0m7fIg01Ung1xDLu5Irdr1MvRqezn1mcLsPsplCy6G3LskD1nwL-A7e4RZg"
+  },
+  {
+    "position": 12,
+    "title": "Houston Passport Agency",
+    "place_id": "ChIJ2aix3Ti_QIYRaMD07qCre00",
+    "data_id": "0x8640bf38ddb1a8d9:0x4d7baba0eef4c068",
+    "data_cid": "5583244870747996264",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf38ddb1a8d9%3A0x4d7baba0eef4c068&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf38ddb1a8d9%3A0x4d7baba0eef4c068&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7519173,
+      "longitude": -95.3735841
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2aix3Ti_QIYRaMD07qCre00",
+    "provider_id": "/g/1pty1z5n9",
+    "rating": 3.7,
+    "reviews": 576,
+    "type": "Passport office",
+    "types": [
+      "Passport office"
+    ],
+    "type_id": "passport_office",
+    "type_ids": [
+      "passport_office"
+    ],
+    "address": "First Floor, 1919 Smith St, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+      "monday": "7:30 AM–3 PM",
+      "tuesday": "7:30 AM–3 PM",
+      "wednesday": "7:30 AM–3 PM",
+      "thursday": "10 AM–3 PM",
+      "friday": "7:30 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+1 877-487-2778",
+    "website": "https://travel.state.gov/content/travel/en/passports/get-fast/passport-agencies/houston.html",
+    "extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park",
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "amenities": [
+          "Toilet"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"This agency has the most professional helpful staff ever!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtYwva_xoeqgUYmApeQ60wk23DP4SgZOdY7lX4etRJIUYs2pTokqQsGz2ng_prstfRoRzKIO3NKETMUOwK54bYCsBDv2HPScj78ZNjULfs1AAHLKBJP1Z0W9VSS_SGCqPQUlA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QqMMmnicHcTbboIwGADgJ0LKwcOWeFEPEUWhULut3BCttUSQFv8qiw-4d_BtTPZdfK-_yloDn67bVMFAaa0aeQd5E7q1srUDoa-uMuAIcMDFJMlqHFnePw7lr5adYvyKjcxGqK_9YEFCqor0xMfNTyhtvlkzDr7Z67rLYPX0W1WaG9hzrvNnvE6DJF7udyzt42F45HOYLR5-RKi4jCdFcmHbM3gYR9t4tiFegb4_vigt6WrekYw1eNp7CCGn-l847RtuQEQP"
+  },
+  {
+    "position": 13,
+    "title": "Husseau Travel Concierge",
+    "place_id": "ChIJ35qmC9-M3SURdabhEFwesBs",
+    "data_id": "0x25dd8cdf0ba69adf:0x1bb01e5c10e1a675",
+    "data_cid": "1995128015694177909",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x25dd8cdf0ba69adf%3A0x1bb01e5c10e1a675&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x25dd8cdf0ba69adf%3A0x1bb01e5c10e1a675&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.836095,
+      "longitude": -95.46119
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ35qmC9-M3SURdabhEFwesBs",
+    "provider_id": "/g/11ylbxl8b5",
+    "rating": 5,
+    "reviews": 23,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Service establishment",
+      "Personal concierge service"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "establishment_service",
+      "personal_concierge_service"
+    ],
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "monday": "8 AM–8 PM",
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "8 AM–8 PM",
+      "sunday": "8 AM–8 PM"
+    },
+    "website": "https://www.husseau.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"Excellent..great responsiveness, communication, and detail oriented.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF_mU-dw_EZqXIGh68c1XJ3QoFo8DsqzqPyznT6gnNJU7LxArFvi-AsxbfgzlIXIwq9rcm0rCqx2zrffhlfr4egV-4o1ELHotcdhGljdejz4FIcntVG2o_zeHZJYMfFj2eVxYaNu81YqlgQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8xvjb3icHcTbboIwGADgJ6ocJA6X7IJMixAlkkwC3hBXehgr_e3BwfqSu97bLNl38f3-COfu9jkIpFivOACX9GGpIaAcVW5FYAr43SJikQ2yc1V_ZrifLmiY-_1Vt0UuNimJ2nJdA4Z0Z7XX52-v3jZcVeXl6bhkBn99oMwu74x7WbTFrLeGTKF51UvsDWNCMpNQ3qAEov3xAI4MIpfjQEef4IIo1-Qx9J4ermV3YniMabN0t-qRRp2WvH6ZozAMkfifIPUHTZ1Jjw"
+  },
+  {
+    "position": 15,
+    "title": "Allstar Limousine & Tours",
+    "place_id": "ChIJC15lR2q_QIYRblYcTMtn418",
+    "data_id": "0x8640bf6a47655e0b:0x5fe367cb4c1c566e",
+    "data_cid": "6909480376169420398",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8640bf6a47655e0b%3A0x5fe367cb4c1c566e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8640bf6a47655e0b%3A0x5fe367cb4c1c566e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.7585187,
+      "longitude": -95.3645547
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC15lR2q_QIYRblYcTMtn418",
+    "provider_id": "/g/1q5bvbr6d",
+    "rating": 5,
+    "reviews": 75,
+    "type": "Transportation service",
+    "types": [
+      "Transportation service",
+      "Airport shuttle service",
+      "Bus charter",
+      "Limousine service",
+      "Sightseeing tour agency",
+      "Tour operator"
+    ],
+    "type_id": "transportation_service",
+    "type_ids": [
+      "transportation_service",
+      "airport_shuttle_service",
+      "bus_charter",
+      "limousine_service",
+      "sightseeing_tour_agency",
+      "tour_operator"
+    ],
+    "address": "801 Travis St Ste 2101, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+1 281-254-1718",
+    "website": "http://allstarhouston.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safe space"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": false
+    },
+    "user_review": "\"Nice tour guide, comfortable bus, nice choice of things to highlight.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHeOxYEhNKIjhqHVNXElwl4R42EIk4uWR620GT4gsnS_5yTddLMwWsnW7OddaTbvLjfaPxErgKeR9hTpOHW4ITF8GPEFWk_DQ5FAtTLHWyTTr-MiXnYDDnr2DCoAxZHEPEPshj3=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/X36annicHcRRboIwAADQExUQq25L9kFGsUSEgo3V_RiF2gqsZbQMOOHOsNss8X28v19pbWfeXLeVS0doLVo-GN6XWlmurFPqL1d0BpQGGDcgad4EmGfTGcl0F9fyGx_TE2rHFhbQR3EDB1asfW9LoTDqcFnNtKqS_ciMYpusqq709pPU9yuZUC92vHiVtMswgzGNXrYERay5hPkqCixNMJsp7cH-cVLnMFS9H37oYPrEiCBiZL18Hxee5wH5vATqH0TTRCU"
+  },
+  {
+    "position": 19,
+    "title": "Flymatrix",
+    "place_id": "ChIJs8WUuXLnTE0RI1ZFnd_Cx8g",
+    "data_id": "0x4d4ce772b994c5b3:0xc8c7c2df9d455623",
+    "data_cid": "14467746593623070243",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4d4ce772b994c5b3%3A0xc8c7c2df9d455623&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4d4ce772b994c5b3%3A0xc8c7c2df9d455623&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 29.761099899999998,
+      "longitude": -95.3670697
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs8WUuXLnTE0RI1ZFnd_Cx8g",
+    "provider_id": "/g/11t51rncbf",
+    "rating": 4.3,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency"
+    ],
+    "address": "700 Smith St, Houston, TX 77002, United States",
+    "country": "United States",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+1 866-770-3740",
+    "website": "https://www.flymatrixflights.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park",
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating",
+          "Wheelchair-accessible toilet"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral toilets"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safe space"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      },
+      {
+        "children": [
+          "Discounts for kids",
+          "Family discount"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "on_site_services": false
+    },
+    "user_review": "\"excellent service and best site to book the tickets 👍👍👍👍👏👏👏\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGDVpFgHVyDUG-0dTrFOQMUYxU7KHqZyImqALVkZxQBMLtnPve2gopYWtzEjdhcYtBFjdNEU8sQJrda-dGZ9S2Hirl8xxjCBYQECzgrUsroAUrMDDMqxj4MUqe5dx04f4hUxqIGNQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bj4dQnicHcRJbsIwAADAF5kYGsQi9ZCQjcUpFjgouSHb2IQQx0up4Yd9Ar-p1DnM-1c6N9hlEHTyYySUEh3_ttxQ1TveuxFV90AMFlALbBDtS3yL8qQaMlFUz4TkALKjyb4wIrUns22hm-f6rqNddWs8jtHO9fsHnwg11Cf3Slsmae3irGVlSuYWbww7A5Y3i8OkuJpu7n27imucrl7CEGtURAxKEqR9GyKi-ZR5GF5CSbxe5yX-_BlDCIH8n4L-Dz9SRmk"
+  },
+  {
+    "position": 20,
+    "title": "JMG Travels and Paradise",
+    "place_id": "ChIJRxwbjfxmKooRGGOGpD4FL4U",
+    "data_id": "0x8a2a66fc8d1b1c47:0x852f053ea4866318",
+    "data_cid": "9596895097556198168",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8a2a66fc8d1b1c47%3A0x852f053ea4866318&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8a2a66fc8d1b1c47%3A0x852f053ea4866318&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 35.5453036,
+      "longitude": -94.258246
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRxwbjfxmKooRGGOGpD4FL4U",
+    "provider_id": "/g/11ssdcxxf6",
+    "rating": 4.9,
+    "reviews": 35,
+    "type": "Travel agency",
+    "types": [
+      "Travel agency",
+      "Cruise agency",
+      "Service establishment"
+    ],
+    "type_id": "travel_agency",
+    "type_ids": [
+      "travel_agency",
+      "cruise_agency",
+      "establishment_service"
+    ],
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+1 346-247-0838",
+    "website": "https://doriangarrett.inteletravel.com/booktravel.cfm",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Black-owned",
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true
+    },
+    "user_review": "\"They arrived on time and took very good care of us.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHdGAgtYp_nreFIwWhqU1ApUzJDUllOg6w-HSaozFvN0h17qnFbXcZjf8t63saCbCOsQlDrATxYpfVXqrd9L-Sjlf2jkzbVRCAS3_QjeALBXrzIxa16sOhQodGIVRvnBky5-g9wllXmdmW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VyBLgnicHcTNboIwAADgJ6qAZExNdqgYEGNkiPy4i4FS2kBpS9uJ8pI7-zYm-w7f648aI_XGshh1F0QIwvCvxgoJbjA3CyQGi0gNkAbagt-npIfhvgkhMVd54woH0VTQMXOgzObDLmMsJt4E9mkl5uB-sqnzOfKgLtFP166M5-rKr_1YJ2yn4OVxlW1ejqpZH0HasXbZ9XOdn32Yurekw_C4LdUcPSrH0zFNRBNG-fnOt_3zA5D1xFg5NEPxNTm2bQP6PwL8DSyNSQU"
+  }
+]
