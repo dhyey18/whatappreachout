@@ -318,10 +318,22 @@ function createManager(userId: string): WAManager {
         const acquired = await tryAcquireConnectLock(userId)
         if (!acquired) {
           if (mySession !== currentSession) return
-          console.log(`[WhatsApp][${userId}] Connect lock held by another instance — deferring`)
+          console.log(`[WhatsApp][${userId}] Connect lock held by another instance — deferring, will retry`)
           manager.isAutoReconnecting = true
           manager.status = 'connecting'
           emitter.emit('status', 'connecting')
+          // Do NOT dead-end here. A lock is "held" when MongoDB has a recent
+          // connectingAt from another instanceId — which is also exactly what a
+          // crashed/frozen/redeployed instance leaves behind. That stale lock
+          // self-heals after LOCK_TTL_MS, but the one-shot auto-reconnect never
+          // re-runs, so without this the UI sits on "Auto-reconnecting…" forever.
+          // Retry with force once the lock goes stale.
+          const sessionAtDefer = currentSession
+          setTimeout(() => {
+            if (sessionAtDefer !== currentSession) return
+            if (manager.status === 'connected' || manager.sock) return
+            manager.connect(true).catch(() => {})
+          }, LOCK_TTL_MS + 1_000)
           return
         }
       }
@@ -797,6 +809,24 @@ function wipeCredsSync(userId: string, authDir: string): void {
     .catch(() => {})
 }
 
+/**
+ * Backstop for the auto-reconnect path. If, a while after we kicked off an
+ * auto-reconnect, the manager is still 'connecting' with no live socket and no
+ * QR, the saved session could not be restored (stale lock, or a silently-dead
+ * WebSocket that never emitted open/close). Force one fresh attempt so the user
+ * is never stuck on "Auto-reconnecting…" indefinitely. Fires once; genuine
+ * socket closes are already handled by the connection.update retry logic.
+ */
+function scheduleAutoReconnectWatchdog(m: WAManager, userId: string): void {
+  setTimeout(() => {
+    if (m.status === 'connected') return
+    if (m.sock || m.qrDataURL) return // handshake in progress or QR already shown
+    if (m.status !== 'connecting') return
+    console.log(`[WhatsApp][${userId}] Auto-reconnect watchdog — session never restored, forcing fresh connect`)
+    m.connect(true).catch(() => {})
+  }, LOCK_TTL_MS + 5_000)
+}
+
 // ─── Public API ─────────────────────────────────────────────────────────────
 
 export function getWAManager(userId: string): WAManager {
@@ -816,6 +846,7 @@ export function getWAManager(userId: string): WAManager {
     } else {
       console.log(`[WhatsApp][${userId}] Valid creds found — auto-reconnecting…`)
       m.connect().catch(() => {})
+      scheduleAutoReconnectWatchdog(m, userId)
     }
   } else {
     restoreAuthFromDB(userId, authDir)
@@ -828,6 +859,7 @@ export function getWAManager(userId: string): WAManager {
         }
         console.log(`[WhatsApp][${userId}] Cold-start: restored valid creds from DB — auto-reconnecting…`)
         m.connect().catch(() => {})
+        scheduleAutoReconnectWatchdog(m, userId)
       })
       .catch(() => {})
   }
