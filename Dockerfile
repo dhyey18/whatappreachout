@@ -23,6 +23,9 @@ COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/public ./public
+# Bundled lead data files — read at runtime by discoverLeadFiles()/import.
+# Without this the runtime cwd has no leads/ dir and /api/leads/files returns [].
+COPY --from=builder /app/leads ./leads
 
 EXPOSE 8080
 
