@@ -67,8 +67,7 @@ const noopLogger: NoopLogger = {
 // Use /tmp (always writable, survives within the same running instance) and fall
 // back to the project dir only for local development.
 function getAuthDir(userId: string): string {
-  const isProd = process.env.VERCEL || process.env.RENDER
-  const base = isProd ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
+  const base = process.env.NODE_ENV === 'production' ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
   return `${base}/${userId}`
 }
 
@@ -412,7 +411,20 @@ function createManager(userId: string): WAManager {
           return
         }
 
-        const { version } = await fetchLatestBaileysVersion()
+        // fetchLatestBaileysVersion hits raw.githubusercontent.com on every connect.
+        // On cloud platforms (Railway, Render, Fly) this often times out and silently
+        // crashes the entire connect() call. Fall back to the version bundled in the
+        // installed package — it is always present and never makes a network request.
+        let version: [number, number, number] = [2, 3000, 1035194821]
+        try {
+          const fetched = await Promise.race([
+            fetchLatestBaileysVersion(),
+            new Promise<never>((_, reject) => setTimeout(() => reject(new Error('version fetch timeout')), 5_000)),
+          ])
+          version = fetched.version as [number, number, number]
+        } catch {
+          console.log(`[WhatsApp][${userId}] Using bundled Baileys version ${version.join('.')}`)
+        }
 
         if (mySession !== currentSession) { clearLock(); return }
 
