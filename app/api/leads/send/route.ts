@@ -6,7 +6,7 @@ import { Message } from '@/lib/models/Message'
 import { getWAManager } from '@/lib/whatsapp-manager'
 import { buildOutreachMessage } from '@/lib/message-templates'
 import { isSocialUrl } from '@/lib/lead-utils'
-import type { TemplateConfig } from '@/lib/message-templates'
+import { getUserSettings } from '@/lib/settings'
 
 export async function POST(req: NextRequest) {
   try {
@@ -25,11 +25,10 @@ export async function POST(req: NextRequest) {
     }
 
     const body = await req.json()
-    const { leadId, stage, customMessage, templateConfig } = body as {
+    const { leadId, stage, customMessage } = body as {
       leadId: string
       stage?: number
       customMessage?: string
-      templateConfig?: Partial<TemplateConfig>
     }
 
     if (!leadId) return Response.json({ error: 'leadId required' }, { status: 400 })
@@ -42,9 +41,13 @@ export async function POST(req: NextRequest) {
     const socialOnly = isSocialUrl(lead.website)
     const hasWebsite = !!lead.website && !socialOnly
 
+    // Sender config + template overrides are persisted per user — load them
+    // server-side so the message that sends always matches the saved settings.
+    const { config, templates } = await getUserSettings(auth.id)
+
     const message = customMessage?.trim()
       ? customMessage.trim()
-      : buildOutreachMessage(lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stageNum, templateConfig)
+      : buildOutreachMessage(lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stageNum, config, templates)
 
     await manager.sendMessage(lead.phone, message)
 

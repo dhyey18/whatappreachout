@@ -6,7 +6,7 @@ import { Message } from '@/lib/models/Message'
 import { getWAManager } from '@/lib/whatsapp-manager'
 import { buildOutreachMessage } from '@/lib/message-templates'
 import { isSocialUrl } from '@/lib/lead-utils'
-import type { TemplateConfig } from '@/lib/message-templates'
+import { getUserSettings } from '@/lib/settings'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 300
@@ -26,15 +26,18 @@ export async function POST(req: NextRequest) {
     const body = await req.json()
     const {
       city, industry, stage, batchSize = 20, delayMs = 20000,
-      websiteType, minRating, templateConfig,
+      websiteType, minRating,
     } = body as {
       city?: string; industry?: string; stage?: number; batchSize?: number; delayMs?: number
-      websiteType?: string; minRating?: number; templateConfig?: Partial<TemplateConfig>
+      websiteType?: string; minRating?: number
     }
 
     const stageNum = (stage || 1) as 1 | 2
 
     await connectDB()
+
+    // Load the user's saved sender config + template overrides once for the run.
+    const { config, templates } = await getUserSettings(auth.id)
 
     const targetStatus = stageNum === 1 ? 'pending' : 'stage1_sent'
     const query: Record<string, unknown> = { userId: auth.id, status: targetStatus }
@@ -70,7 +73,7 @@ export async function POST(req: NextRequest) {
           const socialOnly = isSocialUrl(lead.website)
           const hasWebsite = !!lead.website && !socialOnly
           const message = buildOutreachMessage(
-            lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stageNum, templateConfig
+            lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stageNum, config, templates
           )
 
           try {

@@ -1,5 +1,5 @@
 'use client'
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import toast from 'react-hot-toast'
 import {
@@ -7,7 +7,7 @@ import {
   Building2, Globe, MapPin, Star, Phone, Zap,
   CheckCircle2, XCircle, Clock, SkipForward, MessageSquare, Loader2,
   Settings2, Eye, Edit3, X, AlertCircle, ArrowRight,
-  TrendingUp, Users, Target, MessageCircle,
+  TrendingUp, Users, Target, MessageCircle, FileText, RotateCcw,
 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
@@ -19,8 +19,16 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
 import { api } from '@/lib/api'
-import { buildOutreachMessage, DEFAULT_TEMPLATE_CONFIG } from '@/lib/message-templates'
-import type { TemplateConfig } from '@/lib/message-templates'
+import {
+  buildOutreachMessage, renderTemplate, getDefaultTemplateSet,
+  DEFAULT_TEMPLATE_CONFIG, PLACEHOLDERS, VARIANTS, TEMPLATE_INDUSTRIES,
+} from '@/lib/message-templates'
+import type { TemplateConfig, TemplateOverrides, VariantKey } from '@/lib/message-templates'
+
+interface AppSettings extends TemplateConfig {
+  templates: TemplateOverrides
+}
+const DEFAULT_SETTINGS: AppSettings = { ...DEFAULT_TEMPLATE_CONFIG, templates: {} }
 
 function isSocialUrl(url?: string): boolean {
   return !!url && /facebook\.com|fb\.com|fb\.me|instagram\.com/i.test(url)
@@ -84,20 +92,11 @@ const WEBSITE_TYPES = [
   { value: 'social_only', label: 'Social only' },
 ]
 
-const TEMPLATE_CONFIG_KEY = 'wa_template_config'
-
 function getToken(): string | null {
   if (typeof window === 'undefined') return null
   try { return JSON.parse(localStorage.getItem('auth-store') || '{}').state?.token || null } catch { return null }
 }
 
-function loadTemplateConfig(): TemplateConfig {
-  if (typeof window === 'undefined') return DEFAULT_TEMPLATE_CONFIG
-  try { return { ...DEFAULT_TEMPLATE_CONFIG, ...JSON.parse(localStorage.getItem(TEMPLATE_CONFIG_KEY) || '{}') } } catch { return DEFAULT_TEMPLATE_CONFIG }
-}
-function saveTemplateConfig(cfg: TemplateConfig) {
-  if (typeof window !== 'undefined') localStorage.setItem(TEMPLATE_CONFIG_KEY, JSON.stringify(cfg))
-}
 function getWebsiteType(website?: string): 'has_website' | 'no_website' | 'social_only' {
   if (!website) return 'no_website'
   if (isSocialUrl(website)) return 'social_only'
@@ -114,9 +113,12 @@ export default function LeadsPage() {
   const [minRating, setMinRating] = useState(0)
   const [page, setPage] = useState(1)
 
-  const [templateConfig, setTemplateConfig] = useState<TemplateConfig>(DEFAULT_TEMPLATE_CONFIG)
   const [configDialogOpen, setConfigDialogOpen] = useState(false)
-  const [configDraft, setConfigDraft] = useState<TemplateConfig>(DEFAULT_TEMPLATE_CONFIG)
+  const [configDraft, setConfigDraft] = useState<AppSettings>(DEFAULT_SETTINGS)
+  const [configTab, setConfigTab] = useState<'sender' | 'templates'>('sender')
+  const [editorIndustry, setEditorIndustry] = useState('generic')
+  const [editorVariant, setEditorVariant] = useState<VariantKey>('s1None')
+  const templateRef = useRef<HTMLTextAreaElement | null>(null)
 
   const [importDialogOpen, setImportDialogOpen] = useState(false)
 
@@ -140,13 +142,21 @@ export default function LeadsPage() {
 
   const [sendingId, setSendingId] = useState<string | null>(null)
 
-  useEffect(() => { setTemplateConfig(loadTemplateConfig()) }, [])
+  // Sender config + template overrides are persisted server-side per user.
+  const { data: settings } = useQuery<AppSettings>({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings'),
+  })
+  const templateConfig: TemplateConfig = settings
+    ? { senderName: settings.senderName, senderPhone: settings.senderPhone, websitePrice: settings.websitePrice }
+    : DEFAULT_TEMPLATE_CONFIG
+  const templates: TemplateOverrides = settings?.templates ?? {}
 
   const buildPreview = useCallback((lead: Lead, stage: 1 | 2): string => {
     const socialOnly = isSocialUrl(lead.website)
     const hasWebsite = !!lead.website && !socialOnly
-    return buildOutreachMessage(lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stage, templateConfig)
-  }, [templateConfig])
+    return buildOutreachMessage(lead.name, lead.industry, hasWebsite, socialOnly, lead.city, stage, templateConfig, templates)
+  }, [templateConfig, templates])
 
   const filterParams = new URLSearchParams({ page: String(page), limit: '25' })
   if (search) filterParams.set('search', search)
@@ -179,10 +189,16 @@ export default function LeadsPage() {
 
   const sendMutation = useMutation({
     mutationFn: ({ leadId, stage, customMessage }: { leadId: string; stage: 1 | 2; customMessage?: string }) =>
-      api.post<{ success: boolean }>('/leads/send', { leadId, stage, customMessage, templateConfig }),
+      api.post<{ success: boolean }>('/leads/send', { leadId, stage, customMessage }),
     onSuccess: () => { qc.invalidateQueries({ queryKey: ['leads'] }); toast.success('Message sent!'); setPreviewState(null) },
     onError: (e: Error) => toast.error(e.message),
     onSettled: () => setSendingId(null),
+  })
+
+  const settingsMutation = useMutation({
+    mutationFn: (body: AppSettings) => api.put<AppSettings>('/settings', body),
+    onSuccess: () => { qc.invalidateQueries({ queryKey: ['settings'] }); setConfigDialogOpen(false); toast.success('Settings saved') },
+    onError: (e: Error) => toast.error(e.message),
   })
 
   const patchMutation = useMutation({
@@ -213,7 +229,7 @@ export default function LeadsPage() {
     setBatchProgress({ sent: 0, failed: 0, total: 0 })
     const token = getToken()
     const body = {
-      stage: batchStage, batchSize, delayMs: batchDelay * 1000, templateConfig,
+      stage: batchStage, batchSize, delayMs: batchDelay * 1000,
       ...(batchCity !== 'all' && { city: batchCity }),
       ...(batchIndustry !== 'all' && { industry: batchIndustry }),
       ...(batchWebsiteType !== 'all' && { websiteType: batchWebsiteType }),
@@ -243,12 +259,65 @@ export default function LeadsPage() {
     }).catch((e) => { toast.error(e.message); setBatchRunning(false) })
   }
 
-  const saveConfig = () => {
-    setTemplateConfig(configDraft)
-    saveTemplateConfig(configDraft)
-    setConfigDialogOpen(false)
-    toast.success('Settings saved')
+  const openSettings = () => {
+    setConfigDraft(settings ?? DEFAULT_SETTINGS)
+    setConfigTab('sender')
+    setConfigDialogOpen(true)
   }
+
+  const saveConfig = () => settingsMutation.mutate(configDraft)
+
+  // ── Template editor helpers ──────────────────────────────────────────────
+  const defaultText = getDefaultTemplateSet(editorIndustry)[editorVariant]
+  const overrideText = configDraft.templates[editorIndustry]?.[editorVariant]
+  const editorText = overrideText ?? defaultText
+  const isCustomized = overrideText != null && overrideText.trim() !== defaultText.trim()
+
+  const setTemplateText = (text: string) => {
+    setConfigDraft((prev) => {
+      const industryMap = { ...(prev.templates[editorIndustry] ?? {}) }
+      industryMap[editorVariant] = text
+      return { ...prev, templates: { ...prev.templates, [editorIndustry]: industryMap } }
+    })
+  }
+
+  const resetTemplate = () => {
+    setConfigDraft((prev) => {
+      const industryMap = { ...(prev.templates[editorIndustry] ?? {}) }
+      delete industryMap[editorVariant]
+      const templates = { ...prev.templates }
+      if (Object.keys(industryMap).length) templates[editorIndustry] = industryMap
+      else delete templates[editorIndustry]
+      return { ...prev, templates }
+    })
+  }
+
+  const insertPlaceholder = (ph: string) => {
+    const el = templateRef.current
+    const token = `{${ph}}`
+    if (!el) { setTemplateText(editorText + token); return }
+    const start = el.selectionStart ?? editorText.length
+    const end = el.selectionEnd ?? editorText.length
+    const next = editorText.slice(0, start) + token + editorText.slice(end)
+    setTemplateText(next)
+    requestAnimationFrame(() => {
+      el.focus()
+      const pos = start + token.length
+      el.setSelectionRange(pos, pos)
+    })
+  }
+
+  const editorPreview = renderTemplate(editorText, {
+    name: 'Sample Business',
+    city: 'Ahmedabad',
+    senderName: configDraft.senderName || DEFAULT_TEMPLATE_CONFIG.senderName,
+    senderPhone: configDraft.senderPhone || DEFAULT_TEMPLATE_CONFIG.senderPhone,
+    websitePrice: configDraft.websitePrice || DEFAULT_TEMPLATE_CONFIG.websitePrice,
+  })
+
+  const customizedCount = Object.values(configDraft.templates).reduce(
+    (sum, v) => sum + Object.keys(v).length, 0
+  )
 
   const statusTotals = data?.statusCounts || {}
   const totalLeads = Object.values(statusTotals).reduce((a, b) => a + b, 0)
@@ -264,7 +333,7 @@ export default function LeadsPage() {
           <p className="text-sm text-gray-500 dark:text-gray-400">{totalLeads.toLocaleString()} leads · sending as <strong>{templateConfig.senderName}</strong></p>
         </div>
         <div className="flex gap-2">
-          <Button variant="outline" size="sm" onClick={() => { setConfigDraft(templateConfig); setConfigDialogOpen(true) }}>
+          <Button variant="outline" size="sm" onClick={openSettings}>
             <Settings2 className="w-4 h-4" /> Settings
           </Button>
           <Button variant="outline" size="sm" onClick={() => setImportDialogOpen(true)}>
@@ -458,22 +527,107 @@ export default function LeadsPage() {
         </div>
       )}
 
-      {/* ── Template Config Dialog ── */}
-      <Dialog open={configDialogOpen} onOpenChange={setConfigDialogOpen}>
-        <DialogContent className="max-w-md">
+      {/* ── Settings Dialog (Sender + Template editor) ── */}
+      <Dialog open={configDialogOpen} onOpenChange={(v) => { if (!settingsMutation.isPending) setConfigDialogOpen(v) }}>
+        <DialogContent className="max-w-3xl max-h-[88vh] overflow-y-auto">
           <DialogHeader><DialogTitle className="flex items-center gap-2"><Settings2 className="w-5 h-5 text-emerald-500" /> Message Settings</DialogTitle></DialogHeader>
-          <div className="space-y-4">
-            <p className="text-sm text-gray-500 dark:text-gray-400">These values are injected into every outreach message. Change them to personalise your pitch.</p>
-            <div className="space-y-1.5"><Label>Your Name</Label><Input value={configDraft.senderName} onChange={(e) => setConfigDraft({ ...configDraft, senderName: e.target.value })} placeholder="Dhyey" /></div>
-            <div className="space-y-1.5"><Label>Your WhatsApp / Contact</Label><Input value={configDraft.senderPhone} onChange={(e) => setConfigDraft({ ...configDraft, senderPhone: e.target.value })} placeholder="+91 94291 84788" /></div>
-            <div className="space-y-1.5"><Label>Website Price</Label><Input value={configDraft.websitePrice} onChange={(e) => setConfigDraft({ ...configDraft, websitePrice: e.target.value })} placeholder="₹8,000" /></div>
-            <div className="p-3 bg-gray-50 dark:bg-gray-800 rounded-lg text-xs text-gray-500 dark:text-gray-400">
-              Preview: <em>&ldquo;I build them for <strong>{configDraft.websitePrice}</strong>, ready in about a week. — {configDraft.senderName} ({configDraft.senderPhone})&rdquo;</em>
+
+          {/* Tab switcher */}
+          <div className="flex w-full rounded-lg border border-gray-200 dark:border-gray-700 overflow-hidden text-sm font-medium mb-1">
+            <button onClick={() => setConfigTab('sender')}
+              className={`flex-1 flex items-center justify-center gap-1.5 py-2 transition-colors ${configTab === 'sender' ? 'bg-emerald-600 text-white' : 'bg-white dark:bg-gray-900 text-gray-500 hover:bg-gray-50 dark:hover:bg-gray-800'}`}>
+              <Settings2 className="w-3.5 h-3.5" /> Sender
+            </button>
+            <button onClick={() => setConfigTab('templates')}
+              className={`flex-1 flex items-center justify-center gap-1.5 py-2 transition-colors ${configTab === 'templates' ? 'bg-emerald-600 text-white' : 'bg-white dark:bg-gray-900 text-gray-500 hover:bg-gray-50 dark:hover:bg-gray-800'}`}>
+              <FileText className="w-3.5 h-3.5" /> Templates {customizedCount > 0 && <Badge variant="secondary" className="ml-1 text-[10px] px-1.5">{customizedCount}</Badge>}
+            </button>
+          </div>
+
+          {configTab === 'sender' ? (
+            <div className="space-y-4">
+              <p className="text-sm text-gray-500 dark:text-gray-400">These values are injected into every outreach message via the <code className="text-xs bg-gray-100 dark:bg-gray-800 px-1 rounded">{'{senderName}'}</code>, <code className="text-xs bg-gray-100 dark:bg-gray-800 px-1 rounded">{'{senderPhone}'}</code> and <code className="text-xs bg-gray-100 dark:bg-gray-800 px-1 rounded">{'{websitePrice}'}</code> placeholders.</p>
+              <div className="space-y-1.5"><Label>Your Name</Label><Input value={configDraft.senderName} onChange={(e) => setConfigDraft({ ...configDraft, senderName: e.target.value })} placeholder="Dhyey" /></div>
+              <div className="space-y-1.5"><Label>Your WhatsApp / Contact</Label><Input value={configDraft.senderPhone} onChange={(e) => setConfigDraft({ ...configDraft, senderPhone: e.target.value })} placeholder="+91 94291 84788" /></div>
+              <div className="space-y-1.5"><Label>Website Price</Label><Input value={configDraft.websitePrice} onChange={(e) => setConfigDraft({ ...configDraft, websitePrice: e.target.value })} placeholder="₹8,000" /></div>
+              <div className="p-3 bg-gray-50 dark:bg-gray-800 rounded-lg text-xs text-gray-500 dark:text-gray-400">
+                Preview: <em>&ldquo;I build them for <strong>{configDraft.websitePrice || DEFAULT_TEMPLATE_CONFIG.websitePrice}</strong>, ready in about a week. — {configDraft.senderName || DEFAULT_TEMPLATE_CONFIG.senderName} ({configDraft.senderPhone || DEFAULT_TEMPLATE_CONFIG.senderPhone})&rdquo;</em>
+              </div>
             </div>
-            <div className="flex gap-3">
-              <Button variant="outline" className="flex-1" onClick={() => setConfigDialogOpen(false)}>Cancel</Button>
-              <Button className="flex-1" onClick={saveConfig}>Save Settings</Button>
+          ) : (
+            <div className="space-y-3">
+              <p className="text-sm text-gray-500 dark:text-gray-400">Edit the outreach copy per industry and stage. Leave blank to use the built-in default. Click a placeholder to insert it.</p>
+              {/* Industry + variant pickers */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                <div className="space-y-1.5">
+                  <Label className="text-xs">Industry</Label>
+                  <Select value={editorIndustry} onValueChange={setEditorIndustry}>
+                    <SelectTrigger className="h-9"><SelectValue /></SelectTrigger>
+                    <SelectContent className="max-h-64">
+                      {TEMPLATE_INDUSTRIES.map((i) => {
+                        const n = Object.keys(configDraft.templates[i] ?? {}).length
+                        return <SelectItem key={i} value={i} className="capitalize">{i}{n > 0 ? ` (${n})` : ''}</SelectItem>
+                      })}
+                    </SelectContent>
+                  </Select>
+                </div>
+                <div className="space-y-1.5">
+                  <Label className="text-xs">Message</Label>
+                  <Select value={editorVariant} onValueChange={(v) => setEditorVariant(v as VariantKey)}>
+                    <SelectTrigger className="h-9"><SelectValue /></SelectTrigger>
+                    <SelectContent>
+                      {VARIANTS.map((v) => {
+                        const customized = configDraft.templates[editorIndustry]?.[v.key] != null
+                        return <SelectItem key={v.key} value={v.key}>{v.label}{customized ? ' •' : ''}</SelectItem>
+                      })}
+                    </SelectContent>
+                  </Select>
+                </div>
+              </div>
+
+              <p className="text-xs text-gray-400">{VARIANTS.find((v) => v.key === editorVariant)?.hint}</p>
+
+              {/* Placeholder chips */}
+              <div className="flex flex-wrap gap-1.5">
+                {PLACEHOLDERS.map((ph) => (
+                  <button key={ph} type="button" onClick={() => insertPlaceholder(ph)}
+                    className="text-xs font-mono px-2 py-1 rounded-md bg-emerald-50 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800 hover:bg-emerald-100 dark:hover:bg-emerald-900/50">
+                    {'{'}{ph}{'}'}
+                  </button>
+                ))}
+              </div>
+
+              {/* Editor */}
+              <Textarea
+                ref={templateRef}
+                className="min-h-[180px] text-sm font-mono resize-none"
+                value={editorText}
+                onChange={(e) => setTemplateText(e.target.value)}
+                placeholder="Type your message…"
+              />
+              <div className="flex items-center justify-between">
+                <span className="text-xs text-gray-400">{editorText.length} chars{isCustomized ? ' · customized' : ' · default'}</span>
+                <button type="button" onClick={resetTemplate} disabled={overrideText == null}
+                  className="text-xs flex items-center gap-1 text-gray-500 hover:text-gray-800 dark:hover:text-gray-200 disabled:opacity-40 disabled:cursor-not-allowed">
+                  <RotateCcw className="w-3 h-3" /> Reset to default
+                </button>
+              </div>
+
+              {/* Live preview */}
+              <div className="space-y-1.5">
+                <Label className="text-xs font-medium text-gray-500 uppercase tracking-wide">Preview</Label>
+                <div className="bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-200 dark:border-emerald-800 rounded-xl p-4 text-sm text-gray-800 dark:text-gray-200 whitespace-pre-wrap max-h-52 overflow-y-auto leading-relaxed">
+                  {editorPreview}
+                </div>
+              </div>
             </div>
+          )}
+
+          <div className="flex gap-3 pt-1">
+            <Button variant="outline" className="flex-1" onClick={() => setConfigDialogOpen(false)} disabled={settingsMutation.isPending}>Cancel</Button>
+            <Button className="flex-1" onClick={saveConfig} disabled={settingsMutation.isPending}>
+              {settingsMutation.isPending ? <><Loader2 className="w-4 h-4 animate-spin" /> Saving…</> : 'Save Settings'}
+            </Button>
           </div>
         </DialogContent>
       </Dialog>

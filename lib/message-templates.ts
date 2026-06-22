@@ -127,6 +127,70 @@ const stage2: Record<string, Stage2Fn> = {
   generic: (name, cfg) => `Hi *${name}* —\n\nQuick question — are most of your customers coming through referrals and word of mouth, or also through Google?\n\n— ${cfg.senderName} (${cfg.senderPhone})`,
 }
 
+// ─── Editable template system ────────────────────────────────────────────────
+//
+// The copy above is the source of the *defaults*. To make it editable we expose
+// each message as a plain string with {placeholders}, derived from the functions
+// above by rendering them with sentinel values (so we never have to transcribe
+// the copy twice and the defaults can never drift from what actually sends).
+
+/** Placeholders users can drop into any template. */
+export const PLACEHOLDERS = ['name', 'city', 'senderName', 'senderPhone', 'websitePrice'] as const
+export type Placeholder = (typeof PLACEHOLDERS)[number]
+
+/** The four message variants every industry has. */
+export type VariantKey = 's1None' | 's1Website' | 's1Social' | 's2'
+
+export const VARIANTS: { key: VariantKey; label: string; hint: string }[] = [
+  { key: 's1None', label: 'Stage 1 · No website', hint: 'First message to a lead with no website at all' },
+  { key: 's1Website', label: 'Stage 1 · Has website', hint: 'First message to a lead that already has a website' },
+  { key: 's1Social', label: 'Stage 1 · Social only', hint: 'First message to a lead found only on social media' },
+  { key: 's2', label: 'Stage 2 · Follow-up', hint: 'Follow-up message for a contacted lead' },
+]
+
+export type TemplateSet = Record<VariantKey, string>
+/** Per-industry partial overrides, e.g. { dental: { s1None: "..." } }. */
+export type TemplateOverrides = Record<string, Partial<TemplateSet>>
+
+/** Industries that have bespoke default copy (everything else uses `generic`). */
+export const TEMPLATE_INDUSTRIES = Object.keys(stage1).sort()
+
+const SENTINEL_CFG: TemplateConfig = {
+  senderName: '{senderName}',
+  senderPhone: '{senderPhone}',
+  websitePrice: '{websitePrice}',
+}
+
+/**
+ * Build the default {placeholder} strings for an industry by invoking the
+ * existing copy functions with sentinel values. The functions only ever
+ * interpolate their arguments, so the result is the template verbatim.
+ */
+export function getDefaultTemplateSet(industry: string): TemplateSet {
+  const s1 = stage1[industry] || stage1.generic
+  const s2fn = stage2[industry] || stage2.generic
+  return {
+    s1Website: s1('{name}', true, false, '{city}', SENTINEL_CFG),
+    s1Social: s1('{name}', false, true, '{city}', SENTINEL_CFG),
+    s1None: s1('{name}', false, false, '{city}', SENTINEL_CFG),
+    s2: s2fn('{name}', SENTINEL_CFG),
+  }
+}
+
+const PLACEHOLDER_RE = /\{(name|city|senderName|senderPhone|websitePrice)\}/g
+
+/** Substitute {placeholders} in a template with concrete values. */
+export function renderTemplate(template: string, vars: Record<Placeholder, string>): string {
+  return template.replace(PLACEHOLDER_RE, (_, key: Placeholder) => vars[key] ?? '')
+}
+
+function variantFor(hasWebsite: boolean, socialOnly: boolean, stageNum: 1 | 2): VariantKey {
+  if (stageNum === 2) return 's2'
+  if (hasWebsite) return 's1Website'
+  if (socialOnly) return 's1Social'
+  return 's1None'
+}
+
 export function buildOutreachMessage(
   name: string,
   industry: string,
@@ -134,14 +198,24 @@ export function buildOutreachMessage(
   socialOnly: boolean,
   city: string,
   stageNum: 1 | 2,
-  config?: Partial<TemplateConfig>
+  config?: Partial<TemplateConfig>,
+  templates?: TemplateOverrides
 ): string {
   const cfg: TemplateConfig = { ...DEFAULT_TEMPLATE_CONFIG, ...config }
   const cityLabel = city.charAt(0).toUpperCase() + city.slice(1)
-  if (stageNum === 2) {
-    const fn = stage2[industry] || stage2.generic
-    return fn(name, cfg)
-  }
-  const fn = stage1[industry] || stage1.generic
-  return fn(name, hasWebsite, socialOnly, cityLabel, cfg)
+  const variant = variantFor(hasWebsite, socialOnly, stageNum)
+
+  // A non-empty user override wins; otherwise fall back to the default copy.
+  const override = templates?.[industry]?.[variant]
+  const template = override && override.trim()
+    ? override
+    : getDefaultTemplateSet(industry)[variant]
+
+  return renderTemplate(template, {
+    name,
+    city: cityLabel,
+    senderName: cfg.senderName,
+    senderPhone: cfg.senderPhone,
+    websitePrice: cfg.websitePrice,
+  })
 }
