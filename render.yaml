@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: whatappreachout
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: RENDER
+        value: "true"
+      - key: PORT
+        value: "3000"
+      # Add these in the Render dashboard — do NOT commit secrets here:
+      # MONGODB_URI
+      # JWT_SECRET
+      # NEXTAUTH_SECRET  (if using next-auth)

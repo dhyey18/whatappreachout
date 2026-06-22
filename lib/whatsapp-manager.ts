@@ -63,10 +63,12 @@ const noopLogger: NoopLogger = {
   child: () => noopLogger,
 }
 
-// Vercel's lambda filesystem is read-only except for /tmp.
-// Each user gets their own subdirectory so sessions are fully isolated.
+// On Vercel and Render the app directory may be read-only or wiped on redeploy.
+// Use /tmp (always writable, survives within the same running instance) and fall
+// back to the project dir only for local development.
 function getAuthDir(userId: string): string {
-  const base = process.env.VERCEL ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
+  const isProd = process.env.VERCEL || process.env.RENDER
+  const base = isProd ? '/tmp/whatsapp-auth' : process.cwd() + '/whatsapp-auth'
   return `${base}/${userId}`
 }
 
