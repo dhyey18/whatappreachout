@@ -12,7 +12,7 @@ export async function GET(req: NextRequest) {
   try {
     const manager = getWAManager(auth.id)
 
-    // Fast path: this instance has an active socket — in-memory is authoritative.
+    // Fast path: in-memory state is always authoritative for the running instance.
     if (manager.status === 'connected') {
       return Response.json({
         status: 'connected',
@@ -24,10 +24,10 @@ export async function GET(req: NextRequest) {
       })
     }
 
-    // Slower path: read MongoDB to fill in cross-instance gaps.
-    // This is the primary delivery mechanism on Vercel Hobby because SSE is
-    // limited to 10 s — all QR codes, pairing codes, and status changes flow
-    // through this 3 s poll.
+    // Read MongoDB to fill in data this instance hasn't received in-memory yet.
+    // On Vercel (multi-instance), another instance may hold the active socket.
+    // On Railway (single instance), DB is the source of pairing codes and QR URLs
+    // that were written asynchronously by background Baileys event handlers.
     let qrDataURL = manager.qrDataURL
     let finalStatus = manager.status
     let finalPhone = manager.phoneNumber
@@ -43,11 +43,11 @@ export async function GET(req: NextRequest) {
       ).lean()
 
       if (session) {
-        // Pairing code — always return it if present (regardless of status)
         pairingCode = (session.pairingCode as string | null) ?? null
 
         if (session.status === 'connected') {
-          // Another instance has the live socket
+          // DB says connected but this instance is not — another instance holds the socket.
+          // Report as 'connecting' with auto-reconnect so the UI waits rather than resetting.
           finalStatus = 'connecting'
           finalPhone = (session.phoneNumber as string | null) ?? null
           finalIsAutoReconnecting = true
@@ -58,7 +58,8 @@ export async function GET(req: NextRequest) {
           if (!qrDataURL && session.qrDataURL) {
             qrDataURL = session.qrDataURL as string
           }
-        } else if (!qrDataURL && session.qrDataURL) {
+        } else if (manager.status === 'disconnected' && !qrDataURL && session.qrDataURL) {
+          // DB has a QR URL that the in-memory manager hasn't seen yet (async write lag)
           qrDataURL = session.qrDataURL as string
           finalStatus = 'connecting'
           if (session.isAutoReconnecting !== undefined) {

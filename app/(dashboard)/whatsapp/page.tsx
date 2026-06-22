@@ -235,24 +235,37 @@ export default function WhatsAppPage() {
   const handleGetPairingCode = async () => {
     const raw = pairingPhone.replace(/\D/g, '')
     if (!raw) { toast.error('Enter your WhatsApp phone number first'); return }
+    // Require at least 10 digits — guard against missing country code
+    if (raw.length < 10) {
+      toast.error('Include your country code, e.g. 919429184788 for India (+91)')
+      return
+    }
     setGettingCode(true)
     setPairingCode(null)
     setStatus('connecting')
     setQRDataURL(null)
     prevStatusRef.current = 'connecting'
+    // Suppress spurious 'disconnected' from the status poll for 60 s — the
+    // handshake takes 3-15 s and code entry takes more time after that.
+    connectingUntilRef.current = Date.now() + 60_000
+
     try {
-      // Fire-and-forget — the server returns immediately.
-      // The pairing code is written to MongoDB asynchronously and delivered
-      // to the frontend via the 2 s status poll (works on Vercel Hobby).
-      await api.post('/whatsapp/pair', { phone: raw })
-      // Open SSE alongside the poll so we also get push notification on connected
+      // The server awaits the full Noise Protocol handshake + pairing code
+      // request and returns { code } directly — typically in 3-15 s.
+      const res = await api.post<{ code?: string; error?: string }>('/whatsapp/pair', { phone: raw })
+      if (res.code) {
+        setPairingCode(res.code)
+        setGettingCode(false)
+        toast.success('Pairing code ready — enter it in WhatsApp')
+      }
+      // Open SSE so we get a push notification when WhatsApp confirms the link
       startSSE()
-      toast('Generating pairing code…', { icon: '⏳' })
-      // gettingCode stays true until applyStatus sees pairingCode from the poll
     } catch (e: unknown) {
-      toast.error((e as Error).message || 'Failed to start pairing')
+      const msg = (e as Error).message || 'Failed to get pairing code'
+      toast.error(msg)
       setStatus('disconnected')
       prevStatusRef.current = 'disconnected'
+      connectingUntilRef.current = 0
       setGettingCode(false)
     }
   }
@@ -478,13 +491,14 @@ export default function WhatsAppPage() {
                 ) : (
                   <div className="w-full space-y-3">
                     <div className="space-y-1.5">
-                      <Label className="text-sm">Your WhatsApp phone number</Label>
+                      <Label className="text-sm">Your WhatsApp phone number <span className="text-gray-400 font-normal">(with country code)</span></Label>
                       <div className="flex gap-2">
                         <Input
-                          placeholder="+91 94291 84788"
+                          placeholder="919429184788 (no + or spaces)"
                           value={pairingPhone}
                           onChange={(e) => setPairingPhone(e.target.value)}
                           disabled={gettingCode}
+                          type="tel"
                         />
                         <Button onClick={handleGetPairingCode} disabled={gettingCode || !pairingPhone || !!pairingCode} className="shrink-0">
                           {gettingCode ? <RefreshCw className="w-4 h-4 animate-spin" /> : 'Get Code'}
@@ -515,9 +529,9 @@ export default function WhatsAppPage() {
                     ) : (
                       <div className="p-3 bg-gray-50 dark:bg-gray-800 rounded-lg text-xs text-gray-500 dark:text-gray-400 space-y-1">
                         <p className="font-medium text-gray-700 dark:text-gray-300">How it works</p>
-                        <p>1. Enter your number and click <strong>Get Code</strong></p>
-                        <p>2. Open WhatsApp → <strong>⋮</strong> → Linked Devices</p>
-                        <p>3. Tap <strong>Link with Phone Number</strong> and enter the code</p>
+                        <p>1. Enter your number <strong>with country code</strong> (e.g. 919429… for India) and click <strong>Get Code</strong></p>
+                        <p>2. Wait ~10 seconds for the 8-digit code to appear</p>
+                        <p>3. Open WhatsApp → <strong>⋮</strong> → Linked Devices → <strong>Link with Phone Number</strong></p>
                       </div>
                     )}
 

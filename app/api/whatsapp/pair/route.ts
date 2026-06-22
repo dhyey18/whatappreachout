@@ -2,8 +2,10 @@ import { NextRequest } from 'next/server'
 import { getAuthUser } from '@/lib/auth'
 import { getWAManager } from '@/lib/whatsapp-manager'
 
-// Fire-and-forget: returns immediately so Vercel Hobby's 10 s limit is not hit.
-// The pairing code is written to MongoDB and delivered via the status poll.
+// Waits for the full Noise Protocol handshake + pairing code request (~3-15 s).
+// Requires maxDuration > 15 to work on serverless platforms.
+export const maxDuration = 60
+
 export async function POST(req: NextRequest) {
   try {
     const auth = await getAuthUser(req)
@@ -18,11 +20,11 @@ export async function POST(req: NextRequest) {
       return Response.json({ error: 'Already connected. Disconnect first.' }, { status: 400 })
     }
 
-    // Start async — does not block
-    manager.startPairingCode(phone)
-
-    return Response.json({ status: 'starting' })
+    const code = await manager.getPairingCode(phone)
+    return Response.json({ code })
   } catch (e: unknown) {
-    return Response.json({ error: (e as Error).message || 'Failed to start pairing' }, { status: 500 })
+    const msg = (e as Error).message || 'Failed to get pairing code'
+    console.error('[whatsapp/pair] error:', msg)
+    return Response.json({ error: msg }, { status: 500 })
   }
 }
