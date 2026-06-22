@@ -247,6 +247,10 @@ function createManager(userId: string): WAManager {
   let lastOpenedAt = 0
   let softRestartCount = 0
   let currentSession = 0
+  // Tracks the most recent WebSocket close code so the stale-creds check can
+  // distinguish a post-QR-scan reconnect (515 = restartRequired, normal) from a
+  // genuinely broken old session (stale, should be wiped).
+  let lastDisconnectCode: number | undefined = undefined
 
   const manager: WAManager = {
     status: 'disconnected',
@@ -373,22 +377,35 @@ function createManager(userId: string): WAManager {
 
         const { state, saveCreds } = await useMultiFileAuthState(authDir)
 
-        // Stale creds: creds.me is set but registered=false means the session was
-        // never fully established. Wipe and restart for a fresh QR.
+        // Stale creds: creds.me is set but registered=false.
+        //
+        // IMPORTANT: code 515 (restartRequired) is WhatsApp's normal signal after
+        // a QR scan: "reconnect now with these creds to complete registration."
+        // On that immediate reconnect, registered is still false — the registration
+        // completes only when the new socket opens. Do NOT wipe in this case.
+        //
+        // Wipe only when the previous close was NOT 515, i.e. creds have been
+        // sitting unregistered since a previous broken session.
         if (state.creds?.me && !state.creds?.registered) {
-          console.log(`[WhatsApp][${userId}] Stale creds (registered=false) — wiping and restarting`)
-          if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
-          getSessionModel()
-            .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, qrDataURL: null } }))
-            .catch(() => {})
-          manager.qrDataURL = null
-          const sessionAtWipe = currentSession
-          setTimeout(() => {
-            if (sessionAtWipe !== currentSession) return
-            manager.connect(true)
-          }, 200)
-          clearLock()
-          return
+          if (lastDisconnectCode === 515) {
+            // Post-QR-scan reconnect — let Baileys complete registration normally.
+            lastDisconnectCode = undefined
+            console.log(`[WhatsApp][${userId}] Post-QR reconnect (code 515) — proceeding to complete registration`)
+          } else {
+            console.log(`[WhatsApp][${userId}] Stale creds (registered=false, last code=${lastDisconnectCode}) — wiping and restarting`)
+            if (fs.existsSync(authDir)) fs.rmSync(authDir, { recursive: true, force: true })
+            getSessionModel()
+              .then(W => W.findOneAndUpdate({ userId }, { $set: { authData: null, qrDataURL: null } }))
+              .catch(() => {})
+            manager.qrDataURL = null
+            const sessionAtWipe = currentSession
+            setTimeout(() => {
+              if (sessionAtWipe !== currentSession) return
+              manager.connect(true)
+            }, 200)
+            clearLock()
+            return
+          }
         }
 
         // fetchLatestBaileysVersion hits raw.githubusercontent.com on every connect.
@@ -451,6 +468,7 @@ function createManager(userId: string): WAManager {
           if (connection === 'open') {
             retryCount = 0
             softRestartCount = 0
+            lastDisconnectCode = undefined
             lastOpenedAt = Date.now()
             manager.status = 'connected'
             manager.qrDataURL = null
@@ -476,6 +494,8 @@ function createManager(userId: string): WAManager {
 
             const statusCode = (lastDisconnect?.error as InstanceType<typeof Boom>)?.output?.statusCode
             const isLoggedOut = statusCode === DisconnectReason.loggedOut || statusCode === 500
+
+            lastDisconnectCode = statusCode
 
             console.log(`[WhatsApp][${userId}] Closed — code=${statusCode} loggedOut=${isLoggedOut}`)
 
@@ -560,6 +580,7 @@ function createManager(userId: string): WAManager {
     async disconnect() {
       retryCount = 0
       softRestartCount = 0
+      lastDisconnectCode = undefined
       manager.isAutoReconnecting = false
       currentSession++
 
