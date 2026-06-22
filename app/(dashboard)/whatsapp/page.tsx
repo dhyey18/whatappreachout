@@ -184,7 +184,7 @@ export default function WhatsAppPage() {
     }
 
     poll() // immediate check on mount
-    const interval = status === 'connecting' ? 2_000 : 5_000
+    const interval = status === 'connecting' ? 1_000 : 5_000
     const id = setInterval(poll, interval)
     return () => clearInterval(id)
   }, [applyStatus, startSSE, stopSSE, status])

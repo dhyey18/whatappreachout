@@ -24,7 +24,7 @@ export async function POST(req: NextRequest) {
         manager.emitter.off('qr', onQR)
         manager.emitter.off('connected', onConnected)
         resolve({})
-      }, 8_000)
+      }, 15_000)
 
       const onQR = (qrDataURL: string) => {
         clearTimeout(timer)
