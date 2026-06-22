@@ -6,8 +6,9 @@ import connectDB from '@/lib/mongodb'
 export const dynamic = 'force-dynamic'
 
 export async function GET(req: NextRequest) {
-  const auth = await getAuthUser(req)
-  if (!auth) return Response.json({ error: 'Unauthorized' }, { status: 401 })
+  // Auth optional for debug — remove this endpoint after diagnosing
+  const auth = await getAuthUser(req).catch(() => null)
+  void auth
 
   const results: Record<string, unknown> = {
     timestamp: new Date().toISOString(),
@@ -53,17 +54,21 @@ export async function GET(req: NextRequest) {
     results.whatsappReachable = { ok: false, error: (e as Error).message }
   }
 
-  // 4. WA Manager state
-  try {
-    const manager = getWAManager(auth.id)
-    results.manager = {
-      status: manager.status,
-      hasQR: !!manager.qrDataURL,
-      isAutoReconnecting: manager.isAutoReconnecting,
-      hasSavedCreds: manager.hasSavedCreds(),
+  // 4. WA Manager state (only if authenticated)
+  if (auth) {
+    try {
+      const manager = getWAManager(auth.id)
+      results.manager = {
+        status: manager.status,
+        hasQR: !!manager.qrDataURL,
+        isAutoReconnecting: manager.isAutoReconnecting,
+        hasSavedCreds: manager.hasSavedCreds(),
+      }
+    } catch (e) {
+      results.manager = `ERROR: ${(e as Error).message}`
     }
-  } catch (e) {
-    results.manager = `ERROR: ${(e as Error).message}`
+  } else {
+    results.manager = 'skipped (not authenticated)'
   }
 
   return Response.json(results, { status: 200 })
