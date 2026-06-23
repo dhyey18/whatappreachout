@@ -9,6 +9,7 @@ const CITY_COUNTRY_CODE: Record<string, string> = {
   surat: '91',
   vadodara: '91',
   houston: '1',
+  london: '44',
 }
 const DEFAULT_COUNTRY_CODE = '91'
 
@@ -31,6 +32,13 @@ export function normalizePhone(raw: string, city?: string): string {
     if (num.length === 10) return '1' + num
     if (num.length === 11 && num.startsWith('1')) return num
     return num
+  }
+
+  if (cc === '44') {
+    // UK: numbers carry a trunk '0' nationally that drops when going intl.
+    if (num.startsWith('44')) return num            // already international (+44…)
+    if (num.startsWith('0')) return '44' + num.slice(1) // strip trunk 0 → +44
+    return '44' + num                                // bare national number
   }
 
   // India (default)

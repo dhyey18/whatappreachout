@@ -1,0 +1,5387 @@
+[
+  {
+    "position": 1,
+    "title": "Wilson Printing & Graphics",
+    "place_id": "ChIJ6-P53jWvOIgRQeU190cHijs",
+    "data_id": "0x8838af35def9e3eb:0x3b8a0747f735e541",
+    "data_cid": "4290249600695395649",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8838af35def9e3eb%3A0x3b8a0747f735e541&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8838af35def9e3eb%3A0x3b8a0747f735e541&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 39.883260799999995,
+      "longitude": -83.44460099999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6-P53jWvOIgRQeU190cHijs",
+    "provider_id": "/g/1tdy0k7y",
+    "rating": 4.9,
+    "reviews": 43,
+    "type": "Digital printing service",
+    "types": [
+      "Digital printing service"
+    ],
+    "type_id": "digital_printing_service",
+    "type_ids": [
+      "digital_printing_service"
+    ],
+    "address": "158 S Main St, London, OH 43140",
+    "country": "United States",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–5 PM"
+    },
+    "phone": "(740) 852-5934",
+    "website": "https://www.wilson-printing.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Responsive, great quality, great price!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjNu8iAkXcMvqYMCMUTPkG8Y4gXL9Ol4XITxx2DpladhvtIZdH1dIvEaQRXMwUqiaLNHYk226cQrGOGLP4TrX-ZxxXv54TslBEGss3DgnjZTZ47B9G64w6UIb1Ay-qNH2jGmD10Jfr9jp3=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/G9NBJnicHcRLjoIwAADQE1V-lZFJXKA4BQMIk5IUdliwfMq3FZhTuvY2JvMW7_2qpBzFt6LwytixYWC8fIpypkMvy17u6NApbBSACiAUOwrj1v5pwuehtltCg2VKg3OQ4KhFhxQy4ls3DomHt013Rp4X1SK9rHC1wlsuefxLgjWZ6twP3bTVdZPGM7ohP4J4JiDbNrLsIRb8dEFCGA7rmwxn8OtkIROuZuLdNfsPTKGrN6hzNPX6mK1mNI6rpqoqqP6noP8Ae9xGHA"
+  },
+  {
+    "position": 2,
+    "title": "London Impressions LLC",
+    "place_id": "ChIJQa5hL2ZFQogRZ4_x9knED-k",
+    "data_id": "0x884245662f61ae41:0xe90fc449f6f18f67",
+    "data_cid": "16793857357442551655",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x884245662f61ae41%3A0xe90fc449f6f18f67&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x884245662f61ae41%3A0xe90fc449f6f18f67&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 38.0030457,
+      "longitude": -84.5256682
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQa5hL2ZFQogRZ4_x9knED-k",
+    "provider_id": "/g/1tj4zd15",
+    "rating": 4.9,
+    "reviews": 7,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer"
+    ],
+    "address": "2529 Regency Rd Ste 105, Lexington, KY 40503",
+    "country": "United States",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+      "tuesday": "8:30 AM–5 PM",
+      "wednesday": "8:30 AM–5 PM",
+      "thursday": "8:30 AM–5 PM",
+      "friday": "8:30 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8:30 AM–5 PM"
+    },
+    "phone": "(859) 299-9033",
+    "website": "http://londonimpressions.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      }
+    ],
+    "user_review": "\"Great Customer Services!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEM7fZqWxfdIvkscjt3PJFOwhYY9qIZfLZjS7I2_H6I55GEaTBYh6hBEo5OtpbhcR_ln0ngqWYZsoOZbj5MIHA_azxjJ1Di0ctJfN1Kz9QMvk7zvp0-Bil-yqe9KEI4EdbINZmEdg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SMRgB3icHcRdDoIgAADgE5FYmbOtB11UWGp_m5MXl6iQGmiQlTfsCN2mre_h-3641q2aG0bDJyMmJWuKhyruVApdCD2i8mawVgGqgDLcfXioXRTYJeniV5njvla00pO9v4qePEmcDpNyR6qTjcfpZoYta40uZy_hM-4haUW6zTg9po2AgnVxQpSMSFZZAd646WV4Vb65vEKq_TI0t4NzCPraHvoWAu_agHdXOFuEpyjPcEhuKGeLpwkhBPw_BeIHD7pFgA"
+  },
+  {
+    "position": 3,
+    "title": "Print in London ( Same Day Printing London)",
+    "place_id": "ChIJwxt4wf6n2EcRse4ObBNLC9Q",
+    "data_id": "0x47d8a7fec1781bc3:0xd40b4b136c0eeeb1",
+    "data_cid": "15279388707573919409",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x47d8a7fec1781bc3%3A0xd40b4b136c0eeeb1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x47d8a7fec1781bc3%3A0xd40b4b136c0eeeb1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.511298499999995,
+      "longitude": -0.014837699999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwxt4wf6n2EcRse4ObBNLC9Q",
+    "provider_id": "/g/11cm_pnmzq",
+    "rating": 4.5,
+    "reviews": 1332,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Custom t-shirt store",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Invitation printing service",
+      "Passport photo processor",
+      "Photo lab",
+      "Screen printer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "custom_t_shirt_store",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "invitation_printing_service",
+      "passport_photo_processor",
+      "photo_lab",
+      "screen_printer"
+    ],
+    "address": "173 E India Dock Rd, London, E14 0EA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 3633 2660",
+    "website": "https://www.printinlondon.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"The printing was fast, service was fast, and the staff were friendly :D\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXYAfqKFREZ9y2wpkdtSau834XlX8itJajD2HGavcX4ixdHFC3VRxH6upS6eezAx8n3QJPwSdBky7O6-TxmiHOGTTH8c_dgXmpI6_Yyd1sLhw_6Fus64mHexqihtDAE-1solQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bhgjmnicHcRdboIwAADgE1VASEUTH7oJdM6oCFmqL4S0lSI_rWuR4gF3B29jsu_he_0JY5ReOU4r_FklZdXyQfNfKnvDezOjsnMqpQHVQDvouE8bFJMzut6_41N0WU7zUTXMZOUQ-gFpSVibbXnbzHFSPigJastw_On_nCyGg8og509kw95Pt8cxYx_NtDhAkNuuxockz3FIC1aRTn3B4jwxT-_EWMB40DDoMLf3WpgNioCnZZuuR891XSD-p6B_AyjlRLU"
+  },
+  {
+    "position": 4,
+    "title": "Printroom Soho",
+    "place_id": "ChIJebpzRNMEdkgROLyiKtfGeGw",
+    "data_id": "0x487604d34473ba79:0x6c78c6d72aa2bc38",
+    "data_cid": "7816215780737072184",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487604d34473ba79%3A0x6c78c6d72aa2bc38&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487604d34473ba79%3A0x6c78c6d72aa2bc38&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5172059,
+      "longitude": -0.1352534
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJebpzRNMEdkgROLyiKtfGeGw",
+    "provider_id": "/g/1v3kgzym",
+    "rating": 4.6,
+    "reviews": 162,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Bookbinder",
+      "Copy shop",
+      "Digital printer",
+      "Poster store",
+      "Promotional products supplier",
+      "Sign shop",
+      "Sticker manufacturer",
+      "Vinyl sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "bookbinder",
+      "copy_shop",
+      "digital_printer",
+      "poster_store",
+      "promotional_products_supplier",
+      "sign_shop",
+      "sticker_manufacturer",
+      "vinyl_sign_shop"
+    ],
+    "address": "15 Newman St, London, W1T 1PB, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "10 AM–4 PM",
+      "sunday": "Closed",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 7287 2341",
+    "website": "http://www.printroomsoho.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Got my order printed in just 10 minutes at 2am.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiWcNgGSEiLpgZUhaZvWMaP1KGGWWbiAChaIYfR4YD3kpZ97Fnd3MnbkxGX3Dh1uSKjypC_3MIBREYZh-afmBE9WPKDMc_w90mEV8s6PKvRSn7uJORhJ9Aes9z_NbMm48bVjTQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ks-dr3icHcThEoEwAADgJ5rq5jB3fpQSsqQw9aeryZa0dlbCC3oGb-PO9-P7fnjbSjXVtBuHA9Y07FZ0qrjTRrSFaAe0qTUmFaAKKM0M_F1lLktCfeZGTrmRLDnwLHkQnAWG57qE5KU559kqvoTD2IaVTNB4Ic4Qi7x6uidoc6OLvOtLzlOIV1boxAkH2aW2HEQCz8Y07ZFeO8eJGgXeI4zEuFtvQ75GZqHQO_VzXA8n-fG63816Q9d1wP9TIH4pGUO5"
+  },
+  {
+    "position": 5,
+    "title": "The London Printers",
+    "place_id": "ChIJqVPJjSkbdkgRXOenaCeQtpY",
+    "data_id": "0x48761b298dc953a9:0x96b6902768a7e75c",
+    "data_cid": "10860026050384488284",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b298dc953a9%3A0x96b6902768a7e75c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b298dc953a9%3A0x96b6902768a7e75c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5206492,
+      "longitude": -0.1392419
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqVPJjSkbdkgRXOenaCeQtpY",
+    "provider_id": "/g/11b6s3v6l7",
+    "rating": 4.9,
+    "reviews": 47,
+    "type": "Print shop",
+    "types": [
+      "Print shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop"
+    ],
+    "address": "1st Floor, PORTLAND-HOUSE, 164 New Cavendish St, London W1W 6YT, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–5 PM",
+      "wednesday": "10 AM–5 PM",
+      "thursday": "10 AM–5 PM",
+      "friday": "10 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 AM–5 PM"
+    },
+    "phone": "+44 20 3818 5750",
+    "website": "https://thelondonprinters.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Professional  Service and Top-Quality Printing!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGWRfxN8ONvPza63y4kzfQ6K4pYqYv5ibDybr7kgtVbVtxBHdY0wW1S_0LBAh4q2wIyIsCQDTRNstO_VWvBhdfPzw_7_vDocN469-FJpcTMRLQcsMj_l4qu_DfnoKq1-zATcjGZyA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/n3X903icHcRJDoIwAADAFxWKVlwSD0XibgUkELw0UoEqSMFWEH7oE_yNiXOY74crVcmZrhd8qGVCZEXyksmTiVIlpdKYeOhZJQGTQOrYIW6OV6GXvsnkSBqnv5jDDuV96po7VEV11Ixusd3Fz3GeqSAO1NtaXyPYhsaJwr2FOaoH7abbyIVr-x6R6kiDsLH4NXX6lo5pYwtGkDkFy23F_IO3d5k83GmB6he101LsagP02Gf31bnD89aAEAL-n4HyBz3IRj0"
+  },
+  {
+    "position": 6,
+    "title": "First Colour",
+    "place_id": "ChIJ34u5fSsbdkgRTJgKY7TpWbc",
+    "data_id": "0x48761b2b7db98bdf:0xb759e9b4630a984c",
+    "data_cid": "13211847942833084492",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b2b7db98bdf%3A0xb759e9b4630a984c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b2b7db98bdf%3A0xb759e9b4630a984c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5172186,
+      "longitude": -0.1352127
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ34u5fSsbdkgRTJgKY7TpWbc",
+    "provider_id": "/g/1tcx0_q3",
+    "rating": 4.9,
+    "reviews": 214,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner store",
+      "Bookbinder",
+      "Copy shop",
+      "Digital printer",
+      "Print shop",
+      "Promotional products supplier",
+      "Sign shop",
+      "Sticker manufacturer",
+      "Vinyl sign shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "bookbinder",
+      "copy_shop",
+      "digital_printer",
+      "print_shop",
+      "promotional_products_supplier",
+      "sign_shop",
+      "sticker_manufacturer",
+      "vinyl_sign_shop"
+    ],
+    "address": "15 Newman St, London, W1T 1PA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "10 AM–4 PM",
+      "sunday": "Closed",
+      "monday": "7 AM–12 AM"
+    },
+    "phone": "+44 20 7636 2571",
+    "website": "https://www.firstcolour.com/?utm_source=GMB_listing&utm_medium=organic",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"High quality prints provided in a timely manner, even at short notice.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGSmbUgPlnWMbspZVHpn25BuhQlEWMxOmx6sjXos6NRqxzu7-De5-ST4AklUPc08W4rU9FwNRSa7A6Trc6Bdgz7J0v7LvvhjxEwkwyX43yXtdg92wC6gfuzQrLKfg52iTHd2MAG=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/LN8mi3icHcRLcoIwAADQE0UiQlBnXETrZ6pQEBDGXQ2YVEJCSSDIBT1Db9MZ3-L9vZjWjVpaFmezCZWS8rJTZUuk0KXQEyJrizYKEAWUhcMgqvA-rm8pDbnI_JtqrpdDI2x33bGIbzN_-KoHpB65VCg4_w5j54GP0gVx4uCKpyGB88xp08XOBOf428MoaQlaF3T0PmHvnfqePYatqcwzd2bPXBd0YZsNovdujNrT8U5d-yc5FLaP9yszhRAC9p4A8Q-tbUUg"
+  },
+  {
+    "position": 7,
+    "title": "New North Press – letterpress",
+    "place_id": "ChIJZ1xky7ocdkgRDWPF9IDT7s4",
+    "data_id": "0x48761cbacb645c67:0xceeed380f4c5630d",
+    "data_cid": "14911087967086142221",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cbacb645c67%3A0xceeed380f4c5630d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cbacb645c67%3A0xceeed380f4c5630d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.527053699999996,
+      "longitude": -0.08207529999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ1xky7ocdkgRDWPF9IDT7s4",
+    "provider_id": "/g/11h1r8tvkp",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Graphic designer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "graphic_designer"
+    ],
+    "address": "45 Coronet St, London, N1 6HD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 AM–6 PM"
+    },
+    "phone": "+44 20 7729 3161",
+    "website": "http://www.new-north-press.co.uk/",
+    "extensions": [
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHhfPxxQVRfS2gs6RUOhUpCojKfxabKFp1ZTrNQ1lmbnj9PMAgDgd5ptPjJTqjI92imAhTXp7BReSAtIwTxavhZDpRj0TiJ1iD2tEpt5R2aUob3DR-dmLOi3L9mLTPUAhYazyztw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Pk47V3icHcRbjoIwFADQFVVecQwmflSZiQ_UUotx_AOElkpptVdBd-gS3I2J5-O8XwLA2LHjNCIYcK15U95seS10C2ULg0IrhxuLCousg8kmOeP5XFSk75M9rXY-tz803YrUzLRcVX2Wr_6Md2TXTeI1Km9lSNaYR_w0NEDkkl3kIvRrhQU7mNGUljsMi4712V0cI0Oly-qlV0c-_BoYUj9LdR5EFJ1UvK2DOFQxIykW_9nz8YRu0nmu6yLxvUDtB0-iRl8"
+  },
+  {
+    "position": 8,
+    "title": "DAY NIGHT PRINT",
+    "place_id": "ChIJO-86Mx0ddkgR9hlARWnetDY",
+    "data_id": "0x48761d1d333aef3b:0x36b4de69454019f6",
+    "data_cid": "3942020117570787830",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d1d333aef3b%3A0x36b4de69454019f6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d1d333aef3b%3A0x36b4de69454019f6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5272357,
+      "longitude": -0.08866049999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO-86Mx0ddkgR9hlARWnetDY",
+    "provider_id": "/g/11gr87lhm4",
+    "rating": 4.7,
+    "reviews": 252,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Digital printing service"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "digital_printing_service"
+    ],
+    "address": "124 City Rd, London, EC1V 2NX, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 8068 3048",
+    "website": "https://www.daynightprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"They were able to get it printed and delivered in 24 hours.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2tDR-Hv2cfAwN4GF6FGkCTNd5NVUkgC3cKtMjO58yzmN_uFi0CPHuBG8wyyCp0xTO5pPTn7ag53SEua8Ofb1hfCgJCVuuBAo3jcozM88_ARUJ-1mTiY-YxR-n7s9iOcJLu3UF=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lwJtk3icHcTRroIgAADQLyIxsqjtPhClzgq9pm09tSJFM8FdILMfvN_Q37R1Hs77vzKm0wvHuVdoJJQS98Lq4o8raQppRly1jug04BpohyTstyHh2KxSED7GvCQ9mwT-1A8amrGrxw55IyjiG7O7xR4eXi07Wb-GNAntMsD9MNAOPrPY65JMzs7CQ_u1PeO4vLhVSUVED9YuiUI3rl47jE8kzSPgtll9BMdnCuRMz-uYR1uLcv-ndyGEoPrOgfwAzIVDCw"
+  },
+  {
+    "position": 9,
+    "title": "The London Printing Company",
+    "place_id": "ChIJjRFTJGgFdkgRCjJPVF_eLdQ",
+    "data_id": "0x487605682453118d:0xd42dde5f544f320a",
+    "data_cid": "15289120811010437642",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487605682453118d%3A0xd42dde5f544f320a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487605682453118d%3A0xd42dde5f544f320a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.4881726,
+      "longitude": -0.1940061
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjRFTJGgFdkgRCjJPVF_eLdQ",
+    "provider_id": "/g/1hhj1rygr",
+    "rating": 3.8,
+    "reviews": 44,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer"
+    ],
+    "address": "318 Old Brompton Rd, London, SW5 9JH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7370 1070",
+    "website": "https://thelondonprintingcompany.com/?utm_source=GMBlisting&utm_medium=organic",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Fantastic customer service and the product came out beautifully.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGa2D0AvOiH9_4Xx_ChbOx3fK1wy8en4tX454Sf3VELTk8jc6LyZLJFlAy4wQ-qTTtExXXMlrNQtIolCXSCz3hMOP2knhsWPWO2fwhNLjluPKhDlXChaPv_IT7ccIhuFNmdOAA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YdUUXnicHcTdboIwGADQJyq_1TkTLxrUjQm0RKKNN0Q74JvUltki4APuHfY2S3Yuzu8PWNuZpetKCJ1G60ZWvanuQitbKesIfXObziBhkHEJy_KWvJ2DtUce9Ov9tcR8LCO40DGsd_4wLSqFLcczvK_DwyYp2sVVzJPplHxsJZnwkKPvorCbkfNU3rPcxlpGfB89Q0gpC1oF5siONKgHyJKr7NkO1pJHcGaPMi5ehIih32a3T0rIavA9z0Pwv0DqD9_NREg"
+  },
+  {
+    "position": 10,
+    "title": "Pounce Signs and PrintWear",
+    "place_id": "ChIJRdnjdnmlOIgRdKGa_zi2J9Y",
+    "data_id": "0x8838a57976e3d945:0xd627b638ff9aa174",
+    "data_cid": "15431503004131041652",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x8838a57976e3d945%3A0xd627b638ff9aa174&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x8838a57976e3d945%3A0xd627b638ff9aa174&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 39.921794899999995,
+      "longitude": -83.4138835
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRdnjdnmlOIgRdKGa_zi2J9Y",
+    "provider_id": "/g/11dx9wxm09",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Custom t-shirt store",
+    "types": [
+      "Custom t-shirt store",
+      "Banner store",
+      "Embroidery shop",
+      "Engraver",
+      "Promotional products supplier",
+      "Screen printer"
+    ],
+    "type_id": "custom_t_shirt_store",
+    "type_ids": [
+      "custom_t_shirt_store",
+      "banner_store",
+      "embroidery_shop",
+      "engraver",
+      "promotional_products_supplier",
+      "screen_printer"
+    ],
+    "address": "1040 Spring Valley Rd, London, OH 43140",
+    "country": "United States",
+    "phone": "(740) 837-7468",
+    "website": "http://www.pounceonline.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Small business"
+        ]
+      },
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "service_options": {
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Excellent and professional service\"",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VV-Nc5Y6tXNkQ9XGN6rwNg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=213.57022&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JfisG3icHc3BDcIgFADQbbgVKKbVmhCP3ki8NPVkKEUgpYXAt-g2ruU2Ghd47_O2ADEfCcmQtIbN6RLdU_tcRYlNCMZrGV3GKixkqwnYxzKu0vlTlGtwE-_7Sqjm2sIg5ks3nEWbijBIjTflnV6BZy2TstiUn5jChE3MqPADRZZ3DL1k4aze4WZPGUPRgbKcov9yDxuvKf0CVKo5HA"
+  },
+  {
+    "position": 11,
+    "title": "Western Printers London",
+    "place_id": "ChIJPbUV3CkbdkgRhrOXvTvTU8Q",
+    "data_id": "0x48761b29dc15b53d:0xc453d33bbd97b386",
+    "data_cid": "14146883108038226822",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b29dc15b53d%3A0xc453d33bbd97b386&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b29dc15b53d%3A0xc453d33bbd97b386&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.522962299999996,
+      "longitude": -0.1415977
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPbUV3CkbdkgRhrOXvTvTU8Q",
+    "provider_id": "/g/1tkktbpt",
+    "rating": 4.8,
+    "reviews": 189,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Copy shop",
+      "Design agency",
+      "Digital printer",
+      "Packaging supply store",
+      "Poster store",
+      "Screen printer",
+      "Sign shop",
+      "3D printing service"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "copy_shop",
+      "design_agency",
+      "digital_printer",
+      "packaging_supply_store",
+      "poster_store",
+      "screen_printer",
+      "sign_shop",
+      "three_d_printing_service"
+    ],
+    "address": "108 Cleveland St, London, W1T 6NY, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–5:30 PM"
+    },
+    "phone": "+44 20 7387 5129",
+    "website": "https://western-printers.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Very helpful staff, quick and amazing printouts!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAXujAvzdoIOZsjhbHF5AbMI3Wc9am5iArF47RrUSeuzXic119wNbUfs36njGPgKcGcpyUljMSbvxy_rRr_O2uLKG2drAKph_cwOekX--gPGPe_yLpjX4WkYbBa8HuwiR30Iks=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2_g3-nicHcRNjoIwGADQE1VA_E9mURNFggpiCOiG2M_aUpA2LRXxgnMGbzPJvMX7_vKuU2blOA33R0xK1lBrqAbZdrTtRiCfDlMGgUHGwcnxVOMNLqzAr89dhvHVCE522ykmh9DPYXl7Tiust5N5qrMztZ-iAs9b9keSPYw_a0WQsAgCUEPWiMOZvN5DqVNdxmO7j4LxXeNI8RL6mNYFQiwJEloOeyWKSV5fyPq22Nm-Sn03rM1P77mui_j_gNo_wO1F4g"
+  },
+  {
+    "position": 12,
+    "title": "London City Print",
+    "place_id": "ChIJl1HHYjQbdkgRww3eSOBpzT8",
+    "data_id": "0x48761b3462c75197:0x3fcd69e048de0dc3",
+    "data_cid": "4597447206631247299",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b3462c75197%3A0x3fcd69e048de0dc3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b3462c75197%3A0x3fcd69e048de0dc3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5177957,
+      "longitude": -0.12229509999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl1HHYjQbdkgRww3eSOBpzT8",
+    "provider_id": "/g/1tf6g3j9",
+    "rating": 4.6,
+    "reviews": 83,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Bookbinder",
+      "Copy shop",
+      "Digital printer",
+      "Invitation printing service",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "bookbinder",
+      "copy_shop",
+      "digital_printer",
+      "invitation_printing_service",
+      "print_shop"
+    ],
+    "address": "18-20 Barter St, London, WC1A 2AH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–5 PM",
+      "wednesday": "8 AM–5 PM",
+      "thursday": "8 AM–5 PM",
+      "friday": "8 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–5 PM"
+    },
+    "phone": "+44 20 7404 4046",
+    "website": "http://www.londoncityprint.com/",
+    "user_review": "\"Very helpful, great quality and super quick service.\"",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FscL2lNcvBvK_4dFxV8uog&cb_client=search.gws-prod.gps&w=80&h=92&yaw=165.55829&pitch=-88.808975&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OjCxEnicHc1RDoIgGADg2_AmoIvCtn9uPfhS67FXh0jAhsIEwY7UkbpNrQt83-dtUgrxTEhMq1IpW1WC3ZWLVRBYe6-dEsFGLP1Mck2S2eZxEdZ1QSzeTtBHeWvcXeZLvg6Hqd8ffPMayXGQzqolQVRilQbr8hNXP2EdIirAKTLQNuglCtRHhhnjTYuCTdJAxTnmlLcnhv7d02eoKf0ClnA7uA"
+  },
+  {
+    "position": 13,
+    "title": "The Color Company - Curzon Street",
+    "place_id": "ChIJM87KJikFdkgREjchJbjm768",
+    "data_id": "0x4876052926cace33:0xafefe6b825213712",
+    "data_cid": "12677605154642540306",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876052926cace33%3A0xafefe6b825213712&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876052926cace33%3A0xafefe6b825213712&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.507825,
+      "longitude": -0.145179
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM87KJikFdkgREjchJbjm768",
+    "provider_id": "/g/1tkc1ldr",
+    "rating": 4.4,
+    "reviews": 358,
+    "type": "Promotional products supplier",
+    "types": [
+      "Promotional products supplier",
+      "Design agency",
+      "Print shop"
+    ],
+    "type_id": "promotional_products_supplier",
+    "type_ids": [
+      "promotional_products_supplier",
+      "design_agency",
+      "print_shop"
+    ],
+    "address": "1 Curzon St, London, W1J 5HD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "12 AM–7 PM",
+      "saturday": "9 AM–6 PM",
+      "sunday": "9 AM–6 PM",
+      "monday": "7 AM–12 AM"
+    },
+    "phone": "+44 20 7717 4900",
+    "website": "http://www.color.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"Really great resolution and quality print, and really fast service.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFT2iAO1RW5oG28YvejXYh_HT7uwmmlZwgkfGKOSEYAWHdPaEAffnsXwW_vPi_5IvHz0epGr7dRN_avg4NlRMm3oATTQHKpMMNP3f92OTxF47B7Ll0kl9ihhF3VBfjrsditQOJRwQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/0OHzo3icHcRJDoIwAADAFyEVNKiJh5IIuLDaiHghBroghRJaqfGHPsHfmDiH-X6YUoPcmCZn9owKQTl-SjxWole4V7NKdCYdpFFJQ5owidIWeshqYDzP8qXwrVUx4ce1YGWAnKfuOn7TtCX-MT7vCpgHdXLfQUJ6edV5OSVNudxPwRvgwR-dOovK-0QXEc_CzhYQoTQ4DmEYJTZZWzF6eQvHdU4ctHzdMObZF5c8Rlk3Ko0PmU63eg4AMNj_yuh_-RZFaw"
+  },
+  {
+    "position": 14,
+    "title": "WePrint London",
+    "place_id": "ChIJBX3TaFobdkgRZTNY9o0jqHM",
+    "data_id": "0x48761b5a68d37d05:0x73a8238df6583365",
+    "data_cid": "8333950203079439205",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b5a68d37d05%3A0x73a8238df6583365&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b5a68d37d05%3A0x73a8238df6583365&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.515955299999995,
+      "longitude": -0.13825199999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBX3TaFobdkgRZTNY9o0jqHM",
+    "provider_id": "/g/11j9hcmjm_",
+    "rating": 4.4,
+    "reviews": 92,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer"
+    ],
+    "address": "Mappin House, 4 Winsley St, London W1W 8HF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 3488 4914",
+    "website": "http://www.weprintinlondon.co.uk/",
+    "extensions": [
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      }
+    ],
+    "user_review": "\"The prints were top quality and delivered incredibly fast.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGXFPqoEVkm8508k5d4V5RlKY_CozUfIw6Rt2ThPD77qUa7GsPzX3NKe9CqpaOjRCAily5uiPQeGBPgsES4Ttxu-bmJTQYnYfAMSZ-kEFcgMGxqfLaIXwy_AMBaQg5i5js_YrFxQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/JvhqqXicHcRdboIwAADgE1WY2uGW7KEiNMyhLSIBXwh2pSA_BVsCekOP4G1M_B6-56PQulPfhlEXi5mQUtR8UPzKZKt5q2dMNoboFGAKKAORHa0QxrFLeulEVbOC5qqC_8sIBvU2SW15P-be-BnoeViQjWX1x8zCitzjxW7Lv-y-y_aXwEZlfYNDSSjHayKUc1iGehrAufkNadImOfIPJ1A5LhM-nvr8L_Pi8ZYif51RAUt4UWlydSf6M36YpgmK9wy0L7QtRV0"
+  },
+  {
+    "position": 15,
+    "title": "PrintHouse Corporation",
+    "place_id": "ChIJ02RsosIRdkgRsVngrWlHwiY",
+    "data_id": "0x487611c2a26c64d3:0x26c24769ade059b1",
+    "data_cid": "2792873238137428401",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487611c2a26c64d3%3A0x26c24769ade059b1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487611c2a26c64d3%3A0x26c24769ade059b1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.550453999999995,
+      "longitude": -0.115814
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ02RsosIRdkgRsVngrWlHwiY",
+    "provider_id": "/g/1vcjlqzm",
+    "rating": 5,
+    "reviews": 10,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Graphic designer",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "graphic_designer",
+      "print_shop"
+    ],
+    "address": "Units 42, 50, 10 Hornsey St, London N7 8E, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+      "tuesday": "8:30 AM–6:30 PM",
+      "wednesday": "8:30 AM–6:30 PM",
+      "thursday": "8:30 AM–6:30 PM",
+      "friday": "8:30 AM–6:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8:30 AM–6:30 PM"
+    },
+    "phone": "+44 20 8963 0123",
+    "website": "http://www.printhouse.co.uk/",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ZWeyV6X5YtyCL9Qy2S7Tg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=133.21397&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_pGRfnicHc1LDsIgFADA27CTX6O1JsSFWzdG429jKD6BhBZSnsXexmt5G40XmPm8HWLKK8YyDgA4eijJvyDkWdLUxmgD6OQzNbFjo2Donl3bax_WSffR35W8nmA6Ls7zC06bbbOb5L4-WGLamwkeelQZ9GActeUnDvFObcqkqCUnTjWSTLooUVVUiqqpSfJonOLkvzziqATnX1xeOS4"
+  },
+  {
+    "position": 16,
+    "title": "Charing Cross Print",
+    "place_id": "ChIJq0TAnM4EdkgRqEyFJ1LU_8U",
+    "data_id": "0x487604ce9cc044ab:0xc5ffd45227854ca8",
+    "data_cid": "14267355593848474792",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487604ce9cc044ab%3A0xc5ffd45227854ca8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487604ce9cc044ab%3A0xc5ffd45227854ca8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.509308,
+      "longitude": -0.12557959999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq0TAnM4EdkgRqEyFJ1LU_8U",
+    "provider_id": "/g/1tc_qh8q",
+    "rating": 4.9,
+    "reviews": 68,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Custom label printer",
+      "Design agency",
+      "Digital printer",
+      "Digital printing service",
+      "Invitation printing service",
+      "Packaging company",
+      "Packaging contractors and services",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "custom_label_printer",
+      "design_agency",
+      "digital_printer",
+      "digital_printing_service",
+      "invitation_printing_service",
+      "packaging_company",
+      "packaging_contractors_and_services",
+      "print_shop"
+    ],
+    "address": "8 William IV St, London, WC2N 4DW, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–6 PM"
+    },
+    "phone": "+44 800 772 0127",
+    "website": "http://www.charingcrossprint.co.uk/",
+    "user_review": "\"Friendly, efficient, good value, great quality and fast!!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3meuCmCG9EJQdHAQVgeg3_OgHGfz9AhlaGnLRw_fmQQlmVY7nH1UA8I5TC4QZ2NkpdE6yskxPXCcrG4jfwQZnaGVp9ra55SnRuQWp7bJAskgEXvAJZCYRSPWvxWYgEhgE2RE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/S-aGhHicHcRRboIwGADgEyEooMNkD03TFMniKG4gvBis5W8GLQ0F0R3QO3gbE7-H7_mQ42js1nU76S-g76ETkxUD7_Uo9LjgvXLBWIdbx7oo3bMWUV-JCStMI5KwS4xYDgL80zfEtPmPkOxqqr-y-dQoxjqVlxsdL3_Rxy78wQGrVvvWXMj6bttbesR8oMFfM7NK1zQ30VCH4UFnEyvM5pwg2wI5XlFS4TI7pMX1VpRAJJBVRj7nped5jnzPHf0C_4ZEQA"
+  },
+  {
+    "position": 17,
+    "title": "The London Printing Company",
+    "place_id": "ChIJzSDdSPsPdkgRYQQB2P3bkbY",
+    "data_id": "0x48760ffb48dd20cd:0xb691dbfdd8010461",
+    "data_cid": "13155537869823083617",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760ffb48dd20cd%3A0xb691dbfdd8010461&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760ffb48dd20cd%3A0xb691dbfdd8010461&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.508523999999994,
+      "longitude": -0.199188
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzSDdSPsPdkgRYQQB2P3bkbY",
+    "provider_id": "/g/1tdbdxnw",
+    "rating": 1.9,
+    "reviews": 39,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Corporate gift supplier",
+      "Custom t-shirt store",
+      "Digital printer",
+      "Embroidery service",
+      "Screen printing shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "corporate_gift_supplier",
+      "custom_t_shirt_store",
+      "digital_printer",
+      "embroidery_service",
+      "screen_printing_shop"
+    ],
+    "address": "135 Notting Hill Gate, London, W11 3LB, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7221 5552",
+    "website": "https://thelondonprintingcompany.com/?utm_source=GMBlisting&utm_medium=organic",
+    "extensions": [
+      {
+        "service_options": [
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true
+    },
+    "user_review": "\"Michelle pulled out all the stops and got it done on time and on budget\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFf9QGQFLgej8VWxWDWwYUQ7HyCqpzQb5xdB_DscmcQSzNAtfkqkuqabJ2tVN5Xux7r0aAPvRIeN8RSkaowsaGw1tEuG7l8lRBNvKcOhdLVaRPkgJ77ViWyiVnzuOtZBVs0wvpTZg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KPdoOHicHcRdboIwAADgEyF1Cykz8QH8wampFLVMX0yttbgiBdtS5IY7grcx2ffwvf4KY2o98v2y-BwIpUTJreYPpirDKzNg6u6LWntMe9qPUoRlNL9-4QTP14L_hiTv8mnuDnsMF89JU_f4HHSX-DTV7M7wtkeRucpG2oaelx-GoODHdvABaJS22TdHYbaVVDlNEzc0M5vAMiyzGLUrtikua0KzVIolhOSWP2-k6u3GHGOigWvr3VGM3RAA4BX_M696A4gfR4s"
+  },
+  {
+    "position": 18,
+    "title": "Southside Print",
+    "place_id": "ChIJubJY5lgDdkgRy2NrhhMQz1s",
+    "data_id": "0x48760358e658b2b9:0x5bcf1013866b63cb",
+    "data_cid": "6615524053676155851",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760358e658b2b9%3A0x5bcf1013866b63cb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760358e658b2b9%3A0x5bcf1013866b63cb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5005461,
+      "longitude": -0.0914387
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJubJY5lgDdkgRy2NrhhMQz1s",
+    "provider_id": "/g/12hm1j9nj",
+    "rating": 4.9,
+    "reviews": 218,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Lamination service",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "lamination_service",
+      "print_shop"
+    ],
+    "address": "27 Tabard St, London, SE1 4LA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+      "tuesday": "9:30 AM–5 PM",
+      "wednesday": "9:30 AM–5 PM",
+      "thursday": "9:30 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 7378 6754",
+    "website": "https://www.southsideprintse1.london/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Managed to work with our (rather large) print and did an excellent job.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAExfyJBk31vWtBSzAzKroFQe5XdrMQiql89tUYzmFgM2OINtaoIIb1yxEXI1RDlo_MnngqkxclrWnLaiB_1ivpemwzoxOyxaGe8bkLWcxSoVMvbmCIe0NnqzrPG253h-iekS4vG4g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ko2IknicHcRRboIwGADgE1WoaOJMfIBNSTdBkWy4JwNdV0hLf2g7LL3hjrDbmOx7-P5-W2sHsw0C2UYLDsAl-zFMU1CWKbug0Ad8MIgaZIL4nBci3rvv-TUREZ4qm5Q-9m8aDgVbX790VnSj3DzZ90_fH3i2PJHc1kBIg2e3vxJ8eZFwy5Tio3BU6kod6y654W4aWH_34E6zq1O2acSxoq6Ej2xq-mfCwlyNXp_T5TpqUcdEuZrSFd_dcRiGqP2fIvUA2FxH_w"
+  },
+  {
+    "position": 19,
+    "title": "Prontaprint Russell Square",
+    "place_id": "ChIJS-szXDAbdkgRnG04SnnDz-Y",
+    "data_id": "0x48761b305c33eb4b:0xe6cfc3794a386d9c",
+    "data_cid": "16631726874606202268",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b305c33eb4b%3A0xe6cfc3794a386d9c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b305c33eb4b%3A0xe6cfc3794a386d9c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.524033599999996,
+      "longitude": -0.1268187
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS-szXDAbdkgRnG04SnnDz-Y",
+    "provider_id": "/g/1vm_xc5w",
+    "rating": 4.8,
+    "reviews": 276,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Bookbinder",
+      "Digital printer",
+      "Digital printing service",
+      "Pen store",
+      "Photo lab",
+      "Print shop",
+      "Stationery store"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "bookbinder",
+      "digital_printer",
+      "digital_printing_service",
+      "pen_store",
+      "photo_lab",
+      "print_shop",
+      "stationery_store"
+    ],
+    "address": "63 Coram St, London, WC1N 1HB, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7833 3005",
+    "website": "http://www.pprussellsquare.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"High printing quality, fast and effective staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzogfULFR4Jj8Vw2WiuAIJcaUKaKkxQl0NTDqOhdCgy3IYPApOAomz62wiFQ22E_IRYGqT3gDtaIV_l3b6k4mjZY_5pZ-W-o-AnHIqSB6LAd60dEz79QVi9ihlxxNW4bW21gn_SLSdUwzk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Yq3PUnicHcTBboIwAADQL6rUwnCaeKgTZ5WgiEDwQrCwFiktrDUwfnLn_c0S3-H9_XJjOr2yLMHtGVOKieqpq2-qpKmkmVHVWqzTgGqgLXwOwgZ7k2Jfsb-7OIfHezKgtH5icqBFfCyOzRgKGFy3_YmXH-zHJtkZdyes2slFQ70LEfJycsk--6vNtqYgSS7su9s47eOW5W_dDaRAASz3pI82ro9LF5betFiGSb2suRjHIHXuKZozmUd-VMbD1KyHOYQQ8NcUyH9plEam"
+  },
+  {
+    "position": 20,
+    "title": "Adana Print Clerkenwell (Same Day Printing)",
+    "place_id": "ChIJ-TMN0K4cdkgRhxqDonyM3qk",
+    "data_id": "0x48761caed00d33f9:0xa9de8c7ca2831a87",
+    "data_cid": "12240375304169921159",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761caed00d33f9%3A0xa9de8c7ca2831a87&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761caed00d33f9%3A0xa9de8c7ca2831a87&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5223127,
+      "longitude": -0.08722869999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-TMN0K4cdkgRhxqDonyM3qk",
+    "provider_id": "/g/1tgnr47g",
+    "rating": 4.9,
+    "reviews": 1365,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Copy shop",
+      "Design agency",
+      "Digital printer",
+      "Packaging supply store",
+      "Poster store",
+      "Print shop",
+      "Screen printer",
+      "Sign shop",
+      "3D printing service"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "copy_shop",
+      "design_agency",
+      "digital_printer",
+      "packaging_supply_store",
+      "poster_store",
+      "print_shop",
+      "screen_printer",
+      "sign_shop",
+      "three_d_printing_service"
+    ],
+    "address": "18 City Rd, London, EC1Y 2AJ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "10 AM–5 PM",
+      "sunday": "Closed",
+      "monday": "8 AM–6 PM"
+    },
+    "phone": "+44 20 7837 6353",
+    "website": "https://adanaprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Quick turnaround, very high quality print work and really helpful staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGVZmj9UnebSTkewmr2CR5sZ75d2uHw-m1AQ8SO2td1LqeueveanLsfzrG2sEgnxKkXdMJFKWfe3xehUNUzwurzAbvD5Jr-96v4OQBQ-0qg7iCb78AKUXAoLEJAH4uJekjHnvQL=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RlQ03XicHcRJDoIwFADQE1UGRcTERcWBAA4VUeNO4FsUabUDGC7oGbyNiW_xvp9SqaccG8aj7Pco5_QBWoLIOVPAVC_ntUGfEuUSSQNv16TCy8O5vnspgyzZV9DWwvZ3jjy7TmHroEW1hcko2diqsOIXaGjgwmJ57cTSlnPK3lF1KlbhIjpeof-GMl2nXatFh7Nm5oQCecNmsCFTgswXdW9-5o5wlJ4wj-chDgY6hOoesIbEk9YyTROV_3PEfp05RNc"
+  },
+  {
+    "position": 1,
+    "title": "Printbox London",
+    "place_id": "ChIJ8-4fj58bdkgRLinVBbtH4Q4",
+    "data_id": "0x48761b9f8f1feef3:0xee147bb05d5292e",
+    "data_cid": "1072217054873200942",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b9f8f1feef3%3A0xee147bb05d5292e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b9f8f1feef3%3A0xee147bb05d5292e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5842678,
+      "longitude": -0.07478159999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8-4fj58bdkgRLinVBbtH4Q4",
+    "provider_id": "/g/11b7g1qdq2",
+    "rating": 4.9,
+    "reviews": 400,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Digital printing service",
+      "Passport photo processor",
+      "Photo lab",
+      "Photo shop",
+      "Picture frame shop",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "digital_printing_service",
+      "passport_photo_processor",
+      "photo_lab",
+      "photo_shop",
+      "picture_frame_shop",
+      "poster_store"
+    ],
+    "address": "52 W Green Rd, South Tottenham, London, N15 5NR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "8 AM–8 PM",
+      "sunday": "Closed",
+      "monday": "8 AM–8 PM"
+    },
+    "phone": "+44 20 7018 5678",
+    "website": "https://printbox.london/?utm_source=google&utm_medium=organic&utm_campaign=website-landing",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They delivered exactly as promised, and the printed goods arrived on time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXg1a6YRcdGvsQuyih2ayZtb78G40oB2V1YwJzCjd8qhv_cXmFx0jwhlY8RBXXSsT2tg7_9xo7gEnvf8s5rqXSnvAZ3TlFQbq6kLg7E8hGXDXC7nchceyd5vd--fSlaAv8LKTS37bEJ31e=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Wm4kcHicHcTRrsEwAADQL6p1G1oSD8NMkBuzRTovsnXVolrT6sxP3md_I3EezudfWHs3Y8-TIuxxrblkT8MeVCvLlO1RffP43QBqgPGi7V96jZaE--Ww2NE6cSZ9dmcRlN3BVggnfainwd4v2tV7dqlxI9yRktviBS-tkAXeTQnJTB5Yjo6jl0Y8Vu6EzeDRkEy56BDmcpFWzfC64SjGIiFzMkOKCsq6euBqAE6ZLCOHN-s8C1EVr0KfTVofQgjEbwrUF-dXR20"
+  },
+  {
+    "position": 2,
+    "title": "Print Farringdon",
+    "place_id": "ChIJU2UVKlIbdkgRoI3eJtPlbxI",
+    "data_id": "0x48761b522a156553:0x126fe5d326de8da0",
+    "data_cid": "1328533110150565280",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b522a156553%3A0x126fe5d326de8da0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b522a156553%3A0x126fe5d326de8da0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5211817,
+      "longitude": -0.1050652
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU2UVKlIbdkgRoI3eJtPlbxI",
+    "provider_id": "/g/11c2jp46gd",
+    "rating": 4.9,
+    "reviews": 119,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "T-shirt store",
+      "Vinyl sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "t_shirt_store",
+      "vinyl_sign_shop"
+    ],
+    "address": "76 Turnmill St, London, EC1M 5QU, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+      "tuesday": "8:30 AM–5:30 PM",
+      "wednesday": "8:30 AM–5:30 PM",
+      "thursday": "8:30 AM–5:30 PM",
+      "friday": "8:30 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8:30 AM–5:30 PM"
+    },
+    "phone": "+44 20 3757 5468",
+    "website": "http://www.printfarringdon.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They're super fast, friendly and very affordable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHoFwkZma5aE7OyS0_ARKXBI_bYhBGatF3oLRmFlPGD9Zk3DoI4J6z3n3ynnFlZeNGOZj3qRIu-hzgK6RSNOZfc48zKLBxvMJxDy2lFndog-1L9s9AT2LEURi6QIsMPb_PhUIx_Sw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3eBrS3icHcRdboIwAADgE1XQOiYmPkCwrIKAZSZbXwh2rN0ordoqPzf0CN5myb6H7_kQ1p7N2nGkgDOuNZfNzTRXppVtlJ0x3Tn8bAAzwDhBkR3a4E2jvqVd_VJvX_OxdKuAJB8hrk6fIoxri6BOSYdkEUc-bWGk8XLnTVDBUSkkaZPFOf2FF4JvQEw88UiZ5fSbLVdTkobDfb8bonEhkfrSHMxT3_jB-yLdHsmPd8BmX5yqQhzxUJX9pp-7rgvE_wyoP6PXRIk"
+  },
+  {
+    "position": 3,
+    "title": "Love Print",
+    "place_id": "ChIJGZiBoLocdkgR6FACfRl-6Xg",
+    "data_id": "0x48761cbaa0819819:0x78e97e197d0250e8",
+    "data_cid": "8712633602061521128",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cbaa0819819%3A0x78e97e197d0250e8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cbaa0819819%3A0x78e97e197d0250e8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5343393,
+      "longitude": -0.055926399999999994
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGZiBoLocdkgR6FACfRl-6Xg",
+    "provider_id": "/g/11bw1z9ltc",
+    "rating": 4.7,
+    "reviews": 32,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Display stand manufacturer",
+      "Event technology service",
+      "Neon sign shop",
+      "Print shop",
+      "Screen printer",
+      "Signwriting service",
+      "Vinyl sign shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "display_stand_manufacturer",
+      "event_technology_service",
+      "neon_sign_shop",
+      "print_shop",
+      "screen_printer",
+      "signwriter_and_manufacturer",
+      "vinyl_sign_shop"
+    ],
+    "address": "49 Mowlem St, London, E2 9HE, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 7613 7880",
+    "website": "https://www.loveprintgroup.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Amazing printing, very high quality, fantastic customer service!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH7Ye4HoHBV-WUyIZivxQk8H9YVs_3EAWpAK98ukS5R-qnuag87irKZQVL-IstnFk2eneDulWTMI1XkHP45erahMUUuVZhjGvo-cdpkMvak-drP5YcAZwkusjb6cu_Gbbo1qVy9AA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5qCEVHicHcTdboIwGADQJ_oEJiiY7KKLPyWOBZwU4cZAbagWW6Qt6iPuEXwbk52L8_rjxvR64Tgdn05apdqOWc0GqqRh0kyoujptr4Fq0A5KfzKB8LxkPlb4i0CRP-PqPD4yEeKoJPo4XaGiR9sotOI32MFN2roN5-dhW2XkG2Jt5Fp8MMmWtiv2SewdBE79gA01T_LckopfNqMCeupFMtYCTkMalBRVd2H1pZlRe9w0jfJu5Bkh9Hn3XNcF_j8F-QbdyEXx"
+  },
+  {
+    "position": 4,
+    "title": "ADANA Fleet Street",
+    "place_id": "ChIJC1E53xAFdkgRQa5dbBdDogc",
+    "data_id": "0x48760510df39510b:0x7a243176c5dae41",
+    "data_cid": "550075872374009409",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760510df39510b%3A0x7a243176c5dae41&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760510df39510b%3A0x7a243176c5dae41&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.513855799999995,
+      "longitude": -0.11005999999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC1E53xAFdkgRQa5dbBdDogc",
+    "provider_id": "/g/11w8vr929m",
+    "rating": 5,
+    "reviews": 314,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Copy shop",
+      "Design agency",
+      "Digital printer",
+      "Packaging supply store",
+      "Poster store",
+      "Screen printer",
+      "Sign shop",
+      "3D printing service"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "copy_shop",
+      "design_agency",
+      "digital_printer",
+      "packaging_supply_store",
+      "poster_store",
+      "screen_printer",
+      "sign_shop",
+      "three_d_printing_service"
+    ],
+    "address": "30-32 Fleet St, Temple, London, EC4Y 1AA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–6 PM"
+    },
+    "phone": "+44 20 7837 6353",
+    "website": "https://adanaprint.co.uk/adana-fleet-street-printers-same-day-printers/",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Great print quality, fast service and friendly staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHCkqMJJdPGsaE0zrXcn6_94g8sPJCgr-KNadrC0FgJ33mL1aWjVYHjgSdZOBJDT5jexe6Y1ts5ThhEXb9ZTESbpeA3OjrotP_gjyD2TLq6JUYQnSoppmuRo6GdxWqYur4TzKXoX1_rgx4U=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CLKN73icHcTBboIwGADgJ6qUgWQu2YEh01SnOOoELwRL8zdV2tKWjPmSO_s2S_Ydvsev8N64lyC4iWgGWsONj45bppXnys-Y7gMwDjGHXJAWu8M1XWfX4YOQrli5Nsd3WzGVNIsYnl1BMrBos2s7m-F3IFHUb8P2JL_qtYSyO-_fyJLOJZ94UofezakQeXVZnGleXgxPo7202hcNyJ_lE90OCTnWB1VqY_rxUyerbjoN9Whjet9UugobC1N8fP0OMcZI_M-Q-gOK5Uf7"
+  },
+  {
+    "position": 5,
+    "title": "Mount Street Printers",
+    "place_id": "ChIJNUPaECwFdkgR7tLkGhfIhnA",
+    "data_id": "0x4876052c10da4335:0x7086c8171ae4d2ee",
+    "data_cid": "8108388180688163566",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876052c10da4335%3A0x7086c8171ae4d2ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876052c10da4335%3A0x7086c8171ae4d2ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5104864,
+      "longitude": -0.14792529999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNUPaECwFdkgR7tLkGhfIhnA",
+    "provider_id": "/g/1vg_cbb6",
+    "rating": 4.8,
+    "reviews": 122,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Greeting card shop",
+      "Invitation printing service",
+      "Pen store",
+      "Print shop",
+      "Stationery manufacturer",
+      "Stationery store"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "greeting_card_shop",
+      "invitation_printing_service",
+      "pen_store",
+      "print_shop",
+      "stationery_manufacturer",
+      "stationery_store"
+    ],
+    "address": "4 Mount St, London, W1K 3LW, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "12–6 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–6 PM"
+    },
+    "phone": "+44 20 7409 0303",
+    "website": "http://www.mountstreetprinters.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The service is exceptional and the quality of their work is premium.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXqLg3RNeXpnUXfLubwVcJODpNYm9gbk4d-cCYhjBOOsHD3NtWYDd0ogdIfJpK4VwpWpLY-LM4hQ1ei5-Ccx0ZLd5XBkB1vaRQb1mWbjkrzkPR_kEsMlkfaJT59VNVAN7q5aaCQg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PO1UsXicHcRLToQwAADQExVKgEwwccHHZIYpZSDKx80ESmmlQDu0iPGGHsHbmPgW7_eHG6P0k23P3LWYlGymu6Ybkauhq7GIXGymNCAaaDu84UKE5-aBmFti2qj1rRnR3h8VSfNE4XYJWC-8AZC45VOU5_qcuNjUbTJAyYbLmKqrVx2qVqgFKPN44dAPH8TkC76jwW8iETmfXVn0zlL3k9i-xa28ixedzWLs0lc_qHAV4tPD77q4YM-HAyEE_H8C1j8BdkU9"
+  },
+  {
+    "position": 6,
+    "title": "Firstpointprint",
+    "place_id": "ChIJu1f-HiAFdkgRgbNeLmUs9nY",
+    "data_id": "0x487605201efe57bb:0x76f62c652e5eb381",
+    "data_cid": "8572087753827595137",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487605201efe57bb%3A0x76f62c652e5eb381&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487605201efe57bb%3A0x76f62c652e5eb381&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.4951416,
+      "longitude": -0.1423537
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu1f-HiAFdkgRgbNeLmUs9nY",
+    "provider_id": "/g/1tcvnrj9",
+    "rating": 4.8,
+    "reviews": 140,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Graphic designer",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "graphic_designer",
+      "print_shop"
+    ],
+    "address": "25 Wilton Rd, Pimlico, London, SW1V 1LW, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8:45 AM",
+    "hours": "Closed · Opens 8:45 AM",
+    "operating_hours": {
+      "tuesday": "8:45 AM–5:15 PM",
+      "wednesday": "8:45 AM–5:15 PM",
+      "thursday": "8:45 AM–5:15 PM",
+      "friday": "8:45 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8:45 AM–5:15 PM"
+    },
+    "phone": "+44 20 3051 8087",
+    "website": "http://www.firstpointprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Our printed reports were high quality and professional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgu6M-4M6nqHy9P79NY06eg93a4IIoZvkpJEy54pmVpht_8ErzpGWl6AVhfntQ9pGJZWh95zWebpoCNI5Ufc7j3be89Hj6tDHDoCRJC3l4Swhw9EkN1SUsKNaeLa9cq-DjvQckQA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZCUJcHicHcTbCoIwAADQL5oa6mxBD6LipRpZlNRL2FgbXrbZlmJ_2Cf0N0Hn4Xw_3BilV7bdcddiUrKOvjR9EikMFcYisreZ0oBooO1wj8s2TNkL7oC3g2LIZrQPEL44kDLk1l6ey-vYqiKZfU_1Z8XNbZk83yqtOhie-UOYEqm0uFYc-e-K3pWMcO6fHiRo3DtdoqyBJs5iGR2KyO2848QnlLR4cTzpDa7ptkZkAHEzlqQtw_W0cBwH8P8EiB-EFERV"
+  },
+  {
+    "position": 7,
+    "title": "Printpal London",
+    "place_id": "ChIJi3Cr8_0ZdkgR93rvEbuFhYQ",
+    "data_id": "0x487619fdf3ab708b:0x848585bb11ef7af7",
+    "data_cid": "9549185623415290615",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487619fdf3ab708b%3A0x848585bb11ef7af7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487619fdf3ab708b%3A0x848585bb11ef7af7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5999341,
+      "longitude": -0.1965458
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi3Cr8_0ZdkgR93rvEbuFhYQ",
+    "provider_id": "/g/1tdn3l27",
+    "rating": 5,
+    "reviews": 152,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner store",
+      "Digital printer",
+      "Digital printing service",
+      "Invitation printing service",
+      "Poster store",
+      "Print shop",
+      "Sign shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "digital_printer",
+      "digital_printing_service",
+      "invitation_printing_service",
+      "poster_store",
+      "print_shop",
+      "sign_shop"
+    ],
+    "address": "14 Hendon Ln, London, N3 1TR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+      "tuesday": "9:30 AM–6 PM",
+      "wednesday": "9:30 AM–6 PM",
+      "thursday": "9:30 AM–6 PM",
+      "friday": "9:30 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9:30 AM–6 PM"
+    },
+    "phone": "+44 20 8343 0099",
+    "website": "http://www.printpallondon.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "parking": [
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Printpal did a fabulous job with my banner design and at short notice too.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRLAdZj6p-j--DeUimDpOV2uV7L-WYQniIiH5gaNxS_Uy9KysW2rFljKDLgbYmt1qrcmqZPAfJenG0GZcBUmX7WoYCx-M8F7ECnCsoj7t-MGU_T_hQHovtULuGbkX9P-8E61E0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7_lTT3icHcRbcoIwFADQFV0JdgR1ph_Iy1a0oEYeP4zGNIAkQRKqrrBrcDfOeD7O87_SulNzw2irjxGTkrV0ULQnUmgq9IhIbrBOAVGgDCfeJBcn2EbOuWisDhoAj-Kae93PYTwc7AjSPBH1V72csOPmvivxY7Z6qHTcB22z8iJ2yrk2rz3h1yJ2fr-pCFFYkAXmmZ3K3L3DehrYvitcJRtbwzrE5b6skqX80zgawtMlm8Uw9S3TR583EyEE1XsC4gUvdUO3"
+  },
+  {
+    "position": 8,
+    "title": "Minuteman Press Camden",
+    "place_id": "ChIJo2GttXgbdkgRINhOy9B810s",
+    "data_id": "0x48761b78b5ad61a3:0x4bd77cd0cb4ed820",
+    "data_cid": "5464973909043370016",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b78b5ad61a3%3A0x4bd77cd0cb4ed820&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b78b5ad61a3%3A0x4bd77cd0cb4ed820&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5485231,
+      "longitude": -0.1287643
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo2GttXgbdkgRINhOy9B810s",
+    "provider_id": "/g/11jv6shf5b",
+    "rating": 4.9,
+    "reviews": 157,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Business center",
+      "Commercial printer",
+      "Corporate gift supplier",
+      "Custom t-shirt store",
+      "Digital printer",
+      "Graphic designer",
+      "Promotional products supplier",
+      "Sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "business_center",
+      "commercial_printer",
+      "corporate_gift_supplier",
+      "custom_t_shirt_store",
+      "digital_printer",
+      "graphic_designer",
+      "promotional_products_supplier",
+      "sign_shop"
+    ],
+    "address": "175 York Wy, London, N7 9LN, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7228 1555",
+    "website": "https://minuteman.com/uk/locations/england/camden/",
+    "description": "Mainstay for printing & related services. Chain with a range of print-related products & services, including business cards & signage.",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Amazing custom service, great quality printing for a very good price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFYoYozNKTnuwLZ0bc4aR4j05xpkQdejd3vhu-QeN1I2-rwDDFheggtT6Xdx2utPj4Y1_nowQb5V0BmIdV1wJ_gg-6tVWRt2Ga1DCz8klspPP-5p5TRRhpI9WJ-d1kRuPNkGlg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kcIShnicHcRRbsIgGADgE_0WamucyR50jabONJQ01fpiFAikVCACw3hA77DbLNn38P2-VQjOr7JsUvOZtFZOInrxYNYEYcKM2XsmnQfmwWdr0rR6vR3sYF_Nd2diOpzRjRVXWoyofDrdcjHy-Y-K0IoG1zk8UlVtlZAydIsTf-YxkLEY8MXY1N7KHm3uNe9x2l-khEXojzTkuyuuvl5LPXlHCJSu7ChVrv447oFjTSNp9G6SnwkjhED9z8D8AUADREo"
+  },
+  {
+    "position": 9,
+    "title": "Print Club London",
+    "place_id": "ChIJJb1cjoscdkgR2YGP_3X3t80",
+    "data_id": "0x48761c8b8e5cbd25:0xcdb7f775ff8f81d9",
+    "data_cid": "14823588784684106201",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761c8b8e5cbd25%3A0xcdb7f775ff8f81d9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761c8b8e5cbd25%3A0xcdb7f775ff8f81d9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5524401,
+      "longitude": -0.0744335
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJb1cjoscdkgR2YGP_3X3t80",
+    "provider_id": "/g/1tdx_cn4",
+    "rating": 4.8,
+    "reviews": 176,
+    "type": "Arts organization",
+    "types": [
+      "Arts organization",
+      "Art studio",
+      "Interior designer",
+      "Painting studio",
+      "Picture frame shop",
+      "Screen printer",
+      "Screen printing shop",
+      "Screen printing supply store",
+      "Store"
+    ],
+    "type_id": "arts_organization",
+    "type_ids": [
+      "arts_organization",
+      "art_studio",
+      "interior_designer",
+      "painting_studio",
+      "picture_frame_shop",
+      "screen_printer",
+      "screen_printing_shop",
+      "screen_printing_supply_store",
+      "store"
+    ],
+    "address": "10, 28 Millers Ave., London E8 2DS, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "+44 20 7254 9028",
+    "website": "https://www.printclublondon.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Lovely print, beautifully wrapping & arrived very quickly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGf2KfsCkx8EvCAV0tty5lDuOuiCqI_eCR6jUvmdo4DMt4oLuRDfaowqEsVpRFMr8fLba9Rmr6mH67DhVb7sQ3ljuRFv70GDCAqEsxxxYJRmJnjzf2J7oqkjQV-307F1CgtoGAa=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/z-BTYHicHcpNjoIwGADQE1WqONQxcdG0gjL-0WRIZjVBhsIA5QPaInpBz-BtNG7e6j3uhTGtXjpOXbiTHCCvM6uzPoXGZI2ZpKCcvNUo1Ug79HSIKhrI2ZfUrBoX64HRGBtz_ai5Pdp_1m1_Mya88ntQfzDnezOHnRVcJnDp1jpuhb_vF3J3Tj6F6j218Qgv4jPRkVuXVvgDwQFn9FXHcfwJhQqb8iZnIYGuKqMYuZj4U5YbCGiyukwxxqh4m6LmCa5fRR8"
+  },
+  {
+    "position": 10,
+    "title": "Kopykat Printing Ltd",
+    "place_id": "ChIJBWJib7ocdkgRb-PNQtEi0dQ",
+    "data_id": "0x48761cba6f626205:0xd4d122d142cde36f",
+    "data_cid": "15335076488337548143",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cba6f626205%3A0xd4d122d142cde36f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cba6f626205%3A0xd4d122d142cde36f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5262186,
+      "longitude": -0.07874679999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBWJib7ocdkgRb-PNQtEi0dQ",
+    "provider_id": "/g/1tgvd3fs",
+    "rating": 4.8,
+    "reviews": 105,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Invitation printing service",
+      "Mailing service",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "invitation_printing_service",
+      "mailing_service",
+      "print_shop"
+    ],
+    "address": "76 Rivington St, London, EC2A 3AY, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 7739 2451",
+    "website": "http://www.kopykat.co.uk/",
+    "extensions": [
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "user_review": "\"High-quality printed presentation decks were ready within a few hours!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHC2bjdsFpXgnSBW9EWvTRNgYnAXAYiKRfXvuC7QB8j7HhdIflYgKOsrYgTvNr_6Y4xOiBV5DDnmDqfROgYSrj7l9ITxCrgMIZoCjdJIDqN2J_cfHUx9iXMENMlAruUgWMlCSCovw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HxwsznicHcTbboIwGADgJ0LwNGSJF6W4gIYyOQzqjYkFfsDaYgvIK_oIe5sl-y6-33czDL3-NE3erBcgJfBq1JViUgyVGBZMPkzotcG0oU30Tc535OPVrSv1V1-ASNzcOeRTGhOgAhWItqe4LqYR22d319l-UwY1p3CKtKKQTkRdP-hmjlr3Z-t54uE96zgCmqjO5k6QzlhBGFwk7spj4D3J6nhltZ_NTluEBxJypMYM8pDjBMvptX8tLcsymv-ZIf4AJjdGNQ"
+  },
+  {
+    "position": 12,
+    "title": "Panopus Printing PRS Ltd",
+    "place_id": "ChIJFxs8PGUbdkgR16LJ3e4MmZc",
+    "data_id": "0x48761b653c3c1b17:0x97990ceeddc9a2d7",
+    "data_cid": "10923776591226577623",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b653c3c1b17%3A0x97990ceeddc9a2d7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b653c3c1b17%3A0x97990ceeddc9a2d7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.545593999999994,
+      "longitude": -0.10378899999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFxs8PGUbdkgR16LJ3e4MmZc",
+    "provider_id": "/g/1tdlgsgl",
+    "rating": 4.8,
+    "reviews": 186,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service"
+    ],
+    "address": "13 Swan Yard, London, N1 1SD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+      "tuesday": "9:30 AM–5:30 PM",
+      "wednesday": "9:30 AM–5:30 PM",
+      "thursday": "9:30 AM–5:30 PM",
+      "friday": "9:30 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9:30 AM–5:30 PM"
+    },
+    "phone": "+44 20 7354 1568",
+    "website": "http://www.panopus.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"GREAT customer service, very high quality prints, reliable and efficient.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCsvjbrck9g_18doUfyeuFE2ELgNM58bM1zwocsYT7jOb12-VBqwcOPxmusCHcfOmbgfDJdsWgClqZie1_R5F4imnJCtdATwRbyeI6bu92LCr0NM4GGFkEG0KHrP7UuWi4f39bNA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FWfmt3icHcRZjoIwGADgE1VaxIVJfMAKuLGMEY3zYtJSCrJU-dtB54ZzhLnNJH4P399vqfUdPiyrKccjqZRshAHRc9Vp0ekRV60l74A4ILC8NP6svYDC9431vHbllcxzlRUvYQLf9vcyjiZzFpGfQXG4HGe3hBEbnZaPgSfpszVA17xIWiaL1TaHs6TN46sS5HqYBE7Vdluqc-84HNhLbKbMuPae9jiOnDAMaj_Eu3WfzjJzrpxi7LLYWwwEY4zK9xx1_y3wRSc"
+  },
+  {
+    "position": 13,
+    "title": "Nevex Printing Centre",
+    "place_id": "ChIJQ1LoJTkbdkgRs1foo7s5ezw",
+    "data_id": "0x48761b3925e85243:0x3c7b39bba3e857b3",
+    "data_cid": "4358140542482667443",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b3925e85243%3A0x3c7b39bba3e857b3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b3925e85243%3A0x3c7b39bba3e857b3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5295614,
+      "longitude": -0.1204874
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ1LoJTkbdkgRs1foo7s5ezw",
+    "provider_id": "/g/1hm43d5ck",
+    "rating": 4.1,
+    "reviews": 468,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Digital printer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "digital_printer"
+    ],
+    "address": "285 Gray's Inn Rd, London, WC1X 8QD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "+44 20 7837 5173",
+    "website": "https://www.nevex.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Printed in such a short space of time and such amazing quality.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFkzYRnzhHQG0AiWZu4iC-iNt2xQCmflE4IW8HIftqgojgix4NF0EilWJz9ob7DazIkN8BLfeU9fQif9pk4vs1KICbYpwn25yTxmjwfnhhocJ67njUr5VaOlZEItSSyGjaq06um=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5RKPU3icHcTbEoFAAADQL1otCpnxkITFRG6N3rLTXmrbjd2UftA3-BszzsP5fpgxlZ5almDDHlWKiqzW2RMraTJpeliVFq00wBpoyzuEUeEti-52lB1bRyvo8Tipbe4DHppBG_klEYGN4skaEfOgKqe8tcMlDLiIN52r7uNF2qEinMx3JLu4JOLErQr7pftb5N9vVSMHzvvclnlDJGMKb0ZjmV-ezjXdiyRA5nR6r_L0AUd1OWv6EELA_mMgf7SKRgI"
+  },
+  {
+    "position": 14,
+    "title": "ez printers",
+    "place_id": "ChIJ7dobbsscdkgRkrJ74KEaN74",
+    "data_id": "0x48761ccb6e1bdaed:0xbe371aa1e07bb292",
+    "data_cid": "13706453273483653778",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ccb6e1bdaed%3A0xbe371aa1e07bb292&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761ccb6e1bdaed%3A0xbe371aa1e07bb292&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.517794099999996,
+      "longitude": -0.070829
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7dobbsscdkgRkrJ74KEaN74",
+    "provider_id": "/g/11b60p_f84",
+    "rating": 4.8,
+    "reviews": 220,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Poster store",
+      "Screen printing shop",
+      "Sign shop",
+      "T-shirt store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "poster_store",
+      "screen_printing_shop",
+      "sign_shop",
+      "t_shirt_store"
+    ],
+    "address": "16 Brick Ln, London, E1 6RF, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+      "tuesday": "9:30 AM–7:30 PM",
+      "wednesday": "9:30 AM–7:30 PM",
+      "thursday": "9:30 AM–7:30 PM",
+      "friday": "9:30 AM–7:30 PM",
+      "saturday": "10 AM–7:30 PM",
+      "sunday": "Closed",
+      "monday": "9:30 AM–7:30 PM"
+    },
+    "phone": "+44 20 8144 0304",
+    "website": "https://www.ezprinters.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Great service, fast turnaround, great quality and would happily use again.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZIBvd_0haqi5kJIpGfGVnFACARqeAxu2_2KGotzPWEVx5MOZy4GGjG6jwWqcoeL-2PwRzL2WNu-52Ykt3JvJhHZS6P3AwZofn1XjCBFSPHNF6kAbwmZzNQlYSK-g4MRCKOVB3Ww=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/F49WznicHcRRboIwAADQE1WwCB8mfhQyiqBYIYHZH7PVSgVswRbruOGO4G2W7H28968wZtBrx-mFt2iUano-af5gShouzYKpu9MMGjANtINIfuxQQrfh83J2xdd487t0O-ArrmSMIlSMHL0meIYZVmYm9Uf18vcH-rPCuMVBa-uRKb4DkNhi3sE6n4APT53x0mcqEloGxEOWqqtcfrZRGJckyeOgQ9_2Tuf82J_KDDSrfRFlhyr0aruxS9d1gfifAfkHwIFEVA"
+  },
+  {
+    "position": 15,
+    "title": "Minuteman Press Aldgate",
+    "place_id": "ChIJ63s_obQcdkgRmiJq_kT8DzM",
+    "data_id": "0x48761cb4a13f7beb:0x330ffc44fe6a229a",
+    "data_cid": "3679436793841328794",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb4a13f7beb%3A0x330ffc44fe6a229a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb4a13f7beb%3A0x330ffc44fe6a229a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.51602,
+      "longitude": -0.0760086
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ63s_obQcdkgRmiJq_kT8DzM",
+    "provider_id": "/g/1hc27yczj",
+    "rating": 4.8,
+    "reviews": 99,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner store",
+      "Blueprint service",
+      "Copy shop",
+      "Digital printer",
+      "Graphic designer",
+      "Promotional products supplier"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "blueprint_service",
+      "copy_shop",
+      "digital_printer",
+      "graphic_designer",
+      "promotional_products_supplier"
+    ],
+    "address": "58-60 Middlesex St, London, E1 7EZ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 7247 0317",
+    "website": "https://uk301.minuteman.com/",
+    "description": "Mainstay for printing & related services. Chain with a range of print-related products & services, including business cards & signage.",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"Really friendly, helpful and exceptionally fast printing shop.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXBuH6Ymoyb-bci6CiFoS8t5_nbVFfqN6OWZegGrxgNLIsgR21onleYBUGEr4Oer2clHw_KHnb5ctcJdNGUQDH3dFtGXhJzy49YKN79rm6tsAAmYiRCvzUsCjAV3Zzv7WfxJJK8g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PJZSc3icHcThEoEwAADgJ5oiEnd-TFSWG-VC_rhrZkVt2YbqDT2Ct3Hn-_F9P7nWtZoaRplbPSYEK-lTUUkE15TrHhGVwWoFiALKgFsc3eHyOH8GdlqJNgMZKWy38MTO0aMzz_be9YHtzeFEmS8bhtcrxeJBX_CSpvPEX8rhhsoBKYP3OQx4NiKaoAv2k2gRWBdP-8ccde1wkoZ4PJGVrRWEVVrE7qtLlHuDe-vUvcaHa4NQ6LDZu2-aJsj_E8B_G1lFzQ"
+  },
+  {
+    "position": 16,
+    "title": "SimplyPrint",
+    "place_id": "ChIJR9yXmDYbdkgRKv9K0Liw07c",
+    "data_id": "0x48761b369897dc47:0xb7d3b0b8d04aff2a",
+    "data_cid": "13246125236841807658",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b369897dc47%3A0xb7d3b0b8d04aff2a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b369897dc47%3A0xb7d3b0b8d04aff2a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5247513,
+      "longitude": -0.1068885
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR9yXmDYbdkgRKv9K0Liw07c",
+    "provider_id": "/g/1ptwrcsrc",
+    "rating": 4.8,
+    "reviews": 254,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printer",
+      "Stationery manufacturer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printer",
+      "stationery_manufacturer"
+    ],
+    "address": "40 Bowling Green Ln, London, EC1R 0NE, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–9 PM",
+      "friday": "9 AM–9 PM",
+      "saturday": "9 AM–3 PM",
+      "sunday": "9 AM–3 PM",
+      "monday": "9 AM–9 PM"
+    },
+    "phone": "+44 20 7117 2844",
+    "website": "https://www.simplyprint.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"... day, very responsive, reasonable prices, and high quality printing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFb6_LFbPg3rvn4ZmnZQwe1eJ7USx7oGHEPvES8I6Pl17nd3YlYKiz1NLKw59CK9Szb81T-Qrb79gC6nAbCVBaUBVx26qh6U_CpWWldkiwrGhlgiyMrE_SnNV4NhRW6PCMgMp90UhPb_sg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dXmUVHicHcTNboIwAADgJ6rQoUWW7IAN-IOQMgQiF2KxaYm1ZS0T50Pu7tuY-B2-578Yx8F-Oo4U3oxrzSX7tcx0Wo1MjbNOXx0-WNBZYJ2QZPkljClq9zEl3DM3NW-uqsknBtnOL4u7r9ebiNyiYrlFREJfnb2jPCb9A2b7ZFoEOAmKB13CA8gN9QOOkQoprlanclXdP9CPQGWLh7qW50s_mbWQvP9LTdQWKqvmmfiuEcEpT4fALQWhreVfE3RdF4j3HVAv50FGKg"
+  },
+  {
+    "position": 18,
+    "title": "Print London",
+    "place_id": "ChIJIdqjKS4mKCMRrMMU0Ebe-G0",
+    "data_id": "0x2328262e29a3da21:0x6df8de46d014c3ac",
+    "data_cid": "7924327940078486444",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x2328262e29a3da21%3A0x6df8de46d014c3ac&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x2328262e29a3da21%3A0x6df8de46d014c3ac&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 47.73855,
+      "longitude": 12.508827499999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIdqjKS4mKCMRrMMU0Ebe-G0",
+    "provider_id": "/g/11k9z4t0xm",
+    "rating": 4.9,
+    "reviews": 17,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Service establishment"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "establishment_service"
+    ],
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+      "tuesday": "7 AM–10 PM",
+      "wednesday": "7 AM–10 PM",
+      "thursday": "7 AM–10 PM",
+      "friday": "7 AM–10 PM",
+      "saturday": "7 AM–4:30 PM",
+      "sunday": "Closed",
+      "monday": "7 AM–10 PM"
+    },
+    "phone": "+44 20 3283 8520",
+    "website": "http://www.printlondon.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Great to find a reliable Printer who have a super fast turnaround time.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFq9SYhoEk4QDEzK9PIe8ZHb1Ko32g7zE3x04QQwZ2qGWgObyRaWuDKs6GASrx3TNZo3sPFLw1K9ECdncXKZygynHzR0oNUpw7C2liVLT6G9Et4ARJwONOZ4aDzaNW2Z_z0JJ6YbQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qvO1wHicHcRRboIwAADQEyGFEhwm-yBScdQUijpmfxboSFnEFm1NpTfcEXYbE9_H-_8bjJn0yvfHAS6EUmLs77q_cSVNL82Cq4svJu1x7Wk_rQg9p5trsj8NCp0jmiGHk-qjf2PbLsAKhmLpEHyAiFLLwmveiLKb67a5Z1jHebq_PeCBMAV1tdnZACdo_SP5F2azmOXW1UCR42SX63D8_dwd4jxBJkrrwpakZFGbuZY0Ift2oCjiU0ffbQAA8IbX3JNPayVD0g"
+  },
+  {
+    "position": 19,
+    "title": "Prontaprint Crawford Street",
+    "place_id": "ChIJ23tjIMwadkgRXZHNrev6FKM",
+    "data_id": "0x48761acc20637bdb:0xa314faebadcd915d",
+    "data_cid": "11751293217856655709",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761acc20637bdb%3A0xa314faebadcd915d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761acc20637bdb%3A0xa314faebadcd915d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5201223,
+      "longitude": -0.1570372
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ23tjIMwadkgRXZHNrev6FKM",
+    "provider_id": "/g/1td8ylxb",
+    "rating": 4.4,
+    "reviews": 72,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Digital printing service",
+      "Graphic designer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "digital_printing_service",
+      "graphic_designer"
+    ],
+    "address": "129 Crawford St, London, W1U 6BH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7486 7578",
+    "website": "http://www.prontaprint-london.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Friendly staff, great quality products, and quick turnaround.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG0S2-5wp69XWLeQtuqlqHX7yIuIKSLeX9aCCDOR4OuqK0rNC-tX0vDNgdvhgawzUGcn2j7sp9nIldcmt-kXuXDmHD_alHf8jnkNIttujFCuK_-9WCyex7Z8EQFgkrYYL7-xi5n=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xOIJYnicHcTdboIwGADQJ_qk6hQx8cKUIQSCojHW3RhSuiKU8tOvonvBPcPeZonn4vz9loidWTuOKucT2bZSCWvEwFuNQuOEt40jOwPcgHG2hzSrtztymsFi7JYeuyQiQ9urPmTuK7JRfEoE83JK_f3xY2_7mAwpBWTk4aeyeJQyH3_OO65nlWs6T0eq4A1CzSzzm9C_5Sr8XlW6TiNEWwXUxjfwLvQlnu7X6jMLZD1cr4kLz_tCb8YpIQTK9xz0P2GpRRw"
+  },
+  {
+    "position": 20,
+    "title": "Prontaprint Kensington",
+    "place_id": "ChIJX3zHR_IPdkgRyWUx-QYRbGk",
+    "data_id": "0x48760ff247c77c5f:0x696c1106f93165c9",
+    "data_cid": "7596465393115424201",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760ff247c77c5f%3A0x696c1106f93165c9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760ff247c77c5f%3A0x696c1106f93165c9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.4976188,
+      "longitude": -0.1975527
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX3zHR_IPdkgRyWUx-QYRbGk",
+    "provider_id": "/g/1td37qmc",
+    "rating": 4.6,
+    "reviews": 182,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Custom t-shirt store",
+      "Digital printing service",
+      "Passport photo processor",
+      "Poster store",
+      "Print shop",
+      "Screen printer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "custom_t_shirt_store",
+      "digital_printing_service",
+      "passport_photo_processor",
+      "poster_store",
+      "print_shop",
+      "screen_printer"
+    ],
+    "address": "39 Earls Ct Rd, London, W8 6ED, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5:30 PM",
+      "wednesday": "9 AM–5:30 PM",
+      "thursday": "9 AM–5:30 PM",
+      "friday": "9 AM–5:30 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5:30 PM"
+    },
+    "phone": "+44 20 7938 2090",
+    "website": "https://kensington.prontaprint.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"Best print, really accurate and good quality, good price\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkplBMD0pRw3JdddRIdKkJR66J73t3qy4jorV-m95DBQ3Zr9L1ETyjOg87eN4upc920HtnXDlx7t-xsvr5R5xmm_w-zaikBtY0Hn1VGVVLIDX1-YV9sW6Y_Quk13sJ-QV2QOV91g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Di6ib3icHcRRboIwGADgE_3SWoF1iQ8SjMqcrsR04osxhRQttB0tA72hR9htTPY9fH_P2nvr3oOgqclEGiObqndVJ4z2lfYTYdpAWgfCgQsWXzumFitlm-QzRTYfSFaWZb4pP1SWR1EWE09-7rOb6Ti0NEwTRk4d3eLl4X7by7e42s16K-gUrb0-ps0Yexjdbxfm4di25wEel6tKfIHWGvMV59tNesRQcOq-o-LMeoWJy4DxKdtziuV8wAghqP8XoF9uYEN_"
+  },
+  {
+    "position": 1,
+    "title": "Bestype Printing NYC",
+    "place_id": "ChIJfXXl44pZwokRWlLMlFzDDLc",
+    "data_id": "0x89c2598ae3e5757d:0xb70cc35c94cc525a",
+    "data_cid": "13190132211062166106",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2598ae3e5757d%3A0xb70cc35c94cc525a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x89c2598ae3e5757d%3A0xb70cc35c94cc525a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.7208373,
+      "longitude": -74.0046332
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfXXl44pZwokRWlLMlFzDDLc",
+    "provider_id": "/g/1tddypl2",
+    "rating": 4.9,
+    "reviews": 271,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "sign_shop"
+    ],
+    "address": "285 W Broadway, New York, NY 10013",
+    "country": "United States",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "(212) 966-6886",
+    "website": "https://www.bestypeimaging.com/",
+    "description": "Downtown supplier of a range of print and binding services.",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Checks",
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"The prints came out amazing , the colors were vibrant and true to my design.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAErIoDmlKKJZEz7rGtvUgpltzw6h2CeKnAUnrBzuXXEXCSTd_DqSuApsU5svzNZqssGm9EzKVoeaE7Y544CeY-XIXzznG5ME-aKKtLGvBjGkTb8PrgBIH3kcJSIrPqdZGi37DMRnQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KYzB93icHcTdboIwGADQJ6rgEHFLdsFPU7HT4JClcrO42hQFWuhXMOkb7hH2NiY7F-fvt7F2gDfP65pgIbWWnZhAGK6VFcouuO49OQDigMCLi8OxjbHJddZ3lO5q7CJD7FzJobPusW5eUkFVXCmTuIkxzNLydP3OxnKKB6hCmN2hHgFI_4od_dLigqNzuFql4oxYzpxTJNxjdKHUfpA5uZP29LMpjEzybdDyXZmbYrzW5BZE2f5THd8fS9_3UfM_R-oJgrRGJw"
+  },
+  {
+    "position": 3,
+    "title": "Light Print London (Same Day 24 Hours Printing London)",
+    "place_id": "ChIJ3ZyEaA0ddkgR4aDWIxpMgvQ",
+    "data_id": "0x48761d0d68849cdd:0xf4824c1a23d6a0e1",
+    "data_cid": "17618728367380930785",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d0d68849cdd%3A0xf4824c1a23d6a0e1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d0d68849cdd%3A0xf4824c1a23d6a0e1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5207528,
+      "longitude": -0.0504899
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3ZyEaA0ddkgR4aDWIxpMgvQ",
+    "provider_id": "/g/11w25l4gfz",
+    "rating": 4.8,
+    "reviews": 297,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Copy shop",
+      "Custom label printer",
+      "Custom t-shirt store",
+      "Digital printer",
+      "Digital printing service",
+      "Photo lab",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "copy_shop",
+      "custom_label_printer",
+      "custom_t_shirt_store",
+      "digital_printer",
+      "digital_printing_service",
+      "photo_lab",
+      "poster_store"
+    ],
+    "address": "140 Mile End Rd, Stepney Green, London, E1 4GL, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 7873 340761",
+    "website": "http://www.lightprint.co.uk/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"These guys turned around perfect printing and delivery in record speed!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTvNGj_0dGgceE9CWJ12k9GQYY0b_xOrw7l4E_exgWhuY88azRfoKdGctv9hVinTJ4aAiN_R5m9h_ZB8ihyT2P-8FKmeTPuhnCPOxs3CPvO7sIi7hAKrB32wWrmYm8btf723vuzQJg25-A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UATQynicHcTNboIwAADgJ6rUoqEs2aESh4MEiiEj7NJorS1KW0PLz3zJnfc2S_wO39-v8v7h3oKgV-FKWit7MToxcGu8MH7FrQ7kwwHugAsILao7OdRTkd4YvKSSi32cNNka3eO0alt4Zks5zFG_2TOxyEaNLcan5_Fq80vK_RSrr87U2eZEuoIdtzpW7HuHO_VTIwrwR65FTUdlElouLkzoVEbus4sUyYddiOZm0K3GZ3-NUDiNzyqTaAvI-7yGEAL1mgPzD4rnRuc"
+  },
+  {
+    "position": 5,
+    "title": "Large Print London ( Same Day Printing 24/7Day )",
+    "place_id": "ChIJrVoCrsIddkgR3bugUtFEHss",
+    "data_id": "0x48761dc2ae025aad:0xcb1e44d152a0bbdd",
+    "data_cid": "14636211504825809885",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761dc2ae025aad%3A0xcb1e44d152a0bbdd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761dc2ae025aad%3A0xcb1e44d152a0bbdd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5219404,
+      "longitude": -0.018101
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrVoCrsIddkgR3bugUtFEHss",
+    "provider_id": "/g/11sdm_l6yj",
+    "rating": 4.8,
+    "reviews": 193,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Custom label printer",
+      "Custom t-shirt store",
+      "Digital printing service",
+      "Invitation printing service",
+      "Poster store",
+      "Sticker manufacturer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "custom_label_printer",
+      "custom_t_shirt_store",
+      "digital_printing_service",
+      "invitation_printing_service",
+      "poster_store",
+      "sticker_manufacturer"
+    ],
+    "address": "7 Corsican Sq, London, E3 3YD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 7761 603211",
+    "website": "https://largeprint.london/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Great service, quick printing, and high quality.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF5NZCSjNdFWUDlzP8NgNO6vS9CKJc6134_P9l8I3lHNYmhUiprL_s8G8xp-JfofnR3Wzaidk6Xdfbrq9-SE7i1XECXJ3Ijnl1K0Ge3gPGb9ha90XOVfZW3gGMELLKR3okhKr1d=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HcXQ5nicHcRdDoIgAADgE5EwyqSth2ZmqZHlSuulFSqYBCb2sy7YGbpNW9_D9_2IrmvMyLKkwD2uNZfF3RQt06orVNdj-mrxxgBmgLEmMV3Xk9mAHtzkQvNZup3Kd-xQTlf2IyFuGDAb4f4xJtJZYDmn-6vYVk0bHY3jO68GBKUu1Qan71OV13aWl-f2RkDiDSuUeW4W4MVFSRRCv8A89s9EnAjMVrvykGLuL70oCjdY1yJsUT5-IgghEP8ZUD-yPUKZ"
+  },
+  {
+    "position": 9,
+    "title": "Promitech Print and Signs, SAME DAY 24 HOUR PRINT SERVICE",
+    "place_id": "ChIJf0wIkNYcdkgRhdTT2YHlCRg",
+    "data_id": "0x48761cd690084c7f:0x1809e581d9d3d485",
+    "data_cid": "1732167877568746629",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cd690084c7f%3A0x1809e581d9d3d485&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cd690084c7f%3A0x1809e581d9d3d485&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5182374,
+      "longitude": -0.06755889999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf0wIkNYcdkgRhdTT2YHlCRg",
+    "provider_id": "/g/11f_4s81h8",
+    "rating": 4.9,
+    "reviews": 267,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Custom label printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Screen printing shop",
+      "Sign shop",
+      "Sticker manufacturer",
+      "Website designer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "custom_label_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "screen_printing_shop",
+      "sign_shop",
+      "sticker_manufacturer",
+      "website_designer"
+    ],
+    "address": "25 Greatorex St, London, E1 5NP, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 7931 186796",
+    "website": "https://www.promitech.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They printed 5 booklets for us with amazing quality and really fast.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHqA9HBb6OzStH2b5weOwp-KA_AjCwBMhL1YJx0EWookn9uU6eERYW1hX7gbm7DAL0H5LsJeNJZPJI_A2PAv3ix3YHbwT7M0xfOdzY6eBztsLCb9ObE13caTIEedGNLY8xuSAxUZQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/IRVXtHicHcRRboIwGADgE1WKRJAle_hRssoq4NS4-mJs7ahTKVvL2nBDj-BtTPY9fI-7srYzL0FwVdGo0bq5yt7IX6FbK1s7EvoWNJ1BwiATQF2uLkB-ICUZj6thbcmYT5ysXIfe4QDfM5ctFQ1Z4XG-0_rSpv02lvkH24XqM2n4LZkDxWRCTSHLYl8XiwOMa_iLzj5ihLtNssT-qzoNLJbZYA2d8bTieRiJ42aRy9NbSdnU92vw2_3q1YUYY6T-F6h9Al_LQ9g"
+  },
+  {
+    "position": 10,
+    "title": "Citiprint Same Day Signs London 24/7",
+    "place_id": "ChIJGwMKntw-dkgR8Ld9XwvE83w",
+    "data_id": "0x48763edc9e0a031b:0x7cf3c40b5f7db7f0",
+    "data_cid": "9003755633169512432",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48763edc9e0a031b%3A0x7cf3c40b5f7db7f0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48763edc9e0a031b%3A0x7cf3c40b5f7db7f0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5927455,
+      "longitude": -0.23673129999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGwMKntw-dkgR8Ld9XwvE83w",
+    "provider_id": "/g/11clzgq494",
+    "rating": 4.5,
+    "reviews": 92,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Decal supplier",
+      "Digital printer",
+      "Digital printing service",
+      "Sign shop",
+      "Protective clothing supplier",
+      "Screen printer",
+      "Signwriting service"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "decal_supplier",
+      "digital_printer",
+      "digital_printing_service",
+      "sign_shop",
+      "protective_clothing_supplier",
+      "screen_printer",
+      "signwriter_and_manufacturer"
+    ],
+    "address": "Unit 2 Propeller Way, London, NW4 4BW, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 3167 0400",
+    "website": "http://www.citiprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"High quality print and arrive on time!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbX63StcUJ0coqf9f7cv7F-ZE9UwYEGzZ5YTr0lWzR-otz8_9mHZCwUPCLyz65LwIctLfmidB43fIQePJnvKjT3tFop8IEgF4PGc7MQ7FJltEU3ULFT8gas1xAQR_M0JuyOcyu=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/cDaXTHicHcTRboIwFADQL6rUVAVMfGCmVRAVHM0mL2a7g6ICRXsR4Qf9hv3Nkp2H8_sqEBszt6yyYCOltSqz1mR30DVmNY5AV5ZqDAFDjOVFu_jq8e_PGXtHkAEFfcvd3IaHLUjKXdkd-WpIp8fkTsuP4UA0Ds7JrdbpspPRMuyH2TTsfMAwr84_bxOW-3EWBfVjc0kYCt04PldiEq3A3sa2CErkkslQJI76MuOnFx9OWxq0_R76dtGNKaWk-B9I_QccR0Pz"
+  },
+  {
+    "position": 11,
+    "title": "Fast Print London ( Same Day Express Print And Delivery )",
+    "place_id": "ChIJKfqAyQ4ddkgRtbi3_JJ3Mew",
+    "data_id": "0x48761d0ec980fa29:0xec317792fcb7b8b5",
+    "data_cid": "17019515939998644405",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d0ec980fa29%3A0xec317792fcb7b8b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d0ec980fa29%3A0xec317792fcb7b8b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.519044099999995,
+      "longitude": -0.0628975
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKfqAyQ4ddkgRtbi3_JJ3Mew",
+    "provider_id": "/g/11yg8jky71",
+    "rating": 4.6,
+    "reviews": 21,
+    "type": "Print shop",
+    "types": [
+      "Print shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop"
+    ],
+    "address": "Fast Print, 12 Vallance Rd, London E1 5HR, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 7405 221969",
+    "website": "https://fastprintlondon.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking garage",
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They offer same-day service at an affordable price.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZAwERapwMJaktCRYG4UTQE5X7WiESwltBo5GUNb4JxHKR1hFhezu5TXSlvp6uXjO9hapoU2q0QGojAj1w8uyvMKaEoqPXcdKX83ENMZchqeDZtjaRu23I9uVvLrFazXKEOqOSX0AYzcY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/VqQaIXicHcRBcoIwAADAFyFBxGpnekg1YqWAgNjALcYMKVISTEIqj-y9v-lM97C_P1xrqZ5dt-P-rBGi6ZhR7E5Fr1mvZ1R8uY1UDlWOcuExyW5wX0OLciJtfCA3vcmrcFGeMhTgp49PVNhOv4ogLJPL4vC9j3KP7zibTHDCRTfKpcFtuuZEinI-gCwULWw9uzKPMY4IEsMR02uEVz5K4prygW1r3ZLczP23tTmP7_cdmXCE0iEtMIDVRKsX6wEAHP4_dfo_f61Hqg"
+  },
+  {
+    "position": 13,
+    "title": "CapitalPrint",
+    "place_id": "ChIJEYAxn90ddkgR1RoC0QCSetQ",
+    "data_id": "0x48761ddd9f318011:0xd47a9200d1021ad5",
+    "data_cid": "15310710415403653845",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ddd9f318011%3A0xd47a9200d1021ad5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761ddd9f318011%3A0xd47a9200d1021ad5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5107876,
+      "longitude": -0.13308409999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEYAxn90ddkgR1RoC0QCSetQ",
+    "provider_id": "/g/11pzk7b5dw",
+    "rating": 4.5,
+    "reviews": 15,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner store",
+      "Blueprint service",
+      "Digital printer",
+      "Digital printing service",
+      "Invitation printing service",
+      "Print shop",
+      "Screen printer",
+      "Sign shop",
+      "Signwriting service"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "blueprint_service",
+      "digital_printer",
+      "digital_printing_service",
+      "invitation_printing_service",
+      "print_shop",
+      "screen_printer",
+      "sign_shop",
+      "signwriter_and_manufacturer"
+    ],
+    "address": "Trocadero Centre 7-14, London, W1D 7DH, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 20 7088 8019",
+    "website": "https://capitalprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": false
+    },
+    "user_review": "\"Good service, great quality, and super quick turnaround.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFhQ8TNk1IO8S03a4uXrBPUzlBRcAQNvsekpAhBw8pr0VP7wJMrZ8ect1V-DvZ77Qtx_iJQKaRoPLxOqr5vwcYMqkpE1KTfEqZT7EDBjEUUfjLIUXvP4Q2Wh35Hjd8ep9Rea9kSZRw-sX9u=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kCzbvnicHcTNboMgAADgJ6LibCMu6UFTl_XPgtXOeVkMo1KxgoDS9CV33tss2Xf4fn-4tcq8el7Pg0UrZduzyTBN5WDZYBdU3r1WGUANMF6MMyLiN05QkQl_e0JnGDTLqdIJLp99ktOYZLNhQsU8cUhpeMGh2x11jRi1_gVs5joMiX183XZk3-QSHx6nUa9mRz-Po1Cpvy-u6VgXYbpJurQsr91hW1YzXpKXDx6s3rtvxFSUsyYS5zp3wFTRtHY-hBDw_ykY_gB4BEcB"
+  },
+  {
+    "position": 18,
+    "title": "London Digital Printing",
+    "place_id": "ChIJ3WXYpVEbdkgRnuwC9bsoaTo",
+    "data_id": "0x48761b51a5d865dd:0x3a6928bbf502ec9e",
+    "data_cid": "4208940114489044126",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b51a5d865dd%3A0x3a6928bbf502ec9e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b51a5d865dd%3A0x3a6928bbf502ec9e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.522796,
+      "longitude": -0.111472
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3WXYpVEbdkgRnuwC9bsoaTo",
+    "provider_id": "/g/11b5wtkrxh",
+    "rating": 3.7,
+    "reviews": 3,
+    "type": "Digital printer",
+    "types": [
+      "Digital printer"
+    ],
+    "type_id": "digital_printer",
+    "type_ids": [
+      "digital_printer"
+    ],
+    "address": "12 Rosebery Ave, London, EC1R 4TD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–6 PM"
+    },
+    "phone": "+44 20 7336 0880",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyOG822tr7lHc0v66IRLBYqmEfdEjDVtMrpQtgPFtS9UEO6VBqICugdbou84e2auZhDE-sewzSoZyWAGDUIT_fKfeBIk4CHoc0Gr56Me4lLe-ZuzPoDjaoeReAYWfRW0qT8N4g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/p4K5l3icHcRLDoIwFADAE1UqIqKJCxBE4g_xQ2BjsD5KFHlAW41c0DN4GxNnMd9PIWUtJppWFoMeR-QlKAEtw0pCJXsMHxqvBWGCCM0ON7u7PX9vfUvXZTsqF4w-TTOIVk7SPLz86t3ck1y39U7ycC7346O3NU9OE8wUv15QWQbomUoL1yMCXt0e03ds--4xOJzzZQ5OcDdmC2TUb4fmGoxyBSRVXYjuLUOIwE7iPIppc7A2Bp---pRSUvxnpPoBPFpEUg"
+  },
+  {
+    "position": 19,
+    "title": "London Print Room",
+    "place_id": "ChIJAQAw4gAFdkgRXBXBsLzp16E",
+    "data_id": "0x48760500e2300001:0xa1d7e9bcb0c1155c",
+    "data_cid": "11662046756727756124",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760500e2300001%3A0xa1d7e9bcb0c1155c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760500e2300001%3A0xa1d7e9bcb0c1155c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.4753839,
+      "longitude": -0.14475949999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQAw4gAFdkgRXBXBsLzp16E",
+    "provider_id": "/g/11f40pg9cj",
+    "rating": 4.9,
+    "reviews": 143,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Digital printing service"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "digital_printing_service"
+    ],
+    "address": "Unit 59, Spaces Business Centre Ingate Place, Nine Elms, London SW8 3NS, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 AM–6 PM"
+    },
+    "phone": "+44 20 3375 6251",
+    "website": "http://www.londonprintroom.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"Incredibly helpful every time, great quality prints and super fast delivery.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFatx50-e2ehck_ICg6qzLwABtYqLGEnWdgo_Pp8orMAn7orXBR-pXh6II0HtVjmC_FNISGHL6GOo3B54jTbupGTG2FB9hO3NN7jk_YV9TRFPoH-YOyjlGp5o5j9Xp1aoltgZgwUg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UUK-HHicHcRRboIwGADgE1WqDJQlPoCRQoKAigh7IVqbNgX7V1rDthvuCLuNid_D9_8nrNXm03EG4c44AB_Y07CRgrJM2RmFu8O1QdQg44Rlvu_D-GK_PYzYggnad-mG-4_fbAoj2z4yslXnG4eu1CsYd6FawthEB6Qb4acpTmwt75suztMjSTKfFOBG3oesrk9NKrKIo0AUbp4vZd-1dVAd4hIS1BY_ciDaA08GjZ5fYLD8i08nvp7mGGMk3lOkXr3JRMY"
+  },
+  {
+    "position": 4,
+    "title": "Azo Print Ltd",
+    "place_id": "ChIJKeFUPjUbdkgRh9on5v964o0",
+    "data_id": "0x48761b353e54e129:0x8de27affe627da87",
+    "data_cid": "10223869343581067911",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b353e54e129%3A0x8de27affe627da87&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b353e54e129%3A0x8de27affe627da87&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.516122499999994,
+      "longitude": -0.1191255
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKeFUPjUbdkgRh9on5v964o0",
+    "provider_id": "/g/1tctr46y",
+    "rating": 4.8,
+    "reviews": 1239,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Bookbinder",
+      "Digital printer",
+      "Digital printing service",
+      "Pen store",
+      "Photography shop",
+      "Printing shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "bookbinder",
+      "digital_printer",
+      "digital_printing_service",
+      "pen_store",
+      "photo_shop",
+      "print_shop"
+    ],
+    "address": "44 Kingsway, London, WC2B 6EL",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 am",
+    "hours": "Closed · Opens 9 am",
+    "operating_hours": {
+      "tuesday": "9 am–6 pm",
+      "wednesday": "9 am–6 pm",
+      "thursday": "9 am–6 pm",
+      "friday": "9 am–6 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 am–6 pm"
+    },
+    "phone": "020 7831 7010",
+    "website": "http://www.azoprint.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "on_site_services": true
+    },
+    "user_review": "\"The quality of the print jobs were excellent and the price competitive.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEP6G5uDAnajEeOrcyA2J3DPegXcdVXu32FWeEBmCPtH-kJA7uqZwME2ptB5JHQh3QuyXPFgXW3Bm8H9o3Jg6g7O7AjAIkJt8K8AGI0LgKWRnh_OLxtZQaXlKwplvkTyahUM0BYxg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Th4L93icHcRRToMwGADgE3VUmg008aFsbKxsUhaVbi-G1OZvBrS4tjKO6BG8jYnfw_f7o70f3VMU9ZoswFroVXDqJq3xyviFtEMEo0PSIRdR_lJ3NOer3TJsqGmvuapucqYxIxuuQMjPdxFIvG1Ung1r7gvUMZqEr8t0zOPRZ0tW1JrUYRZ8C6Ih2ZAWj5YwWEFSJfRK9x3zaZnS3R4foGxORn9Uh7u_1K3oy2nsv7vXudVvR5yd7_A8PWCMkf5fIvMHW-hESA"
+  },
+  {
+    "position": 6,
+    "title": "PRINT BRITANNIA",
+    "place_id": "ChIJvbluOLUcdkgRVYXaRsJF1WQ",
+    "data_id": "0x48761cb5386eb9bd:0x64d545c246da8555",
+    "data_cid": "7265790274546861397",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb5386eb9bd%3A0x64d545c246da8555&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb5386eb9bd%3A0x64d545c246da8555&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.515555,
+      "longitude": -0.0718688
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvbluOLUcdkgRVYXaRsJF1WQ",
+    "provider_id": "/g/11cn0v3_zx",
+    "rating": 4.6,
+    "reviews": 380,
+    "type": "Printing shop",
+    "types": [
+      "Printing shop",
+      "Copy shop",
+      "Custom T-shirt Shop",
+      "Digital printing service",
+      "Embroidery service",
+      "Invitation printing service",
+      "Poster Shop",
+      "Sign shop",
+      "Stationery Shop",
+      "Sticker manufacturer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "copy_shop",
+      "custom_t_shirt_store",
+      "digital_printing_service",
+      "embroidery_service",
+      "invitation_printing_service",
+      "poster_store",
+      "sign_shop",
+      "stationery_store",
+      "sticker_manufacturer"
+    ],
+    "address": "2 Commercial St, London, E1 6LP",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 am",
+    "hours": "Closed · Opens 9 am",
+    "operating_hours": {
+      "tuesday": "9 am–5 pm",
+      "wednesday": "9 am–5 pm",
+      "thursday": "9 am–5 pm",
+      "friday": "9 am–5 pm",
+      "saturday": "9 am–5 pm",
+      "sunday": "Closed",
+      "monday": "9 am–5 pm"
+    },
+    "phone": "020 3441 6673",
+    "website": "http://www.printbritannia.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Delivery",
+          "In-store pick-up",
+          "In-store shopping",
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safe space"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair-accessible toilet"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pick_up": true,
+      "delivery": true
+    },
+    "user_review": "\"High quality printing with speedy service, reasonable price!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFlxYxrLIXtzZXhJb-CRrR8DWyP6gwvAjQX5KP_EaWxVb0n4xwArB8AlJlHqi0CY3SXykcW_Ce-XuHsiPY4mrJEZX2zoSTsFDXw7lvoHn0-yb8Yo8-S9G3Fh0hhelMZNfOzdtJu=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CdxVYHicHcRLcoIwAADQE0VSUYvOuEgRSvEH0pHAhpE0JWpMNAnyuaBn8DbO-Bbv-WDGXPXMsjizB5WUFae1popIYagwAyIvVnXVgGigLRRt4jPyeZu1avWDTZ9jFpbA3amds0i7aFI1d3SK8XgZFd4hbfclFKO2QerLQTzkwe0I3cxOcHcmaeFSgOtAH6NsdFGhl-NhL5Nf7S9w88nvMhAQdKWTSQck02_bZ5Axytf55n_b_5mwnjcfEELA3hMgXqxTRVI"
+  },
+  {
+    "position": 8,
+    "title": "Captain Cyan",
+    "place_id": "ChIJH87QtaMEdkgRW_wr9aTkNSs",
+    "data_id": "0x487604a3b5d0ce1f:0x2b35e4a4f52bfc5b",
+    "data_cid": "3113646114535636059",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487604a3b5d0ce1f%3A0x2b35e4a4f52bfc5b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487604a3b5d0ce1f%3A0x2b35e4a4f52bfc5b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.499623899999996,
+      "longitude": -0.1000766
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH87QtaMEdkgRW_wr9aTkNSs",
+    "provider_id": "/g/1vpfj089",
+    "rating": 4.9,
+    "reviews": 660,
+    "type": "Printing shop",
+    "types": [
+      "Printing shop",
+      "Banner Shop",
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Sign shop",
+      "Sticker manufacturer",
+      "Vinyl sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "sign_shop",
+      "sticker_manufacturer",
+      "vinyl_sign_shop"
+    ],
+    "address": "Arch 6, 164 Southwark Bridge Rd, London, SE1 0DG",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 am",
+    "hours": "Closed · Opens 10 am",
+    "operating_hours": {
+      "tuesday": "10 am–6 pm",
+      "wednesday": "10 am–6 pm",
+      "thursday": "10 am–6 pm",
+      "friday": "10 am–6 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 am–6 pm"
+    },
+    "phone": "020 3005 4495",
+    "website": "https://captaincyan.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Kerbside pickup",
+          "Delivery",
+          "In-store pick-up",
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "kerbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Super fast and helpful staff with reasonable prices for printing\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHjC0PzumlfFS8nPsOqRz7-3uOnetz_JPBOFdhNVfgdaibzrt1muKNMvKRGQg5yB8voS7KOhcjSLZhThvQ-vqCmK_BBrlkKdoFZEEw4ePaPxL8KsJeHHOwaDdfpgoO3Mb4a0hs6Lw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XWjWhXicHcTBDoIgAADQL0JpVrq2DmmZCxPM1qFLM0SoFExQyz_sE_qbtt7hfT_CmEYvbLsSjsWV4hXrNGupkoZJY1FV27zRgGqg7RVJ0scqugeQjF1dlWHmSaLx8zC6wOmwZGa87IiPw0Ikp5IX-e06tmZSdyjZ9-iwTfns7Xu9ylyEBb1n8VkcRZ-C_hnU6OL7bfVAhQrPm80wZSQnr9hDeseiCA_5uigbrrCzv05zKPQ8HpbDBEIIxH8K5A-IdkbV"
+  },
+  {
+    "position": 11,
+    "title": "Silver Image Print & Signs : 24/7 Printing Service in London",
+    "place_id": "ChIJ9yQfms8QdkgRJU6Yfd2m8vA",
+    "data_id": "0x487610cf9a1f24f7:0xf0f2a6dd7d984e25",
+    "data_cid": "17362122983691800101",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487610cf9a1f24f7%3A0xf0f2a6dd7d984e25&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487610cf9a1f24f7%3A0xf0f2a6dd7d984e25&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.589431499999996,
+      "longitude": -0.22182829999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9yQfms8QdkgRJU6Yfd2m8vA",
+    "provider_id": "/g/1td5qrfz",
+    "rating": 4.6,
+    "reviews": 117,
+    "type": "Printing shop",
+    "types": [
+      "Printing shop",
+      "Banner Shop",
+      "Commercial printer",
+      "Digital printer",
+      "Digital printing service",
+      "Invitation printing service",
+      "Poster Shop",
+      "Sign shop",
+      "Signwriting service"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "digital_printer",
+      "digital_printing_service",
+      "invitation_printing_service",
+      "poster_store",
+      "sign_shop",
+      "signwriter_and_manufacturer"
+    ],
+    "address": "163A Brent St, London, NW4 4DH",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "020 3375 6674",
+    "website": "https://www.silverimagelondon.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Kerbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pick-up",
+          "In-store shopping",
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "kerbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"I got my prints with me in less than 3 hours and all done remotely.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF6fkKAIuM-zcIJZubTaUuRG_2cQi_SqBTI5kSaU9yiab_FlYsVxXWpjofhRGTi4cBBfpb-5gQQKUR-sBKQdctmbPfOX9Fg4srp8Cmt7mIAvXP0UB1Pe_G0XZ0tWCD0jcN0LA9mdA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mM6aXXicHcRRToMwGADgE3V0OlSW-NCyQBCdlMHGeCHwA4VBaV2Lut3QI-w2JvsevttfZ4zSa8sau8cFl5KPzaybM8jJNJNZgBQWVxqBRtoi0ZYNxHtqh5AE8we6QvCWz1VSpnPsFw_A-mL3RZPAHnZl6lz6siq88aj3v9lBnWTbxX7Sr4DSVlXI5oyFaYw0DVkNRlRR-5k5Hl_ps3pxhXkWAfnOIpzSZdQUPs5ybA7uBp9gi9-JI2ry-rPEGKPuPqDpHwq1ROI"
+  },
+  {
+    "position": 13,
+    "title": "Adelphi Graphics Ltd - Printers Clerkenwell",
+    "place_id": "ChIJpRBAi0UbdkgRQELRX8MvYg0",
+    "data_id": "0x48761b458b4010a5:0xd622fc35fd14240",
+    "data_cid": "964385786383385152",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b458b4010a5%3A0xd622fc35fd14240&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b458b4010a5%3A0xd622fc35fd14240&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.525754199999994,
+      "longitude": -0.1100529
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpRBAi0UbdkgRQELRX8MvYg0",
+    "provider_id": "/g/1tv23myx",
+    "rating": 4.9,
+    "reviews": 104,
+    "type": "Printing shop",
+    "types": [
+      "Printing shop",
+      "Banner Shop",
+      "Commercial printer",
+      "Custom T-shirt Shop",
+      "Digital printer",
+      "Graphic designer",
+      "Digital printing service",
+      "Promotional products supplier",
+      "Screen printer",
+      "Sign shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "custom_t_shirt_store",
+      "digital_printer",
+      "graphic_designer",
+      "digital_printing_service",
+      "promotional_products_supplier",
+      "screen_printer",
+      "sign_shop"
+    ],
+    "address": "52 Rosebery Ave, London, EC1R 4RP",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 am",
+    "hours": "Closed · Opens 8 am",
+    "operating_hours": {
+      "tuesday": "8 am–6 pm",
+      "wednesday": "8 am–6 pm",
+      "thursday": "8 am–6 pm",
+      "friday": "8 am–6 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 am–6 pm"
+    },
+    "phone": "020 7278 6926",
+    "website": "http://www.adelphigraphics.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"So helpful and quick - will definitely use again!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtnr_SDT-I2cA9CWPlglWeogiNHT9PAulr0OM2u7rGqd12TxKRrxjctbJRxKAsYCuuSFtTH97STzGQ2C-wGGf2KtTpi5CEg0qKmY4VhFHVS6cTqwbWuTtgfT78SBO1SWtavz5H8g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WAIXuXicHcTRTsIwFADQLyrrqjhm4kOdsuoiDHrDwpOROjqgrFt76xb-0E_gb0g4D-f63yB2_jmKTPMw0dZqUwdfO2VbrFucKHuOdOeJ8sRHvFysTlxg677lG5APpniaVaXRpqqtPiwEpCUPxtHlFwuJy_vfmMFYrN14VLj7XI8F99ssBDlHEGki4ZKvWEaGPN-zAqE7TLN3TfvivH3cNHOxkU8K-mFXBUC9h2QmX5exrPDn7zIVM_0yxJRS0txXpL0B441FGw"
+  },
+  {
+    "position": 16,
+    "title": "24 Hour Printing",
+    "place_id": "ChIJf3slt8wCdkgR493w4LwsmAw",
+    "data_id": "0x487602ccb7257b7f:0xc982cbce0f0dde3",
+    "data_cid": "907524514654510563",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487602ccb7257b7f%3A0xc982cbce0f0dde3&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487602ccb7257b7f%3A0xc982cbce0f0dde3&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.511345399999996,
+      "longitude": -0.0147666
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf3slt8wCdkgR493w4LwsmAw",
+    "provider_id": "/g/11b5pj64p4",
+    "rating": 4.5,
+    "reviews": 8,
+    "type": "Printing shop",
+    "types": [
+      "Printing shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop"
+    ],
+    "address": "173 B E India Dock Rd, London, E14 0EA",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "020 3633 2660",
+    "website": "https://24hourprinting.london/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair-accessible car park"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Amazing print, great value and quick.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEVmh3LOFFrD3XC38qPkGoo8Nlv64SlSqih4TibW-POqFRmHb_A_vgZLyaRFLfLYQbjN9ZvV1GiUVNNCnnHlV7NJoS6gjfWlRm2Zou2B85Uwpa6NDiooPfzbzQI6Xj6yr9L_uZ9=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/UusdlnicHcRbjoIwFADQFVVQnAomfjA6-EhTeSg6_BAh0IKlFyhgZIOuwd2YeD7O-8W7rlZLTRPcmDAAJrJeZW0KsstkN0mh0litUKqQ0myXenf7L6y4QY6O026M69owG_e-BTCpGPA8EEFT8PmpSC7IPTaOX-2S2I4HFpHnzXdITv69pKRWNITTbXEOKV1LuRPhgh4gwKzML8KvZhH0s1_z5_yob5huCgA3H5PR2-NriZ-tReI-slaPqa7riH9PkfwAP3hEtg"
+  },
+  {
+    "position": 17,
+    "title": "London Copy Centre Ltd",
+    "place_id": "ChIJg5b8-ksbdkgR34q-JHAiBro",
+    "data_id": "0x48761b4bfafc9683:0xba06227024be8adf",
+    "data_cid": "13404439205963008735",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b4bfafc9683%3A0xba06227024be8adf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b4bfafc9683%3A0xba06227024be8adf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.520341699999996,
+      "longitude": -0.1123344
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg5b8-ksbdkgR34q-JHAiBro",
+    "provider_id": "/g/1vkxlrjm",
+    "rating": 4.7,
+    "reviews": 67,
+    "type": "Digital printing service",
+    "types": [
+      "Digital printing service"
+    ],
+    "type_id": "digital_printing_service",
+    "type_ids": [
+      "digital_printing_service"
+    ],
+    "address": "70 Gray's Inn Rd, London, WC1X 8NH",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 am",
+    "hours": "Closed · Opens 9 am",
+    "operating_hours": {
+      "tuesday": "9 am–5 pm",
+      "wednesday": "9 am–5 pm",
+      "thursday": "9 am–5 pm",
+      "friday": "9 am–5 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 am–5 pm"
+    },
+    "phone": "020 7404 1555",
+    "website": "http://www.londoncopycentre.co.uk/",
+    "user_review": "\"Super fast and efficient, good price\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4DkS-dND0vj5UANbhxJahRhWxOQNZ3Vk-TnfiiJkzladZbVfnzw61hRVNAh0bZdQS79-2Acjft0dcWoiSoKnYJrcCMHp0G0S5A0xdz8fwBn9LS1JgUenkNIMqgu0a4grM-RPwig=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WaoZiXicHcRNcoIwGADQE0U-6k-1My5S7dSipEIKjuwggQSDCSVRGG7oEbxNZ_oW7_mQzrX2zfMaOZ0IY0RT3mzZMaNdqd2EmasnWouYRdbDRxIp_DHbKoo42cL9Mk8wKeQQ5DKWp-E7Itk0VehHV3UdqLHJeVaklR77hS_jlGAJRcYj-rpCL5hdKgecnUxNzV6fg45twl0Ln0DnGAY-Lqv-Xa8O1A9EUmpFvsJfcYN8JroQxce-FuveBwAk_2dI_wHn9kVX"
+  },
+  {
+    "position": 18,
+    "title": "City Images",
+    "place_id": "ChIJxYrLdisFdkgRNHbl4kVaKXk",
+    "data_id": "0x4876052b76cb8ac5:0x79295a45e2e57634",
+    "data_cid": "8730608608840349236",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876052b76cb8ac5%3A0x79295a45e2e57634&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876052b76cb8ac5%3A0x79295a45e2e57634&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.512610699999996,
+      "longitude": -0.1457983
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxYrLdisFdkgRNHbl4kVaKXk",
+    "provider_id": "/g/1td4d0bq",
+    "rating": 4.9,
+    "reviews": 121,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner Shop",
+      "Bookbinder",
+      "Copy shop",
+      "Digital printing service",
+      "Graphic designer",
+      "Printing shop",
+      "Screen printer",
+      "Sign shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "bookbinder",
+      "copy_shop",
+      "digital_printing_service",
+      "graphic_designer",
+      "print_shop",
+      "screen_printer",
+      "sign_shop"
+    ],
+    "address": "8 Avery Row, London, W1K 4AL",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 am",
+    "hours": "Closed · Opens 9 am",
+    "operating_hours": {
+      "tuesday": "9 am–6 pm",
+      "wednesday": "9 am–6 pm",
+      "thursday": "9 am–6 pm",
+      "friday": "9 am–6 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 am–6 pm"
+    },
+    "phone": "020 7495 0421",
+    "website": "https://www.cityimages.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "On-site services"
+        ]
+      }
+    ],
+    "service_options": {
+      "on_site_services": true
+    },
+    "user_review": "\"Excellent service, quality printing and very quick turn around.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEWHJ9pRNGYhQI_9tn1zpdP9K9MBQKVOc7VJxhikWQNpc486buSJkkKWBgIC8w8ptcEKhQ9akAa5PMI0OPneksTp70WEFZv25z5lBuZ3bpl0gNoNyVhm7uLKjp0ClsejevKppRm=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZxRVcXicHcTdboIwGADQJ0LqD4Oa7AIMbtBZqRqI3hjtmna2tF9s0c0X9Bn2Nkt2Ls7vU4UAfh7HRk1H0jlpxODFlTsbhA0j7vpYgo-4j3ycN5TpvOzeawwb-rZXrDriYMcP-GwwwauCkXbN07b-Vl-6YxT4LHs5D9taa9IVslpk9wwCL4li-KTzU9KsKrRurNB-BynqyuXhNkkeiSmGw_QMBknq6E-r-nT4IBdAC-PFRdwIwKZ_vY8RQpH6n0f2Dx61RK4"
+  },
+  {
+    "position": 20,
+    "title": "Kall Kwik Fleet St & The City",
+    "place_id": "ChIJ_x-gYLMEdkgRXLSE91IY5W8",
+    "data_id": "0x487604b360a01fff:0x6fe51852f784b45c",
+    "data_cid": "8062877452495795292",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487604b360a01fff%3A0x6fe51852f784b45c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487604b360a01fff%3A0x6fe51852f784b45c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.51367,
+      "longitude": -0.1110616
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_x-gYLMEdkgRXLSE91IY5W8",
+    "provider_id": "/g/1tg_l2y_",
+    "rating": 4.9,
+    "reviews": 131,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Banner Shop",
+      "Custom T-shirt Shop",
+      "Digital printing service",
+      "Display stand manufacturer",
+      "Graphic designer",
+      "Poster Shop",
+      "Printing shop",
+      "Promotional products supplier",
+      "Sign shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "banner_store",
+      "custom_t_shirt_store",
+      "digital_printing_service",
+      "display_stand_manufacturer",
+      "graphic_designer",
+      "poster_store",
+      "print_shop",
+      "promotional_products_supplier",
+      "sign_shop"
+    ],
+    "address": "14 Fleet St, Temple, London, EC4Y 1AU",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 am",
+    "hours": "Closed · Opens 9 am",
+    "operating_hours": {
+      "tuesday": "9 am–6 pm",
+      "wednesday": "9 am–6 pm",
+      "thursday": "9 am–6 pm",
+      "friday": "9 am–6 pm",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 am–6 pm"
+    },
+    "phone": "020 7583 5207",
+    "website": "http://www.kallkwik.co.uk/fleetstreet",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments",
+          "On-site services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair-accessible entrance",
+          "Wheelchair-accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral toilets"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safe space"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "on_site_services": true
+    },
+    "user_review": "\"The printing was excellent quality and staff were very friendly.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEI_CJU9OIveNsffG9WW95vCMV-wpMKfkhGHuOxnFLKI5hfaYDxeErchcpRfaJIDDAfmxs6xNAu2YXsaV_7PB6xkHXQzK-WkiW48tzts3Cia5BbGO4615JTNN4Nj8PuY5qG8NJxRw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/R1hpxXicHcRREoFAGADgE61CmzLjIUUqthikJ5Od3Zao-DftdENHcBszvofv-xFSNjDVtLsYD4q6Lu6sBfaidSVZJQe0fmhFA4gCAs1JyLZ0FsHZDQ92HLwZAc59O01t_HY3R9Q1m4iXwl-1saqW6yjAgueZp9jiRQVtdjwPA89z-EOBqYjTjrIT5MfzJJmbqlydtn2E0vKaGpbsJYzda47nFz82zCEO94QY5GYlbYafvkVCtetm3VDXdST-U1T9ANj4RK0"
+  },
+  {
+    "position": 7,
+    "title": "Digital Fusion",
+    "place_id": "ChIJZyGRYiwbdkgRGlkEqck2y14",
+    "data_id": "0x48761b2c62912167:0x5ecb36c9a904591a",
+    "data_cid": "6830613499589450010",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b2c62912167%3A0x5ecb36c9a904591a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b2c62912167%3A0x5ecb36c9a904591a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5183603,
+      "longitude": -0.1331925
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZyGRYiwbdkgRGlkEqck2y14",
+    "provider_id": "/g/1tkrl8pg",
+    "rating": 4.9,
+    "reviews": 280,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Design agency",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "design_agency",
+      "print_shop"
+    ],
+    "address": "12 Percy St, London, W1T 1DW, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–5 PM"
+    },
+    "phone": "+44 20 7580 2714",
+    "website": "http://www.digitalfusion.online/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true,
+      "online_appointments": false
+    },
+    "user_review": "\"The staff were extremely helpful, and the printing quality was excellent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnIPBEWQMA8TGURIGUAu_HGgDs_GYB941zZb4sViVnNI3j2QbJ4sAdc8OcGVaOUC4X80cY0l_U3wl4iEKg5FqE9TBmBPvk_WpiAxcHKIdUM8rTIGZ7Sw2LVILF6Sbx8t7Bcxo4Sw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fIIJI3icHcRNcoIwGADQEyFRYo2d6SKxGFP_oBCsbpjyyQQqJtTEwnjDHsHbOONbvPt_5VxrX32_qYKBMkY15dWWFzDaldoNwJx91VoPrGd9Gm3iE-VaRCzcxWtKUi4_BZf0mi-4erc537MpHt4OBbZZnemNCH5GcfGBLT0C2QLPvrdyhr8Igj1qchl0Da7DpRrPf8Npys4s-jvlu7amPSyW4ijX5JIKfpgk3WiVidX8JSl64iYMeoOT7q0bIoS86jl4-gES4kMv"
+  },
+  {
+    "position": 11,
+    "title": "Same Day Printing London | Banners & T-Shirts",
+    "place_id": "ChIJIbjg6aAddkgRB3nsJy02L2Q",
+    "data_id": "0x48761da0e9e0b821:0x642f362d27ec7907",
+    "data_cid": "7219048295269431559",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761da0e9e0b821%3A0x642f362d27ec7907&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761da0e9e0b821%3A0x642f362d27ec7907&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.518536399999995,
+      "longitude": -0.0689398
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIbjg6aAddkgRB3nsJy02L2Q",
+    "provider_id": "/g/11z5dxy43_",
+    "rating": 5,
+    "reviews": 19,
+    "type": "Print shop",
+    "types": [
+      "Print shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop"
+    ],
+    "address": "18 Spelman St, London, E1 5LQ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "phone": "+44 7405 642644",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery"
+        ]
+      }
+    ],
+    "service_options": {
+      "delivery": true
+    },
+    "user_review": "\"Print Quality = 10/10\nCustomer Service = 10/10\nDelivery (Super Fast) 👍🏻👍🏻👍🏻\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHYS_7vNtpr4aff4jcGYGW6QBRw1Ugfcbr5c7-pRGF3jwsthqNUmTG_aZ4At1TBVluecoHtmD0A19jIQneSNpz7ubnVMev7vam06E_-Zm4UjE1zXuHJZQ_hySGt3E5IF_Tb5bxPE2UxZTsR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pJVainicHcTbToMwGADgJ-poBUY08YJFVmYiGafpuGmgKTRID9IfmHtJr30bE7-L7_dHAlj35HmT9HeDMcMkFidmbjQIDTtulDdYh7hDzovPWf4Zp9eSRWsGdg7avg9GTq_0fZ8fio3UQ8-7OeQRsgU9-uPmQH5ltaooa5sgBlIdLtMiuElBveCYPI6nXIsys_do6fTlTazR2iq8TxhqVFCPCbl_LOlrkzP5XVLwk_B0ZFUXdrdz8lDfmsoVzxvBGCP5P0f6D8MCR4s"
+  },
+  {
+    "position": 8,
+    "title": "Business Card Printing London | PrintCards",
+    "place_id": "ChIJ77IYJgAddkgRI5gUt2_I6ow",
+    "data_id": "0x48761d002618b2ef:0x8ceac86fb7149823",
+    "data_cid": "10154148691998709795",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d002618b2ef%3A0x8ceac86fb7149823&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d002618b2ef%3A0x8ceac86fb7149823&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.524756599999996,
+      "longitude": -0.0776198
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ77IYJgAddkgRI5gUt2_I6ow",
+    "provider_id": "/g/11z5t53vzz",
+    "unclaimed_listing": true,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer"
+    ],
+    "address": "168 Shoreditch High St, London, E1 6RA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours"
+    },
+    "website": "https://www.printcards.com.hk/uk-business-card-printing",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7HQeypak5wK_ZWP2mQmYOA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=260.4088&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/a7OR53icHc1LDsIgFADA27ATaOOnmhDjzsSFdmV001D6CkQoLwWLPY3n8jYaLzDzeZuUMO4Yi2kESJOFjPYFLi5QUh2CdiDRRqqCZ1PBknn6dpDW7VEOwXZic6xhRvlY5VNzv15KX_vb-UBU2yhnYUgighyVoTr_xDF0VGMkWVScGLEtySyzKNecLnlVEbRJGcHJP-nDJArOv0VyOVo"
+  },
+  {
+    "position": 17,
+    "title": "City Printing Ltd",
+    "place_id": "ChIJKwFGQJ8bdkgRJgZn-o9lb_A",
+    "data_id": "0x48761b9f4046012b:0xf06f658ffa670626",
+    "data_cid": "17325177960573371942",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b9f4046012b%3A0xf06f658ffa670626&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761b9f4046012b%3A0xf06f658ffa670626&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.550299499999994,
+      "longitude": -0.1151271
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKwFGQJ8bdkgRJgZn-o9lb_A",
+    "provider_id": "/g/1tvgttvt",
+    "rating": 4.7,
+    "reviews": 115,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Graphic designer",
+      "Invitation printing service"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "graphic_designer",
+      "invitation_printing_service"
+    ],
+    "address": "City Printing, Eden Grove, London N7 8EL, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+      "tuesday": "9:30 AM–5:30 PM",
+      "wednesday": "9:30 AM–5:30 PM",
+      "thursday": "9:30 AM–5:30 PM",
+      "friday": "9:30 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9:30 AM–5:30 PM"
+    },
+    "phone": "+44 20 7281 5867",
+    "website": "https://www.cityprintingltd.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "user_review": "\"The service, price, quality and speed of printing were all exceptional.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFwOmtraiT5OI29IHeTYGfjSzFcagrmHFBo1G_dhTtTThEX9O_cJT0WhyhnLMsoXrc3YAWAa147hqMKbc63J_CrHHQLBlHfveSIlSJTeFANq_8FfcVA254JDMbNxIhcy_lkz28y=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/d_O7z3icHcRbcoIwFADQFSEvbbUzfsRHDFRAh4yPrwzeBm5rIJqkKm6wa-huOtPzcX5_0LmLffN9hfGg0bpR8ttKA7pzsnMD0K3fXKwH1rM-2eTbM6H3onWm-uSjIokmCZP8uKq_yieFqjEtozMdrsQHcsc5Lg-TQkDKgz322K0zqw8G4iPZkyocvuI1ez_BS5yKuWFsu54pVt9kmagy5ZKS_CrGtIYdiUbDdJGd8keC0At1fkbjfnoPgyDw8H_wuj9na0R1"
+  },
+  {
+    "position": 20,
+    "title": "Exact Print",
+    "place_id": "ChIJoWz5dZ4EdkgRRfFBZHHW8sQ",
+    "data_id": "0x4876049e75f96ca1:0xc4f2d6716441f145",
+    "data_cid": "14191641158299545925",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876049e75f96ca1%3A0xc4f2d6716441f145&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876049e75f96ca1%3A0xc4f2d6716441f145&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.489898399999994,
+      "longitude": -0.0982272
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoWz5dZ4EdkgRRfFBZHHW8sQ",
+    "provider_id": "/g/1tht0yb4",
+    "rating": 4.7,
+    "reviews": 316,
+    "type": "Commercial printer",
+    "types": [
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Embroidery shop",
+      "Internet shop",
+      "Mailbox rental service",
+      "Passport photo processor",
+      "Photo shop",
+      "Poster store",
+      "Print shop"
+    ],
+    "type_id": "commercial_printer",
+    "type_ids": [
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "embroidery_shop",
+      "internet_shop",
+      "mailbox_rental_service",
+      "passport_photo_processor",
+      "photo_shop",
+      "poster_store",
+      "print_shop"
+    ],
+    "address": "177 Robert Dashwood Way, London, SE17 3PZ, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–8 PM"
+    },
+    "phone": "+44 20 7701 2515",
+    "website": "https://exactprint.co.uk/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "service_options": {
+      "online_appointments": true,
+      "onsite_services": true
+    },
+    "user_review": "\"The print came out clean and exactly as requested.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtRqvI5eLyKZQswSVs_yysnbQAX_G4tm_zRpaAXShaR1KDEQIxEL3m1ANHVDMINGyDooSPV9PeFZixBTUnxYK6xQq54X6L_HiifVQTWOdyGsCOzBm-j8EST0dS1KMVHoN-dMhk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oVJ1BHicHcTbboIwGADgJ6pAPGRb4kUdCISDlGJFb4iDjjKlRf-q1BfcM-xtlvhdfH-_QusBPizrLKaTVqn2zG_Ar7WSmks9qVVvtQOgGhBYOEvJCXs6v9zDOY9NdCDwoAwqY0B-EVxW_kz31TMfjrik4pg7keuRcPTiae_gNGBuEqa-cZWiGXvP-PrQjatiK8d9tBjJZT4rF3EVdN03I8Vu0xgfPjfPVY9-3jxa2A11ooQFKkVNIk7Lh2PbNhKvayT_Aa6CRL0"
+  },
+  {
+    "position": 6,
+    "title": "PRINT LAB",
+    "place_id": "ChIJrx0GdXUDdkgRmRF7QebOSvI",
+    "data_id": "0x4876037575061daf:0xf24acee6417b1199",
+    "data_cid": "17458994393791533465",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876037575061daf%3A0xf24acee6417b1199&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876037575061daf%3A0xf24acee6417b1199&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5146095,
+      "longitude": -0.0613048
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrx0GdXUDdkgRmRF7QebOSvI",
+    "provider_id": "/g/11sbp2plcp",
+    "rating": 4.9,
+    "reviews": 174,
+    "type": "Print shop",
+    "types": [
+      "Print shop"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop"
+    ],
+    "address": "172 Commercial Rd, London, E1 2JY, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "11 AM–5 PM",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM"
+    },
+    "phone": "+44 7411 284290",
+    "website": "https://weareprintlab.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Came in here last minute for a print and they served me writhing 5 minutes!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEecVFpDJCcK62cXZOKt0ewxXM3FXE4zB8bEuGN3HSts2x6yRr9yQjHI0fNLnd58PAKCDMOlBU4WzB5v76BN6Dt8XcsN64b3ueDvi0p0j4-9c-CMyEhyGBD66brVU5xrMZUNa263I9Br_ul=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/E63ZSnicHcTdboIwGADQJ6pUChVMvKAUf8aougVHvDHyWUHHgLRFwZf0em9j4rk4_8_SmFZPLasqyahomqKSnZYKmtrI2oyg-bOKViPQSFvBRmx_g0jCbt7yjxBiakO2X8cGy3ufJWSeRc6DeXnULQRZfhtt93T4Uv6wvS5X-Cw-65PrbYI45Mm6Yqnz82DubUKZoNx4GWhBnZx0kt8uuMVXB_mAwmSIymHBOKW52qVur5J9Ko42JSufqUNXze5jjDEq3wOqX76TRJk"
+  },
+  {
+    "position": 10,
+    "title": "Moorgate Print by Atlantis Print",
+    "place_id": "ChIJ9zkJSc4ddkgRhd1li9BxG4U",
+    "data_id": "0x48761dce490939f7:0x851b71d08b65dd85",
+    "data_cid": "9591384971921448325",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761dce490939f7%3A0x851b71d08b65dd85&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761dce490939f7%3A0x851b71d08b65dd85&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5177613,
+      "longitude": -0.0886773
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9zkJSc4ddkgRhd1li9BxG4U",
+    "provider_id": "/g/11y6q4r_4f",
+    "rating": 5,
+    "reviews": 510,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Invitation printing service",
+      "Lamination service",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "invitation_printing_service",
+      "lamination_service",
+      "poster_store"
+    ],
+    "address": "87 Moorgate, London, EC2M 6SA, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "+44 20 4600 3818",
+    "website": "https://www.atlantisprint.co.uk/moorgate-print?utm_source=google&utm_medium=gbp&utm_campaign=moorgate",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Absolutely great print centre - very kind, attentive and professional team.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwAcWI6jdVgC61pX6rjyTVIFT3p7cG-N7vg2KIXi0fEak14xdJT266zSS5s8h6rV7Hx-piw2qC6rtq_y1tzMUsIUrOEZJdtyS8VcSi35tXoHLUkXeolKR0eBvZCMc6tLGYVYHwHS6WKfJE=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mIbyjXicHcTbboIwGADgJ6oUmD9myS4YQTmoOxQqemOWUgvCaG07EV9y177Nkn0X3-O3sVaZZ8fpG38mpBQ9_zFcMzlYPtgZk9-OUAYxg4wTvm8_ujAeQ7ZL4VxTEYGrKtDnqaDpsvBVwFZoG1yFl6dVi0_xV-c-3eqs8ADuhMzNogFNg-SGVDt6lwi0vRwn1943pUlL_RYfstpOZEEZaf25rWSyLruKyz7_xPz1eog2DOx6taf7ZEwI7PJTFr-MLsYYNf8zNPwBQGRGlw"
+  },
+  {
+    "position": 12,
+    "title": "ADANA Print Farringdon",
+    "place_id": "ChIJQ7tbtggFdkgRXqq35E1OH_E",
+    "data_id": "0x48760508b65bbb43:0xf11f4e4de4b7aa5e",
+    "data_cid": "17374691983875353182",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48760508b65bbb43%3A0xf11f4e4de4b7aa5e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48760508b65bbb43%3A0xf11f4e4de4b7aa5e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.515127199999995,
+      "longitude": -0.1043518
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7tbtggFdkgRXqq35E1OH_E",
+    "provider_id": "/g/11lnzjdgqg",
+    "rating": 5,
+    "reviews": 694,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Bookbinder",
+      "Commercial printer",
+      "Copy shop",
+      "Design agency",
+      "Passport photo processor",
+      "Photo booth",
+      "Screen printing shop",
+      "Sign shop",
+      "Website designer"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "bookbinder",
+      "commercial_printer",
+      "copy_shop",
+      "design_agency",
+      "passport_photo_processor",
+      "photo_booth",
+      "screen_printing_shop",
+      "sign_shop",
+      "website_designer"
+    ],
+    "address": "14 Farringdon St, London, EC4A 4AB, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "8 AM–6 PM"
+    },
+    "phone": "+44 20 7837 6353",
+    "website": "https://adanaprint.co.uk/same-day-printers-farringdon-london-ec1/",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"They printed my document quickly and the quality was excellent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgPFbEKDLOft84lw7Y6PUqg_qVEtSe27vEtWj02WKNZWE37q-OfFauRjsgAJk0GKkatqyYwp-8ilNUtu7OoNKDrQARPREou6pGniFS1SmFX982anSATdgVyfbcccts41KAIdV243RhDl0J=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8jxsVnicHcTdboIwGADQJ6qUnwgz2UUTCpldAGHC2M2CFYpSW7AfEp_Sa9_GxHNxno8eYDQby5K9uxJaC9nOpr1yraBVsOL6YonRIG6QsUiW7AYSiyw6UBZ-px0Enlz8ep3tJ_E_lRSK1vFvFKozdiqW_FXU9SeUdlEz52cjyHbAMRsamO71MqLgJJM9zH6qExZedyTPcqrn9RirU1TYxSX6_QicRhXk5yjKe3fgnIPxbEa-jqXjuXkfSrz9XGyMMerfc6RebT1Glg"
+  },
+  {
+    "position": 17,
+    "title": "Aldgate Print by Atlantis Print",
+    "place_id": "ChIJbxWiAwEDdkgReLlF0kM_YWQ",
+    "data_id": "0x4876030103a2156f:0x64613f43d245b978",
+    "data_cid": "7233132037056870776",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4876030103a2156f%3A0x64613f43d245b978&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4876030103a2156f%3A0x64613f43d245b978&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.513404099999995,
+      "longitude": -0.07610009999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbxWiAwEDdkgReLlF0kM_YWQ",
+    "provider_id": "/g/11h8j6qgvy",
+    "rating": 5,
+    "reviews": 167,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Invitation printing service",
+      "Lamination service",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "invitation_printing_service",
+      "lamination_service",
+      "poster_store"
+    ],
+    "address": "155 Minories, London, EC3N 1AD, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "10 AM–3 PM",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "+44 20 7846 2320",
+    "website": "https://www.atlantisprint.co.uk/aldgate-print?utm_source=google&utm_medium=gbp&utm_campaign=aldgate",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Super fast and helpful, good price for printing in the city.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlWR3X5h1jMs5PYudDT9TLC4ff2Esl0l2CADLhTi6cGwClZMhFTU2RIO0tpecepfKJtsAJ5R-paFdWOYjBiLS6t2YjkHhpwiovliakzzh4Cx2r2vc-r0peN6UW3DhQL2AFOqRa=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MpROVHicHcRLDoIwFADAE1VqERJNXFQQfyiKGMQdqYUHVFppFeMFPYO3MXEW8_2AMUpPLEuAPSilLAV_aN4x2RremgGTN6tUGjGNtEX3u0NDFyKN7bMDw3qrnX32uPrJOAm9UVGQuRZYEI_6ISSVyxa9Jy5bCJITiVcRNoozrorN2mi6dmKk8uCaRlk9q8Kja0hWN0tQfSWfosqb9xtG3ot05MlQhxXfuafU9uEQEhpE9zif9kOMMYL_DLU_EDtELw"
+  },
+  {
+    "position": 19,
+    "title": "Shoreditch Print",
+    "place_id": "ChIJH6Wa7S0ddkgR8joxAdaDmsI",
+    "data_id": "0x48761d2ded9aa51f:0xc29a83d601313af2",
+    "data_cid": "14022665344937704178",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d2ded9aa51f%3A0xc29a83d601313af2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x48761d2ded9aa51f%3A0xc29a83d601313af2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5283509,
+      "longitude": -0.0759793
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH6Wa7S0ddkgR8joxAdaDmsI",
+    "provider_id": "/g/11l2cwhz2f",
+    "rating": 4.9,
+    "reviews": 43,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Commercial printer",
+      "Photo shop",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "commercial_printer",
+      "photo_shop",
+      "poster_store"
+    ],
+    "address": "Ground Floor, 59 Hackney Rd, London E2 7NX, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "10 AM–7 PM"
+    },
+    "phone": "+44 20 7127 6505",
+    "website": "https://shoreditchprint.co.uk/",
+    "extensions": [
+      {
+        "service_options": [
+          "Online appointments",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Quick visit"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "in_store_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"My prints were ready in no time, and the quality was perfect.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZke8z2pHCEGvXquWa9lQ0E7Rr92TivfYUu082IG2XX6xLCzkkMZt4lrhTNHW4oG7LK2Xs8i4HM_UKEGxWAegKv95uHRqRqFjRMrMSJkGUYBVR9wK7l2O2aqQn9Bfk-F32AkhY0EKOg0Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/EcQbe3icHcTBboIwAADQL6p0lQ26xAMaKFtFpcoAL4shtXXtKNCCxo_0vr8x2Tu8v4d0rrPvnqflfCaMEZqPlg-NaR1v3awxv57oLGgssF602-QqSo6Kh3fUpauYTFU_liescxgHbMDocJnOdTHCEH0QVFVvt_XqrlR2dL4e5GGTlr4hwZqiyoYXP82-CxqTWxlxQSf8OqasZ33yw7Ih238qUtTLL4avNNBoi0593uLlWYFkjiIlaxjTrYD54voCIQTy_wa0T9YWRQM"
+  },
+  {
+    "position": 20,
+    "title": "Fleet Street Print by Atlantis Print",
+    "place_id": "ChIJ-9SBklAFdkgRdqDv5JgL_Kw",
+    "data_id": "0x487605509281d4fb:0xacfc0b98e4efa076",
+    "data_cid": "12464850619958534262",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487605509281d4fb%3A0xacfc0b98e4efa076&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487605509281d4fb%3A0xacfc0b98e4efa076&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5136827,
+      "longitude": -0.10482029999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-9SBklAFdkgRdqDv5JgL_Kw",
+    "provider_id": "/g/11h8csfhvr",
+    "rating": 5,
+    "reviews": 24,
+    "type": "Print shop",
+    "types": [
+      "Print shop",
+      "Banner store",
+      "Commercial printer",
+      "Copy shop",
+      "Digital printer",
+      "Digital printing service",
+      "Graphic designer",
+      "Invitation printing service",
+      "Lamination service",
+      "Poster store"
+    ],
+    "type_id": "print_shop",
+    "type_ids": [
+      "print_shop",
+      "banner_store",
+      "commercial_printer",
+      "copy_shop",
+      "digital_printer",
+      "digital_printing_service",
+      "graphic_designer",
+      "invitation_printing_service",
+      "lamination_service",
+      "poster_store"
+    ],
+    "address": "Unit B, 3 Bride Ln, London EC4Y 8DU, United Kingdom",
+    "country": "United Kingdom",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "9 AM–6 PM"
+    },
+    "phone": "+44 20 7846 2326",
+    "website": "https://www.atlantisprint.co.uk/fleet-street-print?utm_source=google&utm_medium=gbp&utm_campaign=fleet_street",
+    "extensions": [
+      {
+        "service_options": [
+          "Curbside pickup",
+          "Delivery",
+          "In-store pickup",
+          "In-store shopping",
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "recycling": [
+          "Electronics"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking garage",
+          "Paid parking lot",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "service_options": [
+          "Online appointments"
+        ]
+      },
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "service_options": {
+      "in_store_shopping": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "user_review": "\"Speedy service and high quality- thanks!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIzeP3UwZNgh--ahD64BGXAA6B9OL4OiqqB6u8zzjFoipDOn2Epr6cbomI5Sygg7AxvmPnLYILFT6L6G6E9Zq9TGo_wzVlOXZ2CHaOGucpBqn3SJJp06w_1emwo1mEZEIbRYUc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/w63QlHicHcTbDsEwAADQL6ptRpnEQ8c2k0XnMmEvQtO0WC_TTdkP-gZ_I3EezvfDm0abieNU3O8xpVhFW0MfRMmGyqZHlHCYNoAYYByUr9Z3FKcdzf3ClivGATjzORyEyQEhGAY4G-BrXYewHXfdLVZXPceyH-kHJBcl0uH2zdgIvZ4il9kxzeIdzGACo6Csg12iTrbbV_hQ9meLM05aosNa-tvlUrvQnjwqrPJEVEbpZXMsyNR6rusC_p8A-QP6G0PT"
+  }
+]
