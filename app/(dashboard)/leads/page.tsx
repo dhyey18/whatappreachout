@@ -79,7 +79,7 @@ const STATUS_CONFIG: Record<string, { label: string; color: 'default' | 'seconda
   skipped: { label: 'Skipped', color: 'outline', emoji: '⏭️' },
 }
 
-const CITIES = ['ahmedabad', 'surat', 'vadodara', 'houston', 'london']
+const CITIES = ['ahmedabad', 'surat', 'vadodara', 'rajkot', 'houston', 'london']
 const INDUSTRIES = [
   'automobile', 'beauty', 'ca', 'clinic', 'clothing', 'dental', 'diagnostic',
   'education', 'electronics', 'events', 'financial', 'fitness', 'hospital',

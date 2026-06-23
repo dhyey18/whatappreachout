@@ -8,6 +8,7 @@ const CITY_COUNTRY_CODE: Record<string, string> = {
   ahmedabad: '91',
   surat: '91',
   vadodara: '91',
+  rajkot: '91',
   houston: '1',
   london: '44',
 }
